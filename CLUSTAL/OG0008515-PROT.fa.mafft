@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BFH_3_3125      MAKIMIPASKQPIYKKLGLLLVAVFTVYVFFHGAQYARGSAPSPKYSTVLSSGSGYKYSK
+CFN_4_2431      MAKIMIPASKQPVYKKLGLLLVAVFTVYVFFHGAQYARGSAPSPKYSTVLSSGSGYKYSK
+                ************:***********************************************
+
+BFH_3_3125      VELPKYTGPREKATFVTLVRNRDLYSLAESIKSVEDRFNSKFNYD---------------
+CFN_4_2431      VELPKYTGPREKATFVTLVRNRDLYSLAESIKSVEDRFNSKFNYDWVFLNDEEFTDEFKN
+                *********************************************               
+
+BFH_3_3125      ------------------
+CFN_4_2431      VTSALVSGTTKYGVIPKX
+                                  

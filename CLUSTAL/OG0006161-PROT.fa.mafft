@@ -1,0 +1,93 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARN_6_2756      MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+ARN_6_2769      MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+BMM_3_267       MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+BTE_3_938       MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+CBF_5_258       MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+CKS_5_192       MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+CLA_5_220       MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+CLA_5_1001      MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+CFN_4_1185      MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+CFI_4_1349      MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+BFE_4_2976      MNELNTVSTNSSDSTKNGGTSNSPDDMDSAAAASHAIKKRTKASRACDQCRKKKIKCDYK
+                ************************************************************
+
+ARN_6_2756      DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+ARN_6_2769      DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+BMM_3_267       DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+BTE_3_938       DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+CBF_5_258       DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+CKS_5_192       DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+CLA_5_220       DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+CLA_5_1001      DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+CFN_4_1185      DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+CFI_4_1349      DEKGVCSNCQRNGDRCSFDRVPLK-----------------------------------R
+BFE_4_2976      DEKGVCSNCQRNGDRCSFDRVPLKXXXXXXXXXXXXXXXXXXXXXXXXXXXXGGIPPSFQ
+                ************************                                   :
+
+ARN_6_2756      GPSKGYTRX---------------------------------------------------
+ARN_6_2769      GPSKGYTRX---------------------------------------------------
+BMM_3_267       GPSKGYTRST-------------------SHPRTNEIQ-----------DHNNSRSYNTF
+BTE_3_938       GPSKGYTRST-------------------SHPRTNEIQ-----------DHNNSRSYNTF
+CBF_5_258       GPSKGYTRST-------------------SHPRTNEIQ-----------DHNNSRSYNTF
+CKS_5_192       GPSKGYTRST-------------------SHPRTNEIQ-----------DHNNSRSYNTF
+CLA_5_220       GPSKGYTRST-------------------SHPRTNEIQ-----------DHNNSRSYNTF
+CLA_5_1001      GPSKGYTRST-------------------SHPRTNEIQ-----------DHNNSRS----
+CFN_4_1185      GPSKGYTRST-------------------SHPRTNEIQ-----------DHNNSRSYNTF
+CFI_4_1349      GPSKGYTRST-------------------XHPRTNEIQ-----------DHNNSRSYNTF
+BFE_4_2976      NPA---IQSTMPAGNIGQQQFWKVPYHEFQHQRKGSIDSLQSDISVRTLNPNEQLSYNTV
+                .*:    :                                                    
+
+ARN_6_2756      ------------------------------------------------------------
+ARN_6_2769      ------------------------------------------------------------
+BMM_3_267       DNS--NNTLNNNTGNS---------------------------------GDNGINSNTVP
+BTE_3_938       DNS--NNTLNNNTGNS---------------------------------GDNGINSNTVP
+CBF_5_258       DNS--NNTLNNNTGNS---------------------------------GDNGINSNTVP
+CKS_5_192       DNS--NNTLNNNTGNS---------------------------------GDNGINSNTVP
+CLA_5_220       DNS--NNTLNNNTGNS---------------------------------GDNGINSNTVP
+CLA_5_1001      ------------------------------------------------------------
+CFN_4_1185      DNS--NNTLNNNTGNS---------------------------------GDNGINSNTVP
+CFI_4_1349      DNS--NNTLNNNTGNS---------------------------------GDNGINSNTVP
+BFE_4_2976      QQSPITNKHTNDSGNANGSVTGSGSASGSGGYWSFIRTSGLLAPTDDHNGEQTRRSSSIP
+                                                                            
+
+ARN_6_2756      ------------------------------------------------------------
+ARN_6_2769      ------------------------------------------------------------
+BMM_3_267       S-TPSRSNSVLL-------PPLTQYIPQA------------------------GGIPPSF
+BTE_3_938       S-TPSRSNSVLL-------PPLTQYIPQA------------------------GGIPPSF
+CBF_5_258       S-TPSRSNSVLL-------PPLTQYIPQA------------------------GGIPPSF
+CKS_5_192       S-TPSRSNSVLL-------PPLTQYIPQA------------------------GGIPPSF
+CLA_5_220       S-TPSRSNSVLL-------PPLTQYIPQA------------------------GGIPPSF
+CLA_5_1001      ------------------------------------------------------------
+CFN_4_1185      S-TPSRFNSVLL-------PPLTQYIPQA------------------------GGIPPSF
+CFI_4_1349      S-TPSRSNSVLL-------PPLTQYIPQA------------------------GGIPPSF
+BFE_4_2976      SLLRNTSNSLLLGGQPQLPPPQQQSQPQAHQQKLNGNENNNGEINNNNGSNNSGSSKDTS
+                                                                            
+
+ARN_6_2756      ------------------------------------------------------------
+ARN_6_2769      ------------------------------------------------------------
+BMM_3_267       QNP---------------------------------------------------------
+BTE_3_938       QNP---------------------------------------------------------
+CBF_5_258       QNP---------------------------------------------------------
+CKS_5_192       QNP---------------------------------------------------------
+CLA_5_220       QNP---------------------------------------------------------
+CLA_5_1001      ------------------------------------------------------------
+CFN_4_1185      QNPAIQSTMPA-------GNIGX-------------------------------------
+CFI_4_1349      QNPTIQSTMPA-------GNIGQQQFWK--VPYX--------------------------
+BFE_4_2976      QHSQESVTTPAALEASSPGSTPQRSTKKRRKSYVSKKTKPKRDSSISITSKDSAHPMTTS
+                                                                            
+
+ARN_6_2756      -----------------------
+ARN_6_2769      -----------------------
+BMM_3_267       -----------------------
+BTE_3_938       -----------------------
+CBF_5_258       -----------------------
+CKS_5_192       -----------------------
+CLA_5_220       -----------------------
+CLA_5_1001      -----------------------
+CFN_4_1185      -----------------------
+CFI_4_1349      -----------------------
+BFE_4_2976      XXXXXXXXXXXXXXXXXSNRHLL
+                                       

@@ -1,0 +1,35 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABB_5_1521      ------------------------------------------------------------
+ABL_5_2343      ------------------------------------------------------------
+AVQ_5_2070      ------------------------------------------------------------
+BMQ_5_3         ------------------------------------------------------------
+CAT_0_5512      ALTTMIPTVLLTRRRALMVPATTIRMVLTTTIHMVLTTTIHMVLTTMIHMVLTTMIHMAL
+CCD_4_1049      ------------------------------------------------------------
+CPN_4_5619      ------------------------------------------------------MIHMVL
+CPQ_4_3784      ------------------------------------------------------MIHMVL
+BDQ_6_1941      --------------------------------------TIRMVLTTMIHMVLTTMIHMVL
+                                                                            
+
+ABB_5_1521      -----------------------------MTLTAPATTMTLTVPTMTTLTIPLIETRTPM
+ABL_5_2343      --------------LMVLTMTIRTAPATTMTLTAPATTMTLTVPTMTTLTVPLIETRTPM
+AVQ_5_2070      --------------------------------------MTLTVPTMTTLTVPLIETRTPM
+BMQ_5_3         --------------------------------------MTLTVPTMTTLTVPLIETRTPM
+CAT_0_5512      TTMIPTVLPTKRRALMVPTTMIHTAPATTMTLTAPATTMTLTVPTMTTLTVPLIETRTPM
+CCD_4_1049      --------------LMVPTTMIHTAPATTMTLTAPATTMTLTVPTMTTLTVPLIETRTPM
+CPN_4_5619      TTTIPTAL----------TTMIHTAPATTM-----------------TLTVPLIETRTPM
+CPQ_4_3784      TTTIPTAL----------TTMIHTAPATTM-----------------TLTVPLIETRTPM
+BDQ_6_1941      TTTIPTAL----------TTMIHTAPATTM-----------------TLTVPLIETRTPM
+                                                               ***:*********
+
+ABB_5_1521      GLPTTVHPTMMTLMVHLIEAVVINTVVTTIT
+ABL_5_2343      GLPTTVHPTMMTLMVHLIEAVVINTVVTTIT
+AVQ_5_2070      GLPTTVHPTMMTLMVHLIEAVVINTVVTTIT
+BMQ_5_3         GLPTTVHPTMMTLMVHLIEAVVINTVVTTIT
+CAT_0_5512      GLPTTVHPTMMTLMVHLIEAVVINTVVTTIT
+CCD_4_1049      GLPTTVHPTMMTLMVHLIEAVVINTVVTTIT
+CPN_4_5619      GLPTTVHPTMMTLMVHLIEAAVISTVVTTIT
+CPQ_4_3784      GLPTTVHPTMMTLMVHLIEAAVISTVVTTIT
+BDQ_6_1941      GLPTT---------VHLIEAAVINTVVTTIT
+                *****         ******.**.*******

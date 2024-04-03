@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMG_4_45        ------------------------------------------------------------
+AML_4_35        ------------------------------------------------------------
+APK_4_40        ------------------------------------------------------------
+APN_4_45        ------------------------------------------------------------
+CIL_2_372       HPLHIFLFIHILVFVISFIFIFIFLKPYLINHFYIRLIFYYSRFRIFQFGKNHNYNRRPD
+CIL_2_714       HPLHIFLFIHILVFVISFIFIFIFLKPYLINHFYIRLIFYYSRFRIFQFGKNHNYNRRPD
+                                                                            
+
+AMG_4_45        ------------------------------------------------------------
+AML_4_35        ------------------------------------------------------------
+APK_4_40        ------------------------------------------------------------
+APN_4_45        ------------------------------------------------------------
+CIL_2_372       HPLLLYHNNVFTDSIRIFRKRFTSLRLIKKESYYHRLCGWHRCPPHPNSTNIDIHVLCSA
+CIL_2_714       HPLLLYHNNVFTDSIRIFRKRFTSLRLIKKESYYHRLCGWHRCPPHPNSTNIDIHVLCSA
+                                                                            
+
+AMG_4_45        --------------------------------------QQYSKFWYRSRRYTQQPLHPTR
+AML_4_35        --------------------------------------QQYSKFWYRSRRYTQQPLHPTR
+APK_4_40        --------------------------------------QQYSKFWYRSRRYTQQPLHPTR
+APN_4_45        --------------------------------------QQYSKFWYRSRRYTQQPLHPTR
+CIL_2_372       KNGFHLRNCHCLSHFHQNMVFLAGKNWNRKIQLRFPHRQQYSKFWYRSRRYTQQPLHPTR
+CIL_2_714       KNGFHLRNCHCLSHFHQNMVFLAGKNWNRKIQLRFPHRQQYSKFWYRSRRYTQQPLHPTR
+                                                      **********************
+
+AMG_4_45        CRLRRRRRRRRRRKPIIQLPX---------------------------------------
+AML_4_35        CRLRRRRRRRRRRKPIIQLPX---------------------------------------
+APK_4_40        CRLRRRRRRRRRRKPIIQLPX---------------------------------------
+APN_4_45        CRLRRRRRRRRRRKPIIQLPX---------------------------------------
+CIL_2_372       CRLRRRRRRRRRRKPIIQLPQRHRSILTYICIIFNVESRLQRRSNARKHSSCLQRSHRRE
+CIL_2_714       CRLRRRRRRRRRRKPIIQLPQRHRSILTYICIIFNVESRLQRRSNARKHSSCLQRSHRRE
+                ********************                                        
+
+AMG_4_45        ---------------
+AML_4_35        ---------------
+APK_4_40        ---------------
+APN_4_45        ---------------
+CIL_2_372       LLHETKQRLKYHELX
+CIL_2_714       LLHETKQRLKYHELX
+                               

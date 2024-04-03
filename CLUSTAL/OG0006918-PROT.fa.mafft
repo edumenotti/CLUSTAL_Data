@@ -1,0 +1,23 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AIQ_1_6         -------YYKLLCSSNQLYY-KLFCSSANSIKLYYRKLFCTSSNTIQLYHKLFCSSTNPI
+APS_4_3         -------YYKLLCSSNQLYY-KLFCSSANSIKLYYRKLFCTSSNTIQLYHKLFCSSTNPI
+BLF_2_2         -------YYKLLCSSNQLYY-KLFCSSANSIKLYYRKLFCTSSNTIQLYHKLFCSSTNPI
+BSL_4_5784      -------YYKLLCSSNQLYY-KLFCSSANSIKLYYRKLFCTSSNTIQLYHKLFCSSTNPI
+AVQ_5_360       STNSIKLYYKLLCSSNQLYYRKLFCSSTNSIKLYY-KLFCSSN---QLYHKLFCSSTNSI
+                       ************* ******:******* ****:*.   ************.*
+
+AIQ_1_6         KLYYKLFCS---------------------------------------------------
+APS_4_3         KLYYKLFCS---------------------------------------------------
+BLF_2_2         KLYYKLFCS---------------------------------------------------
+BSL_4_5784      KLYYKLFCS---------------------------------------------------
+AVQ_5_360       KLYYKLLCSSNQLYYKLFCSSIQLYYRKLFCSSTNSIKLHHKLLCSSNQLHHKLLCSSNQ
+                ******:**                                                   
+
+AIQ_1_6         ---------------
+APS_4_3         ---------------
+BLF_2_2         ---------------
+BSL_4_5784      ---------------
+AVQ_5_360       LHHKLLCTSSNSIKX
+                               

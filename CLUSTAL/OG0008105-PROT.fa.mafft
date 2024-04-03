@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALI_5_6016      ------------------------------------------------------------
+BFG_4_3861      EERELSWTLGRILLYASGSILAGNDDFVVGIAPSERRTKLTGKKFIPGKLLEPDQLRKQS
+                                                                            
+
+ALI_5_6016      ---------MWFAIICCIFYLIFHRSHIIRRRFSGLYNITKDFKTGIRRRLKFLRRSDPF
+BFG_4_3861      SSLSNKGFLMWFAIICCIFYLIFHRSHIIRRRFSGLYNITKDFKTGIRRRLKFLRRSDPF
+                         ***************************************************
+
+ALI_5_6016      SRLEEGELGTDVDSFKDVYRMKSSSMFDLGKSSATMQREHEPQRTASQSANLAPSNLRPA
+BFG_4_3861      SRLEEGELGTDVDSFKDVYRMKSSSMFDLGKSSATMQREHEPQRTASQSANLAPSNLRPA
+                ************************************************************
+
+ALI_5_6016      FSMADFSKFKDSRLYD
+BFG_4_3861      FSMADFSKFKDSRLYD
+                ****************

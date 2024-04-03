@@ -1,0 +1,20 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATB_1_18        ----------------MLEHAFDDHNYDGPDTVVVENNYYG-------------------
+CNH_4_27        ----------------MLEHAFDDHNYDGPDTVVVENNYYG-------------------
+ATB_1_56        MMGGLLGVGAGLLGGAMLEHAFDDHNYDEPDTVVVENNYYG-------------------
+BEI_7_5647      -------------------------NYDGPDTVVVENNYYGDDAGGPDGGFDDAGGPDGG
+BEK_7_3         -------------------------NYDGPDTVVVENNYYGDDAGGPDGGFDDAGGPDGG
+BEN_7_5635      -------------------------NYDGPDTVVVENNYYGDDAGGPDGGFDDAGGPDGG
+BHA_2_5598      -------------------------NYDGPDTVVVENNYYGDDAGGPDGGFDDAGGPDGG
+                                         *** ************                   
+
+ATB_1_18        -DDAGGFDGG--------
+CNH_4_27        -DDAGGFDGGFDDGFDGX
+ATB_1_56        -DDAGGFDGG--------
+BEI_7_5647      FDDAGGFDGGFDDGFDGX
+BEK_7_3         FDDAGGFDGGFDDGFDGX
+BEN_7_5635      FDDAGGFDGGFDDGFDGX
+BHA_2_5598      FDDAGGFDGGFDDGFDGX
+                 *********        

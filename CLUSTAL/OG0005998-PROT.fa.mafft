@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABV_6_7066      ----------LRYCCRCPSCRFYQW------------FQRYQRFQHH---HQDLHWCCCF
+ALV_2_7078      ----------LRYCCRCPSCRFYQW------------FQRYQRFQHH---HQDLHWCCCF
+BME_1_96        NNAIQDHRRCLRYCCRCPSCRFYQWFQR------YQRFQRYQRFQHH---HQDLHWCCCF
+BRP_4_6591      ----------LRYCCRCPSCRFYQWFQR------YQRFQRYQRFQHH---HQDLHWCCCF
+BSI_3_6492      ----------LRYCCRCPSCRFYQWFQR------YQRFQRYQRFQHH---HQDLHWCCCF
+CFN_4_6665      ----------LRYCCRCPSCRFYQW------------FQRYQRFQHH---HQDLHWCCCF
+BRP_4_6595      ----------LRYCCRCPSCRFYQW------------FQRYQRFQH--HQHQDLHWCCCF
+BSI_3_6491      ----------LRYCCRCPSCRFYQW------------FQRYQRFQH--HQHQDLHWCCCF
+CIF_2_6887      ----------LRYCCRCPSCRFYQW------------FQRYQRFQH--HQHQDLHWCCCF
+CFP_4_186       ----------LRYCCRCPSCRFYQW------------FQRYQRFQHHQHQHQDLHWCCCF
+BGI_1_75        ----------------------YQW------------FQRYQRFQHH--QHQDLHWCCCF
+BGN_1_57        ----------------------YQW------------FQRYQRFQHH--QHQDLHWCCCF
+BRQ_4_68        ----------LRYCCRCPSCRFYQWFQRYQWFQRYQWFQRYQRFQHH---HQDLHWCCCX
+                                      ***            *********    ********* 
+
+ABV_6_7066      QRFGCWCLRCX----------
+ALV_2_7078      QRFGCWCLRCX----------
+BME_1_96        QRFGCWCLRCX----------
+BRP_4_6591      QRFGCWCLRCX----------
+BSI_3_6492      QRFGCWCLRCX----------
+CFN_4_6665      QRFGCWCLRCX----------
+BRP_4_6595      QRFGCWCLRCX----------
+BSI_3_6491      QRFGCWCLRCX----------
+CIF_2_6887      QRFGCWCLRCX----------
+CFP_4_186       QRFGCWCLR------------
+BGI_1_75        QRFGCWCLRCCRRCRCRFLIX
+BGN_1_57        QRFGCWCLRCCRRCRCRFLIX
+BRQ_4_68        ---------------------
+                                     

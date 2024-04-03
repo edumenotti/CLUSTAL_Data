@@ -1,0 +1,92 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADL_4_749       ------------------------------------------------------------
+BEE_6_484       ------------------------------------------------------------
+BTE_3_652       ------------------------------------------------------------
+BTE_3_654       ------------------------------------------------------------
+BNA_4_425       ------------------------------------------------------------
+ATB_1_3459      KGGANNSKKYHCHKVFSCTRYRSTGFEKVEPKCLHPSFRKAIFKEDSGVLHAIYKRLFRE
+BMQ_5_225       KGGANNSKKYHCHKVFSCTRYRSTGFEKVEPKCLHPSFRKAIFKEDSGVLHAIYKRLFRE
+                                                                            
+
+ADL_4_749       ------------------------------------------------------------
+BEE_6_484       ------------------------------------------------------------
+BTE_3_652       ------------------------------------------------------------
+BTE_3_654       ------------------------------------------------------------
+BNA_4_425       ------------------------------------------------------------
+ATB_1_3459      TLGNVYFSTNHQTGKSNDNILGSYKKTTIHGIKQGLDHXXXXXXXXXXXXXXXXXXXXXX
+BMQ_5_225       TLGNVYFSTNHQTGKSNDNILGSYKKTTIHGIKQGLDH-RPYKVGKVCCPSGCQRYKNYF
+                                                                            
+
+ADL_4_749       ------------------------------------------------------------
+BEE_6_484       ------------------------------------------------------------
+BTE_3_652       ------------------------------------------------------------
+BTE_3_654       ------------------------------------------------------------
+BNA_4_425       ------------------------------------------------------------
+ATB_1_3459      XXXTNTQRLYINPKNGFSVKLCKDRENFESTGNATQYYEKRKRKPKTSTNDSSLPFSRLY
+BMQ_5_225       FVCTNTQRLYINPKNGFSVKLCKDRENFESTGNATQYYEKRKRKPKTSTNDSSLPFSRLY
+                                                                            
+
+ADL_4_749       ------------------------------------------------------------
+BEE_6_484       ----------------------------------------WISKKCHLEDFRDASVQYTI
+BTE_3_652       ------------------------------------------------------------
+BTE_3_654       ------------------------------------------------------------
+BNA_4_425       ----------------------------------------WISKKCHLEDFRDASVQYTI
+ATB_1_3459      QEITGSTRYILDFKFPRRHTFSSSRCVWCFHQHQRVRITCWISKKCHLEDFRDASVQYTI
+BMQ_5_225       QEITGGTRYILDFKFPRRHTFSSSRCVWCFHQHQRVRITCWISKKCHLEDFRDASVQYTI
+                                                                            
+
+ADL_4_749       ------------------------------------------------------------
+BEE_6_484       KEGHQTSGKHVRRYYNNIQIFDRQRCVRNSLKTFRQAFNSWHFNISRRRRKYYSKAASGK
+BTE_3_652       ------------------------------------------------------------
+BTE_3_654       ------------------------------------------------------------
+BNA_4_425       KEGHQTSGKHVRRYYNNIQIFDRQRCVRNSLKTFRQAFNSWHFNISRRRRKYYSKAASGK
+ATB_1_3459      KEGHQTSGKHVRRYYNNIQIFDRQRCVRNSLKTFRQAFNSWHFNISRRRRKYYSKAASGK
+BMQ_5_225       KEGHQTSGKHVRRYYNNIQIFDRQRCVRNSLKTFRQAFNSWHFNISRRRRKYYSKAASGK
+                                                                            
+
+ADL_4_749       ------------------------------------------------------------
+BEE_6_484       YGIYRQDNNVSRYTFQDLGRRFCCRPEETRLLSKISRSTTICIGRKYVAIFIPRSIATQG
+BTE_3_652       ------------------------------------------------------------
+BTE_3_654       ------------------------------------------------------------
+BNA_4_425       YGIYRQDNNVSRYTFQDLG-RFCCRPEETRLLSKISRSTTICIGRKYVAIFIPRSIATQG
+ATB_1_3459      YGIYRQDNNVSRYTFQDLGRRFCCRPEETRLLSKISRSTTICIGRKYVAIFIPRSIATQG
+BMQ_5_225       YGIYRQDNNVSRYTFQDLGRRFCCRPEETRLLSKISRSTTICIGRKYVAIFIPRSIATQG
+                                                                            
+
+ADL_4_749       -----------------------------------------------------------C
+BEE_6_484       IGTISRKTEGVIQPKAWNIEVAMAIMSWRIEGRYWETRQDAVQLYGNTVSNGNFAIIRCC
+BTE_3_652       -----------------------------------------------------------C
+BTE_3_654       -----------------------------------------------------------C
+BNA_4_425       IGTISRKTEGVIQPKAWNIEVAMAIMSWRIEGRYWETRQDAVQLYGNTVSNGNFAIIRCC
+ATB_1_3459      IGTISRKIEGVIQPKAWNIEVAMAIMSWRIEGRYWKTRQDAVQLYGNTVSNGNFATIRCC
+BMQ_5_225       IGTISRKIEGVIQPKAWNIEVAMAIMSWRIEGRYWETRQDAVQFYGNTVSNGNFAIIRCC
+                                                                           *
+
+ADL_4_749       INLRKYSRGHELNHSAHRSGNGTIHQIQIDSTGPTRARCSRETNTIQAITSLGADQYFRR
+BEE_6_484       INLRKYSRGHELNHSAHRSGNGTIHQIQIDSTGPTRARCSRETNTIQAITSLGADQYFRR
+BTE_3_652       INLRKYSRGHELNHSAHRSGNGTIHQIQIDSTGPTRARCSRETNTIQAITSLGADQYFRR
+BTE_3_654       INLRKYSRGHELNHSAHRSGNGTIHQIQIDSTGPTRARCSRETNTIQAITSLGADQYFRR
+BNA_4_425       INLRKYSRGHELNHSAHRSGNGTIHQIQIDSTGPTRARCSRGTNTIQAITSLGADQYFRR
+ATB_1_3459      INLRKYSRGHELNHSAHRSGNGTIHQIQTDSTGPTRARCSRETNTIQAITSLGADQYFRR
+BMQ_5_225       INLRKYSRGHELNHSAHRSGNGTIHQIQTDSTGPTRARCSRETNTIQAITSLGADQYFRR
+                **************************** ************ ******************
+
+ADL_4_749       SQKRHSAIAIRWRPRSRVRKQTLDGRRKNRKRIEYRKADFLGSLYCENNESEKKSATYNI
+BEE_6_484       SQKRHSAIAIRWRPRSRVRKQTLDGRRKNRKRIEYRKADFLGSLYCENNESEKKSATYNI
+BTE_3_652       SQKRHSAIAIRWRPRSRVRKQTLDGRRKNRKRIEYRKADFLGSLYCENNESEKKSATYNI
+BTE_3_654       SQKRHSAIAIRWRPRSRVRKQTLDGRRKNRKRIEYRKADFLGSLYCENNESEKKSATYNI
+BNA_4_425       SQKRHSAIAIRWRPRSRVRKQTLDGRRKNRKRIEYRKADFLGSLYCENNESEKKSATYNI
+ATB_1_3459      SQKRHSAIAIRWRPRSRVRKQTLDGRRKNRKRIEYRKADFLGSLYCENNESEKKSATYNI
+BMQ_5_225       SQKRHSAIAIRWRPRSRVRKQTLDGRRKNRKRIEYRKADFLGSLYCENNESEKKSATYNI
+                ************************************************************
+
+ADL_4_749       GQRMHCAITPKVQCKGFYGQESHRLNTKGIPTEGRRWIVCLPCX
+BEE_6_484       GQRMHCAITPKVQCKGFYGQESHRLNTKGIPTEGRRWIVCLPCX
+BTE_3_652       GQRMHCAITPKVQCKGFYGQESHRLNTKGIPTEGRRWIVCLPCX
+BTE_3_654       GQRMHCAITPKVQCKGFYGQESHRLNTKGIPTEGRRWIVCLPCX
+BNA_4_425       GQRMHCAITPKVQCKGFYGQESHRLNTKGIPTEGRRWIVCLPCX
+ATB_1_3459      GQRMHCAITPKVQCKGFYGQESHRLNTKGIPTEGRRWIVCLPCX
+BMQ_5_225       GQRMHCAITPKVQCKGFYGQESHRLNTKGIPTEGRRWIVCLPCX
+                ******************************************* 

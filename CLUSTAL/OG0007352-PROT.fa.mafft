@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BFG_4_4358      MKRRSDALLGSFQATNVTPPSDNSNSTAGGANGSNSGTPTSTSGKKRNKLIKSCGFCRRR
+BTD_1_5074      MKRRSDALLGSFQATNVTPPSDNSNSTAGGANGSNSGTPTSTSGKKRNKLIKSCGFCRRR
+BFM_3_2294      MKRRSDALLGSFQATNVTPPSDNSNSTAGGANGSNSGTPTSTSGKKRNKLIKSCGFCRRR
+ZTW_0_741       MKRRSDALLGSFQATNVTPPSDNSNSTAGGANGSNSGTPTSTSGKKRNKLIKSCGFCRRR
+                ************************************************************
+
+BFG_4_4358      KLRCDQQKPMCSTCISRNLSTCQYAEEFNKNIEKKATYGPYPNADLLKKVEELENKIRIL
+BTD_1_5074      KLRCDQQKPMCSTCISRNLTTCQYAEEFNKNIEKKATYGPYPNADLLKKVEELENKIRIL
+BFM_3_2294      KLRCDQQKPMCSTCISRNLSTCQYAEEFNKNIEKKATYGPYPNADLLKKVEELENKIRIL
+ZTW_0_741       KLRCDQQKPMCSTCISRNLSTCQYAEEFNKNIEKKATYGPYPNADLLKKVEELENKIRIL
+                *******************:****************************************
+
+BFG_4_4358      EAEKNTNSSASSMYTSX-----------------------XXXXXXXXXXXXXXXXIRPH
+BTD_1_5074      EAEKNTNSSASSMYTSX-----------------------XXXXXXXXXXXXXXXXIRPH
+BFM_3_2294      EAEKNTNSSASSMYTS----------------------------XXXXXXXXXXXXXXXX
+ZTW_0_741       EAEKNTNSSASSMYTSPNFPPLGTSVGEGSSVTSSPLPDGVINPYADRYYLQSKHSGRST
+                ****************                                            
+
+BFG_4_4358      FY-------------------------------------------------------ENP
+BTD_1_5074      FY-------------------------------------------------------ENP
+BFM_3_2294      XY-------------------------------------------------------TAP
+ZTW_0_741       LYGPTSMRTQIANSNWGFIEKYKQLWAKVKVERNKWKQNNQKTMCRELGLLDESDWQPDP
+                 *                                                         *
+
+BFG_4_4358      NCK-----------------------------
+BTD_1_5074      NCK-----------------------------
+BFM_3_2294      LL------------------------------
+ZTW_0_741       LIKQICRFLPSYNKVLSILDDFFNDEHAMRST
+                                                

@@ -1,0 +1,51 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADK_8_6472      FKTSIIRSFREGRRRRRRRRGRRRGRR-RGRCSFIQD-FRRSRDRRRIRRGRRNX-----
+CIF_2_6883      FKTSIIRSFREGRRRRRRRRGRRRGRR-RGRCSFIQD-FRRSRDRRRIRRGRRNX-----
+ADL_4_733       ---------------RGRRRGRRRGRRKRGRCSFIQD-FRRSRDRRRIRRGRRNGGGSTE
+ADL_4_4897      ---------------RGRRRGRRRGRRKRGRCSFIQD-FRRSRDRRRIRRGRRNGGGSTE
+ETR_0_3931      -----------RGRRRGRRRGRKRGRRKRGRCSFIQDRFRRSRDRRRIRRGRRNGGGSTE
+                               * *****:**** ********* ****************      
+
+ADK_8_6472      ------------------------------------------------------------
+CIF_2_6883      ------------------------------------------------------------
+ADL_4_733       KACTIETNSTRDTSYQTVSISSKRCFEGLFHFTTDKIIQHHFENKTTKSCNCSKAPINYR
+ADL_4_4897      KACTIETNSTRDTSYQTVSISSKRCFEGLFHFTTDKIIQHHFENKTTKSCNCSKAPINYR
+ETR_0_3931      KACTIETNSTRDTSYQTVSISSKRCFEGLFHFTTDKIIQHHFENKTTKSCNCSKASINYR
+                                                                            
+
+ADK_8_6472      ------------------------------------------------------------
+CIF_2_6883      ------------------------------------------------------------
+ADL_4_733       VLGRGNGFRGNKAFAEGKRKTVQFIQSVDKFQNKIPTWRSYHSKRGGEAIVQKKISQRAL
+ADL_4_4897      VLGRGNGFRGNKAFAEGKRKTVQFIQSVDKFQNKIPTWRSYHSKRGGEAIVQKKISQRAL
+ETR_0_3931      VLGRGNGFRGNKAFAEGKRKTVQFIQSVDKFQNKIPTWRSYHSKRGGEAIVQKKISQRAL
+                                                                            
+
+ADK_8_6472      ------------------------------------------------------------
+CIF_2_6883      ------------------------------------------------------------
+ADL_4_733       PRNLRLRTKRVQDCRIKQVVYQSFFCIRRCFIIQIQSYQLTCRCTSRKPIIRYVPFDEKN
+ADL_4_4897      PRNLRLRTKRVQDCRIKQVVYQSFFCIRRCFIIQIQSYQLTCRCTSRKPIIRYVPFDEKN
+ETR_0_3931      PRNLRLRTKRVQDCRIKQVVYQSFFCIRRCFIIQIQSYQLTCRCTSRKPIIRYVPFDEKN
+                                                                            
+
+ADK_8_6472      ------------------------------------------------------------
+CIF_2_6883      ------------------------------------------------------------
+ADL_4_733       KVEQEKHNAFVFPKRLCWQATRIDFSRCQRCQEFGWAYPEKLPKKKGQCHHYRKPICFRR
+ADL_4_4897      KVEQEKHNAFVFPKRLCWQATRIDFSRCQRCQEFGWAYPEKLPKKKGQCHHYRKPICFRR
+ETR_0_3931      KVE-EKHNAFVFPKRLCWQATRIDFSRCQRCQEFGWAYPEKLPKKKGQCHHYRKPICFRR
+                                                                            
+
+ADK_8_6472      ------------------------------------------------------------
+CIF_2_6883      ------------------------------------------------------------
+ADL_4_733       FLPCFTKRFNQKDFQRSQFKCSNYNHLNCSFEQQAKEEYRYGFQGEIELLSSRSNCELSP
+ADL_4_4897      FLPCFTKRFNQKDFQRSQFKCSNYNHLNCSFEQQAKEEYRYGFQGEIELLSSRSNCELSP
+ETR_0_3931      FLPCFTKRFNQKDFQRSQFKCSNYNHLNCSFEQQAKEEYRYGFQGEIELLSSRSNCELSP
+                                                                            
+
+ADK_8_6472      -------------------------------------------------
+CIF_2_6883      -------------------------------------------------
+ADL_4_733       HHIRIQMVRRPNRILCGIVRSTSELKGGTTCQNRKRRIRGCKRYPNLWX
+ADL_4_4897      HHIRIQMVRRPNRILCGIVRSTSELKGGTTCQNRKRRIRGCKRYPNLWX
+ETR_0_3931      HHIRIQMVRRPNRILCGIVRSTSELKGGTTCQNRK-RIRGCKRYPNLWX
+                                                                 

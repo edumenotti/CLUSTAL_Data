@@ -1,0 +1,60 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_127       ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+ANM_2_21        --------RERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+ASC_6_34        --RGIAKLRERGILRRRR--GRRG-RGWRYEKRKSHFVQYVTGX----------------
+AVN_5_87        ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+AVP_5_129       ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+AVQ_5_135       ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+AVR_6_128       ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+AVS_5_133       ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+AVT_6_148       ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+BEI_7_21        ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+BEK_7_47        ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+BEM_7_41        ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+BEN_7_14        ---GIAKLRERGILRRRR--GRRG-RGWRYEKRKSX------------------------
+APH_4_24        IGRGIAKLRERGILRRRRRRGRRGRRGWRYEKRKSX------------------------
+ARA_4_52        IGRGIAKLRERGILRRRR---RRGRRGWRYEKRKSX------------------------
+BTT_3_18        IGRGIAKLRERGILRRRRRRGRRGRRGWRYEKRKSX------------------------
+BTV_5_19        IGRGIAKLRERGILRRRR---RRGRRGWRYEKRKSX------------------------
+BVA_4_26        IGRGIAKLRERGILRRRR---RRGRRGWRYEKRKSX------------------------
+CMH_6_31        IGRGIAKLRERGILRRRR---RRGRRGWRYEKRKSX------------------------
+CNP_1_22        IGRGIAKLRERGILRRRR---RRGRRGWRYEKRKSX------------------------
+CNQ_1_42        IGRGIAKLRERGILRRRR---RRGRRGWRYEKRKSX------------------------
+ART_6_6         -------LRERGILRRRR---RRGRRGWRYEKRKSHAVQYVTGTSNSQRAGKQKFSIYHS
+CAI_2_13        -------LRERGILRRRR---RRGRRGWRYEKRKSHAVQYVTGTSNSQRAGKQKFSIX--
+CAK_4_8         -------LRERGILRRRR---RRGRRGWRYEKRKSHAVQYVTGTSNSQRAGKQKFSIX--
+CAL_3_6         -------LRERGILRRRR---RRGRRGWRYEKRKSHAVQYVTGTSNSQRAGKQKFSIX--
+CHC_4_43        -------LRERGILRRRR---RRGRRGWRYEKRKSHAVQYVTGTSNSQRAGKQKFSIX--
+CLG_4_50        -------LRERGILRRRR---RRGRRGWRYEKRKSHSVQYVTGTSNSQRAGKQKFSIX--
+                        **********   *** **********                         
+
+ANL_2_127       --
+ANM_2_21        --
+ASC_6_34        --
+AVN_5_87        --
+AVP_5_129       --
+AVQ_5_135       --
+AVR_6_128       --
+AVS_5_133       --
+AVT_6_148       --
+BEI_7_21        --
+BEK_7_47        --
+BEM_7_41        --
+BEN_7_14        --
+APH_4_24        --
+ARA_4_52        --
+BTT_3_18        --
+BTV_5_19        --
+BVA_4_26        --
+CMH_6_31        --
+CNP_1_22        --
+CNQ_1_42        --
+ART_6_6         YX
+CAI_2_13        --
+CAK_4_8         --
+CAL_3_6         --
+CHC_4_43        --
+CLG_4_50        --
+                  

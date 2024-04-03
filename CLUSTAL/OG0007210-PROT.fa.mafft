@@ -1,0 +1,56 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_635       ------------------------------------------------------------
+ANM_2_3417      MSHPLRKQSAKISLTPRSNLNANLSVKRNQGSPGSYLSNDLDGISDMTFAMEIPTNTFTA
+CFT_5_6131      ----------------------------------------------MTFAMEIPTNTFTA
+ZTW_0_2393      ------------------------------------------------------------
+                                                                            
+
+ANL_2_635       ------------------------------------------------------------
+ANM_2_3417      QAIQLMNNDTDNNKINTSPKASSFTKEKVIKSAAYISKEKEPDNSDTNYIPDYTIPNTYD
+CFT_5_6131      QAIQLMNNDTDNNKINTSPKASSFTKEKVIKSAAYISKEKEPDNSDTNYIPDYTIPNTYD
+ZTW_0_2393      ------------------------------------------------------------
+                                                                            
+
+ANL_2_635       ------------------------------------------------------------
+ANM_2_3417      EKAINIFEDAPSDEGSLNTSSSESDSRASVHRKAVSIDTMATTNVLTPATNVRVSLYWNN
+CFT_5_6131      EKAINIFEDAPSDEGSLNTSSSESDSRASVHRKAVSIDTMATTNVLTPATNVRVSLYWNN
+ZTW_0_2393      ------------------------------------------------------------
+                                                                            
+
+ANL_2_635       ------------------------------------------------------------
+ANM_2_3417      NSSGIPRETTEEILSKLRLSPENPSNTHMQKRFSSTRGSRDSNALGISQSLQSMFKDLEE
+CFT_5_6131      NSSGIPRETTEEILSKLRLSPENPSNTHMQKRFSSTRGSRDSNALGISQSLQSMFKDLEE
+ZTW_0_2393      ------------------------------------------------------------
+                                                                            
+
+ANL_2_635       ------------------------------------------------------------
+ANM_2_3417      DQDGHTSQADILESSMSYSKRRPSEESVNPKQRVTMLFDEEEEESKKVGGGKIKEEHTKL
+CFT_5_6131      DQDGHTSQADILESSMSYSKRRPSEESVNPKQRVTMLFDEEEEESKKVGGGKIKEEHTKL
+ZTW_0_2393      ------------------------------------------------------------
+                                                                            
+
+ANL_2_635       ---------------------------------------------MESNTQTHTKKPILK
+ANM_2_3417      DNRISEESSQLVLPVVEKKENANNTENNYSKIPKPSTIKVTKDTAMESNTQTHTKKPILK
+CFT_5_6131      DNRISEESSQLVLPVVEKKENANNTENNYSKIPKPSTIKVTKDTAMESNTQTHTKKPILK
+ZTW_0_2393      ---------------------------------------------MESNTQTHTKKPILK
+                                                             ***************
+
+ANL_2_635       SVQNVEVEEAPSSDKKNWFIKLFQNFSSHNNATKASKNHVTNISFDDAHMLTLNEFNKNS
+ANM_2_3417      SVQNVEVEEAPSSDKKNWFIKLFQNFSSHNNATKASKNHVTNISFDDAHMLTLNEFNKNS
+CFT_5_6131      SVQNVEVEEAPSSDKKNWFIKLFQNFSSHNNATKASKNHVTNISFDDAHMLTLNEFNKDS
+ZTW_0_2393      SVQNVEVEEAPSSDKKNWFIKLFQNFSSHNNATKASKNHVTNISFDDAHMLTLNEFNKDS
+                **********************************************************:*
+
+ANL_2_635       IDYQLKNLDHKFGRKVVEYDCKFVKGNFKFKIKITSTPNASTVITVKKRSKHSNTSSNKA
+ANM_2_3417      IDYQLKNLDHKFGRKVVEYDCKFVKGNFKFKIKITSTPNASTVITVKKRSKHSNTSSNKA
+CFT_5_6131      IDYQLKNLDHKFGRKVVEYDCKFVKGNFKFKIKITSTPNASTVITVKKRSKHSNTSSNKA
+ZTW_0_2393      IDYQLKNLDHKFGRKVVEYDCKFVKGNFKFKIKITSTPNASTVITVKKRSKHSNTSSNKA
+                ************************************************************
+
+ANL_2_635       FEKFNDDVERVIRNAARS
+ANM_2_3417      FEKFNDDVERVIRNAGRS
+CFT_5_6131      FEKFNDDVERVIRNAGRS
+ZTW_0_2393      FEKFNDDVERVIRNAGRS
+                ***************.**

@@ -1,0 +1,62 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVV_8_357       ------------------------------------------------------------
+AVV_8_4608      ------------------------------------------------------------
+BAB_8_406       ------------------------------------------------------------
+BAB_8_2846      ------------------------------------------------------------
+BAC_8_460       ------------------------------------------------------------
+BAC_8_666       ------------------------------------------------------------
+BAC_8_5098      ------------------------------------------------------------
+GAP_0_2951      STKKKGSNHDDAFLPRSFAQAISKAAVDCECEFQNLEHNEKAELKKKKESIKTAQTTEAQ
+                                                                            
+
+AVV_8_357       ------------------------------------------------------------
+AVV_8_4608      ------------------------------------------------------------
+BAB_8_406       ------------------------------------------------------------
+BAB_8_2846      ------------------------------------------------------------
+BAC_8_460       ------------------------------------------------------------
+BAC_8_666       ------------------------------------------------------------
+BAC_8_5098      ------------------------------------------------------------
+GAP_0_2951      GADHNEEDEEDEEDEEDDEDLSNLIKVFDSWSTCYKNIDEGKAEMDSMMVKEFNKKLETL
+                                                                            
+
+AVV_8_357       -------VHDLRKKVEESRLKFDTMRYEVKAKEAELEAKKAEATGEAHSKDVGAKEISAN
+AVV_8_4608      --------------------------------------------------------ISAN
+BAB_8_406       -------VHDLRKKVEESRLKFDTMRYEIKAKEAELEAKKAEATGEAHSKDVSTKDISAN
+BAB_8_2846      --------------------------------------------------------ISAN
+BAC_8_460       -------VHDLRKKVEESRLKFDTMRYEIKAKEAELEAKKAEATGEAHSKDVSTKDISAN
+BAC_8_666       ------------------------MRYEVKAKEAELEAKKAEATGEAHSKDVGAKEISAN
+BAC_8_5098      --------------------------------------------------------ISAN
+GAP_0_2951      INQDFKKVHDLRKKVEESRLKFDTMRYEVKAKEAELEAKKAEATGEAHSKDVSAKDISAN
+                                                                        ****
+
+AVV_8_357       TTTSFDETPSTEDEKPKSEGAEEESKKEANEPTVDDVADRKEDLKSNKVNDEPPIEESEE
+AVV_8_4608      TTTSFDETPSTEDEKPKSEGAEEESKKEANEPTVDDVADRKEDLKSNKVNDEPPIEESEE
+BAB_8_406       TTTSFDETPSTEDEKPKSEGAEEESKKEANEPTVDDVADRKEDLKSNKVNDEPPIEESEE
+BAB_8_2846      TTTSFDETPSTEDEKPKSEGAEEESKKEANEPTVDDVADRKEDLKSNKVNDEPPIEESEE
+BAC_8_460       TTTSFDETPSTEDEKPKSEGAEEESKKEANEPTVDDVADRKEDLKSNKVNDEPPIEESEE
+BAC_8_666       TTTSFDETPSTEDEKPKSEGAEEESKKEANEPTVDDVADRKEDLKSNKVNDEPPIEESEE
+BAC_8_5098      TTTSFDETPSTEDEKPKSEGAEEESKKEANEPTVDDVADRKEDLKSNKVNDEPPIEESEE
+GAP_0_2951      TTTSFDETPSTEDEKPKSEGAEEESKKEANEPTVDDVADRKEDLKSNKVNDEPPIEESED
+                ***********************************************************:
+
+AVV_8_357       NKLLEKLEDEFVSNTTAAVETMEEITDSSEILGLIKLFQNFQLVYFRQCVQEVEASLKVL
+AVV_8_4608      NKLLEKLEDEFVSNTTAAVETMEEITDSSEILGLIKLFQNFQLVYFRQCVQEVEASLKVL
+BAB_8_406       NKLLEKLEDEFVSNTTAAVETMEEITDSSEILGLIKLFQNFQLVYFRQCVQEVEANLKVL
+BAB_8_2846      NKLLEKLEDEFVSNTTAAVETMEEITDSSEILGLIKLFQNFQLVYFRQCVQEVEANLKVL
+BAC_8_460       NKLLEKLEDEFVSNTTAAVETMEEITDSSEILGLIKLFQNFQLVYFRQCVQEVEANLKVL
+BAC_8_666       NKLLEKLEDEFVSNTTAAVETMEEITDSSEILGLIKLFQNFQLVYFRQCVQEVEANLKVL
+BAC_8_5098      NKLLEKLEDEFVSNTTAAVETMEEITDSSEILGLIKLFQNFQLVYFRQCVQEVEANLKVL
+GAP_0_2951      NKLLEKLEDEFVSNTTAAVETMEEITDSSEILGLIKLFQNFQLVYFRQCVQEVEANLKVL
+                *******************************************************.****
+
+AVV_8_357       NGLEI
+AVV_8_4608      NGLEI
+BAB_8_406       NGLEI
+BAB_8_2846      NGLEI
+BAC_8_460       NGLEI
+BAC_8_666       NGLEI
+BAC_8_5098      NGLEI
+GAP_0_2951      NGLEI
+                *****

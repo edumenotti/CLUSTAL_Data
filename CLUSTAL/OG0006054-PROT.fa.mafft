@@ -1,0 +1,142 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABV_6_2301      MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+ABV_6_2306      MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+ALV_2_2173      MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+ALV_2_2182      MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+ATB_1_5922      MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+BBC_8_1277      MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+BBC_8_2142      MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+BGI_1_3473      MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+AVR_6_246       MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGAYFTSNYKNLRSDRLYI
+AVT_6_646       MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGAYFTSNYKNLRSDRLYI
+ARN_6_422       MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+ARN_6_423       MRFGLPSKLELTPPFRIGIRTQLTALVSIVALGSLIILAVTTGVYFTSNYKNLRSDRLYI
+                *******************************************.****************
+
+ABV_6_2301      AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVVQKFLSSS
+ABV_6_2306      AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVVQKFLSSS
+ALV_2_2173      AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVIQKFLSSS
+ALV_2_2182      AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVIQKFLSSS
+ATB_1_5922      AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVIQKFLSSS
+BBC_8_1277      AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVVQKFLSSS
+BBC_8_2142      AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVVQKFLSSS
+BGI_1_3473      AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVIQKFLSSS
+AVR_6_246       AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVIQKFLSSS
+AVT_6_646       AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVIQKFLSSS
+ARN_6_422       AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVVQKFLSSS
+ARN_6_423       AAQLKSSQIDQTLNYLYYQAYYLASRDALQSSLTSYVAGNKSADNWVDSLSVVQKFLSSS
+                ****************************************************:*******
+
+ABV_6_2301      NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDV----------------------------
+ABV_6_2306      NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDV----------------------------
+ALV_2_2173      NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDV----------------------------
+ALV_2_2182      NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDV----------------------------
+ATB_1_5922      NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDVLDSLFPLSTDTPLPSSLETIGILTDPVL
+BBC_8_1277      NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDV----------------------------
+BBC_8_2142      NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDV----------------------------
+BGI_1_3473      NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDVLDSLFPLSTDTPLPSSLETIGILTDPVL
+AVR_6_246       NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDVLDSLFPLSTDTPLPSSLETIGILTDPVL
+AVT_6_646       NLFYVAKVYDSSFNAVLNATNNGTGDLIPEDVLDSLFPLSTDTPLPSSLETIGILTDPVL
+ARN_6_422       NLFHVAKVYDSSFNAVLNATNNGTGDLIPEDV----------------------------
+ARN_6_423       NLFHVAKVYDSSFNAVLNATNNGTGDLIPEDV----------------------------
+                ***:****************************                            
+
+ABV_6_2301      ------------------------------------------------------------
+ABV_6_2306      ------------------------------------------------------------
+ALV_2_2173      ------------------------------------------------------------
+ALV_2_2182      ------------------------------------------------------------
+ATB_1_5922      NSTDYLMSMSLPIFANPSIILTDSRVYGYITIIMSAX-----------------------
+BBC_8_1277      ------------------------------------------------------------
+BBC_8_2142      ------------------------------------------------------------
+BGI_1_3473      NSTDYLMSMSLPIFANPSIILTDSRVYGYITIIMSAEGLKSVFDDTTALERSSIAIISAV
+AVR_6_246       NSTDYLMSMSLPIFANPSIILTDSRVYGYITIIMSAEGLESVFNDTTALEHSTIAIISAV
+AVT_6_646       NSTDYLMSMSLPIFANPSIILTDSRVYGYITIIMSAEGLESVFNDTTALEHSTIAIISAV
+ARN_6_422       ------------------------------------------------------------
+ARN_6_423       ------------------------------------------------------------
+                                                                            
+
+ABV_6_2301      ------------------------------------------------------------
+ABV_6_2306      ------------------------------------------------------------
+ALV_2_2173      ------------------------------------------------------------
+ALV_2_2182      ------------------------------------------------------------
+ATB_1_5922      ------------------------------------------------------------
+BBC_8_1277      ------------------------------------------------------------
+BBC_8_2142      ------------------------------------------------------------
+BGI_1_3473      YNSQGKASGYHFIFPPSGSRLDLPQKVFSIKNDTFISNAFRNGKGGSLKQTNILYTQNTA
+AVR_6_246       YNSQGKASGYHFVFPPYGSRSDLPQKVFSIKNDTFISSAFRNGKGGSLKQTNILSTRNTA
+AVT_6_646       YNSQGKASGYHFVFPP--------------------------------------------
+ARN_6_422       ------------------------------------------------------------
+ARN_6_423       ------------------------------------------------------------
+                                                                            
+
+ABV_6_2301      ------------------------------------------------------------
+ABV_6_2306      ------------------------------------------------------------
+ALV_2_2173      ------------------------------------------------------------
+ALV_2_2182      ------------------------------------------------------------
+ATB_1_5922      ------------------------------------------------------------
+BBC_8_1277      ------------------------------------------------------------
+BBC_8_2142      ------------------------------------------------------------
+BGI_1_3473      LGYSPCSFNLVNWVAIVSQPESVFLSPATKLAKIITGTVIAIGVFVILLTLPLAHWAVQP
+AVR_6_246       LGYSPCSFNLVNWVAIISQPESVFLSPATKLAKIITGTVIAIGVFVILLT----------
+AVT_6_646       ------------------------------------------------------------
+ARN_6_422       ------------------------------------------------------------
+ARN_6_423       ------------------------------------------------------------
+                                                                            
+
+ABV_6_2301      ------------------------------------------------------------
+ABV_6_2306      ------------------------------------------------------------
+ALV_2_2173      ------------------------------------------------------------
+ALV_2_2182      ------------------------------------------------------------
+ATB_1_5922      ------------------------------------------------------------
+BBC_8_1277      ------------------------------------------------------------
+BBC_8_2142      ------------------------------------------------------------
+BGI_1_3473      IVRLQKATELITEGRGLRPSTPRTISRASSFKRGFSSGFAVPSSLLQFNTAEAGSTTSVS
+AVR_6_246       ------------------------------------------------------------
+AVT_6_646       ------------------------------------------------------------
+ARN_6_422       ------------------------------------------------------------
+ARN_6_423       ------------------------------------------------------------
+                                                                            
+
+ABV_6_2301      ------------------------------------------------------------
+ABV_6_2306      ------------------------------------------------------------
+ALV_2_2173      ------------------------------------------------------------
+ALV_2_2182      ------------------------------------------------------------
+ATB_1_5922      ------------------------------------------------------------
+BBC_8_1277      ------------------------------------------------------------
+BBC_8_2142      ------------------------------------------------------------
+BGI_1_3473      GHGGSGHGSGAAFSANSSMKSAINLGNEKMSPPEEENKIPNNHTDAKISMDGSLNHDLLG
+AVR_6_246       ------------------------------------------------------------
+AVT_6_646       ------------------------------------------------------------
+ARN_6_422       ------------------------------------------------------------
+ARN_6_423       ------------------------------------------------------------
+                                                                            
+
+ABV_6_2301      ------------------------------------------------------------
+ABV_6_2306      ------------------------------------------------------------
+ALV_2_2173      ------------------------------------------------------------
+ALV_2_2182      ------------------------------------------------------------
+ATB_1_5922      ------------------------------------------------------------
+BBC_8_1277      ------------------------------------------------------------
+BBC_8_2142      ------------------------------------------------------------
+BGI_1_3473      PHSLRHNDTDRSSNRSHILTTSANLTEARLPDYRRLFSDXXXXXXXXXXXXXXXXXXXXX
+AVR_6_246       ------------------------------------------------------------
+AVT_6_646       ------------------------------------------------------------
+ARN_6_422       ------------------------------------------------------------
+ARN_6_423       ------------------------------------------------------------
+                                                                            
+
+ABV_6_2301      -----
+ABV_6_2306      -----
+ALV_2_2173      -----
+ALV_2_2182      -----
+ATB_1_5922      -----
+BBC_8_1277      -----
+BBC_8_2142      -----
+BGI_1_3473      XXXXX
+AVR_6_246       -----
+AVT_6_646       -----
+ARN_6_422       -----
+ARN_6_423       -----
+                     

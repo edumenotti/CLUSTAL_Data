@@ -1,0 +1,146 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABC_5_2957      ------------------------------------------------------------
+CPC_4_796       --------------------------------ARCRWSFTHYARRCQWSFRA-HARRCRS
+YDL_0_3398      ------------------------------------------------------------
+CNC_4_3206      ------------------------------------------------------------
+CKN_4_204       --------------------------------ARCRWSFTHYARRCQWSFRA-HARRCPS
+ACS_2_598       --------------------------------ARCRWSFTHYARRCQWSFRA-HARRCQ-
+BBR_3_443       --------------------------------ARCRWSFTHYARRCQWSFRA-HARRCQ-
+YAQ_0_293       ARCRWSFTHYARRCQWSFRTHARRCRWSFTYYARCRWSFTHYARRCQWSFRA-HARRCQ-
+YAR_0_790       --------------------------------ARCRWSFTHYARRCQWSFRA-HARRCQ-
+YCX_0_145       ARCRWSFTHYARRCQWSFRTHARRCRWSFTYYARCRWSFTHYARRCQWSFRA-HARRCQ-
+ATD_1_164       --------------------------------ARCRWSFTHYARRCQWSFRA-HARRCQ-
+CQP_4_358       -----------------------------------------YARRCQWSFRA-HARRCQ-
+ANL_2_882       ------------------------------------------------------------
+ANL_2_889       ------------------------------------------------------------
+AGB_1_1372      --------------------------------------------RSNCIFRAKQSRTC--
+BTD_1_2391      -----------------------------------------------CIFRAKQSRTCA-
+                                                                            
+
+ABC_5_2957      -----------------------------------------------------------W
+CPC_4_796       FTNYARRCRWSFTHARCRWSFTHYARRCQWSFRTHARCRSFRTHARRCQWSFTYYARCRW
+YDL_0_3398      -----------------------------------------------------------W
+CNC_4_3206      -----------------------------------------------------------W
+CKN_4_204       FTNYARRCRWSFTYARRRWSFTH-ARCCRWSF-THARCR----------WSFT-HARCRW
+ACS_2_598       -----------------------------------------------------------W
+BBR_3_443       -----------------------------------------------------------W
+YAQ_0_293       -----------------------------------------------------------W
+YAR_0_790       -----------------------------------------------------------W
+YCX_0_145       -----------------------------------------------------------W
+ATD_1_164       -----------------------------------------------------------W
+CQP_4_358       -----------------------------------------------------------W
+ANL_2_882       ------------------------------------------------------------
+ANL_2_889       ------------------------------------------------------------
+AGB_1_1372      -----------------------------------------------------------W
+BTD_1_2391      -------------------------------------------------------GNCRW
+                                                                            
+
+ABC_5_2957      SFSHYARRCQWSF-TYARCC-RNFGTHA-RCRWSFTHYARR-RWSFTHYARR-RWSF---
+CPC_4_796       SFSHYARRCQWSF-TYARCC-RNFGTHA-RCRWSFTHYARR-RWSFTHYARR-RWSFSHY
+YDL_0_3398      SFSHYARRCQWSF-T----------------------YARR-RWNCTH-ARR-RWSF---
+CNC_4_3206      SFSHYARRCQWSF-TYARCC-RNFGTHA-RCRWSFTHYARR-RWSFTHYARR-RWSF---
+CKN_4_204       SFTHYARRCQWSFRTYARCC-RNFGTHA-RCRWSFTHYARR-RWSFTHYARRCQWSF---
+ACS_2_598       SFRAHARRCR-SFTNYARRC-RNFQTHYARCR-SFQTHARHCQWSFRTHA-RCR-SF---
+BBR_3_443       SFRAHARRCR-SFTNYARRC-RNFQTHYARCR-SFQTHARHCQWSFRTHA-RCR-SF---
+YAQ_0_293       SFRAHARRCR-SFTNYARRC-RNFQTHYARCR-SFQTHARHCQWSFRTHA-RCR-SF---
+YAR_0_790       SFRAHARRCR-SFTNYARRC-RNFQTHYARCR-SFQTHARHCQWSFRTHA-RCR-SF---
+YCX_0_145       SFRAHARRCR-SFTNYARRC-RNFQTHYARCR-SFQTHARHCQWSFRTHA-RCR-SF---
+ATD_1_164       SFRAHARRCR-SFTNYARRC-RNFQTHY----------ARHCQWSFRTHA-RCR-SF---
+CQP_4_358       SFRAHARRGR-SFTNYARCC-RNFGTHA-RCRWSFTHYARRCQWSFRTHARRCRWSF---
+ANL_2_882       ------------------------------------------------------------
+ANL_2_889       ------------------------------------------------------------
+AGB_1_1372      AG---------------------------NCRW---------------------------
+BTD_1_2391      SFRTHARRCRWDF-TYAGCCRRNFRTHA-RCCRNFTHCARCCR-NFRTHRAGC-------
+                                                                            
+
+ABC_5_2957      -----------------------------------SHYARRCQWSFTYXXXXXXXXXXXX
+CPC_4_796       ARRCQWSFTYARRRWNCTHARRRWSFTHARCRWSFTHYARRCQWSF--------------
+YDL_0_3398      -----------------THARCRWSFTHARCRWSFTHYARRCQWSF--------------
+CNC_4_3206      -----------------------------------SHYAR--------------------
+CKN_4_204       ------------------------------------------------------------
+ACS_2_598       ------------------------------------------------------------
+BBR_3_443       ------------------------------------------------------------
+YAQ_0_293       ------------------------------------------------------------
+YAR_0_790       ------------------------------------------------------------
+YCX_0_145       ------------------------------------------------------------
+ATD_1_164       ------------------------------------------------------------
+CQP_4_358       ------------------------------------------------------------
+ANL_2_882       ------------------------------------------------------------
+ANL_2_889       ------------------------------------------------------------
+AGB_1_1372      ------------------------------------------------------------
+BTD_1_2391      ------------------------------------------------------------
+                                                                            
+
+ABC_5_2957      XXXXXXXXXXXXXXXXXXXXRTHARCR------------SFRT-HARRCRWSFTY-AGSD
+CPC_4_796       --------------------RTHARCR------------SFRT-HARRCRWSFTY-AGSD
+YDL_0_3398      --------------------RTHARCR------------SFRT-HARRCRWSFTY-AGSD
+CNC_4_3206      -----------------------PRCR------------SFRT-HARRCRWSFTY-AGSD
+CKN_4_204       --------------------RTHARCR------------SFRT-HARRCRWSFTYWAGSD
+ACS_2_598       --------------------RTHARCR------------SFRT-HARRCRWSFTY-AGSD
+BBR_3_443       --------------------RTHARCR------------SFRT-HARRCRWSFTY-AGSD
+YAQ_0_293       --------------------RTHARCR------------SFRT-HARRCRWSFTY-AGSD
+YAR_0_790       --------------------RTHARCR------------SFRT-HARRCRWSFTY-AGSD
+YCX_0_145       --------------------RTHARCR------------SFRT-HARRCRWSFTY-AGSD
+ATD_1_164       --------------------RTHARCR------------SFRT-HARRCRWSFTY-AGSD
+CQP_4_358       --------------------TYYARCRWSFTHYARRCQWSFRT-HARRCRWSFTY-AGSD
+ANL_2_882       ---------------------------------------SFRT-YARRCRWSFTY-AGSD
+ANL_2_889       ---------------------------------------SFRT-YARRCRWSFTY-AGSD
+AGB_1_1372      ---------------------------------------SFRT-HARRCRWSFTY-AGND
+BTD_1_2391      -------------------------CR------------SFRTNYARCCRWNCTY-AGND
+                                                       **** :** ***. ** **.*
+
+ABC_5_2957      GNCRGKWGFRNSRACGAGSTGRNIGRAIKNFLGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+CPC_4_796       GNCRGKWGFRNSRACGAGSTGRNIGRAIKNFLGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+YDL_0_3398      GNCRGKWGFRNSRACGAGSTGRNIGRAIKNFLGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+CNC_4_3206      GNCRGKWGFRNSRACGAGSTGRNIGRAIKNFLGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+CKN_4_204       GNCRGKWGFRNSRACGAGSTGRNIGRATKNFLGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+ACS_2_598       GNCRGKWGFRNSRACGAGSTGGNIGRATKNFFGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+BBR_3_443       GNCRGKWGFRNSRACGAGSTGGNIGRATKNFFGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+YAQ_0_293       GNCRGKWGFRNSRACGAGSTGGNIGRATKNFFGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+YAR_0_790       GNCRGKWGFRNSRACGAGSTGGNIGRATKNFFGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+YCX_0_145       GNCRGKWGFRNSRACGAGSTGGNIGRATKNFFGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+ATD_1_164       GNCRGKWGFRNSRACGAGSTGGNIGRATKNFFGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+CQP_4_358       GNCRGKWGFRNSRACGAGSTGGNIGRATKNFFGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+ANL_2_882       GNCRGKWGFRNSRACGAGSTGGNIGRATKNFLGIGSTTNSDSRSGTYLW-RNVSKRGKCG
+ANL_2_889       GNCRGKWGFRNSRACGAGSTGGNIGRATKNFLGIGSTTNSDSRSGTYLW-RNVSKRGKCG
+AGB_1_1372      GNCRGKWGFRNSRACGAGNTGGNIGRATKNFLGIGSTTNSDSRSGTYLW-RNVSKRGKCG
+BTD_1_2391      GNCRGKWGFRNSRACGAGSTGGNIGRATKNFLGIGSSTNSDSRSGTYLWRRNVSKRGKCG
+                ******************.** ***** ***:****:************ **********
+
+ABC_5_2957      GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+CPC_4_796       GCDCSCIRRSSSFKDRGLSQWLRRGSTSITGLRGRCX-----------------------
+YDL_0_3398      GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+CNC_4_3206      GCDCSCIRRSSSFKDRGLSQWLRRGTTFITGLRGRCX-----------------------
+CKN_4_204       GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+ACS_2_598       GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+BBR_3_443       GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+YAQ_0_293       GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+YAR_0_790       GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+YCX_0_145       GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+ATD_1_164       GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+CQP_4_358       GCDCSCIRRSSSFKDRGLSQWLRRGTTFITGLRGRCX-----------------------
+ANL_2_882       GCDCSGIRRSSSFKDRGLSQWLRRGTTFITGLRGRCX-----------------------
+ANL_2_889       GCDCSGIRRSSSFKDRGLSQWLRRGTTFITGLRGRCX-----------------------
+AGB_1_1372      GCDCSCIRRSSSFKDRGLSQWLRRGTTFITGLRGRCLEHYYLWSQSLWSWTVVHLWRKAH
+BTD_1_2391      GCDCSCIRRSSSFKDRGLSQWLRRGTTSITGLRGRCX-----------------------
+                ***** *******************:* ********                        
+
+ABC_5_2957      --
+CPC_4_796       --
+YDL_0_3398      --
+CNC_4_3206      --
+CKN_4_204       --
+ACS_2_598       --
+BBR_3_443       --
+YAQ_0_293       --
+YAR_0_790       --
+YCX_0_145       --
+ATD_1_164       --
+CQP_4_358       --
+ANL_2_882       --
+ANL_2_889       --
+AGB_1_1372      CX
+BTD_1_2391      --
+                  

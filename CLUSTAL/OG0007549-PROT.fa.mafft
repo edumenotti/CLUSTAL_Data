@@ -1,0 +1,22 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALI_5_5262      MIMNLNQIIPQNNRSLNITWESIKEQGNFLLKFRNEETRDNWSLCLQQLIHDLKNEQFKA
+CFD_4_2303      ------------------------------------------------------------
+CFM_4_2367      ------------------------------------------------------------
+                                                                            
+
+ALI_5_5262      RHHSSTSTTSSTAKSSSMMSPTTTMNTPNHHNSRQTHDSMASFSSSHMKRVSDVLPKRRT
+CFD_4_2303      ---------------------------------------MASFSSSHMKRVSDVLPKRRT
+CFM_4_2367      ---------------------------------------MASFSSSHMKRVSDVLPKRRT
+                                                       *********************
+
+ALI_5_5262      TSSSFESEIKSISENFKNSIPESSILFRISYNNNSNNTSSSEIFTLLVEKVWNFDDLIMA
+CFD_4_2303      TSSSFESEIKSISENFKNSIPESSILFRISYNNNSNNTSSSEIFTLLVEKVWNFDDLIMA
+CFM_4_2367      TSSSFESEIKSISENFKNSIPESSILFRISYNNNSNNTSSSEIFTLLVEKVWNFDDLIMA
+                ************************************************************
+
+ALI_5_5262      INSKISNTHNNNISPITKIKYQDEDGDFVVLGSDEDWNVAKEMLAENNEKFLNIRLY
+CFD_4_2303      INSKISNTHNNNISPITKIKYQDEDGDFVVLGSDEDWNVAKEMLAENNEKFLNIRLY
+CFM_4_2367      INSKISNTHNNNISPITKIKYQDEDGDFVVLGSDEDWNVAKEMLAENNEKFLNIRLY
+                *********************************************************

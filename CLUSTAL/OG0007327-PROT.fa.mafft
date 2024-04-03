@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BCR_8_838       MASRFTFPPQRDQGIGFTFPPTNKAESSSNNNQISIDIDPSGQDVLEEINEAPLNTFPLH
+BCR_8_1604      MASRFTFPPQRDQGIGFTFPPTNKAESSSNNNQISIDIDPSGQDVLEEINEAPLNTFPLH
+YAY_0_489       MASRFTFPPQRDQGIGFTFPPTNKAESSSNNNQISIDIDPSGQDVLEEINEAPLNTFPLH
+GAV_0_4614      MASRFTFPPQRDQGIGFTFPPTNKAEGSSNNNQISIDIDPSGQDVLEEINEAPLNTFPLH
+                **************************.*********************************
+
+BCR_8_838       QSVTDAPIIDIPSPTDMSEGTSLNNQLLLRQQQQQGTGEGQALPPTFVEEQSDQNKISML
+BCR_8_1604      QSVTDAPIIDIPSPTDMSEGTSLNNQLLLRQQQQQGTGEGQALPPTFVEEQSDQNKISML
+YAY_0_489       QSVTDAPIIDIPSPTDMSEGTSLNNQLLLRQQQQQGTGEGQALPPTFVEEQSDQNKISML
+GAV_0_4614      QSVTDAPIIDIPSPTDMSEGTSLNNQLLLRQQQQQGTGEGQALPPTFVEEQSDQNKISML
+                ************************************************************
+
+BCR_8_838       LPEQKQQSMQESAPPDITAKSVAEDYVTTLRQQMATDWKSPSEYALHILFTKFIRYAENK
+BCR_8_1604      LPEQKQQSMQESAPPDITAKSVAEDYVTTLRQQMATDWKSPSEYALHILFTKFIRYAENK
+YAY_0_489       LPEQKQQSMQESAPPDITAKSVAEDYVTTLRQQMATDWKSPSEYALHILFTKFIRYAENK
+GAV_0_4614      LPEQKQQRMQESAPPDITAKSVAEDYVTTLRQQMATDWKSPSEYALHILFTKFIRYAENK
+                ******* ****************************************************
+
+BCR_8_838       LNMCLQQLDMAEPPIVEILGEGVDPSFDEIIKSLGHIAKKKPKPVIDAMMFWRKTKSEAA
+BCR_8_1604      LNMCLQQLDMAEPPIVEILGEGVDPSFDEIIKSLGHIAKKKPKPVIDAMMFWRKTKSEAA
+YAY_0_489       LNMCLQQLDMAEPPIVEILGEGVDPSFDEIIKSLGHIAKKKPKPVIDAMMFWRKTKSEAA
+GAV_0_4614      LNMCLQQLDMAEPPIVEILGEGVDPSFDEIIKSLGHIAKKKPKPVIDAMMFWRKTKSEAA
+                ************************************************************
+
+BCR_8_838       NSASEEMEKLLKEYEFEKAHPSQAHFLMNRRLSRSSSNTTSKYKHNNX------------
+BCR_8_1604      NSASEEMEKLLKEYEFEKAHPSQAHFLMNRRLSRSSSNTTSKYKHNNX------------
+YAY_0_489       NSASEEMEKLLKEYEFEKAHPSQAHFLMNRRLSRSSSNTTSKYKHNNNTNNLPGMKRHVS
+GAV_0_4614      NSASEEMEKLLKEYEFEKAHPSQAHFLMNRRLSRSSSNTTSKYKHNNNTNNLPGMKRHVS
+                ***********************************************             
+
+BCR_8_838       ------------------------------------------------------------
+BCR_8_1604      ------------------------------------------------------------
+YAY_0_489       SSFNNKVPLIKASSSNNSATSSPSIANSQLKSLENTIEVAKEEAFLADRKSLISIYILCR
+GAV_0_4614      SSFNNKVPLIKASSSNNSATSSPSIANSQLKSLENTIEVAKEEAFLADRKSLISIYILCR
+                                                                            
+
+BCR_8_838       ------------------------------------------------------------
+BCR_8_1604      ------------------------------------------------------------
+YAY_0_489       VLNEIVKQASSNEEEDLSDKLEEIVFTQLKTTDPLSISTSLIKSSNWNSFAELLGSMSEK
+GAV_0_4614      VLNEIVKQASSNEEEDLSDKLEEIVFTQLKTTDPLSISTSLIKSSNWNSFAELLGSMSEK
+                                                                            
+
+BCR_8_838       ------------------------------------------------------------
+BCR_8_1604      ------------------------------------------------------------
+YAY_0_489       KFLSVSDRFIADLEKIPAYIPPELEPSTHLLILGMRYLKLRNYPLEKFEESADFMKSLSK
+GAV_0_4614      KFLSVSDRFIADLEKIPAYIPPELEPSTHLLILGMRYLKLRNYPLEKFEESADFMKSLSK
+                                                                            
+
+BCR_8_838       ------------------------------------------------------------
+BCR_8_1604      ------------------------------------------------------------
+YAY_0_489       FFAKTENFPVCLAYAEVTNQLLL-------------------------------------
+GAV_0_4614      FFAKTENFPVCLAYAEVTNQLLLPLAGSLTAEVNHPTWVEAMSTLLNTAKRLQADSKYWV
+                                                                            
+
+BCR_8_838       ------------------------------------------------------------
+BCR_8_1604      ------------------------------------------------------------
+YAY_0_489       ----------------------------------------XXXXXXGRS-----------
+GAV_0_4614      SGFKLTVSILCASPPDLFSKQWLSLLEANASKVKSKSLNERIIFAVGLSRLVWVYLYRCP
+                                                                            
+
+BCR_8_838       ----------------------------
+BCR_8_1604      ----------------------------
+YAY_0_489       ----------------------------
+GAV_0_4614      ETLNNTTRTLTKLLQLYLNTRKKENWIT
+                                            

@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AGB_1_781       ------------------------------------------------------------
+AVT_6_1632      MSDKSKQIGSSTSIPTLKARQVKPSRIPAYPGNASVSKRQEFLRWCRSQLKLNTGVQPDN
+                                                                            
+
+AGB_1_781       ---MLLSLPPGSESKEIIADTIYSYSSTMDGRRFATDFIKKRLECEEEINDPLSWSEVLA
+AVT_6_1632      VLEMLLSLPPGSESKEIIADTIYSYSSTMDGRRFATDFIKKRLECEEEINDPLSWSEVLA
+                   *********************************************************
+
+AGB_1_781       MPEGSSEDWEFQVVGKKKGKRF
+AVT_6_1632      MPEGSSEDWEFQVVGKKKGKRF
+                **********************

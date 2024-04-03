@@ -1,0 +1,26 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDC_3_1493      ------------------------------------------------------------
+CDD_2_2403      ------------------------------------------------------------
+CEI_2_427       MASSSISTNDNEKEDEMIVILERLIKHIRNQMAHLVDLAKGKLQDSYFGAYQTVPMFRYV
+CDE_2_1450      ------------------------------------------------------------
+                                                                            
+
+CDC_3_1493      ----------------------------------------------------MSSQSLQS
+CDD_2_2403      ----------------------------------------------------MSSQSLQS
+CEI_2_427       VYLIDVGGLVSVTNGFWDKISSDGEIPPKVQQAVRLKWGLDCNNSRRIKQKLISSQSLQS
+CDE_2_1450      ----------------------------------------------------MSSQSLQS
+                                                                    :*******
+
+CDC_3_1493      FNQVLLCQMEDAVLSSSFAVKANTAMSQNPAEEFFNISEEEALNQLLENNNFDAFWDLLG
+CDD_2_2403      FNQVLLCQMEDAVLSSSFAVKANTAMSQNPAEEFFNISEEEALNQLLENNNFDAFWDLLG
+CEI_2_427       FNQVLLCQMEDAVLSSSFAIKANTAMSQNTAEEFFNISEEEALNQLLENNNFDAFWDLLG
+CDE_2_1450      FNQVLLCQMEDAVLSSSFAVKANTAMSQNPAEEFFNISEEEALNQLLENNNFGAFWDLLG
+                *******************:*********.**********************.*******
+
+CDC_3_1493      ENLSDMPSL
+CDD_2_2403      ENLSDMPSL
+CEI_2_427       ENLSDMPSL
+CDE_2_1450      ENLSDMPSL
+                *********

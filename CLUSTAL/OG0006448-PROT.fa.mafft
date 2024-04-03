@@ -1,0 +1,62 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AQC_4_2577      ML-------LNP----------DQILNLVRKVYEVDIKQFYSQLRLKNLRGLLDHAAHLF
+BPL_2_2453      ML-------LNP----------DQILNLVRKVYEVDIKQFYSQLRLKNLRGLLDHAAHLF
+BPR_4_1422      ML-------LNP----------DQILNLVRKVYEVDIKQFYSQLRLKNLRGLLDHAAHLF
+CFP_4_5413      ML-------LNP----------DQILNLVRKVYEVDIKQFYSQLRLKNLRGLLDHAAHLF
+ATB_1_231       MLDDDKGTAMHPHITPFTPEYSNELLRRVQDLYHEDIKHYYPQLKLEKLLDLLEHTEYLF
+ATB_1_3169      MLDDDKGTAMHPHITPFTPEYSNELLRRVQDLYHEDIKHYYPQLKLEKLLDLLEHTEYLF
+BKM_1_720       MLDDDKGTIMHPHITPFTPEYSNELLRRVQDLYHEDIKHYYPQLKLEKLLDLLEHTEYLF
+BNP_4_1000      MLDDDKGTIMHPHITPFTPEYSNELLRRVQDLYHEDIKHYYPQLKLEKLLDLLEHTEYLF
+                **       ::*          :::*. *:.:*. ***::*.**:*::* .**:*: :**
+
+AQC_4_2577      NVYLRDLEINQEMEALTAFIIGCYYLYLIIPQSLQFQTRNNLYSSYAKLKNDYQDEHVMG
+BPL_2_2453      NVYLRDLEINQEMEALTAFIIGCYYLYLIIPQSLQFQTRNNLYSSYAKLKNDYQDEHVMG
+BPR_4_1422      NVYLRDLEINQEMEALTAFIIGCYYLYLIIPQSLQFQTRNNLYSSYAKLKNDYQDEHVMG
+CFP_4_5413      NVYLRDLEINQEMEALTAFIIGCYYLYLIIPQSLQFQTRNNLYSSYAKLKNDYQDEHVMG
+ATB_1_231       ELYLDSIHHDRPNDALTAFIIGCYYVFLIIPQSLQFQTRNKSYSIYTDLKKMYENEMNMT
+ATB_1_3169      ELYLDSIHHDRPNDALTAFIIGCYYVFLIIPQSLQFQTRNKSYSIYTDLKKMYENEMNMT
+BKM_1_720       ELYLDSMRHDRSNDALTAFIIGCYYVFLIIPQSLQFQTRNKSYSIYTDLKKMYENEMX--
+BNP_4_1000      ELYLDSIHHDRPNDALTAFIIGCYYVFLIIPQSLQFQTRNKSYSIYTDLKKX--------
+                ::** .:. ::  :***********::*************: ** *:.**:         
+
+AQC_4_2577      YVLKVVRDESTVIVDRYLAES---------------------------------------
+BPL_2_2453      YVLKVVRDESTVIVDRYLAES---------------------------------------
+BPR_4_1422      YVLKVVRDESTVIVDRYLAES---------------------------------------
+CFP_4_5413      YVLKVVRDESTVIVDRYLAESNGICRTIKRKRAYSLPLRPLPVHMASLSIHNKFDGSLHE
+ATB_1_231       NVVLMVKKEIGVVLDESVKHGAGIEHRITKKRAFSVPADDLSGQVASLSL----------
+ATB_1_3169      NVVLMVKKEIGVVLDESVKHGAGIEHRITKKRAFSVPADDLSGQVASLSL----------
+BKM_1_720       ------------------------------------------------------------
+BNP_4_1000      ------------------------------------------------------------
+                                                                            
+
+AQC_4_2577      -------------------------------------TEFA-------------------
+BPL_2_2453      -------------------------------------TEFA-------------------
+BPR_4_1422      -------------------------------------TEFA-------------------
+CFP_4_5413      IPNELTKPTNDNSK----EDIVRESNQIASSNKLEAGSEVAYYTSKEALSKPSYLKLSTG
+ATB_1_231       ---DTAAPQDHGLKGTFTEDDAEQSSPVWTAPNLEPNDQLKLALLPEVIPTPAFR-----
+ATB_1_3169      ---DTAAPQDHGLKGTFTEDDAEQSSPVWTAPNLEPNDQLKLALLPEVIPTPAFR-----
+BKM_1_720       ------------------------------------------------------------
+BNP_4_1000      ------------------------------------------------------------
+                                                                            
+
+AQC_4_2577      ----------------------------------------------------GP------
+BPL_2_2453      ----------------------------------------------------GP------
+BPR_4_1422      ----------------------------------------------------GP------
+CFP_4_5413      KDALFKTLSSPATAPPXXXXXXXXXXXXXXXXXXXXXXXKGGRRKDRGHRIFGPESLQST
+ATB_1_231       ----------------------------------------------------EPERKT--
+ATB_1_3169      ----------------------------------------------------EPERKT--
+BKM_1_720       ------------------------------------------------------------
+BNP_4_1000      ------------------------------------------------------------
+                                                                            
+
+AQC_4_2577      --
+BPL_2_2453      --
+BPR_4_1422      --
+CFP_4_5413      SN
+ATB_1_231       --
+ATB_1_3169      --
+BKM_1_720       --
+BNP_4_1000      --
+                  

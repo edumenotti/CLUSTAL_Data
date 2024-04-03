@@ -1,0 +1,50 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALV_2_4067      ------------------------------------------------------------
+BBC_8_490       ------------------------------------------------------------
+BMQ_5_6610      ------------------------------------------------------------
+BVE_4_4286      ------------------------------------------------------------
+CIL_2_4250      MVPMPPPSRRNTIDDVNSKISSSEDFSGKDSYYSRQILAPNWREGFTRMISHKQGVLFTS
+JAY_0_3773      ------------------------------------------------------------
+                                                                            
+
+ALV_2_4067      ------------------------------------------------------------
+BBC_8_490       ------------------------------------------------------------
+BMQ_5_6610      ------------------------------------------------------MNINTP
+BVE_4_4286      ------------------------------------------------------------
+CIL_2_4250      SLMKVFYRITTPDAQQPYVFHISLAFINLTEWEITGLSTQIIPSKTQGNPEYLIMNINTP
+JAY_0_3773      ------------------------------------------------------------
+                                                                            
+
+ALV_2_4067      ---------------------------------------------------MTTTLISSD
+BBC_8_490       ----------------------FDVEDSPILAIHFKCGGSTNTINLKTAIGMTTTLISSD
+BMQ_5_6610      STATIGPHKRAEQSYEVSIRKPFDVEDSPILAIHFKCGGSTNTINLKTAIGMTTTLISSD
+BVE_4_4286      ---------------------------------------------------MTTTLISSD
+CIL_2_4250      STATIGPHKRAEQSYEVSIRKPFDVEDSPILAIHFKCGGSTNTINLKTAIGMTTTLISSD
+JAY_0_3773      ---------------------------------------------------MTTTLISSD
+                                                                   *********
+
+ALV_2_4067      VNPSMHLNLAQFISRWKTLSDALGKEGEYQKSGIKLNKDFRKVETISLEDGLLLLTQTVK
+BBC_8_490       VNPSMHLNLAQFISRWKTLSDALGKEGEYQKSGIKLNKDFRKVETISLEDGLLLLTQTVK
+BMQ_5_6610      VNPSMHLNLAQFISRWKTLSDALGKEGEYQKSGIKLNKDFRKVETISLEDGLLLLTQTVK
+BVE_4_4286      VNPSMHLNLAQFISRWKTLSDALGKEGEYQKSGIKLNKDFRKVETISLEDGLLLLTQTVK
+CIL_2_4250      VNPSMHLNLAQFISRWKTLSDALGKEGEYQKSGIKLNKDFRKVETISLEDGLLLLTQTVK
+JAY_0_3773      VNPSMHLNLAQFISRWKTLSDALGKEGEYQKSGIKLNKDFRKVETISLEDGLLLLTQTVK
+                ************************************************************
+
+ALV_2_4067      RLGFDIVDQTSVRSTLFVSGIIHTKSEGNFGCLMKIQYQVNGSVNVTCKTTTAGPLAKYI
+BBC_8_490       RLGFDIVDQTSVRSTLFVSGIIHTKSEGNFGCLMKIQYQVNGSVNVTCKTTTAGPLAKYI
+BMQ_5_6610      RLGFDIVDQTSVRSTLFVSGIIHTKSEGNFGCLMKIQYQVNGTVNVTCKTTTAGPLAKYI
+BVE_4_4286      RLGFDIVDQTSVRSTLFVSGIIHTKSEGNFGCLMKIQYQVNGSVNVTCKTTTAGPLAKYI
+CIL_2_4250      RLGFDIVDQTSVRSTLFVSGIIHTKSEGNFGCLMKIQYQVNGSVNVTCKTTTAGPLAKYI
+JAY_0_3773      RLGFDIVDQTSVRSTLFVSGIIHTKSEGNFGCLMKIQYQVNGSVNVTCKTTTAGPLAKYI
+                ******************************************:*****************
+
+ALV_2_4067      VECIKNVLTK
+BBC_8_490       VECIKNVLTK
+BMQ_5_6610      VECIKNVLTK
+BVE_4_4286      VECIKNVLTK
+CIL_2_4250      VECIKNVLTK
+JAY_0_3773      VECIKNVLTK
+                **********

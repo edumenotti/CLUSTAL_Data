@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATV_5_3885      ------------------------------------------------------------
+CEM_2_26        MLLEEERAINSSRRNTYVDGRQDTVRLVSRDNEIEVDSKHLVRYTTVISGCLVSSIICIV
+CFC_2_4739      ------------------------------------------------------------
+                                                                            
+
+ATV_5_3885      ------------------------------------------------------------
+CEM_2_26        SIIYLFGIQVIPLYAIITALILALFLSILGIRALGETDLNPVSGIGKISQLIFAFIIPRD
+CFC_2_4739      ------------------------------------------------------------
+                                                                            
+
+ATV_5_3885      ------MNVVSGGIAEASAQQAGDLMQDLKTGHLLGASPRAQFCAQLIGACWSIILSSFM
+CEM_2_26        RPGSVLMNVVSGGIAEASAQQAGDLMQDLKTGHLLGASPRAQFCAQLIGACWSIILSSFM
+CFC_2_4739      ------MNVVSGGIAEASAQQAGDLMQDLKTGHLLGASPRAQFCAQLIGACWSIILSSFM
+                      ******************************************************
+
+ATV_5_3885      YLCYNKVYSIPSEQFRIPTAVVWIDCARLVTGKGLPDKALECSMILGVIFAVLSLIRNTY
+CEM_2_26        YLCYNKVYSIPSEQFRIPTAVVWIDCARLVTGKGLPDKALECSMILGVIFAVLSLIRNTY
+CFC_2_4739      YLCYNKVYSIPSEQFRIPTAVVWIDCARLVTGKGLPDKALECSMILGVIFAVLSLIRNTY
+                ************************************************************
+
+ATV_5_3885      RDYGYGWILYIPSGVAVGVGIFNSPSFTIARFIGGWASHFWLKNHRGDLNAKTKMIVFSS
+CEM_2_26        RDYGYGWILYIPSGVAVGVGIFNSPSFTIARFIGGWASHFWLKNHRGDLNAKTKMIVFSS
+CFC_2_4739      RDYGYGWILYIPSGVAVGVGIFNSPSFTIARFIGGWASHFWLKNHRGDLNAKTKMIVFSS
+                ************************************************************
+
+ATV_5_3885      GLVLGEGIFSVINMVFICLNVPHY
+CEM_2_26        GLVLGEGIFSVINMVFTCLNVPHY
+CFC_2_4739      GLVLGEGIFSVINMVFTCLNVPHY
+                **************** *******

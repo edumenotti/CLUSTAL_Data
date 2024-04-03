@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVR_6_2841      MSKQFSHTTNDRRSSIIYSTSVGKAGLFTPADYIPQESEENLIEGEEQEGSEEEPSYTGN
+CQT_4_3980      MSKQFSHTTNDRRSSIIYSTSVGKAGLFTPADYIPQESEENLIEGEEQEGSEEEPSYTGN
+                ************************************************************
+
+AVR_6_2841      DDETEREGEYHSLLDANNSRTLQQEAWQQGYDSHDRKRLLDEERDLLIDNKLLSQHGNGG
+CQT_4_3980      DDETEREGEYHSLLDANNSRTLQQEAWQQGYDSHDRKRLLD-------------------
+                *****************************************                   
+
+AVR_6_2841      GXXXXXXXXXXXXXXXXXVGERDREWSENQHNF
+CQT_4_3980      ---------------------------------
+                                                 

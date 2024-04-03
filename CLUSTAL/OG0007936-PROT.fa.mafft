@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CFH_0_5623      -----------------------------------------------------------M
+CRE_2_3064      MGETVSDDVIIEEDEHEHQEEEQPHDSPTKSAQFHASPIAKSIPILQKREHRKSFIDTFM
+CPI_4_973       ------------------------------------------------------------
+                                                                            
+
+CFH_0_5623      LHSPNGYKGDTDIGNEDDNISPRFTYNSVSPRSKVSSLQSYATTTSQLETFKKLSSHTAP
+CRE_2_3064      LHSPNGYNGDTDIGNEDDNISPRFTYNSVSPRSKVSSLQSYATTTSQLETFKKLSSHTAP
+CPI_4_973       ------------------------------------------------------------
+                                                                            
+
+CFH_0_5623      IIGSPRHAPSRPDSIGREQLSSSLTKKLAKCKKIIADPPWDTKKLIKQLYNQATETGNVV
+CRE_2_3064      IIGSPRHAPSRPDRIGREQLSSSLTKKLAKCKKIIADPPWDTKKLIKQLYNQATETGNVV
+CPI_4_973       ------------------------------------------------------------
+                                                                            
+
+CFH_0_5623      LTVNILFLFQTIYQITEIDIAKDAIAHFLLLLHRYELFGIAADVLKYCPFEDIMGSEGDQ
+CRE_2_3064      LTVNILFLFQTIYQITEIDIAKDAIAHFLLLLHRYELFGIAADVLKYCPFEDIMGSEGDQ
+CPI_4_973       ----------MIYQITEIDIAKDAIAHFLLLLHRYELFGIAADVLKYCPFEDIMGSEGDQ
+                           *************************************************
+
+CFH_0_5623      SSIRLFCERCGELITNESSKEKLRAEAQQTGNKKIMDKFGYWYCDSCKKKNTSCVLCERP
+CRE_2_3064      SSIRLFCERCGELITNESSKEKLRAEAQQTGNKKIMDKFGYWYCDSCKKKNTSCVLCERP
+CPI_4_973       SSIRLFCERCGELITNESSKEKLRAEAQQTGNKKIMDKFGYWYCDCCKKKNTSCVLCERP
+                *********************************************.**************
+
+CFH_0_5623      LKKLTMVILPCGHEGHFQCIQEWFLDENEQECPGGCPGVAFI
+CRE_2_3064      LKKLTMVILPCGHEGHFQCIQEWFLDENEQECPGGCPGVAFI
+CPI_4_973       LKKLTMVILPCGHEGHFQCIQEWFLDEKEHECPGGCPGVAFI
+                ***************************:*:************

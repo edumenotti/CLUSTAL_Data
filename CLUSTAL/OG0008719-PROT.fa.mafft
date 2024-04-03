@@ -1,0 +1,34 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CAT_0_4254      MNSNSTIGRTTLGESDTISLSFSEPSSSLNSRSTDVVFASTSTLVPQQGSLTSLPPVSST
+CMG_6_6522      MNSNSTIGRTTLGESDTISLSFSEPSSSLNSRSTDVVFASTSTLVPQQGSLTSLPPVSST
+                ************************************************************
+
+CAT_0_4254      ATPTYYSTSLTYDETLHTSIDVSSTSTLVSSTDSSSSSEQDTYSSQYDPATSSYSIITPS
+CMG_6_6522      ATPTY-------------------------------------------------------
+                *****                                                       
+
+CAT_0_4254      MSIFSSTXXXQGSLTSLPPVSSTATPTYYSTSLTYDETLHTSIDVSSTSTLVSSTDSSSS
+CMG_6_6522      ----------------------------YSTSLTYDETLHTSIDVSSTSTLVSSTDSSSS
+                                            ********************************
+
+CAT_0_4254      SEQDTYSSQYDPATSSYSIITPSMSIFSSTSPMSSSSSITSEWSSLTSTTPTLSSSATSL
+CMG_6_6522      SEQDTYSSQYDPATSSYSIITPSMSIFSSTSPMSSSSSITSEWSSLTSTTPTLSPSATSL
+                ******************************************************.*****
+
+CAT_0_4254      SSSWSSLSSPSSLLVSSSLSSSSYSDTKLFSFDSRSSIFSPSTPTVISP-----------
+CMG_6_6522      SSSWSSLSSPSSLLVSSSLSSSSYSDTKLFSFDSRSSIFSPSTPTVISPSYTYLSSISTT
+                *************************************************           
+
+CAT_0_4254      ------------------------------------------------------------
+CMG_6_6522      SFQISTTSELSFSWFSTISPSTTSSKDTTFPSSSRNTSTSFYSSSLSSTNDFSTISKSSK
+                                                                            
+
+CAT_0_4254      --------------------------------------------XXXXRARYV-------
+CMG_6_6522      LSPSASSSTVSISTISVPTSSSVSSSSSKVSSNRPSSSSSSDDTTSAYSSTYTFQSLQST
+                                                                 : *.       
+
+CAT_0_4254      --------------------------------------------------
+CMG_6_6522      TSSSIPPATQTPSTSTISTSPIPTSSQVFNTAAISSSEDSKTIYYFYTQT
+                                                                  

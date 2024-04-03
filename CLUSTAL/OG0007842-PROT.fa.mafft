@@ -1,0 +1,22 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BTA_5_704       ---------------------------------------MEDSTFLNELLHLVHGIFRDD
+BTA_5_850       LIPQVSIKQLDKDALNLGAFTRNTVFAKVVYKLLQVCLDMEDSTFLNELLHLVHGIFRDD
+CRE_2_6970      ------------------------------------------------------------
+                                                                            
+
+BTA_5_704       ELINGKDSIPEAYLSKPICNLLLSIANAKSDVFSESIVRKADYLLEKMIMKKPNELFESL
+BTA_5_850       ELINGKDSIPGAYLSKPICNLLLSIANAKSDVFSESIVRKADYLLEKMIMKKPNELFESL
+CRE_2_6970      ------------------------------------------------------------
+                                                                            
+
+BTA_5_704       IASFGNQYVNDYKNKKLRQGVNLQETEKERKRRLAKKHQARLLAKFNNQQTKFMKEHESE
+BTA_5_850       IASFGNQYVNDYKNKKLRQGVNLQETEKERKRRLAKKHQARLLAKFNNQQTKFMKEHESE
+CRE_2_6970      -----------------------------------------------------MKEHESE
+                                                                     *******
+
+BTA_5_704       FDEQDNDVDMVGEKVYESEDFTCALCQDSSSTDFFVIPAYHDHS-----
+BTA_5_850       FDEQDNDVDMVGEKVYESEDFTCALCQDSSSTDFFVIPAYHDHS-----
+CRE_2_6970      FDEQDNDVDMVGEKVYESEDFTCALCQDSSSTDFFVIPAYHDHSPIFRP
+                ********************************************     

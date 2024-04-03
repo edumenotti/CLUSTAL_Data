@@ -1,0 +1,38 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARB_2_299       ------------------------------------------------------------
+ARB_2_2087      ------------------------------------------------------------
+BCR_8_3025      MGHLTLIAEEISKFKEYIDEMKLTFCNTAVSDRLEEPFWKEYSETILADTREKYNTVLGD
+CPA_4_3241      ---MAIVS------------IMRTMMKTGVT-----------------------------
+                                                                            
+
+ARB_2_299       ------------------------------------------------------------
+ARB_2_2087      ------------------------------------------------------------
+BCR_8_3025      FGNDQESDDDVIRNSDSEDIIGDTEGNENYGNGENDELLSNGHDSGNMDLYYNFNNNENE
+CPA_4_3241      ------------------------------------------------------------
+                                                                            
+
+ARB_2_299       ------------------------------------------------------------
+ARB_2_2087      ------------------------------------------------------------
+BCR_8_3025      ENEEDYAEYSDVDNKNYYNNVETNDDDYDSDDGKSKSAESEFTDKISEHRDGNSLYNEDN
+CPA_4_3241      ------------------------------------------------------------
+                                                                            
+
+ARB_2_299       ------------------------------------------------------------
+ARB_2_2087      ------------------------------------------------------------
+BCR_8_3025      DENGSDKWTSGTSLFPPDHFPSRSQPSDPKLQDQNIFHHQFDFEGVGDDDDYMDPNDDGQ
+CPA_4_3241      --NG----------------------------------HRFDFEGVGDDDDYMDPNDDGQ
+                                                                            
+
+ARB_2_299       ----PGNPLYTTPKTPPRPKTILFNSLSALDNNGEDEEVALGTSVDDRMDNEMSSDEEDS
+ARB_2_2087      ----PGNPLYTTPKTPPRPKTILFNSLSALDNNGEDEEVALGTSVDDRMDNEMSSDEEDS
+BCR_8_3025      SYARPGNPLYTTPKTPPRPKTILFNSLSALDNNGEDEEVALGTSVDDRMDNEISSDEEDS
+CPA_4_3241      SYARPGNPLYTTPKTPPRPKTILFNSLSALDNNGEDEEVALGTSVDDRMDNEISSDEEDS
+                    ************************************************:*******
+
+ARB_2_299       EDEDEENDMGNEEGYSLYRSRSKEAF
+ARB_2_2087      EDEDEENDMGNEEGYSLYRSRSKEAF
+BCR_8_3025      EDEDEENDMGNEEGYSLYRSRSKEAF
+CPA_4_3241      EDEDEENDMGNEEGYSLYRSRSKEAF
+                **************************

@@ -1,0 +1,122 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALI_5_1246      ------------------------------------------------------------
+AQH_2_167       ------------------------------------------------------------
+AQH_2_570       ------------------------------------------------------------
+BFH_3_905       ------------------------------------------------------------
+BFH_3_921       ------------------------------------------------------------
+BTA_5_1590      MRDDLPTILSLENYKENMRILSLESSKLDFEVSCCTTILLHLRWYHQKITLSLFVISIIG
+CHQ_4_1621      MRDDLPTILSLENYKENMRILSLESSKLDFEVSCCTTILLHLRWYHQKITLSLFVISIIG
+BTE_3_614       ------------------------------------------------------------
+CFI_4_3237      ------------------------------------------------------------
+CQC_6_5969      ------------------------------------------------------------
+CFN_4_3075      ------------------------------------------------------------
+ASB_2_1192      ------------------------------------------------------------
+ASB_2_1521      ------------------------------------------------------------
+                                                                            
+
+ALI_5_1246      ------------------------------------------------------------
+AQH_2_167       ------------------------------------------------------------
+AQH_2_570       ------------------------------------------------------------
+BFH_3_905       ------------------------------------------------------------
+BFH_3_921       ------------------------------------------------------------
+BTA_5_1590      DNLDQRESSRHDIAEIIRRSRLDFKRNCIEVLNILKDFEYYPTVQNEFLYFSLTTVFSMF
+CHQ_4_1621      DNLDQRESSRHDIAEIIRRSRLDFKRNCIEVLNILKDFEYYPTVQNEFLYFSLTTVFSMF
+BTE_3_614       ------------------------------------------------------------
+CFI_4_3237      ------------------------------------------------------------
+CQC_6_5969      ------------------------------------------------------------
+CFN_4_3075      ------------------------------------------------------------
+ASB_2_1192      ------------------------------------------------------------
+ASB_2_1521      ------------------------------------------------------------
+                                                                            
+
+ALI_5_1246      ------------------------------------------------------------
+AQH_2_167       ------------------------------------------------------------
+AQH_2_570       ------------------------------------------------------------
+BFH_3_905       ------------------------------------------------------------
+BFH_3_921       ------------------------------------------------------------
+BTA_5_1590      LYLSEIMVNDEHAMETGYIIGLLRDTHTRMLGSEERCLSVHNLKWQTSLFFYTFFLRSTM
+CHQ_4_1621      LYLSEIMVNDEHAMETGYIIGLLRDTHTRMLGSEERCLSVHNLKWQTSLFFYTFFLRSTM
+BTE_3_614       ------------------------------------------------------------
+CFI_4_3237      ------------------------------------------------------------
+CQC_6_5969      ------------------------------------------------------------
+CFN_4_3075      ------------------------------------------------------------
+ASB_2_1192      ------------------------------------------------------------
+ASB_2_1521      ------------------------------------------------------------
+                                                                            
+
+ALI_5_1246      ------------------------------------------------------------
+AQH_2_167       ------------------------------------------------------------
+AQH_2_570       ------------------------------------------------------------
+BFH_3_905       ------------------------------------------------------------
+BFH_3_921       ------------------------------------------------------------
+BTA_5_1590      EKFNLTSKYAKFYAFDSNYYEGVLNRLVKHTRESKDDMVELLKTSFINKEKMAAFGSFVT
+CHQ_4_1621      EKFNLTSKYAKFYAFDSNYYEGVLNRLVKHTRESKDDMVELLKTSFINKEKMAAFGSFVT
+BTE_3_614       ----------------TNY-----------------------------------------
+CFI_4_3237      ----------------NNN-----------------------------------------
+CQC_6_5969      ------------------------------------------------------------
+CFN_4_3075      ----------------NNN-----------------------------------------
+ASB_2_1192      ------------------------------------------------------------
+ASB_2_1521      ------------------------------------------------------------
+                                                                            
+
+ALI_5_1246      ------------------------------------------------------------
+AQH_2_167       ------------------------------------------------------------
+AQH_2_570       ------------------------------------------------------------
+BFH_3_905       ------------------------------------------------------------
+BFH_3_921       ------------------------------------------------------------
+BTA_5_1590      EDQEKMEVSFNIFNEITIQDLNFLQFSSIPKLWENKTLEPGEEYHHSNGTNTDNNETTGA
+CHQ_4_1621      EDQEKMEVSFNIFNEITIQDLNFLQFSSIPKLWENKTLEPGEEYHHSNGTNTDNNETTGA
+BTE_3_614       ------------------------------------------------------------
+CFI_4_3237      ------------------------------------------------------------
+CQC_6_5969      ------------------------------------------------------------
+CFN_4_3075      ------------------------------------------------------------
+ASB_2_1192      ------------------------------------------------------------
+ASB_2_1521      ------------------------------------------------------------
+                                                                            
+
+ALI_5_1246      -----------------------------------------------------------D
+AQH_2_167       ------------------------------------------------DDD---DDDDDD
+AQH_2_570       ------------------------------------------------DDD---DDDDDD
+BFH_3_905       ------------------------------------------------------DDDDDD
+BFH_3_921       ------------------------------------------------------DDDDDD
+BTA_5_1590      DDTDD--------NNNNNNNNNNNGNNSSSTNNNNNNNYGNSNNNDNDNNI---NDDDDD
+CHQ_4_1621      DDTDDNNNNNNNNNNNNNNNNNNNGNNSSSTNNNNNNNYGNSNNNDNDNNI---NDDDDD
+BTE_3_614       -----------------------------------------NNNNDNDNNIKDDDDDDDD
+CFI_4_3237      ------NNNNNNNNNNNNNNNNNNGNNSSSTNNNNNNNYGNSNNNDNDNNI---NDDDDD
+CQC_6_5969      -----------------------------------------DDDDDNDDDD---DNDDDD
+CFN_4_3075      ------NNNNNNNNNNNNNNNNNNGNNSSSTNNNNNNNYGNSNNNDNDNNI---NDDDDD
+ASB_2_1192      ---------------------------------------------DDDD-----DDDDDD
+ASB_2_1521      ---------------------------------------------DDDD-----DDDDDD
+                                                                           *
+
+ALI_5_1246      DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDASYPERTANDYRDENEQSDKLFEKIE
+AQH_2_167       DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDASYPERTANDYRDENEQSNKLFEKIE
+AQH_2_570       DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDASYPERTANDYRDENEQSNKLFEKIE
+BFH_3_905       DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDTSYPERTANDYRDENDQSNKLFEKIE
+BFH_3_921       DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDTSYPERTANDYRDENDQSNKLFEKIE
+BTA_5_1590      DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDTSYPERTANDYRDENEQSNKLFEKIE
+CHQ_4_1621      DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDTSYPERTANDYRDENEQSNKLFEKIE
+BTE_3_614       DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDASYPERTANDYRDENEQSNKLFEKIE
+CFI_4_3237      DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDTSYPERTANDYRDENEQSNKLFEKIE
+CQC_6_5969      DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDASYPERTANDYR--------------
+CFN_4_3075      DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDTSYPERTANDYRDENEQSNKLFEKIE
+ASB_2_1192      DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDASYPERTANDYRDENEQSSKLFEKIE
+ASB_2_1521      DNDDDYSNNGADDDEEDDDYDRSLFPTGLASLLDASYPERTANDYRDENEQSSKLFEKIE
+                **********************************:***********              
+
+ALI_5_1246      -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+AQH_2_167       -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+AQH_2_570       -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+BFH_3_905       -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+BFH_3_921       -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+BTA_5_1590      -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+CHQ_4_1621      -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+BTE_3_614       -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+CFI_4_3237      XXXXXXXXXXXXXXXXXXSGFLLQECVCKNVILYKGHSSNLTNTY----AYARVCILDT
+CQC_6_5969      -----------------------------------------------------------
+CFN_4_3075      ----------XXXXXXXXXXXXXXXXXXXXXXXXIGISS------------SRMCV---
+ASB_2_1192      -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+ASB_2_1521      -----------------------------------GHLEHGVFFYDRDFFFKNVCVKM-
+                                                                           

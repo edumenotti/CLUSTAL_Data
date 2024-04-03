@@ -1,0 +1,146 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADN_4_315       ------------------------------------------------------------
+ANR_2_60        ------------------------------------------------------------
+ANS_2_1125      ------------------------------------------------------------
+ANT_2_59        ------------------------------------------------------------
+ANV_5_26        ------------------------------------------------------------
+AMI_4_1095      ------------------------------------------------------------
+CRE_2_2169      ------------------------------------------------------------
+BTA_5_2190      ------------------------------------------------------------
+ATS_3_1299      ------------------------------------------------------------
+ATS_3_1301      ------------------------------------------------------------
+BBP_3_1300      ------------------------------------------------------------
+BCR_8_2173      ------------------------------------------------------------
+CHL_4_944       ------------------------------------------------------------
+BMQ_5_2172      NAMVKGRVAVAYRIVWIALICNRREKEVRSPLGGAKEQKCRGKAVLTPLQLLLYIRGFPK
+CRE_2_6179      ------------------------------------------------------------
+MAL_0_2395      ------------------------------------------------------------
+                                                                            
+
+ADN_4_315       ------------------------------------------------------------
+ANR_2_60        ------------------------------------------------------------
+ANS_2_1125      ------------------------------------------------------------
+ANT_2_59        ------------------------------------------------------------
+ANV_5_26        ------------------------------------------------------------
+AMI_4_1095      ------------------------------NTMTITYIGFPLYQRPPSVICKLKNLKRKS
+CRE_2_2169      ------------------------------------------------------------
+BTA_5_2190      ------------------------------------------------------------
+ATS_3_1299      ------------------------------NTMTITYIGFPLYQRPPSVIYKLKNLKRKS
+ATS_3_1301      ------------------------------NTMTITYIGFPLYQRPPSVIYKLKNLKRKS
+BBP_3_1300      ------------------------------NTMTITYIGFPLYQRPPSVIYKLKNLKRKS
+BCR_8_2173      ------------------------------NTMTITYIGFPLYQRPPSVIYKLKNLKRKS
+CHL_4_944       ------------------------------NTMTITYIGFPLYQRPPSVIYKLKNLKRKS
+BMQ_5_2172      SSISACGSITIIYTYGPFFRTMTFTNFWRKNTMTITYIGFPLYQRPPSVIYKLKNLKRKS
+CRE_2_6179      ------------------------------------------------------------
+MAL_0_2395      ------------------------------------------------------------
+                                                                            
+
+ADN_4_315       ------------------------------------------------------------
+ANR_2_60        ------------------------------------------------------------
+ANS_2_1125      ------------------------------------------------------------
+ANT_2_59        ------------------------------------------------------------
+ANV_5_26        ------------------------------------------------------------
+AMI_4_1095      LSRENSYLIFASHRVSNSTIWITAIYSILRTTVCIVALHKYRTQELLTDCVVKRSVLRQG
+CRE_2_2169      ------------------------------------------------------------
+BTA_5_2190      -----------SHRVSNSTIWITAIYSILRTTVCIVALHKYRTQELLIDCVVKRSVLRQG
+ATS_3_1299      LSRENSYLIFASHRVSNSTIWITAIYSILRTTVCIVALHKYRTQELLTDSVVKRSVLRQG
+ATS_3_1301      LSRENSYLIFASHRVSNSTIWITAIYSILRTTVCIVALHKYRTQELLTDSVVKRSVLRQG
+BBP_3_1300      LSRENSYLIFASHRVSNSTIWITAIYSILRTTVCIVALHKYRTQELLTDSVVKRSVLRQG
+BCR_8_2173      LSRENSYLIFASHRVSNSTIWITAIYSILRTTVCIVALHKYRTQELLTDSVVKRSVLRQG
+CHL_4_944       LSRENSYLIFASHRVSNSTIWITAIYSILRTTVCIVALHKYRTQELLTDSVVKRSVLRQG
+BMQ_5_2172      LSRENSYLIFASHRVSNSTIWITAIYSILRTTVCIVALHKYRTQELLTDSVVKRSVLRQG
+CRE_2_6179      ------------------------------------------------------------
+MAL_0_2395      ------------------------------------------------------------
+                                                                            
+
+ADN_4_315       ------------------------------------------PQLHPRNLSLSPTLDFLW
+ANR_2_60        ------------------------------------------PQLHPRNLSLSPTLDFLW
+ANS_2_1125      ------------------------------------------PQLHPRNLSLSPTLDFLW
+ANT_2_59        ------------------------------------------PQLHPRNLSLSPTLDFLW
+ANV_5_26        ------------------------------------------PQLHPRNLSLSPTLDFLW
+AMI_4_1095      YIGKKLTDPLHLKNSNLDGNFITCFSRRETMPYIFIVRRAWMPQ-HHRNLNL-LILSFLW
+CRE_2_2169      ------------------------------------------------------------
+BTA_5_2190      YIGKKLTDPLHLKNSNLDGNFITCFSRRETMPYIFIVRRAWMPQ-HHRNLNL-LILSFLW
+ATS_3_1299      YIGKKLTDPLHLKNSNLDGNFITCFSRRDTMPYIFIVRRAWMPQ-HHRNLNL-LILSFLW
+ATS_3_1301      YIGKKLTDPLHLKNSNLDGNFITCFSRRDTMPYIFIVRRAWMPQ-HHRNLNL-LILSFLW
+BBP_3_1300      YIGKKLTDPLHLKNSNLDGNFITCFSRRDTMPYIFIVRRAWMPQ-HHRNLNL-LILSFLW
+BCR_8_2173      YIGKKLTDPLHLKNSNLDGNFITCFSRRDTMPYIFIVRRAWMPQ-HHRNLNL-LILSFLW
+CHL_4_944       YIGKKLTDPLHLKNSNLDGNFITCFSRRDTMPYIFIVRRAWMPQ-HHRNLNL-LILSFLW
+BMQ_5_2172      YIGKKLTDPLHLKNSNLDGNFITCFSRRDTMPYIFIVRRAWMPQ-HHRNLNL-LILSFLW
+CRE_2_6179      ------------------------------------------------------------
+MAL_0_2395      ------------------------------------------------------------
+                                                                            
+
+ADN_4_315       IVFLKLGYLLYQENVSSMLWQL--TLLMLLAMKIPRKYGKSSIQ-HHKSRGLTVTLTLHF
+ANR_2_60        IVFLKLGYLLYQENVSSMLWQL--TLLMLLAMKIPRKYGKSSIQ-HHKSRGLTVTLTLHF
+ANS_2_1125      IVFLKLGYLLYQENVSSMLWQL--TLLMLLAMKIPRKYGKSSIQ-HHKSRGLTVTLTLHF
+ANT_2_59        IVFLKLGYLLYQENVSSMLWQL--TLLMLLAMKIPRKYGKSSIQ-HHKSRGLTVTLTLHF
+ANV_5_26        IVFLKLGYLLYQENVSSMLWQL--TLLMLLAMKIPRKYGKSSIQ-HHKSRGLTVTLTLHF
+AMI_4_1095      TVSLKLGYLPCRENVSSML-PL--TLQMLLALKSHKRYGTNSTQLPRKSHGLTVT-TSHF
+CRE_2_2169      ------------------------------------------------------------
+BTA_5_2190      TVSLKLGYLPCRENVSSML-PL--TLQMLLALKSHKRYGTNSTQLPRKSHGLTVT-TSHF
+ATS_3_1299      TVSLKLGYLPCRENVSSML-PL--TLQMLLALKSHKRYGTNSTQLPRKSHGLTVT-TSHF
+ATS_3_1301      TVSLKLGYLPCRENVSSML-PL--TLQMLLALKSHKRYGTNSTQLPRKSHGLTVT-TSHF
+BBP_3_1300      TVSLKLGYLPCRENVSSML-PL--TLQMLLALKSHKRYGTNSTQLPRKSHGLTVT-TSHF
+BCR_8_2173      TVSLKLGYLPCRENVSSML-PL--TLQMLLALKSHKRYGTNSTQLPRKSHGLTVT-TSHF
+CHL_4_944       TVSLKLGYLPCRENVSSML-PL--TLQMLLALKSHKRYGTNSTQLPRKSHGLTVT-TSHF
+BMQ_5_2172      TVSLKLGYLLYQENVSSML-PL--TLQMLLALKSHKRYGTNSTQLPRKSHGLTVT-TSHF
+CRE_2_6179      ------------------------TVLMVPILKTLKGYGMNFTQPHLISHTLTDT-TISF
+MAL_0_2395      -----LEFSLYQESVSLMLWLLIVSTILVP--KNPEGYGMNFIRYHSLNRGLTDT-IFCF
+                                                                            
+
+ADN_4_315       PGTGLESSLGSSCG--QEISTSYPPLTVHMYQLKLQGICLTTCFHQIIFMEFMALGYQQR
+ANR_2_60        PGTGLESSLGSSCG--QEISTSYPPLTVHMYQLKLQGICLTTCFHQIIFMEFMALGYQQR
+ANS_2_1125      PGTGLESSLGSSCG--QEISTSYPPLTVHMYQLKLQGICLTTCFHQIIFMEFMALGYQQR
+ANT_2_59        PGTGLESSLGSSCG--QEISTSYPPLTVHMYQLKLQGICLTTCFHQIIFMEFMALGYQQR
+ANV_5_26        PGTGLESSLGSSCG--QEISTSYPPLTVHMYQLKLQGICLTTCFHQIIFMEFMALGYQQR
+AMI_4_1095      PGVGL--GYHGSLI--KGVAT-FHTLTMGKYQ-KLREICILT--PQRIFTMSMVPGYQKH
+CRE_2_2169      ------------------------------------------------------------
+BTA_5_2190      PGVGL--GYHGSLI--KGVAT-FHTLTMGKYQ-KLREICILT--PQRIFTMSMVPGYQKH
+ATS_3_1299      PGVGL--GYHGSLI--KGVAT-FHTLTMGKYQ-KLREICILT--PQRIFTMSMVPGYQKH
+ATS_3_1301      PGVGL--GYHGSLI--KGVAT-FHTLTMGKYQ-KLREICILT--PQRIFTMSMVPGYQKH
+BBP_3_1300      PGVGL--GYHGSLI--KGVAT-FHTLTMGKYQ-KLREICILT--PQRIFTMSMVPGYQKH
+BCR_8_2173      PGVGL--GYHGSLI--KGVAT-FHTLTMGKYQ-KLREICILT--PQRIFTMSMVPGYQKH
+CHL_4_944       PGVGL--GYHGSLI--KGVAT-FHTLTMGKYQ-KLREICILT--PQRIFTMSMVPGYQKH
+BMQ_5_2172      PGVGL--GYHGSLI--KGVAT-FHTLTMGKYQ-KLREICILT--PQRIFTMSMVPGYQKH
+CRE_2_6179      LGTGS--GLHGSWYIRRICGIFFRILTSHTFQSKPRICYRIH-FLQSTYMMCMVLAYRRR
+MAL_0_2395      RGIGS--GHRGNYFI-KVCGIFFLVLVVHIYQSKLLGTCKIR-SLR-TCIVYMVLGYQNH
+                                                                            
+
+ADN_4_315       QKPMHWMSISMIKILNQRLGKFCAKFPNLSSLNNTMENWLK-ILLNVRALLLLFQSLNL-
+ANR_2_60        QKPMHWMSISMIKILNQRLGKFCAKFPNLSSLNNTMENWLK-ILLNVRALLLLFQSLNL-
+ANS_2_1125      QKPMHWMSISMIKILNQRLGKFCAKFPNLSSLNNTMENWLK-ILLNVRALLLLFQSLNL-
+ANT_2_59        QKPMHWMSISMIKILNQRLGKFCAKFPNLSSLNNTMENWLK-ILLNVRALLLLFQSLNL-
+ANV_5_26        QKPMHWMSISMIKILNQRLGKFCAKFPNLSSLNNTMENWLK-ILLNVRALLLLFQSLNL-
+AMI_4_1095      KLLLWWTLASM--IITNKHGMFCMMYANLLFLTTITMICRD-FPPNAR-MPLLCPFLNLY
+CRE_2_2169      KLLLWWTLASM--IITNKHGMFCMMYANLLFLTTITMICRD-FPPNAR-MPLLCPFLNLY
+BTA_5_2190      KLLLWWTLASM--IITNKHGMFCMMYANLLFLTTITMICRD-FPPNAR-MPLLCPFLNLY
+ATS_3_1299      KLLLWWTLASM--IITNKHGMFCMMYANLLFLTTITMICRD-FPPNAR-MPLLCPFLNLY
+ATS_3_1301      KLLLWWTLASM--IITNKHGMFCMMYANLLFLTTITMICRD-FPPNAR-MPLLCPFLNLY
+BBP_3_1300      KLLLWWTLASM--IITNKHGMFCMMYANLLFLTTITMICRD-FPPNAR-MPLLCPFLNLY
+BCR_8_2173      KLLLWWTLASM--IITNKHGMFCMMYANLLFLTTITMICRD-FPPNAR-MPLLCPFLNLY
+CHL_4_944       KLLLWWTLASM--IITNKHGMFCMMYANLLFLTTITMICRD-FPPNAR-MPLLCPFLNLY
+BMQ_5_2172      KLLLWWTLASM--IITNKHGMFCMMYANLLFLTTITMICRD-FPPNAR-MPLLCPFLNLY
+CRE_2_6179      -KPMHWTSVSMI-TISWRLGIFCAMYLSSFSPNIAIIKCFKGFQLN--------------
+MAL_0_2395      WKPMRWMLTSMI-TISWKLGMFCMMYPSLFFLNTAIIKWLRCFQRNAK-MPLHYQFPSLC
+                   : *   **   :. : * **  : .    .         :  *              
+
+ADN_4_315       ------KKMKICIKX----------------
+ANR_2_60        ------KKMKICIKX----------------
+ANS_2_1125      ------KKMKICIKX----------------
+ANT_2_59        ------KKMKICIKX----------------
+ANV_5_26        ------KKMKICIKX----------------
+AMI_4_1095      NWMVIPRIMKTTL------------------
+CRE_2_2169      NWMVIPRIMKTTL------------------
+BTA_5_2190      NWMVIPRIMKTTL------------------
+ATS_3_1299      NWMVIPRIMKTTL------------------
+ATS_3_1301      NWMVIPRIMKTTL------------------
+BBP_3_1300      NWMVIPRIMKTTL------------------
+BCR_8_2173      NWMVIPRIMKTTL------------------
+CHL_4_944       NWMVIPRIMKTTL------------------
+BMQ_5_2172      NWMVIPRIMKTTL------------------
+CRE_2_6179      -----VRVLSICLSLDHCAMMIPRMTSTLFP
+MAL_0_2395      N-ITILRTMKVCL------------------
+                      : :.  :                  

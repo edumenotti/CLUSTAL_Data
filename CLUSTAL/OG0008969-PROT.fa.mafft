@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_357       MLNTRLTEQEMRNQMKSVRVDTILHTMPLTMEDFNLYNIEGLRNLAPQQIQSKQFNLEDI
+CFH_0_1312      MLNTRLTEQEMRNQMKSVRVDTILHTMPLTMEDFKLYNIEGLRNFAPQQLQSKQFNLEDI
+                **********************************:*********:****:**********
+
+CDH_0_357       ASIMFTSGTTGPQKAVPQTFHNHLASATGCKQSLGFDQHTKWLSVLPIYHISGLSVILRS
+CFH_0_1312      ASIMFTSGTTGPQKAVPQTFHNHLASATGCKQSLGFDQHTKWLSVLPIYHISGLSVILRS
+                ************************************************************
+
+CDH_0_357       VIEGFTVRLVGKFNTDKMLHIIKDENMTHVSLVPQTLKWLMDGGLTQPFSIEKILLGGAK
+CFH_0_1312      VIEGFTVRLVGKFNTDKMLNIIKDENMTHVSLVPQTLKWLMDGGLTQPFSIEKILLGGAK
+                *******************:****************************************
+
+CDH_0_357       LSSNLIEQALANQLPIYNSFGMTETCSQFLTASPEMLAQKHDTVGKPSDNVKVKIKNPNQ
+CFH_0_1312      LSSNLIEQALANQLPIYNSFGMTETCSQFLTASPEMLAQKHDTVGKPSDNVKVKIKNPNQ
+                ************************************************************
+
+CDH_0_357       DGHGELLIKGENVMNGYLYPENLTNTFEDGFFKTGDIAEIDEEGFVMVYDRRKDLIISGG
+CFH_0_1312      DGHGELLIKGENVMNGYLYPENLTNTFEDDFFKTGDIAEIDEEGFVMVYDRRKDLIISGG
+                *****************************.******************************
+
+CDH_0_357       ENIYPYQIETVAKQFNEISDACNAFTTNWYDDETIDIAVHTLNEW--IPQLIDKEFNSFR
+CFH_0_1312      ENIYPYQIETVAKQFNEISDAVCVGVAD-------DI-------WGQIP-----------
+                *********************  . .::       **       *  **           
+
+CDH_0_357       EWSVYLEQLEETPATRSAIVMAVYQMYHELSSFSVTYGATISGLTNEQLHKLYETQPRRV
+CFH_0_1312      ----------------------------------VLYFVSENEVNREEL-----------
+                                                  * * .: . :..*:*           
+
+CDH_0_357       KLKWSSQLVEDINAIHQNDIHCDLALDANESLNVESFSKISEVNQANIIYIEEPFKSLEN
+CFH_0_1312      -----------LNHFQQN------------------LAKYK---------VPKAFYQVEN
+                           :* ::**                  ::* .         : :.* .:**
+
+CDH_0_357       LNAMNMSEYPPIAIDEKATSIKDIVSIIEKFPIQLVVLKPYRLGGIDKVLEAIDILKEKN
+CFH_0_1312      L--------------------------------------PY-------------------
+                *                                      **                   
+
+CDH_0_357       IKFVVGGMYEFGLSRYFTAMLAKEGDYPGDVTPSGYYFEGDLVRDSGILKEGMIHFIPPK
+CFH_0_1312      -------------------------------TSTG------------------------K
+                                               *.:*                        *
+
+CDH_0_357       VQKTKLT----KL
+CFH_0_1312      LQRSKVSYKGNQL
+                :*::*::    :*

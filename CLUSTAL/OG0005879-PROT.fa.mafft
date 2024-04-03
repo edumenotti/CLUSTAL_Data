@@ -1,0 +1,128 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABV_6_1712      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+ALV_2_1709      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+AVQ_5_808       MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+AVT_6_5588      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+BBC_8_775       MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+BFM_3_538       MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+BFM_3_539       MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+CFC_2_643       MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+CFN_4_1402      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+CFN_4_5313      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+CFH_0_4715      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+BFG_4_5177      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+BFM_3_5010      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+ANM_2_3703      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+BFE_4_5393      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+BFG_4_5684      MSSTRPELKFSDVSEERNFYKKYTGLPKKPLKTIRLVDKGDYYTVIGSDAIFVADSVYHT
+                ************************************************************
+
+ABV_6_1712      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+ALV_2_1709      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+AVQ_5_808       QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+AVT_6_5588      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+BBC_8_775       QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+BFM_3_538       QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLX------------------------
+BFM_3_539       QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLX------------------------
+CFC_2_643       QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLX------------------------
+CFN_4_1402      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+CFN_4_5313      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLX------------------------
+CFH_0_4715      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+BFG_4_5177      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+BFM_3_5010      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+ANM_2_3703      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLGYKVEI------------
+BFE_4_5393      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLXXXXXXXXXXXXXXXXXP
+BFG_4_5684      QSVLKNCQLDPVTAKNFHEPTKYVTVSLQVLATLLKLCLLDLXXXXXXXXXXXXXXXXXP
+                ***********************************                         
+
+ABV_6_1712      --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSI----------------------
+ALV_2_1709      --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSI----------------------
+AVQ_5_808       --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSI----------------------
+AVT_6_5588      --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSI----------------------
+BBC_8_775       --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSI----------------------
+BFM_3_538       ------------------------------------------------------------
+BFM_3_539       ------------------------------------------------------------
+CFC_2_643       ------------------------------------------------------------
+CFN_4_1402      --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSI----------------------
+CFN_4_5313      ------------------------------------------------------------
+CFH_0_4715      --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSI----------------------
+BFG_4_5177      --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSI----------------------
+BFM_3_5010      --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSI----------------------
+ANM_2_3703      --YDKGWKLIKSASPGNIEQ-----VNELMNMNIDSSIXXXXXXXXXXXXXXXXXXXXXX
+BFE_4_5393      AEYSKRLEL-KCV---EFEEKLLYFYQELVTKKIIDVIYKY-------------------
+BFG_4_5684      AEYSKRLEL-KCV---EFEEKLLYFYQELVTKKIIDVIYKY-------------------
+                                                                            
+
+ABV_6_1712      ------IIASLKV-----QWNSQDG-----------------------------------
+ALV_2_1709      ------IIASLKV-----QWNSQDG-----------------------------------
+AVQ_5_808       ------IIASLKV-----QWNSQDGNCIIGVAFIDTTAYKVG------------------
+AVT_6_5588      ------IIASLKV-----QWNSQDGNCIIGVAFIDTTAYKVG------------------
+BBC_8_775       ------IIASLKV-----QWNSQDG-----------------------------------
+BFM_3_538       ------------------------------------------------------------
+BFM_3_539       ------------------------------------------------------------
+CFC_2_643       ------------------------------------------------------------
+CFN_4_1402      ------IIASLKV-----QWNSQDG-----------------------------------
+CFN_4_5313      ------------------------------------------------------------
+CFH_0_4715      ------IIASLKV-----QWNSQDGNCIIGVAFIDTTAYKVG------------------
+BFG_4_5177      ------IIASLKV-----QWNSQDGNCIIGVAFIDTTAYKVGXXXXXXXXXXXXXXXXXP
+BFM_3_5010      ------IIASLKV-----QWNSQDGNCIIGVAFIDTTAYKVGXXXXXXXXXXXXXXXXXP
+ANM_2_3703      XXXXCLILSIMK--------------CIPT------------------------------
+BFE_4_5393      ------FINYYKKSRQTDQKSNQNS----------STPYKQS-------------QRQVP
+BFG_4_5684      ------FINYYKKSRQTDQKSNQNS----------STPYKQS-------------QRQVP
+                                                                            
+
+ABV_6_1712      ------------------------------------------------------------
+ALV_2_1709      ------------------------------------------------------------
+AVQ_5_808       -MLDIVDNEVYSNLESFLIQLGVKECLVQDLTSNSNSNAEMQKVINVIDRCGCVVTLLKN
+AVT_6_5588      -MLDIVDNEVYSNLESFLIQLGVKECLVQDLTSNSNSNAEMQKVINVIDRCGCVVTLLKN
+BBC_8_775       ------------------------------------------------------------
+BFM_3_538       ------------------------------------------------------------
+BFM_3_539       ------------------------------------------------------------
+CFC_2_643       ------------------------------------------------------------
+CFN_4_1402      ------------------------------------------------------------
+CFN_4_5313      ------------------------------------------------------------
+CFH_0_4715      -MLDIXXXXXXXXXXXXXXXXXT-------------------------------------
+BFG_4_5177      QQLHILL-----------------------------------------------------
+BFM_3_5010      QQLHILL-----------------------------------------------------
+ANM_2_3703      ------------------------------------------------------------
+BFE_4_5393      HSIK--------------------------------------------------------
+BFG_4_5684      HSIK--------------------------------------------------------
+                                                                            
+
+ABV_6_1712      ------------------------------------------------------------
+ALV_2_1709      ------------------------------------------------------------
+AVQ_5_808       SEFSEKDVELDLTKLLGDDLALSLPQKYSKLSMGACNALIGYLQLLSEQDQVGKYELVEH
+AVT_6_5588      SEFSEKDVELDLTKLLGDDLALSLPQKYSKLSMGACNALIGYLQLLSEQDQVGKYELVEH
+BBC_8_775       ------------------------------------------------------------
+BFM_3_538       ------------------------------------------------------------
+BFM_3_539       ------------------------------------------------------------
+CFC_2_643       ------------------------------------------------------------
+CFN_4_1402      ------------------------------------------------------------
+CFN_4_5313      ------------------------------------------------------------
+CFH_0_4715      ------------------------------------------------------------
+BFG_4_5177      ------------------------------------------------------------
+BFM_3_5010      ------------------------------------------------------------
+ANM_2_3703      ------------------------------------------------------------
+BFE_4_5393      ------------------------------------------------------------
+BFG_4_5684      ------------------------------------------------------------
+                                                                            
+
+ABV_6_1712      ------------------------------------------------
+ALV_2_1709      ------------------------------------------------
+AVQ_5_808       KLKEFMKLDASAIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXW
+AVT_6_5588      KLKEFMKLDASAI------XXXXXXXXXXXXXXXXXXXXXXXXXXXXW
+BBC_8_775       ------------------------------------------------
+BFM_3_538       ------------------------------------------------
+BFM_3_539       ------------------------------------------------
+CFC_2_643       ------------------------------------------------
+CFN_4_1402      ------------------------------------------------
+CFN_4_5313      ------------------------------------------------
+CFH_0_4715      ----YMKK----------------------------------------
+BFG_4_5177      ------------------------------------------------
+BFM_3_5010      ------------------------------------------------
+ANM_2_3703      ------------------------------------------------
+BFE_4_5393      ------------------------------------------------
+BFG_4_5684      ------------------------------------------------
+                                                                

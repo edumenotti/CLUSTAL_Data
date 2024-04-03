@@ -1,0 +1,29 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BFE_4_106       ---------------------------MANKSKREIDEQESSDDELKTLSFGSLKKAETV
+BFG_4_113       ---------------------------MANKSKREIDEQESSDDELKTLSFGSLKKAETV
+BMD_5_215       MSYYFKNLKPDLNSDVEEDDGNLLESIMANKSKREIDEQESSDDELKTLSFGSLKKAETV
+BMD_5_222       MSYYFKNLKPDLNSDVEEDDGNLLESIMANKSKREIDEQESSDDELKTLSFGSLKKAETV
+CBF_5_121       ---------------------------MANKSKREIDEQESSDDELKTLSFGSLKKAETV
+CKK_4_106       ---------------------------MANKSKREIDEQESSDDELKTLSFGSLKKAETV
+CKS_5_90        ---------------------------MANKSKREIDEQESSDDELKTLSFGSLKKAETV
+                                           *********************************
+
+BFE_4_106       IDEEDFKDTKPVHKKPITTTX---------------------------------------
+BFG_4_113       IDEEDFKDTKPVHKKPITTTX---------------------------------------
+BMD_5_215       IDEEDFKDTKPVHKKPITTTYREESFDEDEDSEDQSDEDAGFFEEDSEDETHHGQKVPKK
+BMD_5_222       IDEEDFKDTKPVHKKPITTTYREESFDEDEDSEDQSDEDAGFFEEDSEDETHHGQKVPKK
+CBF_5_121       IDEEDFKDTKPVHKKPITTTX---------------------------------------
+CKK_4_106       IDEEDFKDTKPVHKKPITTTX---------------------------------------
+CKS_5_90        IDEEDFKDTKPVHKKPITTTX---------------------------------------
+                ********************                                        
+
+BFE_4_106       ----------------------------
+BFG_4_113       ----------------------------
+BMD_5_215       KSKHAPVEQSSKKRVPRVRNIPGLEIPX
+BMD_5_222       KSKHAPVEQSSKKRVPRVRNIPGLEIPX
+CBF_5_121       ----------------------------
+CKK_4_106       ----------------------------
+CKS_5_90        ----------------------------
+                                            

@@ -1,0 +1,36 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ASN_8_2604      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSDDKLNNEGMDQDFSTQIDLP
+BFN_4_6553      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSNDKLNNEGMDQDFSTQIDLP
+BFV_8_567       MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSDDKLNNEGMDX---------
+BGD_8_2279      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSNDKLNNEGMDQDFSTQIDLP
+BGD_8_2285      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSNDKLNNEGMDQDFSTQIDLP
+BGF_8_4536      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSDDKLNNEGMDX---------
+BGG_8_4553      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSDDKLNNEGMDX---------
+BGL_1_4831      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSDDKLNNEGMDX---------
+BGM_1_2322      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSDDKLNNEGMDQDFSTQIDLP
+BGN_1_323       MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSDDKLNNEGMDX---------
+BGQ_1_494       MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSDDKLNNEGMDX---------
+BGS_1_2199      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSNDKLNNEGMDQDFSTQIDLP
+BME_1_385       MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSNDKLNNEGMDQDFSTQIDLP
+BME_1_5750      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSNDKLNNEGMDQDFSTQIDLP
+CKV_5_1786      MVIEDKNTSAASQPVLGSENLVASITNDSHLSSQSQKVSSDDKLNNEGMDX---------
+                ****************************************:*********          
+
+ASN_8_2604      KKP------------------------------------------------------
+BFN_4_6553      KKPMSEYITVSLLCLCVALGGFMFGWDTGTISGFVA---------------------
+BFV_8_567       ---------------------------------------------------------
+BGD_8_2279      KKP------------------------------------------------------
+BGD_8_2285      KKP------------------------------------------------------
+BGF_8_4536      ---------------------------------------------------------
+BGG_8_4553      ---------------------------------------------------------
+BGL_1_4831      ---------------------------------------------------------
+BGM_1_2322      KKP------------------------------------------------------
+BGN_1_323       ---------------------------------------------------------
+BGQ_1_494       ---------------------------------------------------------
+BGS_1_2199      KKP------------------------------------------------------
+BME_1_385       KKPMSEYVTVSLLCLCVALGGFMFGWDTGTISGFVAQTDFLRRFGMKHKDGTYYLSN
+BME_1_5750      KKPMSEYVTVSLLCLCVALGGFMFGWDTGTISGFVAQTDFLRRFGMKHKDGTYYLSN
+CKV_5_1786      ---------------------------------------------------------
+                                                                         

@@ -1,0 +1,92 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEC_8_2523      TSAVEETLIETLTMTDHKAVTTVVVSVVVPITTNPRNSNQTGMKNYPNCQLSKRISMLNT
+ANP_2_1776      ------------------------------------------------------------
+CBR_2_2219      ------------TMTDHKAVTTVVVSVVVPITTNPRNSNQTGMKNYPNCQLSKRISMLNT
+CHQ_4_2205      ------------------------------------------------------------
+AFE_4_2734      ------------------------------------------------------------
+CIG_2_2356      ------------------------------------------------------------
+CIG_2_2377      ------------------------------------------------------------
+BRP_4_5872      ------------TMTDHKAVTTVVVSVVVPITTNPRNSNQTGMKNYPNCQLSKRISMLNT
+                                                                            
+
+AEC_8_2523      KVFATDRTVRLLSSERKMKLFPDTIFQSQSPLSMKLVSQTTSMKKLKDLTNQLAFNVRVG
+ANP_2_1776      ------------------------------------------------------------
+CBR_2_2219      KVFATDRTVRLLSSERKMKLFPDTIFQSQSPLSMKLVSQTTSMKKLKDLTNQLAFNVRVG
+CHQ_4_2205      ------------------------------------------------------------
+AFE_4_2734      ------------------------------------------------------------
+CIG_2_2356      ------------------------------------------------------------
+CIG_2_2377      ------------------------------------------------------------
+BRP_4_5872      KVFATDRTVRLLSSERKMKLFPDTIFQSQSPLSMKLVSQTTFMKRLKDLTNQLAFNVRVG
+                                                                            
+
+AEC_8_2523      QWLYLVGTWSVLLPLVPVRLCLIVYQVLFISTLNHYWLQAMDQLFWFWLQLENWLFKFKQ
+ANP_2_1776      ------------------------------------------------------------
+CBR_2_2219      QWLYLVGTWSVLLPLVPVRLCLIVYQVLFISTLNHYWLQAMDQLFWFWLQLENWLFKFKQ
+CHQ_4_2205      ------------------------------------------------------------
+AFE_4_2734      ------------------------------------------------------------
+CIG_2_2356      ------------------------------------------------------------
+CIG_2_2377      ------------------------------------------------------------
+BRP_4_5872      QWLYLVGTWLVLLPLVPVRLCLIVYQVLFISTLNHYWLQAMDQLFWFWLQLENWLFKFKQ
+                                                                            
+
+AEC_8_2523      NVPSLVIVLESEIPVSTVVFQKVNKSEIYLVALKLLLLLQVDLICRLVRLIRESLIWFLM
+ANP_2_1776      ------------------------------------------------------------
+CBR_2_2219      NVPSLVIVLESEIPVSTVVFQKVNKSEIYLVALKLLLLLQVDLICRLVRLIRESLTWFLM
+CHQ_4_2205      ------------------------------------------------------------
+AFE_4_2734      ------------------------------------------------------------
+CIG_2_2356      ------------------------------------------------------------
+CIG_2_2377      ------------------------------------------------------------
+BRP_4_5872      NVPSLVIVPESEIPVSTVVFQKVNKSEIYLVALKLLLLLQVDLICRLVRLIRESLTWFLM
+                                                                            
+
+AEC_8_2523      KLIECIWVLNLKSERLLIKSDLIDKPCGLPLGQRRSNPLITMIQFKFKLVLNYLPPIILL
+ANP_2_1776      ------------------------------------------------------------
+CBR_2_2219      KLIECIWVLNLKSERLLIKSDLIDKPCGLPLGQRRSNPLITMIQFKFKLVLNYLPPIILL
+CHQ_4_2205      ------------------------------------------------------------
+AFE_4_2734      ------------------------------------------------------------
+CIG_2_2356      ------------------------------------------------------------
+CIG_2_2377      ------------------------------------------------------------
+BRP_4_5872      KLIECIWVLNLKSERLLIKSDLIDKPCGLPLGQRRSNPLITMIQFKFKLVLNYLPPIILL
+                                                                            
+
+AEC_8_2523      RSSKLFLISKREIVTSTKQPLKTTNTRHSLLLRKECAMISPSIEKMDGPPWLFMVTKTKE
+ANP_2_1776      ------------------------------------------------------------
+CBR_2_2219      RSSKLFLISKREIVTSTKQPLKTTNTRHSLLLRKECAMISPSIEKMDGPPWLFMVTKTKE
+CHQ_4_2205      ------------------------------------------------------------
+AFE_4_2734      ------------------------------------------------------------
+CIG_2_2356      ------------------------------------------------------------
+CIG_2_2377      ------------------------------------------------------------
+BRP_4_5872      RSSKLFLISKREIVTSTKQPLKTTNTRHSLLLRKECAMISPSIEKMDGPPWLFMVTKTKE
+                                                                            
+
+AEC_8_2523      NVTGFYKSLET----------------MSKVSITLSTTICQVTLKIMFTESVELVEQVLL
+ANP_2_1776      ---------------------------MSKVSITLSTTICQVTLKIMFTESVELVEQVLL
+CBR_2_2219      NVTGFYKSLET----------------MSKVSITLSTTICQVTLKIMFTESVELVEQVLL
+CHQ_4_2205      ---------------------------MSKVSITLSTTICQVTLKIMFTESVELVEQVLL
+AFE_4_2734      ---------------------------MSKVSITLSTTICQVTLKIMFTESVELVEQVLL
+CIG_2_2356      ---------------------------MSKVSITLSTTICQVTLKIMFTESVELVEQVLL
+CIG_2_2377      ---------------------------MSKVSITLSTTICQVTLKIMFTESVELVEQVLL
+BRP_4_5872      NVTGFYKSLETVDPQLWLLLMWPPEVSMSKVSITLSTTICQVTLKIMFTESVELVEQVLL
+                                           *********************************
+
+AEC_8_2523      ALLYLSSPNKTKVVLNSLSEKLIKIFLPNYNTTGDLMVAVTQDTVVVVVVVVAMAVEVVT
+ANP_2_1776      VLLYLSSPNKTKVVLNSLSEKLIKIFLPNYNTTGDLMVAVTQDTVVVVVVVVAMAVEVVT
+CBR_2_2219      VLLYLSSPNKTKVVLNSLSEKLIKIFLPNYNTTGDLMVAVTQDTVVVVVVVVAMAVEVVT
+CHQ_4_2205      VLLYLSSPNKTKVVLNSLSEKLIKIFLPNYNTTGDLMVAVTQDTVVVVVVVVAMAVEVVT
+AFE_4_2734      VLLYLSSPNKTKVVLNSLSEKLIKIFLPNYNTTGDLMVAVTQDTVVAVVVVAAMAVEVVT
+CIG_2_2356      VLLYLSSPNKTKVVLNSLSEKLIKIFLPNYNTTGDLMVAVTQDTVVAVVVVAAMAVEVVT
+CIG_2_2377      VLLYLSSPNKTKVVLNSLSEKLIKIFLPNYNTTGDLMVAVTQDTVVAVVVVAAMAVEVVT
+BRP_4_5872      VLLYLSSPNKTKVVLNSLSEKLIKIFLPNYNTTGDLMVAVTQDTVVAVVVVAAMAVEVVT
+                .*********************************************.****.********
+
+AEC_8_2523      VVAVVVTAVTGREMVAGVTEVVQTX
+ANP_2_1776      VVAVVVTAVTGREMVAGVTEVVQTX
+CBR_2_2219      VVAVVVTAVTGREMVAGVTEVVQTX
+CHQ_4_2205      VVAVVVTAVTGREMVAGVTEVVQTX
+AFE_4_2734      VVAVVVTAVTGREMVAGVTEVVQTX
+CIG_2_2356      VVAVVVTAVTGREMVAGVTEVVQTX
+CIG_2_2377      VVAVVVTAVTGREMVAGVTEVVQTX
+BRP_4_5872      VVAVVVVAVTGREMVAGVTEVVQTX
+                ******.***************** 

@@ -1,0 +1,26 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEE_3_124       MMNFFTSKSSNQDTGFSSQHQHPNGQNNGNNNSSTAGNGNGYPCKLVSSGPCASSNNGAL
+CBF_5_5405      MMNFFTSKSSNQDTGFSSQHQHPNGQNNGNNNSSTAGNGNGYPCKLVSSGPCASSNNGTL
+                **********************************************************:*
+
+AEE_3_124       FTNFTLQTATPTTAISQDLYAMGTTGITSENALFQMKSMNNGISSVNNNNSNTPTIITTS
+CBF_5_5405      FTNFTLQTATPTTAISQDLYAMGTTGITSENALFQMKSMNNGISSX--------------
+                *********************************************               
+
+AEE_3_124       QEETNAGNVHGDTGGNSLQNSEDDNFSSSSTTKCLLSSTSSLSINQREAAAAAYGPDTDI
+CBF_5_5405      ------------------------------------------------------------
+                                                                            
+
+AEE_3_124       PRGKLEVTIIEARDLVTRSKDSQPYVVCTFESSEFISNGPESLGAINNNNNNNNNNQHNQ
+CBF_5_5405      ------------------------------------------------------------
+                                                                            
+
+AEE_3_124       NQHINNNNENTNPDAASQHHNNNSGWNGSQLPSIKEHLKKKPLYTHRSSSQLDQLNSCSS
+CBF_5_5405      ------------------------------------------------------------
+                                                                            
+
+AEE_3_124       VTDPSKRSSNSSSGS
+CBF_5_5405      ---------------
+                               

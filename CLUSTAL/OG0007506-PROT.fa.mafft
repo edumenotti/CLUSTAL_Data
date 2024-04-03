@@ -1,0 +1,17 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AER_4_636       -HHTHTPHPQPH---------YPNTTLL---QPP------TCLQTYPPLPYSPLVTLPHS
+ASM_8_487       LH----PHPHPHTTP----TPHPH-------NPN------TTL--FP-------FNMSHN
+BAQ_7_4101      -HTTPTPTPHPHTTPTHHTTPTPHTLPLPYSNPDHPVSQLTLR--YPT---SRLVTLSHS
+                 *    * *:**          *:       :*       *    :*       ..:.*.
+
+AER_4_636       --TIPLPT-TIHLSTYYH-QPTV-----------HHNRYP-PTTRIQLHYRLPYHRPCPT
+ASM_8_487       LPSITLPTHSLPPIQPYHSQPPSISLLTTTQVIFHHNRYP-PIAHIQLHCHLPCHYPTIH
+BAQ_7_4101      --TIPLPT-TIHPSTSYH-QPTA-----------HHNRYPYPITHIQFHYHLPYHYPTIH
+                  :*.*** ::     ** **.            ****** * ::**:* :** * *   
+
+AER_4_636       HCTVV----HPPYNVYKSX
+ASM_8_487       QLLLTILLFYPPYNVNKSX
+BAQ_7_4101      HVLLTILLFYPPYNVNKSX
+                :  :.    :***** ** 

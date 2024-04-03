@@ -1,0 +1,58 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BBT_3_584       ------------------------------------------------------------
+BVF_5_6480      ------------------------------------------------------------
+BVG_4_6890      ------------------------------------------------------------
+CFG_4_66        ------------------------------------------------------------
+CNG_4_20        ------------------------------------------------------------
+CNN_1_6630      ------------------------------------------------------------
+CNS_4_6444      ------------------------------------------------------------
+YCR_0_1514      ------------------------------------------------------------
+YCR_0_1515      ------------------------------------------------------------
+BEF_7_323       -----------------PRTYSVRT-VIGYMKQLTVHQPFCPWGFWFYLYSLMTTKLALR
+CHQ_4_481       -----------RKMWLFPRTYSVRT-VIGYMKQLTVHQPFCPWGFWFYLYSLMTTKLALR
+ETR_0_2369      WILSTNPVHISRKMWLFLRKYSVRTGVMYFMKWLIINLCFCLTCVSYCFYFFMMASLPFR
+                                                                            
+
+BBT_3_584       -------------------------------------------------------YLIMG
+BVF_5_6480      ------------------------------------------------------------
+BVG_4_6890      ------------------------------------------------------------
+CFG_4_66        ------------------------------------------------------------
+CNG_4_20        ------------------------------------------------------------
+CNN_1_6630      ------------------------------------------------------------
+CNS_4_6444      ------------------------------------------------------------
+YCR_0_1514      -------------FYSGLDHRSVMKISNVSYW-KLSHGNLRRGKNGGQLHTRTSIYLITI
+YCR_0_1515      -------------FYSGLDHRSVMKISNVSYW-KLSHGNLRRGKNGGQLHTRTSIYLITI
+BEF_7_323       FLRFSSYSL-SFCFYSGLDHRSVMKISNVSYW-KLSHGNLRRGKNGGQLHTRTSIYLIMG
+CHQ_4_481       FLRFSSYSL-SFCFYSGLDHRSVMKISNVSYW-KLSHGNLRRGKNGGQLHTRTSIYLIMG
+ETR_0_2369      FIHYRAFAFPCWVHLASSRNRSEIKILRLIFWSKSSNVNLLGGRNGGLSHTTTNIYLIMG
+                                                                            
+
+BBT_3_584       YGILPTTFTVMKIATVIF-VLLREELSRSKRN---RQ--PAMLKTHNQMTKPLAHQTKPL
+BVF_5_6480      -------------------VLLREELSRSKRN---RQ--PAMLKTHNQMTKPLAHQTKPL
+BVG_4_6890      -------------------VLLREELSRSKRN---RQ--PAMLKTHNQMTKPLAHQTKPL
+CFG_4_66        ---LPTTFTVMKIATVIF-VLLREELSRSKRN---RQ--PAMLKTHNQMTKPLAHQTKPL
+CNG_4_20        ---LPTTFTVMKIATVIF-VLLREELSRSKRN---RQ--PAMLKTHNQMTKPLAHQTKPL
+CNN_1_6630      -------------------VLLREELSRSKRN---RQ--PAMLKTHNQMTKPLAHQTKPL
+CNS_4_6444      -------------------VLLREELSRSKRN---RQ--PAMLKTHNQMTKPLAHQTKPL
+YCR_0_1514      YGTLSTTFTVMKIATVIF-VLLREELSRSKRN---RQ--PAMLKTHNQMTKPLAHQTKPL
+YCR_0_1515      YGTLSTTFTVMKIATVIF-VLLREELSRSKRN---RQ--PAMLKTHNQMTKPLAHQTKPL
+BEF_7_323       YGILPTTFTVMKIATVIF-VLLREELSRNQRNEYWRQEYPGVX-----------------
+CHQ_4_481       YGILPTTFTVMKIATVIF-VLLREELSRNQRNEYWRQEYPGVX-----------------
+ETR_0_2369      YGTLPTAFMMKKIATVIFYTLLREKLSRSKGI---HQ--PAMLQTHNQMTKPLAHQMKPL
+                                   .****:***.:     :*  *.:                  
+
+BBT_3_584       SLLVLVPDR-TLSSSPRQPKSNNNFKRNIGDKSILVSMSFX
+BVF_5_6480      SLLVLVPDR-TLSSSPRQPKSNNNFKRNIGDKSILVSMSFX
+BVG_4_6890      SLLVLVPDR-TLSSSPRQPKSNNNFKRNIGDKSILVSMSFX
+CFG_4_66        SLLVLVPDR-TLSSSPRQPKSNNNFKRNIGDKSILVSMSFX
+CNG_4_20        SLLVLVPDR-TLSSSPRQPKSNNNFKRNIGDKSILVSMSFX
+CNN_1_6630      SLLVLVPDR-TLSSSPRQPKSNNNFKRNIGDKSILVSMSFX
+CNS_4_6444      SLLVLVPDR-TLSSSPRQPKSNNNFKRNIGDKSILVSMSFX
+YCR_0_1514      SLLVLVPDR-TLSSSPRQPKSNNNFKRNIGDKSILVSMSFX
+YCR_0_1515      SLLVLVPDR-TLSSSPRQPKSNNNFKRNIGDKSILVSMSFX
+BEF_7_323       -----------------------------------------
+CHQ_4_481       -----------------------------------------
+ETR_0_2369      NFLLFTPAQITKSTFPRQLRSNNKLRIITGKDDIPISMRIX
+                                                         

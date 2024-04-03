@@ -1,0 +1,44 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AAQ_3_1300      -------HKPNHKQLGSVRPFLAFHKPPYLAVVLFAPIPALLLPRTTFLNQLQAEVHNTR
+AAQ_3_1453      -------HKPNHKQLGSVRPFLAFHKPPHSAVV---PIPPLLLPRTTFLNQLQVEVHNTK
+CPK_4_2334      NMLHGVLHKPNHKQLGSVRPFLAFHKPPYLAVVLFAPIPPLLLPRTTFLNQLQVEVHNTK
+CPL_4_2382      NMLHGVLHKPNHKQLGSVRPFLAFHKPPYLAVVLFAPIPPLLLPRTTFLNQLQVEVHNTK
+                       *********************: ***   ***.*************.*****:
+
+AAQ_3_1300      TGQALLFRCHKPLGLSSTQLIHKGLRQPHPRLMFLRPPKRLTGSPNMLHGVLHKPNHKQL
+AAQ_3_1453      TGQALLFRCHKPLGLSSTQLIHKGLRQPHPRLMFLRPPKRLTGSPNMLHGVLHKPNHKQL
+CPK_4_2334      TGQALLFRCHKPXGLSSTQLIHKGLRQPHPXLMFLRPPKRLTGSPNMLHGVLHKPNHKQL
+CPL_4_2382      TGQALLFRCHKPXGLSSTQLIHKGLRQPHPXLMFLRPPKRLTGSPNMLHGVLHKPNHKQL
+                ************ ***************** *****************************
+
+AAQ_3_1300      GSVHPRLAPHKPLNHLQYHWGYRPYNCLMPHLRGLKLTPFSPKVLSQSPPILVAHRIAFI
+AAQ_3_1453      GSVRPFLAFHKP-----------------PYL-----------------------AVVLF
+CPK_4_2334      GSVRQFLAFHKP-----------------PHL-----------------------AVVLF
+CPL_4_2382      GSVRQFLAFHKP-----------------PHL-----------------------AVVLF
+                ***:  ** ***                 *:*                        :.::
+
+AAQ_3_1300      APVKLILRLPYLLIQIFHLQKALRRPLLTLPLHLDRPASIHLLVYLTQQKPANMALVTHS
+AAQ_3_1453      API----------------------PALLLP-----------------------------
+CPK_4_2334      API----------------------PALLLP-----------------------------
+CPL_4_2382      API----------------------PALLLP-----------------------------
+                **:                      * * **                             
+
+AAQ_3_1300      LILLQIQPKPSQLYLIFTKLRQIKTIHRRLRNRPAECKRLCFLLSQQRTVLLRNTQRGAR
+AAQ_3_1453      --------------------------------------RTTFLNQLQAEV--HNTRTG--
+CPK_4_2334      --------------------------------------RTTFLNQLQAEV--HNTKTG--
+CPL_4_2382      --------------------------------------RTTFLNQLQAEV--HNTKTG--
+                                                      *  ** . *  *  :**: *  
+
+AAQ_3_1300      QQVLLIRHPYHIKHFPLKSALILSVLQRLLPVLLQQALQSPFYQPLALRYYLLQYPKVQK
+AAQ_3_1453      -QALLFR----------------------------------CHKPLGX------------
+CPK_4_2334      -QALLFR----------------------------------CHKPLGX------------
+CPL_4_2382      -QALLFR----------------------------------CHKPLGX------------
+                 *.**:*                                   ::**.             
+
+AAQ_3_1300      ILLLLKLLIPKFLLLPKLLVLALKCLLLLRRPLLAR
+AAQ_3_1453      ------------------------------------
+CPK_4_2334      ------------------------------------
+CPL_4_2382      ------------------------------------
+                                                    

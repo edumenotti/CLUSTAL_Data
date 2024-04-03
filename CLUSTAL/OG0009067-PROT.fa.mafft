@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_904       MKLLKDIEDNRQLTEEHMKEFIDTLLNPNVKEDNKLKLLKSYTKKEMQQIELTYLVKHLI
+CFH_0_1960      MKLLKDIEDNRQLTEEHMKEFIDILLNPNVKEDNKLKLLKSYTKKEMQQIELTYLVKHLI
+                *********************** ************************************
+
+CDH_0_904       STIYPVQPYYEGAMCVCGTGGDGSNSFNISTTVAFIVASAGVPVVKHGNKSITSHSGSTD
+CFH_0_1960      STMYPVQPYYEGAMCVCGTGGDGSNSFNISTTVAFIVASAGVPVVKHGKKSITSHSGSTD
+                **:*********************************************:***********
+
+CDH_0_904       VLQAMGIQTSEVASVIKQLDTKGLSFISATDSYPIMKYIQPIRKQIKSPTIFNLVGPLIN
+CFH_0_1960      VLQAMGIQTSEVASVIKQLDTKGLSFISATDSYPIMKYIQPIRKQIKSPTIFNLVGPLIN
+                ************************************************************
+
+CDH_0_904       PFKLTYQVMGVYDVTQLGKIAQTIKDLGRKRAIVVHGANGMDEATLSGDNIIYEINQNKP
+CFH_0_1960      PFKLTYQVMGVYDVTQLDKIAQTIKDLGRKRAIVVHGANGMDEATLSGNNIIYEINQNKP
+                *****************.******************************:***********
+
+CDH_0_904       IKQYTINAKNYGLTIADNDALKGGTPEENKNIAINILNGNDQSSKRDVVILNAAIALYVA
+CFH_0_1960      IKQYTINAKNYGLTIADNDALKGGTPEENKNIAINILNGNDQSSKKDVVILNAAIALYVA
+                *********************************************:**************
+
+CDH_0_904       EKAKDIHSGIKL------------------------------------------------
+CFH_0_1960      EKAKDIHSGIKLEGYYQQKLEELEYVDVSNKKKLINALKNEKKLSVIAEIKTKSPTLKQL
+                ************                                                
+
+CDH_0_904       ------------------------------------------------------------
+CFH_0_1960      PHRNLIDQVKEYELYGANAISILTDEKYFGGSFERLSELTVETSLPVLCKDFIVDKIQID
+                                                                            
+
+CDH_0_904       ------------------------------------------------------------
+CFH_0_1960      VAKKAGASIVLLIVNILTDKELKTLYDYATELNLEVLVEVHDRNELNRAHQLSPKIIGVN
+                                                                            
+
+CDH_0_904       --------------------------------------VRHLIDSG-------------Q
+CFH_0_1960      NRDLKRFVTNVEHTNQILKFKKKGFHYISESGIHSTHDVEHILQSGIDGLLVGESLMKCN
+                                                      *.*:::**             :
+
+CDH_0_904       AMKQY---LKMGV---
+CFH_0_1960      DLSQFLPSLKMEKIHQ
+                 :.*:   ***     

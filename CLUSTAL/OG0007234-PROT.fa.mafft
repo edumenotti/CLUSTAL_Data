@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AQH_2_2909      ------------------------------------------------------------
+AVN_5_1582      MLKWKLPYNVGHQQQQQQQQQRQQQQAAVPQQPLDPLTQSTAETWLSIASLAETLGDGDR
+CAT_0_5502      -----MEQPAQQQQQQQQQQQQQQQQAAVPQQPLDPLTQSTAETWLSIASLAETLGDGDR
+CMG_6_3840      -----MEQPAQQQQQQQQQQQQQQQQAAVPQQPLDPLTQSTAETWLSIASLAETLGDGDR
+                                                                            
+
+AQH_2_2909      --MAYDATLQFNPSSAKALTSLAHLYRSRDMFQRAAELYERALLVNPELSDVWATLGHCY
+AVN_5_1582      AAMAYDATLQFNPSSAKALTSLAHLYRSRDMFQRAAELYERALLVNPELSDVWATLGHCY
+CAT_0_5502      AAMAYDATLQFNPSSAKALTSLAHLYRSRDMFQRAAELYERALLVNPELSDVWATLGHCY
+CMG_6_3840      AAMAYDATLQFNPSSAKALTSLAHLYRSRDMFQRAA------------------------
+                  **********************************                        
+
+AQH_2_2909      LMLDDLQRAYNAYQQALYHLSNPNVPKLWHGIGILYDRYGSLDYAEEAFAKVLELDPHFE
+AVN_5_1582      LMLDDLQRAYNAYQQALYHLSNPNVPKLWHGIGILYDRYGSLDYAEEAFAKVLELDPHFE
+CAT_0_5502      LMLDDLX-----------------------------------------------------
+CMG_6_3840      ------------------------------------------------------------
+                                                                            
+
+AQH_2_2909      KANEIYFRLGIIYKHQGKWSX---------------------------------------
+AVN_5_1582      KANEIYFRLGIIYKHQGKWSQALECFRYILPQPPAPLQEWDIWFQLGSVLESMGEWQGAK
+CAT_0_5502      ------------------------------------------------------------
+CMG_6_3840      ------------------------------------------------------------
+                                                                            
+
+AQH_2_2909      -------------------------------------
+AVN_5_1582      EAYEHVLAQNQHHAKVLQQLGCLYGMSNVQFYDPQKA
+CAT_0_5502      -------------------------------------
+CMG_6_3840      -------------------------------------
+                                                     

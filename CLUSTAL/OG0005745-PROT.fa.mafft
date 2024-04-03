@@ -1,0 +1,94 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AKD_2_20        --------------------------------------------QVDEIVLVGGSTRIPK
+ALI_5_6187      ---------------------------------------------VDEIVLVGGSTRIPK
+AQH_2_13        ---------------------------------------------VDEIVLVGGSTRIPK
+ATB_1_6         ---------------------------------------------VDEIVLVGGSTRIPK
+BVC_6_6454      ---------------------------------------------VDEIVLVGGSTRIPK
+CAT_0_5485      SLFEGIDFYTSITRARFEELCADLFRSTLDPVEKVLRDAKLDKSQVDEIVLVGGSTRIPK
+CIF_2_6882      ---------------------------------------------VDEIVLVGGSTRIPK
+CIG_2_6600      ----------------------------------------LDKSQVDEIVLVGGSTRIPK
+CIL_2_6882      ----------------------------------------LDKSQVDEIVLVGGSTRIPK
+CKA_3_6632      ---------------------------------------------VDEIVLVGGSTRIPK
+CKN_4_7368      ---------------------------------------------VDEIVLVGGSTRIPK
+CMG_6_6972      ---------------------------------------------VDEIVLVGGSTRIPK
+CRE_2_5         ---------------------------------------------VDEIVLVGGSTRIPK
+BHK_4_6238      ---------------------------------------------VDEIVLVGGSTRIPK
+BMD_5_3945      ---------------------------------------------VDEIVLVGGSTRIPK
+AST_1_5936      ------------------------------------------------------------
+ASV_1_6337      ---------------------------------------------VDEIVLVGGSTRIPK
+CNP_1_20        --------------------------------------------------------RIPK
+CNR_1_30        --------------------------------------------------------RIPK
+AVS_5_125       --------ESSLTRARFEDLNAALFKSTLEPVEQVLKDAKISKSQIDEVVLVGGSTRIPK
+CNM_1_6658      -------------------------RSTLDPVEKVLRDAKLDKSQVDEIVLVGGSTRIPK
+                                                                            
+
+AKD_2_20        VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+ALI_5_6187      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+AQH_2_13        VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+ATB_1_6         VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+BVC_6_6454      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+CAT_0_5485      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESSK-TQDLLLLD------VAP
+CIF_2_6882      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGD----------------------
+CIG_2_6600      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+CIL_2_6882      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+CKA_3_6632      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+CKN_4_7368      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+CMG_6_6972      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+CRE_2_5         VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESS-------------------
+BHK_4_6238      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESSK-TQDLX------------
+BMD_5_3945      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESSK-TQDLLLLDNQLESIAYS
+AST_1_5936      -------YFNGKEPNRSINPDEAVAYGAAVQAAILTGDESSK-TQDLLLLD---------
+ASV_1_6337      VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESSK-TQDLLLLD---------
+CNP_1_20        VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESSK-TQDLLLLD---------
+CNR_1_30        VQKLVTDYFNGKEPNRSINPDEAVAYGAAVQAAILTGDESSK-TQDLLLLD---------
+AVS_5_125       VQKLLSDFFDGKQLEKSINPDEAVAYGAAVQGAILTGQSTSDETKDLLLLD---------
+CNM_1_6658      VQKLVTDYFNGKEPNRS-------------------------------------------
+                       :*:**: ::*                                           
+
+AKD_2_20        ------------------------------------------------------------
+ALI_5_6187      ------------------------------------------------------------
+AQH_2_13        ------------------------------------------------------------
+ATB_1_6         ------------------------------------------------------------
+BVC_6_6454      ------------------------------------------------------------
+CAT_0_5485      LSLGIETAGGVMTKLIPRNSTIPTKKSEVX------------------------------
+CIF_2_6882      ------------------------------------------------------------
+CIG_2_6600      ------------------------------------------------------------
+CIL_2_6882      ------------------------------------------------------------
+CKA_3_6632      ------------------------------------------------------------
+CKN_4_7368      ------------------------------------------------------------
+CMG_6_6972      ------------------------------------------------------------
+CRE_2_5         ------------------------------------------------------------
+BHK_4_6238      ------------------------------------------------------------
+BMD_5_3945      LKNTISEAG---DKLEQADKDTVTKKAEETISWLDSNTTASKEEFDDKLKELQDIANPIM
+AST_1_5936      ----------V-------------------------------------------------
+ASV_1_6337      ----------V-------------------------------------------------
+CNP_1_20        ----------V-------------------------------------------------
+CNR_1_30        ----------V-------------------------------------------------
+AVS_5_125       ----------V-------------------------------------------------
+CNM_1_6658      ------------------------------------------------------------
+                                                                            
+
+AKD_2_20        ----------------------------------------
+ALI_5_6187      ----------------------------------------
+AQH_2_13        ----------------------------------------
+ATB_1_6         ----------------------------------------
+BVC_6_6454      ----------------------------------------
+CAT_0_5485      ----------------------------------------
+CIF_2_6882      ----------------------------------------
+CIG_2_6600      ----------------------------------------
+CIL_2_6882      ----------------------------------------
+CKA_3_6632      ----------------------------------------
+CKN_4_7368      ----------------------------------------
+CMG_6_6972      ----------------------------------------
+CRE_2_5         ----------------------------------------
+BHK_4_6238      ----------------------------------------
+BMD_5_3945      SKLYQAGGAPGGAAGGAPGGFPGGAPPAPEAEGPTVEEVD
+AST_1_5936      ---------------------------APLSLG--IETA-
+ASV_1_6337      ---------------------------APLSLG--IETA-
+CNP_1_20        ---------------------------APLSLG--IETA-
+CNR_1_30        ---------------------------APLSLG--IETA-
+AVS_5_125       ---------------------------APLSLGVGMQGDX
+CNM_1_6658      ----------------------------------------
+                                                        

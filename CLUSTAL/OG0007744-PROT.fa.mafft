@@ -1,0 +1,27 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BDM_5_150       MIKRWLSVNRKKLHPEKNTQGNDEINRKATSLKKTKGSGDPSIAKSPSAKSSTSSIPSNL
+BDM_5_160       MIKRWLSVNRKKLHPEKNTQGNDEINRKATSLKKTKGSGDPSIAKSPSAKSSTSSIPSNL
+BTA_5_56        ------------------------------------------------------------
+                                                                            
+
+BDM_5_150       ASHERRSKFSSQTDNLAGNKHYHEHYHNMASTSDEREYDSSTTYEDRAFDTESSILFTTM
+BDM_5_160       ASHERRSKFSSQTDNLAGNKHYHEHYHNMASTSDEREYDSSTTYEDRAFDTESSILFTTM
+BTA_5_56        ----------------------------MASTSDEREYDSSTKYEDRAFDTESSILFTTM
+                                            **************.*****************
+
+BDM_5_150       TDLMPYGDGSNKVFGYENFGNTCYCNSVLQCLYNIPEFRCNVLRYPERVAAVNRIRKSDL
+BDM_5_160       TDLMPYGDGSNKVFGYENFGNTCYCNSVLQCLYNIPEFRCNVLRYPERVAAVNRIRKSDL
+BTA_5_56        TDLMPYGDGSNKVFGYENFGN---------------------------------------
+                *********************                                       
+
+BDM_5_150       KGSKIRVFTNESFETSTNSGNSNTGYQSNDNEDAHNHHHLQQSDQDNSSSSTQEKQNNFE
+BDM_5_160       KGSKIRVFTNESFETSTNSGNSNTGYQSNDNEDAHNHHHLQQSDQDNSSSSTQEKQNNFE
+BTA_5_56        ------------------------------------------------------------
+                                                                            
+
+BDM_5_150       RKRNS
+BDM_5_160       RKRNS
+BTA_5_56        -----
+                     

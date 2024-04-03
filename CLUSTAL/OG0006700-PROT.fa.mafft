@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEN_3_4         ----------------------NLNRGSNHCYPNRYLYSSNHRSSNRYLYSSNYYYSSNH
+AKL_3_5842      ----------RIRQRYQHSCSNNLNRGSNHCYP------------NRYLYSSNYYYSSNH
+CRE_2_73        ----------RIRQRYQHSCSNNLNRGSNHCYP------------NRYLYSSNYYYSSNH
+CIK_2_6521      WLSNYHIFSSRIRQRYQHSCSNNLNRGSNHCYP------------NRYLYSSNYYYSSNH
+BHG_2_6401      ----------------------NLNRGSNHCYP------------NRYLYSSNYYFSSNH
+CPA_4_2         -----------------------------HCYP------------NRYLYSSNYYYSSYH
+                                             ****            **********:** *
+
+AEN_3_4         RX--------------------------
+AKL_3_5842      RSSNRX----------------------
+CRE_2_73        RSSNRY------------FYSSNYYYX-
+CIK_2_6521      RSSX------------------------
+BHG_2_6401      CYPNRY------------LYSSNYX---
+CPA_4_2         RSSNRYYYSSYHRSSNRYFYSSNYYYSX
+                                            

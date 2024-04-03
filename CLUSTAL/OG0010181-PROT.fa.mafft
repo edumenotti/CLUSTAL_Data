@@ -1,0 +1,66 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_5838      MNKPNNFSNDKPTQKNHYSIRKFTVGTASIIVGSFLFFGQAHAEEGTGGNTWQREAVGTV
+CFH_0_1733      MNKPNNFSNDKPTQKNHYSIRKFTVGTASIIVGSFLFFGQAHAEEGTEGNTWQREAVGTV
+                *********************************************** ************
+
+CDH_0_5838      NTAGQPSTTSQDQNNQAGTGTPAATQTGQDGAKTNTADHQGQGTAEATGTQTNQADATQT
+CFH_0_1733      NTAGQPSTTSQDQNNQAGTGTPAATQTGQDGAKTNTADHQGQGTAEATGTQTNQADATQT
+                ************************************************************
+
+CDH_0_5838      NPSPNTTGQDNQATSTPQGTQTAGTGQTAPTTATGDTQAKPHAETADQGNGATVTPSPQN
+CFH_0_1733      NPSPNTTGQDNQATSTPQGTQTAGTGQTAPTTATGDTQAKPHAETADQGNGATVTPSPQN
+                ************************************************************
+
+CDH_0_5838      DATSPAASTKPEATTGQDATSKPGTTENNSTGQGAQAGTVGAGTPTPSQPETQPNTDTTG
+CFH_0_1733      DATSPAASTKPEATTGQDATSKPGTTENNSTGQGAQAGTVGTGTPTPSQPETQPNTDTTG
+                *****************************************:******************
+
+CDH_0_5838      SAKPSTSTTDQEKPNTEDHGEQTGTSAGNAQNAAGTPGETKPNQATPAPNNQDTQPGNTN
+CFH_0_1733      SAKPSTSTTDQEKPNTEDHGEQTGTSAGNAQNAAGTPGETKPNQATPAPNNQDTQPGNTN
+                ************************************************************
+
+CDH_0_5838      NGAATTPQPGTTGQDTQGTQSKPGTTETGTAQNTGTTDTQAKPEASNQNAGTTVTPPADK
+CFH_0_1733      NDAATTPQPGTTGQDTQGTQSKPGTTETGTAQNTGTTDTQAKPEAGNQNAGTTVTPPADK
+                *.*******************************************.**************
+
+CDH_0_5838      DNQAGQGTAGTAGTPAPDTNNGATGTPGTTAPENNNQAGQGTASTAGTPTPESNNGATGT
+CFH_0_1733      DNQAGQGTAGTAGTPAPETNNGATGTPGTTAPENNNQAGQGTTGTTGTPAPDTNNGATGT
+                *****************:************************:.*:***:*::*******
+
+CDH_0_5838      PGQTTPNGQDNQEKPSAPGTDQQGQDTPQTGTPGQGTQTGENGTGTTVTPSPNQNQAGNE
+CFH_0_1733      PG----------------------------------------------------------
+                **                                                          
+
+CDH_0_5838      NQTKPGTDNNAGVTTPDQGTAPKPGTDQNPGTDTPDQNNQAGQGTTGTTGTPGQGTQTGE
+CFH_0_1733      ------------------------------------------------------------
+                                                                            
+
+CDH_0_5838      NGAGTTVTPSPDQNTEVKPNDNGIAKPDTNNNAGATTPDQGTDTDQKPGTNTPDQNNQAG
+CFH_0_1733      ------------------------------------------------------------
+                                                                            
+
+CDH_0_5838      QGTTGATGTPAPDTNNGANGTPGQTTPSGQDNQEKPSTPGNENQEKPDTNNAEQAKPTTP
+CFH_0_1733      -----------------------QTTPSGQDNQEKPSTPGNENQEKPDTNNAEQAKPTTP
+                                       *************************************
+
+CDH_0_5838      EQNGQLGAGV---------------------KPGTANPDQNTEVKPDDNGNPKPGTNTPD
+CFH_0_1733      EQNGQLGAGVKPGTANPDQNTEVKPNENGNTKPGTANPDQNTEVKPDDNGNPKPGTNTPD
+                **********                     *****************************
+
+CDH_0_5838      QNNQAGQGTTGATGTPAPDTNNGSTGTPGQTTPSGQDNQEKPDTNNNGQAKPTTPEQNGQ
+CFH_0_1733      QNNQAGQGTTGATGTPAPDTNNGSTGTPGETTPSGQDNQEKPDTNNNGQAKPTTPEQNGQ
+                *****************************:******************************
+
+CDH_0_5838      LGAGVKPGTANPDQNTEVTTPNENGNPKPGTVTPDQNNEPTGAQTGGDKGGQTGGDTGRN
+CFH_0_1733      LGAGV----------------------KPGTVTPDQNNEPTGAQTGG-------------
+                *****                      ********************             
+
+CDH_0_5838      TGEDKGGQTGGDTGNTDSDNKQTVVNDEVKTSNGSKDKSELPETGLSNESDYATTVFGTL
+CFH_0_1733      ---DTGGNTGGDTGNTDSDNKQTVVNDEVKTSNGSKDKSELPETGLSDESDYATTVFGTI
+                   *.**:***************************************:***********:
+
+CDH_0_5838      SLAASLLLLRRQRKESK
+CFH_0_1733      TLAASLLLLRRQRKESK
+                :****************

@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_5563      MMVIDQMIDDFNAFIRLSVQLKYTLTKYCSNLPFDVDFDPTFENTVIEAIRYLFFLLNLK
+AVP_5_4525      ------------------------------------------------------------
+AVQ_5_3033      ------------------------------------------------------------
+AVR_6_769       ------------------------------------------------------------
+AVS_5_3168      ------------------------------------------------------------
+AVT_6_5454      ------------------------------------------------------------
+AVN_5_2023      MMVIDQMIDDFNAFIRLSVQLKYTLTKYCSSLPFDVDFDPTFENTVIEAIRYLFFLLNLK
+ANM_2_1284      ------------------------------------------------------------
+PAR_0_498       ------------------------------------------------------------
+                                                                            
+
+ANL_2_5563      LIDSSKQNFKAPDLLLKYWDHLKNTGHYINGAETVIPNEFLKLTLRLVHKLQFYLLKQQN
+AVP_5_4525      ------------------------------------------------------------
+AVQ_5_3033      ------------------------------------------------------------
+AVR_6_769       ------------------------------------------------------------
+AVS_5_3168      ------------------------------------------------------------
+AVT_6_5454      ------------------------------------------------------------
+AVN_5_2023      LIDSSKQNFKAPDLLLKYWDHLK-------XXXXXXXXXXXXXXXXXXHKLQFYLLKQQN
+ANM_2_1284      ------------------------------------------------------------
+PAR_0_498       ------------------------------------------------------------
+                                                                            
+
+ANL_2_5563      FLPTFANASEAEKWLSSIFENLGAMKRKLNRFSNILVKAFQNSAVYQINHNAQLVKKLKD
+AVP_5_4525      ------------------------MKRKLNRFSNILVKAFQNSAVYQINHNAQLVKKLKD
+AVQ_5_3033      ------------------------MKRKLNRFSNILVKAFQNSAVYQINHNAQLVKKLKD
+AVR_6_769       ------------------------MKRKLNRFSNILVKAFQNSAVYQINHNAQLVKKLKD
+AVS_5_3168      ------------------------MKRKLNRFSNILVKAFQNSAVYQINHNAQLVKKLKD
+AVT_6_5454      ------------------------MKRKLNRFSNILVKAFQNSAVYQINHNAQLVKKLKD
+AVN_5_2023      FPPTFANASEAEKWLSSILENLGAMKRKLNRFSNILVKAFQNSAVYQINHNAQLVKKLKD
+ANM_2_1284      ------------------------------------------------------------
+PAR_0_498       ------------------------MKRKLNRFSNILTKAFQNSAVYQINHNVRLVKKLKD
+                                                                            
+
+ANL_2_5563      AHYFLVYSGNTFESSGVYMFAAPELLGCDNDTILRILRNKSIGCDLVPKLDIGNNLNVYD
+AVP_5_4525      AHYFLVYSGNTFESSGVYMFAAPELLGCDNDTILRILRNKSIGCDLVPKLDIGNNLNVYD
+AVQ_5_3033      AHYFLVYSGNTFESSGVYMFAAPELLGCDNDTILRILRNKSIGCDLVPKLDIGNNLNVYD
+AVR_6_769       AHYFLVYSGNTFESSGVYMFAAPELLGCDNDTILRILRNKSIGCDLVPKLDIGNNLNVYD
+AVS_5_3168      AHYFLVYSGNTFESSGVYMFAAPELLGCDNDTILRILRNKSIGCDLVPKLDIGNNLNVYD
+AVT_6_5454      AHYFLVYSGNTFESSGVYMFAAPELLGCDNDTILRILRNKSIGCDLVPKLDIGNNLNVYD
+AVN_5_2023      AHYFLVYSGNTFESSGVYMFAAPELLGCDNDTILRILRNKSIGCDLVPKLDIGNNLNVYD
+ANM_2_1284      ------------------MFAAPELLGCDNDTILRILRNKSIGCDLVPKLDIGNNLNVYD
+PAR_0_498       AGYFLVYPGNNLESDGVYLLAAPELLGCDNDTILRIFKNKSIGCDLIPKLDIGNNLNMYD
+                                  ::****************::********:**********:**
+
+ANL_2_5563      ITTKETDLNILVSKGEDSKGIPYYRVVANSSSDLDRHAHQSKKKNFSTDPFDQHLDEKEQ
+AVP_5_4525      ITTKETDLNILVSKGEDSKGIPYYRVVANSSSDLDRHAHQSKKKNFSTDPFDQHLDEKEQ
+AVQ_5_3033      ITTKETDLNILVSKGEDSKGIPYYRVVANSSSDLDRHAHQSKKKNFSTDPFDQHLDEKEQ
+AVR_6_769       ITTKETDLNILVSKGEDSKGIPYYRVVANSSSDLDRHAHQSKKKNFSTDPFDQHLDEKEQ
+AVS_5_3168      ITTKETDLNILVSKGEDSKGIPYYRVVANSSSDLDRHAHQSKKKNFSTDPFDQHLDEKEQ
+AVT_6_5454      ITTKETDLNILVSKGEDSKGIPYYRVVANSSSDLDRHAHQSKKKNFSTDPFDQHLDEKEQ
+AVN_5_2023      ITTKETDLNILVSKGEDSKGIPYYRVVANSSSDLDRHAHQSKKKNFSTDPFDQHLDEKEQ
+ANM_2_1284      ITTKETDLNTLVSKGEDSKGIPYYRVVANSSSDLDRHAHQSKKKNFSTDPFDQHLDEKEQ
+PAR_0_498       VTTKETGSNILVSKEEDSKGIPYYRVVANSPNDLDRHVHQSKREKSTAAPYDQRLDEENS
+                :*****. * **** ***************..*****.****::: :: *:**:***::.
+
+ANL_2_5563      --------------------------
+AVP_5_4525      --------------------------
+AVQ_5_3033      --------------------------
+AVR_6_769       --------------------------
+AVS_5_3168      --------------------------
+AVT_6_5454      --------------------------
+AVN_5_2023      --------------------------
+ANM_2_1284      --------------------------
+PAR_0_498       EVLELELALSSLGVLVVLFPGEPVVW
+                                          

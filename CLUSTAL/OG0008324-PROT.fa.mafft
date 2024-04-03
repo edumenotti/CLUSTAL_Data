@@ -1,0 +1,26 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVN_5_4776      MNCTTNNTNNTGQNTKNSLGSSFNSSNYTSYRFQTCLTDQIISEAQTWSLSSLFNFSWVV
+CLA_5_2660      ------------------------------------------------------------
+                                                                            
+
+AVN_5_4776      SYFVMGASRMIFRYGWYLATLSLLRIPKWIFFKLHHVQFTLSFWLILFALAVIVFVTYTI
+CLA_5_2660      ----MGASRMIFRYGWYLATLSLLRIPKWIFFKLHHVQFTLSFWLILFALAVIVFVTYTI
+                    ********************************************************
+
+AVN_5_4776      MKERILSQYKRLTPEFLPLENTGKSGSSANINAASTQSANAPPAIGSSTTGASSIIDSKK
+CLA_5_2660      MKERILSQYKRLTPEFLPLENTGKSGSSANINAASTQSANAPPAIGSSTTGASSIIDSKK
+                ************************************************************
+
+AVN_5_4776      HSLKDGNENETFLSSYLDQFLSAIKIFGYLEKPVFHDLTKNMKTQKMDEGEILLLDSTIG
+CLA_5_2660      HSLKDGNENETFLSSYLDQFLSAIKIFGYLEKPVFHDLTKNMKTQKMDEGEILLLDSTIG
+                ************************************************************
+
+AVN_5_4776      FAIVVEGTLQLYHEVDHSDKXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXWLHSSEKWT
+CLA_5_2660      FAIVVEGTLQLYHEVDHSDKD--------------------------------HGDE--T
+                ********************                                 *..*  *
+
+AVN_5_4776      GKVSTAKYSQARKPADLPREHFKLIHAFHVLVWQQ-------------
+CLA_5_2660      DXXXXXXXXXXXXXXXXXXXMMTLITTTPNLVLLTSSMKKMNPLVTFI
+                .                    :.** :   **                

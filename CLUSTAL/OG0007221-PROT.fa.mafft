@@ -1,0 +1,26 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANM_2_4919      MARRKFKFLVSMQRLAKFKPHELENAEFLLRAYPDLQIAYLDEEPPLSEGEEPRIYSALI
+BCD_8_5743      MARRKFKFLVSMQRLAKFKPHELENAEFLLRAYPDLQIAYLDEEPPLSEGEEPRI-----
+BDT_6_5782      MARRKFKFLVSMQRLAKFKPHELENAEFLLRAYPDLQIAYLDEEPPLSEGEEPRI-----
+BNB_4_5700      MARRKFKFLVSMQRLAKFKPHELENAEFLLRAYPDLQIAYLDEEPPLSEGEEPRI-----
+                *******************************************************     
+
+ANM_2_4919      DGHCEILENGRRRPKFRVQLSGNPILGDGKSDNQNHALIFYRGEYIQLIDANQDNYLEEC
+BCD_8_5743      ------------------------------------------------------------
+BDT_6_5782      ------------------------------------------------------------
+BNB_4_5700      ------------------------------------------------------------
+                                                                            
+
+ANM_2_4919      LKIRSVLAEFEELGIEQIHPYTPGLKYEDQSTNHPVAIVGAREYIFSENSGVLGDVAAGK
+BCD_8_5743      ------------------------------------------------------------
+BDT_6_5782      ------------------------------------------------------------
+BNB_4_5700      ------------------------------------------------------------
+                                                                            
+
+ANM_2_4919      EQTFGTLFAXXXXXXXXXXXXXXXXXWW
+BCD_8_5743      ----------------------------
+BDT_6_5782      ----------------------------
+BNB_4_5700      ----------------------------
+                                            

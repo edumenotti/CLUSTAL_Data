@@ -1,0 +1,101 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABV_6_3075      MSFWPFGQNLNHSNINKILDEYFHVLHELERINPSVGKAIPAIFNNVQERGTSDSLDSIP
+ALV_2_3003      MSFWPFGQNLNHSNINKILDEYFHVLHELERINPSVGKAIPAIFNNVQERGTSDSLDSIP
+CFP_4_2090      MSFWPFGQNLNHSNINKILDEYFHVLHELERINPSVGKAIPAIFNNVQERGTSDSLDSIP
+BGE_8_1837      MSFWPFGQNLNHSNINKILDEYFHVLHELERINPSVGKAIPAIFNNVQERGTSDSLDSIP
+AVN_5_884       MSFWPFGQNLNHSNINKILDEYFHVLHELERINPSVGKAIPAIFNNVQERGTSDSLDSIP
+AVP_5_137       --------------------------HELERINPSVGKAIPAIFNNVQERGTSDSLDSIP
+AVQ_5_386       --------------------------HELERINPSVGKAIPAIFNNVQERGTSDSLDSIP
+CFN_4_1809      MSFWPFGQNLNHSNINKILDEYFHVLHELERINPSVGKAIPAIFNNVQERGTSDSLDSIP
+AVS_5_1472      --------------------------HELERINPSVGKAIPAIFNNVQERGTSDSLDSIP
+                                          **********************************
+
+ABV_6_3075      EEYSHGDEVKTARGDQKSRFEKDDQQERYEKEEEERSMNSSESSTTSFSSGSTSKTDLDE
+ALV_2_3003      EEYSHGDEVKTARGDQKSRFEKDDQQERYEKEEEERSMNSSESSTTSFSSGSTSKTDLDE
+CFP_4_2090      EEYSHGDEVKTARGDQKSRFEKDDQQERYEKEEEERSMNSSESSTTSFSSGSTSKTDLDE
+BGE_8_1837      EEYSHGDEVKTARGDQKSRFEKDDQQERYEKEEEERSMNSSESSTTSFSSGSTSKTDLDE
+AVN_5_884       EEYSHGDEVKTARGDQKSRFEKDDQQDRYEKEEEERSMNSSESSTTSFSSGSTSKTDLDE
+AVP_5_137       EEYSHGDEVKTARGDQKSRFEKDDQQERYEKEEEEWSMNSSESSTTSFSSGSTSKTDLDE
+AVQ_5_386       EEYSHGDEVKTARGDQKSRFEKDDQQERYEKEEEEWSMNSSESSTTSFSSGSTSKTDLDE
+CFN_4_1809      EEYSHGDEVKTARGDQKSRFEKDDQQERYEKEEEERSMNSSESSTTSFSSGSTSKTDLDE
+AVS_5_1472      EEYSHGDEVKTARGDQKSRFEKDDQQERYEKEEEERSMNSSESSTTSFSSGSTSKTDLDE
+                **************************:******** ************************
+
+ABV_6_3075      EDISNATAPMMVTTKNLDNSFIERMLVETELLNELSRQNKTLLDFICFGFFFDKKTNKKV
+ALV_2_3003      EDISNATAPMMVTTKNLDNSFIERMLVETELLNELSRQNKTLLDFICFGFFFDKKTNKKV
+CFP_4_2090      EDISNATAPMMVTTKNLDNSFIERMLVETELLNELSRQNKTLLDFICFGFFFDKKTNKKV
+BGE_8_1837      EDISNATAPMMVTTKNLNNSFIERMLVETELLNELSRQNKTLLDFICFGFFFDKKTNKKV
+AVN_5_884       EDISNATAPMMVTTKNLDNSFIERMLVETELLNELSRQNKTLLDFICFGFFFDKKTNKKV
+AVP_5_137       EDISNATAPMMVTTKNLDNSFIERMLVETELLNELSRQNKTLLDFICFGFFFDKKTNKKV
+AVQ_5_386       EDISNATAPMMVTTKNLDNSFIERMLVETELLNELSRQNKTLLDFICFGFFFDKKTNKKV
+CFN_4_1809      EDINNATAPMMVTTKNLDNSFIERMLVETELLNELSRQNKTLLDFICFGFFFDKKTNKKV
+AVS_5_1472      EDISNATAPMMVTTKNLDNSFIERMLVETELLNELSRQNKTLLDFICFGFFFDKKTNKKV
+                ***.*************:******************************************
+
+ABV_6_3075      NNMEYLVDQLMECISKIKTATTVDLNNLIDYQEQQQLDDSSQEDIYVESDTEQEEEKEDD
+ALV_2_3003      NNMEYLVDQLMECISKIKTATTVDLNNLIDYQEQQQLDDSSQEDIYVESDTEQEEEKEDD
+CFP_4_2090      NNMEYLVDQLMECISKIKTATTMDLNNLIDYQEQQQLDDSSQEDIYVESDTEQEEEKEDD
+BGE_8_1837      NNMEYLVDQLMECISKIKTATTVDLNNLIDYQEQQQLDDSSQEDIYVESDTEQEEEKEDD
+AVN_5_884       NNMEYLVDQLMECISKIKTATTVDLNNLIDYQEQQQLDDSSQEDIYVESDTEQEEEKEDD
+AVP_5_137       NNMEYLV-----------------------------------------------------
+AVQ_5_386       NNMEYLVDQLMECISKIKTATTVDLNNLIDYQEQQQLDDSSQEDIYVESDTEQEEEKEDD
+CFN_4_1809      NNMEYLVDQLMECISKIKTATTVDLNNLIDYQEQQQLDDSSQEDIYVESDTEQEEEKEDD
+AVS_5_1472      NNMEYLV----XXXXXXXXXXXXXXXXXXDYQEQQQLDDSSQEDIYVESDTEQEEEKEDD
+                *******                                                     
+
+ABV_6_3075      NNSNNKKRRKRGSSSF--------------------------------------------
+ALV_2_3003      NNSNNKKRRKRGSSSFXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSH--
+CFP_4_2090      NNSNNKKRRKRGSSSF-------------XXXXXXXXXXXXXXXXXXXXXXXXXXXSH--
+BGE_8_1837      NNSNNKKRRKRGSSSFGNDDINNNDDDDDANEDDESAYLTKATIISEIFSLDIWLISESL
+AVN_5_884       NNSNNKKRRKRGSSSX--------------------------------------------
+AVP_5_137       ------------------------------------------------------------
+AVQ_5_386       NNSNNKKRRKRGSSSFGNDDINN-------------------------------------
+CFN_4_1809      NNSNNKKRRKRGSSSF--------------------------------------------
+AVS_5_1472      NNSNNKKRRKRGSSSFGNDDINNDDDDDDANEDDESAYLTKATIISEIFSLDIWLISESL
+                                                                            
+
+ABV_6_3075      ---------------------------------------------XXXXXXXXXXXXXXX
+ALV_2_3003      ------------------------------------------------------------
+CFP_4_2090      ------------------------------------------------------------
+BGE_8_1837      VKNQSYLNKIWSIINQPNFNSENSPLVPIFLKINQNLLLTRQDQYLNFIRTERSFVDDML
+AVN_5_884       -------------XXXXXXXXXXXXXXXXFDKGHHNI-----------------------
+AVP_5_137       ------------------------------------------------------------
+AVQ_5_386       ------------------------------------------------------------
+CFN_4_1809      -----------XXXXXXXXXXXXXXXXXXXXXLRHMV-----------------------
+AVS_5_1472      VKNQSYLNKIWSIINQPNFNSENSPLVPIFLKINQNLLLTRQDQYLNFIRTERSFVD---
+                                                                            
+
+ABV_6_3075      XXXXXXXXXXXXXRVIS-------------------------------------------
+ALV_2_3003      ------------------------------------------------------------
+CFP_4_2090      ------------------------------------------------------------
+BGE_8_1837      KHVDISLLMDFFLKIISTDKIESPTGIIELVYDQNLISKCLNFLNNKESPADIQACVGDF
+AVN_5_884       ------------------------------------------------------------
+AVP_5_137       ------------------------------------------------------------
+AVQ_5_386       ------------------------------------------------------------
+CFN_4_1809      ------------------------------------------------------------
+AVS_5_1472      ------------------------------------------------------------
+                                                                            
+
+ABV_6_3075      ------------------------------------------------------------
+ALV_2_3003      ------------------------------------------------------------
+CFP_4_2090      ------------------------------------------------------------
+BGE_8_1837      LKALIAISANAPLDDISIGPNSLTRQLASPESIAKLVDIMINQRGAPLNTTVSIVIELIR
+AVN_5_884       ------------------------------------------------------------
+AVP_5_137       ------------------------------------------------------------
+AVQ_5_386       ------------------------------------------------------------
+CFN_4_1809      -------------------------------------D----------------------
+AVS_5_1472      -------------------------------------DM---------------------
+                                                                            
+
+ABV_6_3075      -----------
+ALV_2_3003      -----------
+CFP_4_2090      -----------
+BGE_8_1837      KTIQTTIKLIF
+AVN_5_884       -----------
+AVP_5_137       -----------
+AVQ_5_386       -----------
+CFN_4_1809      -----------
+AVS_5_1472      -----------
+                           

@@ -1,0 +1,17 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BHS_1_4609      MTRSSVLADALNAINNAEKTGKRQVLLRPSSKVIIKFLQVTLANSNXXXXXXXXXXXXXX
+BTE_3_3117      ------------------------------------------------------------
+CKK_4_2976      ------------------------------------------------------------
+                                                                            
+
+BHS_1_4609      XXXCGVISPRFNVKIGDIEKWTANLLPARQFGYVILTTSAGIMDHEEARRKHVSGKILGF
+BTE_3_3117      ---CGVISPRFNVKIGDIEKWTANLLPARQFGYVILTTSAGIMDHEEARRKHVSGKILGF
+CKK_4_2976      ---CGVISPRFNVKIGDIEKWTANLLPARQFGYVILTTSAGIMDHEEARRKHVSGKILGF
+                   *********************************************************
+
+BHS_1_4609      VY
+BTE_3_3117      VY
+CKK_4_2976      VY
+                **

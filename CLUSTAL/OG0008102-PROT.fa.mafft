@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALD_4_354       MPEQAQQGEQSVKRRRVTRACDECRKKKVKCDGQQPCIHCTVYSYECTYKKPTKRTQNSG
+BBC_8_4967      MPEQAQQGEQSVKRRRVTRACDECRKKKVKCDGQQPCIHCTVYSYECTYKKPTKRTQNSG
+                ************************************************************
+
+ALD_4_354       NSGVLTLGNVTTGPSSSTVVAAAASNPNKLLSNIKTERAILPGASTIPASNNPSKPRKYK
+BBC_8_4967      NSGVLTLGNVTTGPSSSTVVAAAASNPNKLLSNIKTERAILPGASTIPASNNPSKPRKYK
+                ************************************************************
+
+ALD_4_354       TKSTRLQSKIDRYKQIFDEVFPQLPDIDNLDIPVF-------------------------
+BBC_8_4967      TKSTRLQSKIDRYKQIFDEVFPQLPYIDNLDIPVFLQIFHNFKRDSQSFLDDTVKEYTLI
+                ************************* *********                         
+
+ALD_4_354       -------------------------------------------
+BBC_8_4967      VNDSSXXXXXXXXXXXXXXXXXRSNQYFLQIQKTPLQTNFYLT
+                                                           

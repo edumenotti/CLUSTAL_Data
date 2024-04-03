@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BSM_3_371       ----FIMESNLTKVEQHTLHKNISNNRLEIYHHIKKEKSPKGKSSISPQARAFLEQVFRR
+CPK_4_4766      MIFVFIMESNLTKVEQHTLHKNISNNRLEIYHHIKKEKSPKGKSSISPQARAFLEQVFRR
+                    ********************************************************
+
+BSM_3_371       KQSLNSKEKEEVAKKCGITPLQVRVW------------------VCNMRIKLKYILY---
+CPK_4_4766      KQSLNSKEKEEVAKKCGITPLQVRVWFIMESNLTKVEQHTLHKNISNNRLEIYHHIKKEK
+                **************************                  :.* *::: : :    
+
+BSM_3_371       ------------------------------------------------
+CPK_4_4766      SPKGKSSISPQARAFLEQVFRRKQSLNSKEKEEVAKKCGITPLQVRVW
+                                                                

@@ -1,0 +1,83 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BAF_6_124       ------------------------------------------------------------
+BAF_6_436       ------------------------------------------------------------
+CIG_2_4232      ------------------------------------------------------------
+CIH_2_359       ------------------------------------------------------------
+CIH_2_360       ------------------------------------------------------------
+BAF_6_126       LETKQQQKAGRIFESVKSSGQEEVGKFPKRPFKDFDYNWPRINERGARKYNGSTNGGATT
+BAF_6_963       LETKQQQKAGRIFESVKSSGQEEVGKFPKRPFKDFDYNWPRINERGARKYNGSTNGGATT
+                                                                            
+
+BAF_6_124       ------------------------------------------------------------
+BAF_6_436       ------------------------------------------------------------
+CIG_2_4232      ------------------------------------------------------------
+CIH_2_359       ------------------------------------------------------------
+CIH_2_360       ------------------------------------------------------------
+BAF_6_126       FDKPSKSFITPVFKHKWQSHSKRTRFVSILIRKNFYRATVHITRLYIELSENKFGSAHRF
+BAF_6_963       FDKPSKSFITPVFKHKWQSHSKRTRFVSILIRKNFYRATVHITRLYIELSENKFGSAHRF
+                                                                            
+
+BAF_6_124       -------------------------------------HTVHRVRQDLRTRRGWFGRNFKQ
+BAF_6_436       -------------------------------------HTVHRVRQDLRTRRGWFGRNFKQ
+CIG_2_4232      ------------------------------------------------------------
+CIH_2_359       --------------------------------AEKWQHTVHRVRQDLRTRRGWFGRNFKQ
+CIH_2_360       --------------------------------AEKWQHTVHRVRQDLRTRRGWFGRNFKQ
+BAF_6_126       YFRFRGDQRVGHLSRGICRIHYISLLLSGRARAEKWHHTVHRVRQDLRTRRGWFGRNFKQ
+BAF_6_963       YFRFRGDQRVGHLSHGICRVHYISLLLSGRARAEKWQHTVHRVRQDLRTRRGWFGRNFKQ
+                                                                            
+
+BAF_6_124       LYQFGGKFHSTKANTKLSKYIISSRHNFRGPMGIVVFWQYRKVILRNYIPQDSKIQTNW-
+BAF_6_436       LYQFGGKFHSTKANTKLSKYIISSRHNFRGPMGIVVFWQYRKVILRNYIPQDSKIQTNW-
+CIG_2_4232      ------------------------------------------------------------
+CIH_2_359       LYQFSGKFHSTKANTKLSKYIISSRHNFRGPMGIVVFWQYRKVILRNYISQDSKIQTNWR
+CIH_2_360       LYQFSGKFHSTKANTKLSKYIISSRHNFRGPMGIVVFWQYRKVILRNYISQDSKIQTNWR
+BAF_6_126       LYQFGGKFHSTKANTKLSKYIISSRHNFRGPMGIVVFWQYRKVILRNYIPQDSKIQTNW-
+BAF_6_963       LYQFGGKFHSTKANTKLSKYIISSRHNFRGPMGIVVFWQYRKVILRNYIPQDSKIQTNW-
+                                                                            
+
+BAF_6_124       LQSRRHYNANHKITPCPWSSRNRNNVMQSTLPKIICEAGIFRRFRYHYLGDNNRIVLCTH
+BAF_6_436       LQSRRHYNANHKITPCPWSSRNRNNVMQSTLPKIICEAGIFRRFRYHYLGDNNRIVLCTH
+CIG_2_4232      ------------------------------------------------------------
+CIH_2_359       LQSRRHYNANHKITPCPWSSGNRNNVMQSTLPKIICEAGIFRRFRYHYLGDNNRIVLCTH
+CIH_2_360       LQSRRHYNANHKITPCPWSSGNRNNVMQSTLPKIICEAGIFRRFRYHYLGDNNRIVLCTH
+BAF_6_126       LQSRRHYNANHKITPCPWSSRNRNNVMQSTLPKIICEAGIFRRFRYHYLGDNNRIVX---
+BAF_6_963       LQSRRHYNANHKITPCPWSSRNRNNVMQSTLPKIICEAGIFRRFRYHYLGDNNRIVLCTH
+                                                                            
+
+BAF_6_124       LFMVWRIVKKYINSIQRHGAFKG-GTRDLYMPFDRRGSDSKFKNKSVTEINRWNPRCEHF
+BAF_6_436       LFMVRRIVKKYINSIQRHGAFKGQGTRDLYMPFD-RGSNSKFKNKFVKKVNRWNPSCEHF
+CIG_2_4232      --------------------------RDLYMPFD-RGSNSKFKNKFVKKVNRWNPSCEHF
+CIH_2_359       LFMVWRIVKKYINSIQRHGAFKGQGTRDLYMPFD-RGSNSKFKNKFVKKVNRWNPSCEHF
+CIH_2_360       LFMVWRIVKKYINSIQRHGAFKGQGTRDLYMPFD-RGSNSKFKNKFVKKVNRWNPSCEHF
+BAF_6_126       ------------------------------------------------------------
+BAF_6_963       LFMV--------------------------------------------------------
+                                                                            
+
+BAF_6_124       TYATQTEKISSLPGISHLFTRFIGCFYSSGWCFLYWKSNSRGHSLHFKGLHRGVDNFRCN
+BAF_6_436       TYATQAEKI-PLFSISHVFIRFIRCFCSSRWSFLCWKSNS-GHPPHSKGLHRGDDNFRYN
+CIG_2_4232      TYATQAEKI-PLFSISHVFIRFIRCFCSSRWSFLCWKSNS-GHPPHSKGLHRGDDNFRYN
+CIH_2_359       TYATQAEKI-PLFSISHVFIRFIRCFCSSRWSFLCWKSNS-GHPPHSKGLHRGDDNFRYN
+CIH_2_360       TYATQAEKI-PLFSISHVFIRFIRCFCSSRWSFLCWKSNS-GHPPHSKGLHRGDDNFRYN
+BAF_6_126       ------------------------------------------------------------
+BAF_6_963       ------------------------------------------------------------
+                                                                            
+
+BAF_6_124       SFS-CIFQNHVFQIECS-VENCNQVLSMF------FLLHLYPLQTFHPLMSNX-------
+BAF_6_436       SFSRKINWSQVLQISGHFAENCYQMLDRYQWNNKEIAL---DVSVILPDISCRRRVCSGI
+CIG_2_4232      SFSRKINWNQVLQISGHFAENCYQMLDRYQWNNKEIAL---DVSVILPDISCRRRVCSGI
+CIH_2_359       SFSRKINWNQVLQISGHFAENCYQMLDRYQWNNKEIAL---DVSVILPDISCRRRVCSGI
+CIH_2_360       SFSRKINWNQVLQISGHFAENCYQMLDRYQWNNKEIAL---DVSVILPDISCRRRVCSGI
+BAF_6_126       ------------------------------------------------------------
+BAF_6_963       ------------------------------------------------------------
+                                                                            
+
+BAF_6_124       -------------
+BAF_6_436       SYVSAEAERSAEX
+CIG_2_4232      SYVSAEAERSAEX
+CIH_2_359       SYVSAEAERSAEX
+CIH_2_360       SYVSAEAERSAEX
+BAF_6_126       -------------
+BAF_6_963       -------------
+                             

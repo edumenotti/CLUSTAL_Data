@@ -1,0 +1,38 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AER_4_5571      ------------------------------------------------MPAGEPVLEAIF
+ALP_4_6882      ------------------------------NCKENTLLGEFDLKNIPMMPAGEPVLEAIF
+BFN_4_6550      -----------------------------------------------MMPAGEPVLEAIF
+BFS_8_6181      ------------------------------NCKENTLLGEFDLKNIPMMPAGEPVLEAIF
+BGA_7_6144      -----------------------------------------------MMPAGEPVLEAIF
+BGC_8_6244      -----------------------------------------------MMPAGEPVLEAIF
+BGG_8_6189      -----------------------------------------------MMPAGEPVLEAIF
+BGL_1_6269      -----------------------------------------------MMPAGEPVLEAIF
+BGN_1_6018      -----------------------------------------------MMPAGEPVLEAIF
+BGQ_1_6217      ------------------------------NCKENTLLGEFDLKNIPMMPAGEPVLEAIF
+BME_1_19        -----------------------------------------------MMPAGEPVLEAIF
+BPN_2_6439      -----------------------------------------------MMPAGEPVLEAIF
+CFD_4_6444      -----------------------------------------------MMPAGEPVLEAIF
+CGI_4_5827      ------------------------------NCKENTLLGEFDLKNIPMMPAGEPVLEAIF
+CPT_4_5590      ------------------------------NCKENTLLGEFDLKNIPMMPAGEPVLEAIF
+ARL_2_13        TVPTIKRRTFTTVSDNQTTVQFPVYQGERVNCKENTLLGEFDLKNIPMMPAGEPVLEAIF
+                                                                ************
+
+AER_4_5571      EVDANGILKVTAVEKSTX--------
+ALP_4_6882      EVDANGILKVTAVEKSTGKSSNITIS
+BFN_4_6550      EVDANGILKVTAVEKSTX--------
+BFS_8_6181      EVDANGILKVTAVEKSTGKSSNITIS
+BGA_7_6144      EVDANGILKVTAVEKSTX--------
+BGC_8_6244      EVDANGILKVTAVEKSTX--------
+BGG_8_6189      EVDANGILKVTAVEKSTX--------
+BGL_1_6269      EVDANGILKVTAVEKSTX--------
+BGN_1_6018      EVDANGILKVTAVEKSTX--------
+BGQ_1_6217      EVDANGILKVTAVEKSTGKSSNITIS
+BME_1_19        EVDANGILKVTAVEKSTX--------
+BPN_2_6439      EVDANGILKVTAVEKSTX--------
+CFD_4_6444      EVDANGILKVTAVEKSTX--------
+CGI_4_5827      EVDANGILKVTAVEKSTGKSSNITIS
+CPT_4_5590      EVDANGILKVTAVEKSTGKSSNITIS
+ARL_2_13        EVDANG--------------------
+                ******                    

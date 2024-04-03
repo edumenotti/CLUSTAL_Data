@@ -1,0 +1,51 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_2496      ------------------------------------------------------------
+CDH_0_2678      ------------------------------------------------------------
+CDH_0_2765      -----------------------------------------------------------M
+CDH_0_2771      -----------------------------------------------------------M
+CFH_0_1921      MNVLTFDSFGGNPTATVHLWGLDDDKGINDNLLMQVQNIMLDDIQLDGFSLFNPQRAKPM
+                                                                            
+
+CDH_0_2496      ----------------------------------EKDRDTEATVDGPVNSGGTLESTVTI
+CDH_0_2678      ------------------------------------------------------------
+CDH_0_2765      AIKQGTDELVLIRKAGDRKDADKVMWVTELERETEKDRDTEATVDGPVNSGGTLESTVTI
+CDH_0_2771      AIKQGTDELVLIRKAGDRKDANKVMWVTELERETEKDRDTEATVDGPVNSGGTLESTVTI
+CFH_0_1921      AIKQGTDELVLIRKAGDKKDANKVMWVTELERETEKDRDTEATVDGPVNSGGTLESTVTI
+                                                                            
+
+CDH_0_2496      NCYMNQDDTLCDEIEDATEEDTPYELWVINKKVKNKDGKYKAEYRQGYWNSIDRTNDAED
+CDH_0_2678      ---MNQDDTLCDEIEDATEEDTPYELWVINKKVKNKDGKYKAEYRQGYWNSIDRTNDAED
+CDH_0_2765      NCYMNQDDTLCDEIEDATEEDTPYELWVINKKVKNKDGKYKAEYRQGYWNSIDRTNDAED
+CDH_0_2771      NCYMNQDDTLCDEIEDATEEDTPYELWVINKKVKNKDGKYKAEYRQGYWNSIDRTNDAED
+CFH_0_1921      TCYMNQDDTLCDEIEDATEEDVPYELWVINKKVKNSEGKYKAEYRQGYWNSIDRTNDADD
+                   ******************.*************.:*********************:*
+
+CDH_0_2496      IAEFETEFGVYLKKVRGWATLPEQIEKNKAAYGFHDTVAADPADDGLVSE-IPQPNEPST
+CDH_0_2678      IAEFETEFGVYLKKVRGWATLPEQIEKNKAAYGFHDTVAADPADDGLVSE-IPQPNEPST
+CDH_0_2765      IAEFETEFGVYLKKVRGWATLPEQIEKNKAAYGFHDTVAADPADDGLVSE-IPQPNEPST
+CDH_0_2771      IAEFETEFGVYLKKVRGWATLPEQIEKNKAAYGFHDTVAADPADDGLVSE-IPQPNEPST
+CFH_0_1921      IAEFETEFGVYLKKKRGWATLPEQIEKNKAAYGFHDTVAADPANDGLASEDIPQPNQPST
+                ************** ****************************:***.** *****:***
+
+CDH_0_2496      ---------------------------------AETV-----------------------
+CDH_0_2678      ---------------------------------AETV-----------------------
+CDH_0_2765      ---------------------------------AETV-----------------------
+CDH_0_2771      ---------------------------------AETV-----------------------
+CFH_0_1921      VINNMEIKFNGKTIELSFGLKFLNIIDKEMGMEAEQVNFGKGTEMLVPALESHSVVDVAK
+                                                 ** *                       
+
+CDH_0_2496      ------------------------------------------------------------
+CDH_0_2678      ------------------------------------------------------------
+CDH_0_2765      ------------------------------------------------------------
+CDH_0_2771      ------------------------------------------------------------
+CFH_0_1921      VIKAATAQEKGAPKTEKDLEEVVENVIENTGLEEFCNEVIEELGKRVLTQNLVPKKYKKN
+                                                                            
+
+CDH_0_2496      ---
+CDH_0_2678      ---
+CDH_0_2765      ---
+CDH_0_2771      ---
+CFH_0_1921      SKK
+                   

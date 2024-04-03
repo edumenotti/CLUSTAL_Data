@@ -1,0 +1,27 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEE_3_3247      MVRDLVTLPSSLPLITAGFATDQVHLLIGTGSTDSVSVCKNRIHSILNAGGNPIVVNPSS
+AGC_1_4424      MVRDLVTLPSSLPLITAGFATDQVHLLIGTGSTDSVSVCKNRIHSILNAGGNPIVVNPSS
+AMP_5_155       MVRDLVTLPSSLPLITAGFATDQVHLLIGTGSTDSVSVCKNRIHSILNAGGNPIVVNPSS
+                ************************************************************
+
+AEE_3_3247      PSHTKQLQLEFGKFAKFEIVEREFRLSDLTTLGRVLVCKVVDRVFVDLPITQSRLCEEIF
+AGC_1_4424      PSHTKQLQLEFGKFAKFEIVEREFRLSDLTTLGRVLVCKVVDRVFVDLPITQSRLCEEIF
+AMP_5_155       PSHTKQLQLEFSKFAKFEIVEREFRLSDLTTLGRVLVCKVVDRVFVDLPITQSRLCEEIF
+                ***********.************************************************
+
+AEE_3_3247      WQCQKLRIPINTFHKPEFSTFNMIPTWV--------------------------------
+AGC_1_4424      WQCQKLRIPINTFHKPEFSTFNMIPTWVDQK-----------------------------
+AMP_5_155       WQCQKLRIPINTFHKPEFSTFNMIPTWVDPKGSGLQISVTTNGNGYILANRIKRDIISHL
+                ****************************                                
+
+AEE_3_3247      ------------------------------------------------------------
+AGC_1_4424      -----EVV-----------------------YKSQL----LRMGMDT-SWQTG-------
+AMP_5_155       PPNISEVVINMGYLKDRIINEDHKALLEEKYYQTDMSLPGFGYGLDEDGWESHKFNKLIR
+                                                                            
+
+AEE_3_3247      --------
+AGC_1_4424      --------
+AMP_5_155       EFEMTSRE
+                        

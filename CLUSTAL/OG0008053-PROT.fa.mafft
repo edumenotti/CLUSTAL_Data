@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEL_3_5318      MEGCLEKEDLVYSSSFSVNMKQIELKPARSFEHENVFKVGSLAFKKINELPHENYDITIE
+CKN_4_20        ------------------------------------------------------------
+                                                                            
+
+AEL_3_5318      KKSMEQNYLRPEIGSRSECKTSYGNELSLSNISFSILPNSAENFHLETALFPATEEDVPR
+CKN_4_20        ---MEQNYLRPEIGSRSECKTSYGNELSLSNISFSILPNSAENFHLETALFPATEEDVPR
+                   *********************************************************
+
+AEL_3_5318      TFSRILETGSFQNYYQKMDAENADRVYSKGVKLIASGTLPSGIFNWEELFEEDSFYKY
+CKN_4_20        TFSRILETGSFQNYYQKMDAENADRVYSKGVKLIASGTLPSGIFNREELFEEDSFYKY
+                ********************************************* ************

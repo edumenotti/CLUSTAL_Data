@@ -1,0 +1,70 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEB_8_4385      MPHYPSVRAAPSYSSSGCSILPPLQSKIPMLPSRRTMAGETSLKPNWEFSLNQKSCTNDI
+BFE_4_36        ------------------------------------------------------------
+BFG_4_43        ------------------------------------------------------------
+BFM_3_42        ------------------------------------------------------------
+BTD_1_42        ------------------------------------------------------------
+CFC_2_167       -------------------------------------------------------CTNDI
+CFC_2_169       -------------------------------------------------------CTNDI
+CFD_4_6432      ------------------------------------------------------------
+CFD_4_6442      ------------------------------------------------------------
+CMG_6_7         ------------------------------------------------------------
+CBF_5_3950      -----------------------------MLPSRRTMAGETSLKPNWEFSLNQKSCTNDI
+CLA_5_2684      -----------------------------MLPSRRTMAGETSLKPNWEFSLNQKSCTNDI
+CKS_5_2922      MPHYPSVRAAPSYSSSGCSILPPLQSKIPMLPSRRTMAGETSLKPNWEFSLNQKSCTNDI
+BMM_3_2726      MPHYPSVRAAPSYSSSGCSILPPLQSKIPMLPSRRTMAGETSLKPNWEFSLNQKSCTNDI
+CKK_4_2681      MPHYPSVRAAPSYSSSGCSILPPLQSKIPMLPSRRTMAGGTSLKPNWEFSLNQKSCTNDI
+                                                                            
+
+AEB_8_4385      IMSKLAIEEVDDESEIEDDFVEMLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+BFE_4_36        ----------------------MLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+BFG_4_43        ----------------------MLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+BFM_3_42        ----------------------MLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+BTD_1_42        ----------------------MLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+CFC_2_167       IMSKLAIEEVDDESEIEDDFVEMLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+CFC_2_169       IMSKLAIEEVDDESEIEDDFVEMLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+CFD_4_6432      ----------------------MLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+CFD_4_6442      ----------------------MLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+CMG_6_7         ----------------------MLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+CBF_5_3950      IMSKLAIEEVDDESEIEDDFVEMLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+CLA_5_2684      IMSKLAIEEVDDESEIEDDFVEMLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+CKS_5_2922      IMSKLAIEEVDDESEIEDDFVEMLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+BMM_3_2726      IMSKLAIEEVDDESEIEDDFVEMLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+CKK_4_2681      IMSKLAIEEVDDESEIEDDFVEMLGIVNIIKDYLLCCVMEDLDDEESEDKDEENAFLQES
+                                      **************************************
+
+AEB_8_4385      LEKLSLQ------------------------------------------NQMGTNSVRIL
+BFE_4_36        LEKLSX------------------------------------------------------
+BFG_4_43        LEKLSX------------------------------------------------------
+BFM_3_42        LEKLSX------------------------------------------------------
+BTD_1_42        LEKLSX------------------------------------------------------
+CFC_2_167       LEKLSLQ------------------------------------------NQMGTNSVRIL
+CFC_2_169       LEKLSLQ------------------------------------------NQMGTNSVRIL
+CFD_4_6432      LEKLSLQ------------------------------------------N----------
+CFD_4_6442      LEKLSX------------------------------------------------------
+CMG_6_7         LEKLSX------------------------------------------------------
+CBF_5_3950      LEKLSXXX------XXXXXXXXXXXXXXXXXXXXXXXXXXXXFLCGCIVNE---------
+CLA_5_2684      LEKLS---------XXXXXXXXXXXXXXXXXXXXXXXXXXXXFLCGCIVNE---------
+CKS_5_2922      LEKLSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFFAAV-------------
+BMM_3_2726      LEKLSXXXXX----XXXXXXXXXXXXXXXXXXXXXXXXXSLRLYSK--------------
+CKK_4_2681      LEKLSXXXX-----XXXXXXXXXXXXXXXXXXXXXXXXXXXXFFAAV-------------
+                *****                                                       
+
+AEB_8_4385      TKYPKILV
+BFE_4_36        --------
+BFG_4_43        --------
+BFM_3_42        --------
+BTD_1_42        --------
+CFC_2_167       TKYPKILV
+CFC_2_169       TKYPKILV
+CFD_4_6432      --------
+CFD_4_6442      --------
+CMG_6_7         --------
+CBF_5_3950      --------
+CLA_5_2684      --------
+CKS_5_2922      --------
+BMM_3_2726      --------
+CKK_4_2681      --------
+                        

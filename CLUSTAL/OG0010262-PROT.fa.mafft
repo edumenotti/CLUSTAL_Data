@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CEB_3_2592      MVKTYVYVEDTATGADGEDVYVEDIAAGADGEDVYVEDTATGADGEDVYVEDIAAGADGE
+CFE_4_3485      MVKTYVYVEDTAT--------------GADGEDVYVEDTATGADGEDVYVEDIAAGA---
+                *************              ******************************   
+
+CEB_3_2592      DVYVEDTATGADGEDVYVEDTATGADGEDVYVEDIAAGADGEDVYVEDTATGTDGEDVYV
+CFE_4_3485      -----------DGEDVYVEDTATGTDGEDVYVEDIAAGADGEDVYVEDTATGTDGEDVYV
+                           *************:***********************************
+
+CEB_3_2592      EDIAAGADGEDVYVEDTATGADGEDA
+CFE_4_3485      EDIAAGADGEDVYVEDTATGADGEDA
+                **************************

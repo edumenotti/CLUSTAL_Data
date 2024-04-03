@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BMM_3_371       ------------------------------------------------------------
+BTE_3_4129      --------------------------------------MTESTLNFLASRIPKYDHLQSA
+CBF_5_368       ------------------------------------------------------------
+CFG_4_4513      --------------------------------------MTESTLNFLASRIPKYDHLQSA
+CLA_5_325       ------------------------------------------------------------
+CKK_4_740       FELNIYQHIQEQLEARYSYVREANHRLDNEYLVNRFKKMTESTLNFLASRIPKYDHLQSA
+BMM_3_3850      --------------------------------------MTESTLNFLASRIPKYDHLQSA
+CKS_5_595       ------------------------------------------------------------
+                                                                            
+
+BMM_3_371       --------------QFKGIYNDETLNENAEIDLLSTTTQQIKAE----------------
+BTE_3_4129      RRTRNSKKISDILNQFKGIYNDETLNENAEIDLLSATTQQIKAEINPFVFEIAKSDANVK
+CBF_5_368       --------------QFKGIYNDETLNENAEIDLLSTTTQQIKAE----------------
+CFG_4_4513      RRTRNSKKISNILNQFKGIYNDETLNENAEIDLLSATTQQIKAE----------------
+CLA_5_325       --------------QFKGIYNDETLNENAEIDLLSTTTQQIKAE----------------
+CKK_4_740       RRTRNSKKISDILNQFKGIYNDETLNENAEIDLLSTTTQQIKAE----------------
+BMM_3_3850      RRTRNSKKISDILNQFKGIYNDETLNENAEIDLLSATTQQIKAE----------------
+CKS_5_595       --------------QFKGIYNDETLNENAEIDLLSATTQQIKAE----------------
+                              *********************:********                
+
+BMM_3_371       -------------------------------------INPFVFEIAKSDANVKNENKQIF
+BTE_3_4129      NENKQIFELHRIYNDETLNENAEIDLLSTTTQQIKAEINPFVFEIAKSDANVKNENKQIF
+CBF_5_368       -------------------------------------INPFVFEIAKSDANVKNENKQIF
+CFG_4_4513      -------------------------------------INPFVFEIAKSDANVKNENKQIF
+CLA_5_325       -------------------------------------INPFVFEIAKSDANVKNENKQIF
+CKK_4_740       -------------------------------------INPFVFEIAKSDANVKNENKQIF
+BMM_3_3850      -------------------------------------INPFVFEIAKSDANVKNENKQIF
+CKS_5_595       -------------------------------------INPFVFEIAKSDANVKNENKQIF
+                                                     ***********************
+
+BMM_3_371       ELHSENVSERRYKDLVYQLSQEGVLKNVWFNADPSIVVRKWEHLHSGFSKNK
+BTE_3_4129      ELHSENVSERRYKDLVYQLSQEGVLKNVWFNADPSIVVRKWEHLHSGFSKNK
+CBF_5_368       ELHSENVSERRYKDLVYQLSQEGVLKNVWFNADPSIVVRKWEHLHSGFSKNK
+CFG_4_4513      ELHSENVSERRYKDLVYQLSQEGVLKNVWFNADPSIVVRKWEHLHSGFSKNK
+CLA_5_325       ELHSENVSERRYKDLVYQLSQEGVLKNVWFNADPSIVVRKWEHLHSGFSKNK
+CKK_4_740       ELHSENVSERRYKDLVYQLSQEGVLKNVWFNADPSIVVRKWEHLHSGFSKNK
+BMM_3_3850      ELHSENVSERRYKDXVYQLSQEGVLKNVWFNADPSIVVRKWEHLHSGFSKNK
+CKS_5_595       ELHSENVSERRYKDXVYQLSQEGVLKNVWFNADPSIVVRKWEHLHSGFSKNK
+                ************** *************************************

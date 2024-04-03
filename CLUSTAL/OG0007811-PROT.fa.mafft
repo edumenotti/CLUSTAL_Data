@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BME_1_845       ------------------------------------------------------------
+BME_1_5798      ------------------------------------------------------------
+CGL_4_2309      IFRVHGVRRNKKYTNSRYQRQFRNQFRWFQGWYYRKFFFRRRNRGRKSRFQTENPTKGHI
+                                                                            
+
+BME_1_845       --------------------FNSNKQKIGEYSQGRKRRDFGGGKFTKRPGVAAISERVSL
+BME_1_5798      --------------------FNSNKQKIGEYSQGRKRRDFGGGKFTKRPGVAAISERVSL
+CGL_4_2309      QRARLCSSKEDTETFEKRQNFNSNKQKIGEYSQGRKRRDFGGGKFTKRPGVAAISERVSL
+                                    ****************************************
+
+BME_1_845       IERFQRWKWFYKQWCIVDPTEYGWWKWHSIPGSSYWEGQIAYTRNE--------------
+BME_1_5798      IERFQRWKWFYKQWCIVDPTEYGWWKWHSIPGSSYWEGQIAYTRNETETLKGEWSSGQNK
+CGL_4_2309      IERFQRWKWFYKQWCIVDPTEYGWWKWHSIPGSSYWEGQIAYTRNE--------------
+                **********************************************              
+
+BME_1_845       ------------------------------------------------------------
+BME_1_5798      VGKSTHAYQKRNDRQARQENQKIRTRSCRRWNCSVQSEKGTIQKNIHIQERYREAYRGKH
+CGL_4_2309      ------------------------------------------------------------
+                                                                            
+
+BME_1_845       ------------------------------------------------------------
+BME_1_5798      GQGRKSYQKGTWFEDQQCRQIDEEWADRKRRDFGGGKFTKRPGVAAISERVSLIERFQRW
+CGL_4_2309      ------------------------------------------------------------
+                                                                            
+
+BME_1_845       ---------------------------------------TETLKGEWSSGQNKVGKSTHA
+BME_1_5798      KWFYKQWCIVDPTEYGWWKWHSIPGSSYWEGQIAYTRNETETLKGEWSSGQNKVGKSTHA
+CGL_4_2309      ---------------------------------------TETLKGEWSSGQNKVGKSTHA
+                                                       *********************
+
+BME_1_845       YQKRNDRQARQENQKIRTRSCRRWNCSVQSEKGTIQKNIHIQERYREAYRGKHGQGRKSY
+BME_1_5798      YQKRNDRQARQENQKIRTRSCRRWNCSVQSEKGTIQKNIHIQERYREAYRGKHGQGRKSY
+CGL_4_2309      YQKRNDRQARQENQKIRTRSCRRWNCSIQSEKGTIQKNIHIQERYREAYRGKHGQGRKSY
+                ***************************:********************************
+
+BME_1_845       QKGTWFEDQQCRQIDEEWADCLQKRYCSYQWRREEWIWQKEIPSX
+BME_1_5798      QKGTWFEDQQCRQIDEEWADCLQKRYCSYQWRREEWIWQKEIPSX
+CGL_4_2309      QKGTWFEDQQCRQIDEEWADCLQKRYCSYQWRREEWIWQKEIPSX
+                ******************************************** 

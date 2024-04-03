@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATV_5_4758      SQEHNEYILQYLTHFDAANHNNIGVPNNNSHSLNTQHNVSDLGNPLLRQEALVGSSSTKI
+BCR_8_2879      ------------------------------------------------------------
+CBR_2_520       SQEHNEYILQYLTHFDAANHNNIGVPNNNSHSLNTQHNVSDLGNPLLRQEALVGSSST--
+CBR_2_972       SQEHNEYILQYLTHFDAANHNNIGVPNNNSHSLNTQHNVSDLGNPLLRQEALVGSSST--
+CFG_4_315       SQEHNEYILQYLTHFDAANHNNIGVPNNNSHSLNTQHNVSDLGNPLLRQEALVGSSST--
+CFG_4_841       SQEHNEYILQYLTHFDAANHNNIGVPNNNSHSLNTQHNVSDLGNPLLRQEALVGSSST--
+                                                                            
+
+ATV_5_4758      FDELKFVQNGPHGSQHPIDFQHVDHRHLSSNEPQVRSHQYEHNEYILQYLTHFDAANHNN
+BCR_8_2879      ------------------------------------------------------------
+CBR_2_520       ------------------------------------------------------------
+CBR_2_972       ------------------------------------------------------------
+CFG_4_315       ------------------------------------------------------------
+CFG_4_841       ------------------------------------------------------------
+                                                                            
+
+ATV_5_4758      IGVPNNNSHSLNTQHNVSDLGNPLLRQEALVGSSSTKIFDELKFVQNGPHGSQHPIDFQH
+BCR_8_2879      ---------------------------------------------QNGPHGSQHPIDFQH
+CBR_2_520       ------------------------------------KIFDELKFVQNGPHGSQHPIDFQH
+CBR_2_972       ------------------------------------KIFDELKFVQNGPHGSQHPIDFQH
+CFG_4_315       ------------------------------------KIFDELKFVQNGPHGSQHPIDFQH
+CFG_4_841       ------------------------------------KIFDELKFVQNGPHGSQHPIDFQH
+                                                             ***************
+
+ATV_5_4758      VDHRHLSSNEPQVRSHQYGPQQQPPQQLQYHQNQPHDGHNHG------------------
+BCR_8_2879      VDHRHLSSNEPQVRSHQYGPQQQPPQQLQYHQNQPHDGHNHEQHQTVQKDMQTHESLEIM
+CBR_2_520       VDHRHLSSNEPQVRSHQYGPQQQPPQQLQYHQNQPHDGHNHEQHQTVQKDMQTHESLEIM
+CBR_2_972       VDHRHLSSNEPQVRSHQYGPQQQPPQQLQYHQNQPHDGHNHEQHQTVQKDMQTHESLEIM
+CFG_4_315       VDHRHLSSNEPQVRSHQYGPQQQPPQQLQYHQNQPHDGHNHEQHQTVQKDMQTHESLEIM
+CFG_4_841       VDHRHLSSNEPQVRSHQYGPQQQPPQQLQYHQNQPHDGHNHEQHQTVQKDMQTHESLEIM
+                *****************************************                   
+
+ATV_5_4758      -------------------------
+BCR_8_2879      GNTLLEEFKDIKMVNGELKYVKPED
+CBR_2_520       GNTLLEEFKDIKMVEGELKYVKPED
+CBR_2_972       GNTLLEEFKDIKMVNGELKYVKPED
+CFG_4_315       GNTLLEEFKDIKMVEGELKYVKPED
+CFG_4_841       GNTLLEEFKDIKMVNGELKYVKPED
+                                         

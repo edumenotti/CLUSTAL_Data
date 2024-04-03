@@ -1,0 +1,28 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADL_4_54        SNSRRRKERRGKEGGKEG-RQETKIGRSRRRRRKEAKNQKSRRGSRIRRVEQDA------
+BFE_4_181       SNSRRRKERRGKEGGKEG-RQETKIGRSRRRRRKEAKNQKSRRGSRIRRVEQDA------
+BFG_4_169       SNSRRRKERRGKEGGKEG-RQETKIGRSRRRRRKEAKNQKSRRGSRIRRVEQDA------
+BFM_3_185       SNSRRRKERRGKEGGKEG-RQETKIGRSRRRRRKEAKNQKSRRGSRIRRVEQDA------
+CHH_4_22        SNSRRRKERRGKEGGKEG-RQETKIGRSRRRRRKEAKNQKSRRGSRIRRVEQDA------
+CHR_4_46        SNSRRRKERRGKEGGKEG-RQETKIGRSRRRRRKEAKNQKSRRGSRIRRVEQDA------
+CNH_4_24        SNSRRRKERRGKEGGKEG-RQETKIGRSRRRRRKEAKNQKSRRGSGIRRVEQDAIMDKPI
+CNV_4_24        SNSRRRKERRGKEGGKEG-RQETKIGRSRRRRRKEAKNQKSRRGSGIRRVEQDAIMDKPI
+BTD_1_81        SNSRRRKERRGKEGGKEGRRQETKIGRS-RRRGKEAKDEKSRRSSRDRRTKQDAFVDKPI
+CKN_4_7365      SNSRRRKERRGKEGGKEGRRQETKIGRS--RRGKEAKDEKSRRSSRDRRTKQDAFVD---
+ADM_2_2         -----------------------------------AKNQKSRRGSRIRRVEQDAIMDKPI
+                                                   **::****.*  **.:***      
+
+ADL_4_54        -----------------------------------------------------
+BFE_4_181       -----------------------------------------------------
+BFG_4_169       -----------------------------------------------------
+BFM_3_185       -----------------------------------------------------
+CHH_4_22        -----------------------------------------------------
+CHR_4_46        -----------------------------------------------------
+CNH_4_24        YHSRGIQCFLVYFRLGRPI----------------------------------
+CNV_4_24        YHSRGIQCFLVYFRLGRPI----------------------------------
+BTD_1_81        YHSRRIQCX--------------------------------------------
+CKN_4_7365      -----------------------------------------------------
+ADM_2_2         YHSRGIQCFLVYFRLGRPIVRAFLCRSIGISYLVHSKESTIRLIEEEEEQYQX
+                                                                     

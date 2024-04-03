@@ -1,0 +1,37 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ACL_7_5527      MRNARRKSIRSCESCRKRKLKCDRKRPKCSSCISRKLDKCSYAVGFEQEINFRENLEALK
+AFK_5_2963      MRNARRKSIRSCESCRKRKLKCDRKRPKCSSCISRKLDKCSYAVGFEQEINFRENLEALK
+AHH_3_5374      MRNARRKSIRSCESCRKRKLKCDRKRPKCSSCISRKLDKCSYAVGFEQEINFRENLEALK
+YCM_0_5536      MRNARRKSIRSCESCRKRKLKCDRKRPKCSSCISRKLDKCSYAVGFEQEINFRENLEALK
+YDE_0_3578      MRNARRKSIRSCESCRKRKLKCDRKRPKCSSCISRKLDKCSYAVGFEQEINFRENLEALK
+                ************************************************************
+
+ACL_7_5527      DAKLLEDVNKQEKLLESTGEVVCELSTDVDLIHEGETHNAVDILNKQKILKDFSTGFIPD
+AFK_5_2963      DAKLLEDVNKQEKLLESTGEVVCELSTDVDLIHEGETHNAV-------------------
+AHH_3_5374      DAKLLEDVNKQEKLLESTGEVVCELSTDVDLIHEGETHNAV-------------------
+YCM_0_5536      DAKLLEDVNKQEKLLESTGEVVCELSTDVDLIHEGETHNAV-------------------
+YDE_0_3578      DAKLLEDVNKQEKLLESTGEVVCELSTDVDLIHEGETHNAV-------------------
+                *****************************************                   
+
+ACL_7_5527      KLATASGRRVTNLCPAGKNNYYKIGVILMILSLTYYYETIPQAIQNIFTILRGSSMAKYM
+AFK_5_2963      -----STNRST-------------------------------------------------
+AHH_3_5374      -----STNRST-------------------------------------------------
+YCM_0_5536      -----STNRST-------------------------------------------------
+YDE_0_3578      -----STNRST-------------------------------------------------
+                     * .* *                                                 
+
+ACL_7_5527      YIERAQFLMLRFHHCSRYSYTGEDDYNTMILVDSLINTASSLGLNHDIKVLYEGQEEIVG
+AFK_5_2963      -IYRMPF-----------------------------------------------------
+AHH_3_5374      -IYRMPF-----------------------------------------------------
+YCM_0_5536      -IYRMPF-----------------------------------------------------
+YDE_0_3578      -IYRMPF-----------------------------------------------------
+                 * *  *                                                     
+
+ACL_7_5527      DLGTLSKSWDWVLFVDV
+AFK_5_2963      -----------------
+AHH_3_5374      -----------------
+YCM_0_5536      -----------------
+YDE_0_3578      -----------------
+                                 

@@ -1,0 +1,77 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AAN_3_29        ------GAFS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+ADM_2_12        --STGGGAFS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+AMK_4_60        --------FS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+APM_4_1         --STGGGAFS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+BCS_8_5         --STGGGAFS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+BML_5_93        --STGGGAFS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+BMM_3_106       --STGGGAFS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+BTE_3_118       --STGGGAFS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+CHI_4_36        ------GAFS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+CKS_5_84        --STGGGAFS-GRSTGDAFSG--------GGARCNGSGTG--------GD-RTRGSGSRG
+CFD_4_55        --NRRSGAFS-GRSTGDAFSG--------GGARCNGSRTGDAFCGRRTGDARFSGGGARR
+CFM_4_50        --NRRSGAFS-GRSTGDAFSG--------GGARCNGSRTGDAFCGRRTGDARFSGGGARR
+BAC_8_6         ------GCWSCGRRT--------------GGAFC-GRRTGDAFCGRSTGDARFSGGGARC
+YCM_0_5         ---RTGGCWSCGRGA--------------GGARCNGSRTGDAFCDRSTGDARFSGGGARX
+YCN_0_12        ---RTGGCWSCGRGA--------------GGARCNGSRTGDAFCDRSTGDARFSGGGARC
+YDE_0_20        ---RTGGCWSCGRGA--------------GGARCNGSRTGDAFCDRSTGDARFSGGGARC
+AVQ_5_225       ---------------GDAFSG---------GGACNGSRTGGAFCGRRAGDASNRRTGDAS
+BER_2_26        -------ACN-GGRTGGAFCGRRTGDAFSGGGACNGSRTGYAFCGRRACNGG--RTX---
+BMV_2_2765      ---SGGGACN-GSRTGDAFCGRR---------ACNGSRTGGAFCGRRAGDASNRRTGDAS
+AVT_6_471       RACNGSRACG-GSTRGGTFSG---------GGACNGSRTGDA-SNRRTGDASNRRTGDAS
+BGR_1_23        ---TGGGACG-GSTRGGAFCGRR---------ACNGSRT-DAFCGGGACNGS--RTGDX-
+BDR_6_5723      -----GGACN-GSRTGDAFCG---------GRACNGSRTGDAFCGGGACNGS--GTGGA-
+CPB_4_11        ----TGDACN-GSRTGDAFCG---------GGACNGSRAGDAFCGGRACNGS--RTGGA-
+                                                 * *  :          :          
+
+AAN_3_29        X-----------------------------------------------------------
+ADM_2_12        X-----------------------------------------------------------
+AMK_4_60        X-----------------------------------------------------------
+APM_4_1         X-----------------------------------------------------------
+BCS_8_5         X-----------------------------------------------------------
+BML_5_93        X-----------------------------------------------------------
+BMM_3_106       X-----------------------------------------------------------
+BTE_3_118       X-----------------------------------------------------------
+CHI_4_36        X-----------------------------------------------------------
+CKS_5_84        X-----------------------------------------------------------
+CFD_4_55        NCS---------------------------------------------------------
+CFM_4_50        NCS---------------------------------------------------------
+BAC_8_6         NGSGT--------------GG--------------------DRTGGSGS--RGX------
+YCM_0_5         ------------------------------------------------------------
+YCN_0_12        NG----------------------------------------------------------
+YDE_0_20        NG----------------------------------------------------------
+AVQ_5_225       NRARDFRGRGWSNGARDFGGGCLSDRTDIGSGRGCLSNRTTDRNGSRGTYHRGGAVANGA
+BER_2_26        ------------------------------------------------------------
+BMV_2_2765      NRARNIR--------------------------------------------RGX------
+AVT_6_471       NRARNIR--------------------------------------------RGX------
+BGR_1_23        ------------------------------------------------------------
+BDR_6_5723      -----------------FX-----------------------------------------
+CPB_4_11        -----------------FCGX---------------------------------------
+                                                                            
+
+AAN_3_29        ---
+ADM_2_12        ---
+AMK_4_60        ---
+APM_4_1         ---
+BCS_8_5         ---
+BML_5_93        ---
+BMM_3_106       ---
+BTE_3_118       ---
+CHI_4_36        ---
+CKS_5_84        ---
+CFD_4_55        ---
+CFM_4_50        ---
+BAC_8_6         ---
+YCM_0_5         ---
+YCN_0_12        ---
+YDE_0_20        ---
+AVQ_5_225       IAX
+BER_2_26        ---
+BMV_2_2765      ---
+AVT_6_471       ---
+BGR_1_23        ---
+BDR_6_5723      ---
+CPB_4_11        ---
+                   

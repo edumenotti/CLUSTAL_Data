@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AKI_4_2716      KYQLQHCDYHCQHQRQDCYYHRKYQLQHCYYHCHQLQHCYYHCHQPQHCYYHKYQRCQGG
+ATE_1_27        KYQLQHCDYHCQHQRQDCYYHRKYQLQHCYYHCHQLQHCYYHCHQPQHCYYHKYQRCQGG
+                ************************************************************
+
+AKI_4_2716      RQXXXXXXXXXXXXXXXXXXTASINVRTSATTTESTNSNTSATTTESTDSNTSATTTEST
+ATE_1_27        RQX---------------------------------------------------------
+                **                                                          
+
+AKI_4_2716      DSNTSATTTASTNSSTNATTTASTNSSTNATTTESTNASAKEDANKDGNAEDNRFHPVTD
+ATE_1_27        ------------------------------------------------------------
+                                                                            
+
+AKI_4_2716      INKEPYKRKGSQMVLX
+ATE_1_27        ----------------
+                                

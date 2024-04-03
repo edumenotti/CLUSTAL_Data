@@ -1,0 +1,27 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AGB_1_1176      MLNGEDFVEHNDILSSPAKSRNVTPKRVDPHGERQLRRIHSSKKNLLERISLVDNERKNT
+AQH_2_4793      MLNGEDFVEHNDILSSPAKSRNVTPKRVDPHGERQLRRIHSSKKNLLERISLVDNERKNT
+CBF_5_5701      MLNGEDFVEHNDILSSPAKSRNVTPKRVDPHGERQLRRIHSSKKNLLERISLVDNERKNT
+                ************************************************************
+
+AGB_1_1176      SPDPALKPKTPSKAPRKRGRPRKIQEELTDRIKKDEKDTISSKKKRKLDKDTSGNVNEES
+AQH_2_4793      SPDPALKPKTPSKAPRKRGRPRKIQEELTDRIKKDEKDTISSKKKRKLDKDTSXXXXXXX
+CBF_5_5701      SPDPALKPKTPSKAPRKRGRPRKIQEELTDRIKKDEKDTISSKKKRKLDKDTS-------
+                *****************************************************       
+
+AGB_1_1176      KTSNNKQVMEKTGIKEKREREKIQIATTTYEDNVTPQTDDNFVSNSPEPPEPATPSKKSL
+AQH_2_4793      XXXXXXXXXXXXXXXXX-------------------------------------------
+CBF_5_5701      ------------------------------------------------------------
+                                                                            
+
+AGB_1_1176      TTNHDFTSPLKQIIMNNLKEYKDSTSPGKLTLSRNLLQPLYRKIKSSTKLRKPSQQARFW
+AQH_2_4793      ------------------------------------------------------------
+CBF_5_5701      ------------------------------------------------------------
+                                                                            
+
+AGB_1_1176      ILLKDISTKEKLSELMRSQGTPCQWHLTLPEKSFP
+AQH_2_4793      -----------------------------------
+CBF_5_5701      -----------------------------------
+                                                   

@@ -1,0 +1,22 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMN_5_6236      TIMMNVTKTTMTTRLDNSVMKNINRGNSGIKDPRPIPTAKKTKGISLNASSHSLIAVTRS
+CHI_4_5340      TIMMNVTKTTMTTRLDNSVMKNTNRGNSGIKDPRPIPTAKKTKGISLNASSHSIIAVTRS
+                ********************** ******************************:******
+
+AMN_5_6236      LAVTTSSNKLLTTLPALVVALIPKLTAKLTLKVSWTTMKTMTSLRANSKNKVVQEVLKIT
+CHI_4_5340      LAVTT-------------------------------------------------------
+                *****                                                       
+
+AMN_5_6236      ATSPLILAAVDATCLGQETMNMMITTMTTRLDNSVMKNINRGNSGIKDPRPIPTAKKTKG
+CHI_4_5340      ------------------------------------------------------------
+                                                                            
+
+AMN_5_6236      ISLNASSHSLIAVTRSLAVTTSSNKLLTTLPALVVALIPKLTAKLTLKVSWTTMKTMTSL
+CHI_4_5340      ---------------------SSNKLLTTLPALVVALIPKLTAKLTLKVSWTTMKTMTSL
+                                     ***************************************
+
+AMN_5_6236      RANSKNKVVQEVLKVTATNPLISAAVDAICLGQETMNMMMIVGTKASG
+CHI_4_5340      RANSKNKVVQEVLKVTATNPLISAAVDAICLGQETMNMMMIVGTKASG
+                ************************************************

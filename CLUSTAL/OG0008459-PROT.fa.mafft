@@ -1,0 +1,10 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BDN_5_4020      ESYAFTLKNTINEASFKEKVGEDDAKRLETASQETIDWLDASQAASTDEYKDRQKELEGI
+BRP_4_37        -----------------------------------------------DEYKDRQKELEGI
+                                                               *************
+
+BDN_5_4020      ANPIMTKFYGAGAGAGPGAGESGGFPGSMPNSGATGGGEDTGPTVEEVD
+BRP_4_37        ANPIMTKLYGAGAGAGPGAGESGGFPGSMPNSGATGGGEDTGPTVEEVD
+                *******:*****************************************

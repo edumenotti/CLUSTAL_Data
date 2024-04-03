@@ -1,0 +1,82 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMI_4_2589      ------------------------------------------------------------
+BHQ_4_3185      ------------------------------------------------------------
+BHS_1_3892      ------------------------------------------------------------
+ARN_6_4028      ------------------------------------------------------------
+AVT_6_5594      ------------------------------------------------------------
+CLA_5_1887      ------------------------------------------------------------
+ATV_5_674       VAIRFDYGATSFCFVNTHLSAGASNIDERRNDYNNIYRNITFPRSKTIPHHDSLFWLGDL
+BTE_3_3608      ------------------------------------------------------------
+                                                                            
+
+AMI_4_2589      ------------------------------------------------------------
+BHQ_4_3185      ------------------------------------------------------------
+BHS_1_3892      ------------------------------------------------------------
+ARN_6_4028      ------------------------------------------------------------
+AVT_6_5594      ------------------------------------------------------------
+CLA_5_1887      ------------------------------------------------------------
+ATV_5_674       NYRITLTNDEVRRELRAQKDGYIDRLLQYDQLTQEINEGVVFQGFKEPTLQFRPTYKYDY
+BTE_3_3608      ------------------------------------------------------------
+                                                                            
+
+AMI_4_2589      ------------------------------------------------------------
+BHQ_4_3185      ------------------------------------------------------------
+BHS_1_3892      ------------------------------------------------------------
+ARN_6_4028      ------------------------------------------------------------
+AVT_6_5594      ------------------------------------------------------------
+CLA_5_1887      ------------------------------------------------------------
+ATV_5_674       GTDNYDTSEKARTPSWTDRIIYKGENLHPLAYSDAPLKISDHKPVYAAYRANVKFVDEKE
+BTE_3_3608      ------------------------------------------------------------
+                                                                            
+
+AMI_4_2589      ------------------------------------------------------------
+BHQ_4_3185      ------------------------------------------------------------
+BHS_1_3892      ------------------------------------------------------------
+ARN_6_4028      -------------------------------MEKQKESIPLDATVQSAGIKLIDLDDTSS
+AVT_6_5594      -------------------------------MEKQKESIPLDATVQSAGIKLIDLDDTSS
+CLA_5_1887      ------------------------------------------------------------
+ATV_5_674       KLNLVEKLYAEYKNTHPEALTTGPDELSHARMEKQKESIPXXXTVQSAGIKLIDLDDTSS
+BTE_3_3608      --------MQEWKN--------------------KRKVYPXXXXXXXXXXXXXXXXX---
+                                                                            
+
+AMI_4_2589      ---MLHIGQIPQPSVVGPGGLSNVSPDKSKLNVLPPPPPTSRHNKEPSSKLLSPTKEISI
+BHQ_4_3185      ------------------------------------------------------------
+BHS_1_3892      ------------------------------------------------------------
+ARN_6_4028      CVSPLLSGPSPQPSVVGPGGLSNVSPDKSKLNVLPPPPPTSRHNKEPSSKLLSPTKEISI
+AVT_6_5594      CVSPLLSGPSPQPSVVGPGGLSNVSPDKSKLNVLPPPPPTSRHNKEPSSKLLSPTKEISI
+CLA_5_1887      ---PLLSGPSPQPSVVGPGGLSNVSPDKSKLNVLPPPPPTSRHNKEPSSKLLSPTKEISI
+ATV_5_674       CVSPLLSGSSPQPSVVGPGGLSNVSPDKNKLNVLPPPPPTSRHNKEPSSKLLSPTKEISI
+BTE_3_3608      ---PLLSGPSPQPSVVGPGGLSNVSPDKSKLNVLPPPPPTSRHNKEPSSKLLSPTKEISI
+                                                                            
+
+AMI_4_2589      VSVSPRKGESNLPALERHSTPKPLPPVPALSLSKPVSLQKSSSELQHAKETIDNGKIVPR
+BHQ_4_3185      ------------------------------------------------------------
+BHS_1_3892      ------------------------------------------------------------
+ARN_6_4028      VSVSPRKGESNLPALERHSTPKPLPPVPALSLSKPVSLQKSSSELQHAKETIDNGKMVPR
+AVT_6_5594      VSVSPRKGESNLPALERHSTPKPLPPVPALSLSKPVSLQKSSSELQHAKETIDNGKIVPR
+CLA_5_1887      VSVSPRKGESNLPALERHSTPKPLPPVPALSLSKPVSLQKSSSELQHAKETIDNGKIVPR
+ATV_5_674       VSVSPRKGESNLPALERHSTPKPLPPVPALSLSKPVSLQKSSSELQHAKETIDNGKIVPR
+BTE_3_3608      VSVSPRKGESNLPALERHSTPKPLPPVPALSLSKPVSLQKSSSELQHXXXX---------
+                                                                            
+
+AMI_4_2589      PCPPIRRKSSTAPDEISTSTKNSGVSTTEDPEPAKASTKPEKPPVVKKPHYLSVAANKLN
+BHQ_4_3185      ---------STAPDEISTSTKNSGVSTTEDPEPAKASTKPEKPPVVKKPHYLSVAANKLN
+BHS_1_3892      ---------STAPDEISTSTKNSGVSTTEDPEPAKASTKPEKPPVVKKPHYLSVAANKLN
+ARN_6_4028      PCPPIRRKSSTAPDEISTSTKNSGVSTTEDPEPAKASTKPEKPPVVKKPHYLSVAANKLN
+AVT_6_5594      PCPPIRRKSSTAPDEISTSTKNSGVSTTEDPEPAKASTKPEKPPVVKKPHYLSVAANKLN
+CLA_5_1887      PCPPIRRKSSTAPDEISTSTKNSGVSTTEDPEPAKASTKPEKPPVVKKPHYLSVAANKLN
+ATV_5_674       PCPPIRRKSSTAPDEISTSTKNSGVSTTEDPEPAKASTKPEKPPVVKKPHYLSVAANKLN
+BTE_3_3608      ---------XXXXXXXXXXXXXXXVSTTEDPEPAKASTKPEKPPVVKKPHYLSVAANKLN
+                                        ************************************
+
+AMI_4_2589      TSQEHSIKVSPSNSKSEEELPCKKKSKPKVPAKNPELEKLSVHPLKPCDPN
+BHQ_4_3185      TSQEHSIKVSPSNSKSEEELPCKKKSKPKVPAKNPELEKLSVHPLKSCDSN
+BHS_1_3892      TSQEHSIKVSPSNSKSEEELPCKKKSKPKVPAKNPELEKLSVHPLKPCDPN
+ARN_6_4028      TSQEHSIKVSPSNSKSEEELPCKKKSKPKVPAKNPELEKLSVHPLKPCDPN
+AVT_6_5594      TSQEHSIKVSPSNSKSEEELPCKKKSKPKVPAKNPELEKLSVHPLKPCDPN
+CLA_5_1887      TSQEHSIKVSPSNSKSEEELPCKKKSKPKVPAKNPELEKLSVHPLKPCDPN
+ATV_5_674       TSQEHSIKVSPSNSKSEEELPCKKKSKPKVPAKNPELEKLSVHPLKPCDPN
+BTE_3_3608      TSQEHSIKVSPSNSKSEEELPCKKKSKPKVPAKNPELEKLSVHPLKPCDPN
+                **********************************************.**.*

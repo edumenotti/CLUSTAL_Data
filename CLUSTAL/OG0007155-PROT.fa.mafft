@@ -1,0 +1,50 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEL_3_5861      ------------------------------------------------------------
+CHH_4_15        ------------------------------------------------------------
+ANL_2_300       ------------------------------------------------------------
+ANL_2_301       MLNDLTFLLDEGLSNLAEVHNIQNELDNRARGAPPTREEEDKELQTRLASASRQAKSSCG
+                                                                            
+
+AEL_3_5861      ----------------------------------------------------------NP
+CHH_4_15        ----------------------------------------------------------NP
+ANL_2_300       -----MKLFEIYSKDIPAAFVTPEIVYRLASMLNYNLESLVGPKCGELKVKDPQSYSFNP
+ANL_2_301       LADKSMKLFEIYSKDIPAAFVTPEIVYRLASMLNYNLESLVGPKCGELKVKDPQSYSFNP
+                                                                          **
+
+AEL_3_5861      KDLLKALTTVYINLSEQSEFISAVAKDERSFNRNLFVRAVDILGRKTGLASPEFIEKLLN
+CHH_4_15        KDLLKALTTVYINLSEQSEFISAVAKDERSFNRNLFVRAVDILGRKTGLASPEFIEKLLN
+ANL_2_300       KDLLKALTTVYINLSEQSEFISAVAKDERSFNRNLFVRAVDILGRKTGLASPEFIEKLLN
+ANL_2_301       KDLLKALTTVYINLSEQSEFISAVAKDERSFNRNLFVRAVDILGRKTGLASPEFIEKLLN
+                ************************************************************
+
+AEL_3_5861      FANKAEEQRKADEEEDLEYGDVPDEFLDPLMYTIMKDPVILPASKMNIDRSTIKAHLLSD
+CHH_4_15        FANKAEEQRKA-------------------------------------------------
+ANL_2_300       FANKAEEQRKA-------------------------------------------------
+ANL_2_301       FANKAEEQRKA-------------------------------------------------
+                ***********                                                 
+
+AEL_3_5861      STDPFNRMPLKLEDVTPNEELRQRILYLLKALTTVYINLSEQSEFISAVAKDERSFNRNL
+CHH_4_15        ------------------------------------------------------------
+ANL_2_300       ------------------------------------------------------------
+ANL_2_301       ------------------------------------------------------------
+                                                                            
+
+AEL_3_5861      FVRAVDILGRKTGLASPEFIEKLLNFANKAEEQRKADEEEDLEYGDVPDEFLDPLMYTIM
+CHH_4_15        ------------------------------------DEEEDLEYGDVPDEFLDPLMYTIM
+ANL_2_300       ------------------------------------DEEEDLEYGDVPDEFLDPLMYTIM
+ANL_2_301       ------------------------------------DEEEDLEYGDVPDEFLDPLMYTIM
+                                                    ************************
+
+AEL_3_5861      KDPVILPASKMNIDRSTIKAHLLSDSTDPFNRMPLKLEDVTPNEELRQKILCFKKQKKEE
+CHH_4_15        KDPVILPASKMNIDRSTIKAHLLSDSTDPFNRMPLKLEDVTPNEELRQX-----------
+ANL_2_300       KDPVILPASKMNIDRSTIKAHLLSDSTDPFNRMPLKLEDVTPNEELRQKILCFKKQKKEE
+ANL_2_301       KDPVILPASKMNIDRSTIKAHLLSDSTDPFNRMPLKLEDVTPNEELRQKILCFKKQKKEE
+                ************************************************            
+
+AEL_3_5861      AKHKASE
+CHH_4_15        -------
+ANL_2_300       AKHKASE
+ANL_2_301       AKHKASE
+                       

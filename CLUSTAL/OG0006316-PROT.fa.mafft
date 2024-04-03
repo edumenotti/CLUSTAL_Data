@@ -1,0 +1,24 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AIQ_1_4839      MLLRYFYVRQNERAPKPRSKSDRVLDKNTFPPMEWSKYLNEEAFIETFGDDYKTCFANKV
+ARS_1_4530      --------------------------------MEWSKYLNEEAFIETFGDDYKTCFANKV
+BCR_8_90        --------------------------------MEWSKYLNEEAFIETFGDDYRTCFANKV
+BFE_4_103       --------------------------------MEWSKYLNEEAFIETFGDDYKTCFANKV
+BFG_4_109       --------------------------------MEWSKYLNEEAFIETFGDDYKTCFANKV
+BFH_3_3388      --------------------------------MEWSKYLNEEAFIETFGDDYRTCFANKV
+BFM_3_116       --------------------------------MEWSKYLNEEAFIETFGDDYKTCFANKV
+BGI_1_5759      --------------------------------MEWSKYLNEEAFIETFGDDYRTCFANKV
+BTD_1_95        --------------------------------MEWSKYLNEEAFIETFGDDYKTCFANKV
+                                                ********************:*******
+
+AIQ_1_4839      DLSSNSVDWDLIDSHQDNIIQELEEQCKMFRFNVHKKSKV
+ARS_1_4530      DLSSNSVDWDLIDSHQDNIIQELEEQCKMFRFNVHKKSKV
+BCR_8_90        DLSSNSIDWDLIDSHQDNIIQELEEQCX------------
+BFE_4_103       DLSSNSVDWDLIDS--------------------------
+BFG_4_109       DLSSNSVDWDLIDS--------------------------
+BFH_3_3388      DLSSNSVDWDLIDSHQDNIIQELEEQCKMFRFNVHKKSKV
+BFM_3_116       DLSSNSVDWDLIDS--------------------------
+BGI_1_5759      DLSSNSVDWDLIDSHQDNIIQELEEQCKMFRFNVHKKSKV
+BTD_1_95        DLSSNSVDWDLIDS--------------------------
+                ******:*******                          

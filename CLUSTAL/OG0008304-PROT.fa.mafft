@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATV_5_345       MKLSATTLTAASLIGYGTIVSALRYAADIDTGCTTTAHGSHQHKRAVAVTYVYETVTVDK
+BMG_2_2651      MKLSATTLTAASLIGYSTIVSALPYAADIDTGCTTTAHGSHQHKRAVAVTYVYETVTVDK
+                ****************.****** ************************************
+
+ATV_5_345       NGQTVTPTSTEASSTVASTTTLIFESSVTKFSSKVASSSESTEQIATTSSSAQTTLTSSE
+BMG_2_2651      NGQTVTPTSTEASSTVASTTTLIX------------------------------------
+                ***********************                                     
+
+ATV_5_345       TSTSX
+BMG_2_2651      -----
+                     

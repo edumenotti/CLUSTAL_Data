@@ -1,0 +1,35 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARN_6_2         ------------------------------------------------------------
+BNV_2_6         -----MLARHGERYPTYSKGATIMKTWYKLSNYTRQFNGSLSFLNDDYEFFIRDDDDLEM
+CEG_4_4         MKQLQMVGRHGERYPTVSLAKTIKSTWYKLSNYTRQFNGSLSFLNDDYEFFIRDDDDLEM
+CFH_0_63        ------------------------------------------------------------
+CMH_6_5         ------------------------------------------------------------
+YCL_0_22        ----------------VSKAKSIMTTWYKLSNYTGEFSGALSFLNDDYEFFIRDTKNLEM
+ARN_6_46        ------------------------------------------------------------
+CIG_2_15        ------------------------------------------------------------
+AVN_5_66        ------------------------------------------------------------
+                                                                            
+
+ARN_6_2         -----------------MDAKRHAREFLAQYGYMFENQTSFPIFAASSERVHDTAQYFID
+BNV_2_6         ETTFANSDNVLNPYTGEMDAKRHAREFLAQYGYMFENQTSFPIFAASSERVHDTAQYFID
+CEG_4_4         ETTFANSDNVLNPYTGEMDAKRHAREFLAQYGYMFENQTSFPIFAASSERVHDTAQYFID
+CFH_0_63        ---------------------------------MFENQTSFPIFAASSERVHDTAQYFID
+CMH_6_5         ---------------------------------MVENQTSFAVFTSSSQRCHDTAQFFID
+YCL_0_22        ETTLANSVNVLNPYTGEMNAKRHARDFLAQYGYMVENQTSFAVFTSNSNRCHDTAQYFID
+ARN_6_46        -----------------------------------------------SERVHDTAQYFID
+CIG_2_15        -----------------------------------------------SKRCHDTAQYFID
+AVN_5_66        ------------------------------------------------------------
+                                                                            
+
+ARN_6_2         GLGX---------------------------------------------------
+BNV_2_6         GLGDQFNI-----------------------------------------------
+CEG_4_4         GLGDQFNVTLQTVSEAMSAGANTLSA-----------------------------
+CFH_0_63        GLGDQFNISLQTVSEAMSAGA----------------------------------
+CMH_6_5         GLGDQFNISLQTISEAESAGANTLSAHHSCPAWDDDVNDDILKKYNTKYLSGIAX
+YCL_0_22        GLGDKFNX-----------------------------------------------
+ARN_6_46        GLGDQFNITLQTVSEAESAGANTLSACNSCPAWDYDANDDIVNEYDTTYLDDI--
+CIG_2_15        GLGDQFNITLQTVSEAESAGANTLSACNSCPAWDYDANDDIVNEYDTTYLDDI--
+AVN_5_66        ---------MQTVSEAESAGANTLSACYSCPAWDYDANDDIVNEYDTTX------
+                                                                       

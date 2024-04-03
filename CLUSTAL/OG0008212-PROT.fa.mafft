@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AQT_4_6343      IAAVMRTATRAFMVVLMPVLTPVLMRLPLLVPTSGLTP----VLMRLPLLVPTSGLMRLP
+YAL_0_2257      --------TRAFMVVLMPVLTPVLMRLPLLVPTSGLMRLPMLVLMRLPMPVPMPVLMRLP
+                        ****************************      ******: ** . *****
+
+AQT_4_6343      MLVLMR--------LPMPVPTSGLVR------------------------LPLKVLTPTL
+YAL_0_2257      MPVPMRLPTPALMLLPLPAPTSGLVRLPLPAPTSGLVLLPLPASTSGLVLLPLKVSTPAL
+                * * **        **:*.*******                        ***** **:*
+
+AQT_4_6343      MLLPLKVPTPALMLLPL-----------------------
+YAL_0_2257      MLLPPKVPTPTLVLLPQLAPTPTLVLLPPKVPTPTLVLLP
+                **** *****:*:***                        

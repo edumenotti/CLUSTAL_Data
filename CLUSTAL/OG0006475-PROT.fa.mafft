@@ -1,0 +1,82 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BCR_8_3252      -----------------------LSLSVVVTPVRRLLSLNHMMKVPSLTHLVTLWLPVLK
+BEK_7_3808      -----------------------LSLSVVVTPVRRLLSLNHMMKVPSLTHLVTLWLPVLK
+BFG_4_2436      LRIRQTLRRVHIYLFLFLPFFTQLSLSVVVTPVRRLLSLNHMMKVPSLTHLVTLWLPVLK
+BFM_3_2103      LRIRQTLRRVHIYLFLFLPFFTQLSLSVVVTPVRRLLSLNHMMKVPSLTHLVTLWLPVLK
+BTD_1_2151      LRIRQTLRRVHIYLFLFLPFFTQLSLSVVVTPVRRLLSLNHMMKVPSLTHLVTLWLPVLK
+BMM_3_3472      LRIRQTLRRVHIYLFLFLPFFTQLSLSVVVTPVRRLLSLNHMMKVPSLTHLVTLWLPVLK
+CBF_5_3722      LRIRQTLRRVHIYLFLFLPFFTQLSLSVVVTPVRRLLSLNHMMKVPSLTHLVTLWLPVLK
+CLA_5_3418      LRIRQTLRRVHIYLFLFLPFFTQLSLSVVVTPVRRLLSLNHMMKVPSLTHLVTLWLPVLK
+                                       *************************************
+
+BCR_8_3252      DTHRSPRSTVPRRLLREPRSSLSSRSSTTTIYCQPDTLMLKLSNPLFLLKLSNNLPNVKK
+BEK_7_3808      DTHRSPRSTVPRRLLREPRSSLSSRSSTTTIYCQPDTLMLKLSNPLFLLKLSNNLPNVKK
+BFG_4_2436      DTHRSPRSTVPRRLLREPRSSLSSRSSTTTIYCQPDTLMLKLSNPLFLLKLSNNLPNVKK
+BFM_3_2103      DTHRSPRSTVPRRLLREPRSSLSSRSSTTTIYCQPDTLMLKLSNPLFLLKLSNNLPNVKK
+BTD_1_2151      DTHRSPRSTVPRRLLREPRSSLSSRSSTTTIYCQPDTLMLKLSNPLFLLKLSNNLPNVKK
+BMM_3_3472      DTHRSPRSTVPRRLLREPRSSLSSRSSTTTIYCQPDTLMLKLSNPLFLLKLSNNLPNVKK
+CBF_5_3722      DTHRSPRSTVPRRLLREPRSSLSSRSSTTTIYCQPDTLMLKLSNPLFLLKLSNNLPNVKK
+CLA_5_3418      DTHRSPRSTVPRRLLREPRSSLSSRSSTTTIYCQPDTLMLKLSNPLFLLKLSNNLPNVKK
+                ************************************************************
+
+BCR_8_3252      LRKSSRRLSKKDTKLV--------------------------------------------
+BEK_7_3808      LRKSSRRLSKKDTKLV--------------------------------------------
+BFG_4_2436      LRKSSRRLSKKDTKLV--------------------------------------------
+BFM_3_2103      LRKSSRRLSKKDTKLV--------------------------------------------
+BTD_1_2151      LRKSSRRLSKKDTKLV--------------------------------------------
+BMM_3_3472      LRKSSRRLSKKDTKLLLRIFKYRGNQLRLKSKRIKQKLRNTQLRRPKNSTTIKIANRRSK
+CBF_5_3722      LRKSSRRLSKKDTKLLLRIFKYRGNQLRLKSKRIKQKLRNTQLRRPKNSTTIKIANHRSK
+CLA_5_3418      LRKSSRRLSKKDTKLLLRIFKYRGNQLRLKSKRIKQKLRNTQLRRPKNSTTIKIANHRSK
+                ***************:                                            
+
+BCR_8_3252      ----------------------RTNGSSLSDX----------------------------
+BEK_7_3808      ----------------------RTNGSSLSDX----------------------------
+BFG_4_2436      ----------------------RTNGSSLSDX----------------------------
+BFM_3_2103      ----------------------RTNGSSLSDX----------------------------
+BTD_1_2151      ----------------------RTNGSSLSDX----------------------------
+BMM_3_3472      RKSWRPANHFQIPWILRSHMPHRLNNGTLKHIKLQKLRRMLISCLKRICTYRLPRTLQEC
+CBF_5_3722      RKSWRPANHFQIPWILRSHMPHRLNNGTLKHIKLQKLRRMLISCLKRICTYRLPRTLQEC
+CLA_5_3418      RKSWRPANHFQIPWILRSHMPHRLNNGTLKHIKLQKLRRMLISCLKRICTYRLPRTLQEC
+                                      * *..:*..                             
+
+BCR_8_3252      ------------------------------------------------------------
+BEK_7_3808      ------------------------------------------------------------
+BFG_4_2436      ------------------------------------------------------------
+BFM_3_2103      ------------------------------------------------------------
+BTD_1_2151      ------------------------------------------------------------
+BMM_3_3472      HGTIYMTEHVSNKHWHMHKRQTKMGFQAAYRQASRRRSMHVDLIQEIIMKGKFTLFKTPI
+CBF_5_3722      HGTIYMTEHVSNKHWHMPKRQTKMGFQAAYRQASRRRSMHVDLIQEIIMKGKFTLFKTPI
+CLA_5_3418      HGTIYMTEHVSNKHWHMPKRQTKMGFQAAYRQASRRRSMHVDLIQEIIMKGKFTLFKTPI
+                                                                            
+
+BCR_8_3252      ------------------------------------------------------------
+BEK_7_3808      ------------------------------------------------------------
+BFG_4_2436      ------------------------------------------------------------
+BFM_3_2103      ------------------------------------------------------------
+BTD_1_2151      ------------------------------------------------------------
+BMM_3_3472      DWWLPRRYLWQVGQTKFSTRENVLRNLEVDVTELRQVPGEKIRKVXXXXXXXXXXXXXXX
+CBF_5_3722      DWWLPRRYLWQVGQTKFSTRENVLRNLEVDVTELRQVPGEKIRKVXXXXXXXXXXXXXXX
+CLA_5_3418      DWWLPRRYLWQVGQTKFSTRENVLRNLEVDVTELRQVPGEKIRKVXXXXXXXXXXXXXXX
+                                                                            
+
+BCR_8_3252      ------------------------------------------------------------
+BEK_7_3808      ------------------------------------------------------------
+BFG_4_2436      ------------------------------------------------------------
+BFM_3_2103      ------------------------------------------------------------
+BTD_1_2151      ------------------------------------------------------------
+BMM_3_3472      XXSLRKSNFRFLLRNEYRPKYICHQTILVIPLSRNTTSKLGCQEGGNLARVVPPIVPISK
+CBF_5_3722      XXSLRKSNFRFLLRNEYRPKYICHQTILVIPLSRNTTSKLGCQEGGNLARVVPPIVPISK
+CLA_5_3418      XXSLRKSNFRFLLRNEYRPKYICHQTILVIPLSRNTTSKLGCQEGGNLARVVPPIVPISK
+                                                                            
+
+BCR_8_3252      ------------------------------------------------------
+BEK_7_3808      ------------------------------------------------------
+BFG_4_2436      ------------------------------------------------------
+BFM_3_2103      ------------------------------------------------------
+BTD_1_2151      ------------------------------------------------------
+BMM_3_3472      VEDIQSTGTITQESNMCTRMAQQWLSQEHKISMTQAPVRYLFLNVGSLMANDTX
+CBF_5_3722      VEDIQSTGTITQESNMCTRMAQQWLSQEHKISMTQAPVRYLFLNVGSLMANDTX
+CLA_5_3418      VEDIQSTGTITQESNMCTRMAQQWLSQEHKISMTQAPVRYLFLNVGSLMANDTX
+                                                                      

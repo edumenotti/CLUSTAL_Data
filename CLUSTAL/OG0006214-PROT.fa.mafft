@@ -1,0 +1,122 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEL_3_4568      MRRQHPVENDLLINLKGQKLEQRTSINNDAEAEKQIELVANHIEEFKQTSMWRSHSEPGI
+ARB_2_1376      MRRQHPVENDLLINLKGQKLEQRTSINNDAEAEKQIELVANHIEEFKQTSMWRSHSEPGI
+BTV_5_149       MRRQHPVENDLLINLKGQKLEQRTSINNDAEAEKQIELVANHIEEFKQTSMWRSHSEPGI
+CPA_4_5219      MRRQHPVENDLLINLKGQKLEQRTSINNDAEAEKQIELVANHIEEFKQTSMWRSHSEPGI
+YAX_0_4010      MRRQHPVENDLLINLKGQKLEQRTSINNDAEAEKQIELVANHIEEFKQTSMWRSHSEPGI
+YCG_0_1724      MRRQHPVENDLLINLKGQKLEQRTSINNDAEAEKQIELVANHIEEFKQTSMWRSHSEPGI
+ZVR_0_5434      MRRQHPVENDLLINLKGQKLEQRTSINNDAEAEKQIELVANHIEEFKQTSMWRSHSEPGI
+AHG_3_3440      --------------------------------------------------MWRSIFVPG-
+BDM_5_37        --------------------------------------------------MWRSIFVPG-
+BLT_2_1951      --------------------------------------------------MWRSIFVPG-
+                                                                  ****   ** 
+
+AEL_3_4568      VGNTSPYACTAESSSSENVESPSFLQTNFQEEEISAILQNYWTYFHPYFPLIHGPTFDHR
+ARB_2_1376      VGNTSPYACTAESSSSENVESPSFLQTNFQEEEISAILQNYWTYFHPYFPLIHGPTFDHR
+BTV_5_149       VGNTSPYACTAESSSSENVESPSFLQTNFQEEEISAILQNYWTYFHPYFPLIHGPTFDHR
+CPA_4_5219      VGNTSPYACTAESSSSENVESPSFLQTNFQEEEISAILQNYWTYFHPYFPLIHGPTFDHR
+YAX_0_4010      VGNTSPYACTAESSSSENVESPSFLQTNFQEEEISAILQNYWTYFHPYFPLIHGPTFDHR
+YCG_0_1724      VGNTSPYACTAESSSSENVESPSFLQTNFQEEEISAILQNYWTYFHPYFPLIHGPTFDHR
+ZVR_0_5434      VGNTSPYACTAESSSSENVESPSFLQTNFQEEEISAILQNYWTYFHPYFPLIHGPTFDHR
+AHG_3_3440      ----TEDINTVELAEGETTEPPSFLRANFQADEIDTILQHYWTHFHPLFPLIHRPTFDHR
+BDM_5_37        ----TEDINTVELAEGETTEPPSFLRANFQADEIDTILQHYWTHFHPLFPLIHRPTFDHR
+BLT_2_1951      ----TEDINTVELAEGETTEPPSFLRANFQADEIDTILQHYWTHFHPLFPLIHRPTFDHR
+                    :    *.* :..*..*.****::*** :**.:***:***:*** ***** ******
+
+AEL_3_4568      KYNWILVNAMCAVGSLQ-------------------------------------------
+ARB_2_1376      KYNWILVNAMCAVGSLQ-------------------------------------------
+BTV_5_149       KYNWILVNAMCAVGSLQ-------------------------------------------
+CPA_4_5219      KYNWILVNAMCAVGSLQ-------------------------------------------
+YAX_0_4010      KYNWILVNAMCAVGSLQ-------------------------------------------
+YCG_0_1724      KYNWILVNAMCAVGSLQ-------------------------------------------
+ZVR_0_5434      KYNWILVNAMCAVGSLQ-------------------------------------------
+AHG_3_3440      TANCLLVSAMSAVGALHSPQLKIHSAVLFENTLKLIYESIIAGASIQVIQAALILTFYGI
+BDM_5_37        TANCLLVSAMSAVGALHSPQLKIHSAVLFENTLKLIYESIIAGASIQVIQAALILTFYGI
+BLT_2_1951      TANCLLVSAMSAVGALHSPQLKIHSAVLFENTLKLIYESIIAGASIQVIQAALILTFYGI
+                . * :**.**.***:*:                                           
+
+AEL_3_4568      ------------------------------------------------------------
+ARB_2_1376      ------------------------------------------------------------
+BTV_5_149       ------------------------------------------------------------
+CPA_4_5219      ------------------------------------------------------------
+YAX_0_4010      ------------------------------------------------------------
+YCG_0_1724      ------------------------------------------------------------
+ZVR_0_5434      ------------------------------------------------------------
+AHG_3_3440      YTDRIWFKGSRTLHTQLVAVARETGILHSNTHDEFGDEWSSFVASEGRKRTSSCLYMLDS
+BDM_5_37        YTDRIWFKGSRTLHTQLVAVARETGILHSNTHDEFGDEWSSFVASEGRKRTSSCLYMLDS
+BLT_2_1951      YTDRIWFKGSRTLHTQLVAVARETGILHSNTHDEFGDEWSSFVASEGRKRTSSCLYMLDS
+                                                                            
+
+AEL_3_4568      ------------------------------------------------------------
+ARB_2_1376      ------------------------------------------------------------
+BTV_5_149       ------------------------------------------------------------
+CPA_4_5219      ------------------------------------------------------------
+YAX_0_4010      ------------------------------------------------------------
+YCG_0_1724      ------------------------------------------------------------
+ZVR_0_5434      ------------------------------------------------------------
+AHG_3_3440      QMATLLNYPPSLTHYELKHVLPCSDELWEAATASEWRSLCYSNLTSAQVIQFLPALQQTL
+BDM_5_37        QMATLLNYPPSLTHYELKHVLPCSDELWEAATASEWRSLCYSNLTSAQVIQFLPALQQTL
+BLT_2_1951      QMATLLNYPPSLTHYELKHVLPCSDELWEAATASEWRSLCYSNLTSAQVIQFLPALQQTL
+                                                                            
+
+AEL_3_4568      ------------------------------------------------------------
+ARB_2_1376      ------------------------------------------------------------
+BTV_5_149       ------------------------------------------------------------
+CPA_4_5219      ------------------------------------------------------------
+YAX_0_4010      ------------------------------------------------------------
+YCG_0_1724      ------------------------------------------------------------
+ZVR_0_5434      ------------------------------------------------------------
+AHG_3_3440      MYRRCPKQMSSFGSLTVLLAIHVMIRNMSQYAGILEVPAIHAKDPFSRRSQLGEALNALR
+BDM_5_37        MYRRCPKQMSSFGSLTVLLAIHVMIRNMSQYAGILEVPAIHAKDPFSRRSQLGEALNALR
+BLT_2_1951      MYRRCPKQMSSFGSLTVLLAIHVMIRNMSQYAGILEVPAIHAKDPFSRRSQLGEALNALR
+                                                                            
+
+AEL_3_4568      ------------------------------------------------------------
+ARB_2_1376      ------------------------------------------------------------
+BTV_5_149       ------------------------------------------------------------
+CPA_4_5219      ------------------------------------------------------------
+YAX_0_4010      ------------------------------------------------------------
+YCG_0_1724      ------------------------------------------------------------
+ZVR_0_5434      ------------------------------------------------------------
+AHG_3_3440      TLIPNKKRLQGEGGMWEMFIATWNLAYIHLHLPDPVITSGIVEVTLAASIAAAAALAKPH
+BDM_5_37        TLIPNKKRLQGEGGMWEMFIATWNLAYIHLHLPDPVITSGIVEVTLAASIAAAAALAKPH
+BLT_2_1951      TLIPNKKRLQGEGGMWEMFIATWNLAYIHLHLPDPVITSGIVEVTLAASIAAAAALAKPH
+                                                                            
+
+AEL_3_4568      ----------------VPY-----------------------------------------
+ARB_2_1376      ----------------VPY-----------------------------------------
+BTV_5_149       ----------------VPY-----------------------------------------
+CPA_4_5219      ----------------VPY-----------------------------------------
+YAX_0_4010      ----------------VPY-----------------------------------------
+YCG_0_1724      ----------------VPY-----------------------------------------
+ZVR_0_5434      ----------------VPY-----------------------------------------
+AHG_3_3440      PVHSPGNIVLGNSFSFVPFETLLVMVNHVCYLLRSSANLCTEDIVEKSPVFTFMFYKASL
+BDM_5_37        PVHSPGNIVLGNSFSFVPFETLLVMVNHVCYLLRSSANLCTEDIVEKSPVFTFMFYKASL
+BLT_2_1951      PVHSPGNIVLGNSFSFVPFETLLVMVNHVCYLLRSSANLCTEDIVEKSPVFTFMFYKASL
+                                **:                                         
+
+AEL_3_4568      ------------------------------------------------------------
+ARB_2_1376      ------------------------------------------------------------
+BTV_5_149       ------------------------------------------------------------
+CPA_4_5219      ------------------------------------------------------------
+YAX_0_4010      ------------------------------------------------------------
+YCG_0_1724      ------------------------------------------------------------
+ZVR_0_5434      ------------------------------------------------------------
+AHG_3_3440      VAWQILNGDIRCSKIEEEEKSEKGSAETAYIRRRLIDDIMNCVDDDDSDGNDADELERFE
+BDM_5_37        VAWQILNGDIRCSKIEEEEKSEKGSAETAYIRRRLIDDIMNCVDDDDSDGNDADELERFE
+BLT_2_1951      VAWQILNGDIRCSKIEEEEKSEKGSAETAYIRRRLIDDIMNCVDDDDSDGNDADELERFE
+                                                                            
+
+AEL_3_4568      -------------------------
+ARB_2_1376      -------------------------
+BTV_5_149       -------------------------
+CPA_4_5219      -------------------------
+YAX_0_4010      -------------------------
+YCG_0_1724      -------------------------
+ZVR_0_5434      -------------------------
+AHG_3_3440      VWTRNVLSSANTWSVGVAASASFYF
+BDM_5_37        VWTRNVLSSANTWSVGVAASASFYF
+BLT_2_1951      VWTRNVLSSANTWSVGVAASASFYF
+                                         

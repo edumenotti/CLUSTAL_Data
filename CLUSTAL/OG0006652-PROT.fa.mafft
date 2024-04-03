@@ -1,0 +1,47 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BGT_2_2249      ------------------------------------------------------------
+JAY_0_650       -----------------VYMRTLKTELLWLSCYVTTLPS-PMSLPLITLPECQNTKRTST
+ZBG_0_4669      PSNLTNFTLPSLRTLSWVYMRTLKTELLWLSCYVTTLPS-PMSLPLITLPECQNTKRTST
+JAY_0_1770      ------------------------------------------------------------
+JAY_0_2090      -----------------VYMRTLKTELL-LSCYVTILLNLSMNLPLITLLECQNTKRTSI
+BMF_1_390       ------------------------------------------------------------
+JAY_0_2655      ------------------------------------------------------------
+                                                                            
+
+BGT_2_2249      ------------------------------------------------------------
+JAY_0_650       TSLVNLRLSKSLHFWMPRLKTSRFCSPTQLMNTPSLNRNSKVKLWLTLLKISNWKKLTKK
+ZBG_0_4669      TSLVNLRLSKSLHFWMPRLKTSRFCSPTQLMNTPSLNRNSKVKLWLTLLKISNWKKLTKK
+JAY_0_1770      ------RLSK--------------------------------------------------
+JAY_0_2090      TSPVNLRQSKSLHSWTPRLRTLKFCSPTQLMNTLSLNRNSKVKLWLTLLKISNWKKQTKK
+BMF_1_390       -----------------------------------------------------WKKQTKK
+JAY_0_2655      ------------------------------------------------------------
+                                                                            
+
+BGT_2_2249      ------------------------------------------------------------
+JAY_0_650       KLKERRRSKNMNHPRPKKFWVTKWRKLLFLTNCWMPQLLSELVNLVGLLTWKESRL----
+ZBG_0_4669      KLKERRRSKNMNHPRPKKFWVTKWRKLLFLTNCWMPQLLSELVNLVGLLTWKESRLKPET
+JAY_0_1770      ------------------------------------------------------------
+JAY_0_2090      KLKERRRSKNTNHPRPRISWVTKWRRLL--------------------------------
+BMF_1_390       KLKERRRSKNTNHSRPRISWVTKWRRLLFLTNC-MLQLPSELVNSAGLLTWKESRLKPET
+JAY_0_2655      ------------------------------------------------------------
+                                                                            
+
+BGT_2_2249      ----------------QNLQLSRNKRELTKVVLKTRLSRTLSYYMKLLCLPASVWTNQLP
+JAY_0_650       ------------------------------------------------------------
+ZBG_0_4669      LPCPPTCLPRRLSKFLQNLQLSRNKRELTKVVLKTRLSRTLSYYMKLLCLPASVWTNQLP
+JAY_0_1770      --------------FLQNLQLSRNKRELTKVVLKTRLSRTLSYYMKLLCLPASVWTNQLP
+JAY_0_2090      --------------FLTNCML------------------------------------QLP
+BMF_1_390       LPCPPTCLPRRLSKFLQNLQLLRNKRELMRVVHKIRPSKILTYYSRPLCLLVSVWKNQLL
+JAY_0_2655      ----------RLSKFLQNLQLLRNKRELMRVVHKIRPSKILTYYSRPLCLLVSVWKNQLL
+                                                                            
+
+BGT_2_2249      LHQELTDSLWVTLMRMKKQRLLQKHPPQLRLKRFQLTPKWKRX-
+JAY_0_650       --------------------------------------------
+ZBG_0_4669      LHQELTDSLWATLMRMKKQRLLQKHPPQLRLKRFQLTPKWKRX-
+JAY_0_1770      LHQELTDSLWATLMRMKKQRLLQKHPPQLRLKRFQLTPKWKRX-
+JAY_0_2090      --SELVNS--AGLLTWKESRL-----------------------
+BMF_1_390       LHQEI-DFL-VTLMRMKKQKPLQKLLPKLQLKRFQLTPRWKKLX
+JAY_0_2655      LHQEI-DFL-VTLMRMKKQKPLQKLLPKLQLKRFQLTPRWKKLX
+                                                            

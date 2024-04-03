@@ -1,0 +1,26 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARA_4_2435      MSSSAIKIRNALLKATDPKLRSDNWQYILDVCDLVKEDPEDNGQEVMXXXXXXXXXXXXX
+ATR_4_2696      MSSSAIKIRNALLKATDPKLRSDNWQYILDVCDLVKEDPEDNGQE---------------
+ATR_4_2701      MSSSAIKIRNALLKATDPKLRSDNWQYILDVCDLVKEDPEDNGQE---------------
+CFC_2_3098      MSSSAIKIRNALLKATDPKLRSDNWQYILDVCDLVKEDPEDNGQE---------------
+                *********************************************               
+
+ARA_4_2435      XXXXVSLAENCGSRLRQEISSKNFTSLLYALIESHSVHITLKKAVTDVVKQLSDSFKDDP
+ATR_4_2696      ------------------------------------------------------------
+ATR_4_2701      ------------------------------------------------------------
+CFC_2_3098      ---------------------------------SHSVHITLKKAVTDVVKQLSDSFKDDP
+                                                                            
+
+ARA_4_2435      SLRAMGDLYDKIKRKAPYLVHPNVPEKHNMSTQADNSDDEELQKALKMSLFEYEKQKKLQ
+ATR_4_2696      ------------------------------------------------------------
+ATR_4_2701      ------------------------------------------------------------
+CFC_2_3098      SLRAMGDLYDKIKRKAPYLVQPNVPEKHNMSTQADNSDDEELQKALKMSLFEYEKQKKLQ
+                                                                            
+
+ARA_4_2435      EQEKESAEVLPQQQQQHQQQNXXXXXXXXXXXXXXXXXXTGTNRCEKSSGSI
+ATR_4_2696      ----------------------------------------------------
+ATR_4_2701      ----------------------------------------------------
+CFC_2_3098      EQEKESAEVLPQQQQQHQQQNXXXXXXXXXXXXXXXXXXTGTNRCEKSSGSI
+                                                                    

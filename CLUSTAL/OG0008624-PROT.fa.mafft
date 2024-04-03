@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BMQ_5_48        --------------------------------------------------------DDES
+CAT_0_5565      MNEAEMSSGDECVKQKDDGSKTQISFSTDSPDNFQESNDNTEFSSTKYKVRNSDLEDDES
+                                                                        ****
+
+BMQ_5_48        LKKELTKAEVVDKLDEEESEDSYEQDYADPEPGNDEGSNENIVKGTKKDTLRIVEPENEK
+CAT_0_5565      LKKELTKAEVVDKLDEEESEDSYEQDYADPEPGNDEGSNENIVKGTKKDTLGIVEPENEK
+                *************************************************** ********
+
+BMQ_5_48        VNKVHEEETLFEANVSSSVNVQNKDMHTDVINQEAQANX-----------
+CAT_0_5565      VNKVHEEETLFEANVSSSVNVQSKDMHTDVINQEAQANYEAGERKYYIQN
+                **********************.***************            

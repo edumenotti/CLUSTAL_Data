@@ -1,0 +1,37 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVV_8_233       PTTMIHTAPATTMTLTVPTMTTLTVRQTTRALTVLLATMILTDLPITTTLTVLPTRRRVL
+BAB_8_299       PTTMIHTAPATTMTLTVPTMTTLTVRQTTRALTVLLATMILTDLPITTTLTVLPTRRRVL
+BAC_8_5121      PTTMIHTAPATTMTLTVPTMTTLTVRQTTRALTVLLATMILTDLPITTTLTVLPTRRRVL
+BAD_8_4854      PTTMIHTAPATTMTLTVPTMTTLTVRQTTRALTVLLATMILTDLPITTTLTVLPTRRRVL
+BAE_6_993       PTTMIHTAPATTMTLTVPTMTTLTVRQTTRALTVLLATMILTDLPITTTLTVLPTRRRVL
+                ************************************************************
+
+AVV_8_233       MVPATTIRMVLTTMIHMVLTTMIPTALTTMIPTVLLTRRRALMVPATTIRMVLTTMIHMV
+BAB_8_299       MVPATTIRMVLTTMIHMVLTTMIPTALTTMIPTVLLTRRRALMVPATTIRMVLTT-----
+BAC_8_5121      MVPATTIRMVLTTMIHMVLTTMIPTALTTMIPTVLLTRRRALMVPATTIRMVLTTTTHMV
+BAD_8_4854      MVPATTIRMVLTTMIHMVLTTMIPTALTTMIPTVLLTRRRALMVPATTIRMVLTTTTHMV
+BAE_6_993       MVPATTIRMVLTTMIHMVLTTMIPTALTTMIPTVLLTRRRALMVPATTIRMVLTT-----
+                *******************************************************     
+
+AVV_8_233       LT----------------------------------------------------------
+BAB_8_299       ------------------------------------------------------------
+BAC_8_5121      LTTTIHMILATMIHMILATMIHMVLTTMIHMVLXXXXXXXXXXXXXXXXXVPATTIRMVL
+BAD_8_4854      LTTTIHMILATMIHMILATMIHMVLTTMIHMVLXXXXXXXXXXXXXXXXXVPATTIRMVL
+BAE_6_993       ------------------------------------------------------------
+                                                                            
+
+AVV_8_233       ------------------------------------------------------------
+BAB_8_299       ------------------------------------------------------------
+BAC_8_5121      TTTIHMVLTTMIHMVLTTMIHMVPTTMIHTAPATTMTLTAPATTMTLTVPTMTTLTVPLI
+BAD_8_4854      TTTIHMVLTTMIHMVLTTMIHMVPTTMIHTAPATTMTLTAPATTMTLTVPTMTTLTVPLI
+BAE_6_993       ------------------------------------------------------------
+                                                                            
+
+AVV_8_233       -------------------------------------
+BAB_8_299       -------------------------------------
+BAC_8_5121      ETRTPMGLPTTVHPTMMTLMVHLIEAVVINTVVTTIT
+BAD_8_4854      ETRTPMGLPTTVHPTMMTLMVHLIEAVVINTVVTTIT
+BAE_6_993       -------------------------------------
+                                                     

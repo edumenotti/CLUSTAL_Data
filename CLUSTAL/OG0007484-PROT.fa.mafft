@@ -1,0 +1,17 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEB_8_324       ------------------------------------------------------------
+BBG_6_342       ------------------------------------------------------------
+BMR_2_551       MKLQKLLTKMLAHGEYIAPEKIENIYLSSCPYITQIFVFGDPLKTFLVGIVGVDVDAAQP
+                                                                            
+
+AEB_8_324       ----KHPEVKTWTKEVLVENLNRNKKLRKEFLNKINKCIDGLQGFEKLHNIKVGLEPLTL
+BBG_6_342       ----KHPEVKTWTKEVLVENLNRNKKLRKEFLNKINKCIDGLQGFEKLHNIKVGLEPLTL
+BMR_2_551       ILAAKHPEVKTWTKEVLVENLNRNKKLRKEFLNKINKCTDGLQGFEKLHNIKVGLEPLTL
+                    ********************************** *********************
+
+AEB_8_324       EDDVVTPTFKIKRAKASKFFKDTLDQLYAEGSLVKTEKL
+BBG_6_342       EDDVVTPTFKIKRAKASKFFKDTLDQLYAEGSLVKTEKL
+BMR_2_551       EDDVVTPTFKIKRAKASKFFKDTLDQLYAEGSLVKTEKL
+                ***************************************

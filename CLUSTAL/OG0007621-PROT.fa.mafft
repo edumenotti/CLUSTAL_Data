@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AQI_4_333       AQTLLFLLLKIYLSPLFLISIFQYHLMTVLTSISLTQDKMLGSTFLTAMKELDKYFSLVR
+AQI_4_334       AQTLLFLLLKIYLSPLFLISIFQYHLMTVLTSISLTQDKMLGSTFLTAMKELDKYFSLVR
+CAT_0_5409      ------------------------------------------------------------
+                                                                            
+
+AQI_4_333       LMVSTCGNYNITARRTYSIARVTKYVQSQTQIYYLQNYLAYPEESYKKYKGMQVPKKKLY
+AQI_4_334       LMVSTCGNYNITARRTYSIARVTKYVQSQTQIYYLQNYLAYPEESYKKYKGMQVPKKKLY
+CAT_0_5409      ------------------------------------------------------------
+                                                                            
+
+AQI_4_333       HSSKLTSQEAFYILYQRNLLSDLTLLATGKDRSSLMLLISGVEMHWVKIHLYSVIELSRL
+AQI_4_334       HSSKLTSQEAFYILYRRNLLSDLTLLATGKDRSSLMLLISGVEMHWVKIHLYSVIELSRL
+CAT_0_5409      --------------------------------------------HWVKIHLYSVIELSRL
+                                                            ****************
+
+AQI_4_333       PKLFLSLCVRTMIYSLLLLLEYAYISKVPFLGDRLAHNTLSFLLPVYLAPSSKINLSSVI
+AQI_4_334       PKLFLSLCVRTMIYSLLLLLEYAYISKVPFLGDRLAHNTLSFLLPVYLAPSSKINLSSVI
+CAT_0_5409      PKLFLSLCVRTMIYSLLLLLEYAYISKVPFLGDRLAHNTLSFLLPVYLAPSSKINLPSVT
+                ********************************************************.** 
+
+AQI_4_333       TP-THMIQAHFQHKKLVQLISIPLAL----------------------------------
+AQI_4_334       TP-THMIQAHFQHKKLVQLISIPLAL----------------------------------
+CAT_0_5409      TPQTHMIQAHFQHKKLVQLISIPLALVRYHQVYTLRAGKELILENHLKVLQIKLCWKMKR
+                ** ***********************                                  
+
+AQI_4_333       ------------------------------------------------------------
+AQI_4_334       ------------------------------------------------------------
+CAT_0_5409      NTNFTLVLQITVYKIMVNMKIPHYSIRQMRLKRLFPQDPLITLLHPKVTLMCLPHNTVQN
+                                                                            
+
+AQI_4_333       ------------------------------------------------------------
+AQI_4_334       ------------------------------------------------------------
+CAT_0_5409      HKLPFQAMPKFIAIARPTKCSKALKILCHLFTVMVYLRLALRHFILVSLISQSILNQVPW
+                                                                            
+
+AQI_4_333       ----------------------------------
+AQI_4_334       ----------------------------------
+CAT_0_5409      PSSLPVYLGLKNRKVLEKVAACRQSHKIYSINLV
+                                                  

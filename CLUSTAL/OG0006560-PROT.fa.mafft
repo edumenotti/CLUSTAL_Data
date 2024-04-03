@@ -1,0 +1,38 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALN_4_451       ------------------------------------------------------------
+CHG_4_2339      ------------------------------------------------------------
+API_4_544       ------------------------------------------------------------
+BTE_3_5450      VSLLVTRVRKSPKLQPQRSLTRRVLPPTEPSSSDLWLEKSPVCPHMKEDSISETPVKREP
+APP_4_4989      ------------------------------------------------------------
+BTV_5_5610      ------------------------------------------------------------
+CFT_5_4809      ------------------------------------------------------------
+                                                                            
+
+ALN_4_451       ---------------------------VSLLVTRVRKSPKLQPQRSPTRRVLPPTEPSSS
+CHG_4_2339      ---------------------------VSLLVTRVRKSPKLQPQRSPTRRVLPPTEPSSS
+API_4_544       ---------------------------VSLLVTRVRKSPKLQPQRSLTRRVLPPTEPSSS
+BTE_3_5450      ERSPRRDWVLSPEPRLRSKKTTSLLPLVSLLVTRVRKSPKLQPQRSLTRRVLPPTEPSSS
+APP_4_4989      ---------------------------ELLLVTKVRRSLAPQLQKSLTRKVLLPTEP-SS
+BTV_5_5610      ---------------------------ELLLVTKVRRSLAPQLQKSLTRKVLLPTEP-SS
+CFT_5_4809      ---------------------------ELLLVTKVRRSLAPQLQKSLTRKVLLPTEP-SS
+                                             ****:**:*   * *:* **:** **** **
+
+ALN_4_451       DLWLEKSPVCPHMKEDSISETPVKREPERSPRRDWVLSPEPRLRSKK-------------
+CHG_4_2339      DLWLEKSPVCPHMKEDSISETPVKREPERSPRRDWVLSPEPRLRSKKXXXXXXXXXXXXX
+API_4_544       DLWLEKSPVCPHMKEDSISETPVKREPERSPRRDWVLSPEPRLRSKK-------------
+BTE_3_5450      DLWLEKSPVCPHMKEDSISETPVKREPERSPRRDWVLSPEPRLRSKK-------------
+APP_4_4989      DLWSEKSLVCLHTKEDLI-ETLVKRELERSPRRDWVLSPEPRLRSKK-------------
+BTV_5_5610      DLWSEKSLVCLHTKEDLI-ETLVKRELERSPRRDWVLSPEPRLRSKK-------------
+CFT_5_4809      DLWSEKSLVCLHTKEDLI-ETLVKRELERSPRRDWVLSPEPRLRSKK-------------
+                *** *** ** * *** * ** **** ********************             
+
+ALN_4_451       ----TTSLLPLVVX
+CHG_4_2339      XXXXXTSLLPLVVX
+API_4_544       ----TTSLLPLVVX
+BTE_3_5450      ----TTSLLPLVVX
+APP_4_4989      ----TTSLLLLVVT
+BTV_5_5610      ----TTSLLLLVVT
+CFT_5_4809      ----TTSLLLLVVT
+                     **** *** 

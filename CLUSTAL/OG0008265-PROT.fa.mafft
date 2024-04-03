@@ -1,0 +1,22 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ASH_3_5932      ------------------------------------------------------------
+CFM_4_677       QNICCNISCQQEAFAMKMLSFPDWKPMLQRLTLNGRSSSGSTSMIITLTNTFWVTRSFGS
+                                                                            
+
+ASH_3_5932      ------------------------------------------------------------
+CFM_4_677       TTGLVETQLRPSRILSPSKIIQQGLTIMIMQFCNRYFRRVTGFSYMLTHQQKRLSPQGLT
+                                                                            
+
+ASH_3_5932      ------------------------------STVFQLQETQTSRNGVSSVRLLGPPIFSNF
+CFM_4_677       KTRSSLNGPNNSSVERLSLKGLHWKPRLRKSTVFQLQETQTSRNGVSSVRLLGPPIFSNF
+                                              ******************************
+
+ASH_3_5932      KNQQRTSKTYYSDYANNGFTGLRKGNSVLIFAVQNKSIHPCTITLAKIATSWQFKVSGAA
+CFM_4_677       KNQQRTSKTYYSDYANNGFTGLRKGNSVLIFAVQNKSIHPCTITLAKIATSWQFKVSGAA
+                ************************************************************
+
+ASH_3_5932      TNHAEKRMRKLERIVCLKFGMLIVSSIILPMARIVIVAVHRSQRAYTLX
+CFM_4_677       TNHAEKRMRKLERIVCLKFGILIVSSIILPMARIVIVAVHRSQRAYTLX
+                ********************:*************************** 

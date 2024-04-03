@@ -1,0 +1,116 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ACI_7_106       MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+ACI_7_2433      MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+AFK_5_52        MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+AFK_5_4486      MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+AGR_2_623       MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+AGR_2_649       MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+AHH_3_246       MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+AHH_3_2159      MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+ARG_5_681       MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+ARG_5_2813      MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+YCM_0_12        MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+YCM_0_3422      MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+YDE_0_23        MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+YDE_0_3623      MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+ACL_7_22        MTLGNRRHGRNNEGSSNMNMNGNDPDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+ACL_7_5451      MTLGNRRHGRNNEGSSNMNMNGNDPDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTGE
+CFH_0_5312      MTLGNRRHGRNNEGSSNMNMNGNDLDDVSHYEMKEIQPKEKEIGSIEPENEVEYFEKTVE
+                ************************ ********************************* *
+
+ACI_7_106       KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+ACI_7_2433      KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+AFK_5_52        KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+AFK_5_4486      KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+AGR_2_623       KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+AGR_2_649       KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+AHH_3_246       KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+AHH_3_2159      KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+ARG_5_681       KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+ARG_5_2813      KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+YCM_0_12        KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+YCM_0_3422      KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+YDE_0_23        KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+YDE_0_3623      KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+ACL_7_22        KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+ACL_7_5451      KTIENMEYEGEHHASYLRKFIDSFKRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+CFH_0_5312      KTIENMEYEGEHHASYLRRFIDSFRRAEGSHANSPDSSNSNGTTPISTKDSSSQLDNELN
+                ******************:*****:***********************************
+
+ACI_7_106       RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+ACI_7_2433      RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+AFK_5_52        RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+AFK_5_4486      RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+AGR_2_623       RKSSYITVDGIKQSPQEQEQKQENLKKSIKPRHTVMMSLGTGX-----------------
+AGR_2_649       RKSSYITVDGIKQSPQEQEQKQENLKKSIKPRHTVMMSLGTGX-----------------
+AHH_3_246       RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+AHH_3_2159      RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+ARG_5_681       RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+ARG_5_2813      RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+YCM_0_12        RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+YCM_0_3422      RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+YDE_0_23        RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+YDE_0_3623      RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+ACL_7_22        RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+ACL_7_5451      RKSSYITVDGIKQSPQEQEQKQENLKKSIX------------------------------
+CFH_0_5312      RKSSYITVDGIKQSPQEQEQKQGNLKKSIKPRHTVMMSLGTGIGTGLLVGNSKVLNNAGP
+                ********************** ******                               
+
+ACI_7_106       ------------------------------------------------------------
+ACI_7_2433      ------------------------------------------------------------
+AFK_5_52        ------------------------------------------------------------
+AFK_5_4486      ------------------------------------------------------------
+AGR_2_623       ------------------------------------------------------------
+AGR_2_649       ------------------------------------------------------------
+AHH_3_246       ------------------------------------------------------------
+AHH_3_2159      ------------------------------------------------------------
+ARG_5_681       ------------------------------------------------------------
+ARG_5_2813      ------------------------------------------------------------
+YCM_0_12        ------------------------------------------------------------
+YCM_0_3422      ------------------------------------------------------------
+YDE_0_23        ------------------------------------------------------------
+YDE_0_3623      ------------------------------------------------------------
+ACL_7_22        ------------------------------------------------------------
+ACL_7_5451      ------------------------------------------------------------
+CFH_0_5312      GGLIIGYAIMGSCVYCIIQACGELAVIYSDLIGGFNTYPLFLVDPALGFSVAWLFCLQWL
+                                                                            
+
+ACI_7_106       ------------------------------------------------------------
+ACI_7_2433      ------------------------------------------------------------
+AFK_5_52        ------------------------------------------------------------
+AFK_5_4486      ------------------------------------------------------------
+AGR_2_623       ------------------------------------------------------------
+AGR_2_649       ------------------------------------------------------------
+AHH_3_246       ------------------------------------------------------------
+AHH_3_2159      ------------------------------------------------------------
+ARG_5_681       ------------------------------------------------------------
+ARG_5_2813      ------------------------------------------------------------
+YCM_0_12        ------------------------------------------------------------
+YCM_0_3422      ------------------------------------------------------------
+YDE_0_23        ------------------------------------------------------------
+YDE_0_3623      ------------------------------------------------------------
+ACL_7_22        ------------------------------------------------------------
+ACL_7_5451      ------------------------------------------------------------
+CFH_0_5312      CVCPLELVTASMTIKYWTTSVNPDVFVVIFYVLIVVXXXXXXXXXXXXXXXXXLDFSFSP
+                                                                            
+
+ACI_7_106       -------------
+ACI_7_2433      -------------
+AFK_5_52        -------------
+AFK_5_4486      -------------
+AGR_2_623       -------------
+AGR_2_649       -------------
+AHH_3_246       -------------
+AHH_3_2159      -------------
+ARG_5_681       -------------
+ARG_5_2813      -------------
+YCM_0_12        -------------
+YCM_0_3422      -------------
+YDE_0_23        -------------
+YDE_0_3623      -------------
+ACL_7_22        -------------
+ACL_7_5451      -------------
+CFH_0_5312      LLLIVVVQVPMVT
+                             

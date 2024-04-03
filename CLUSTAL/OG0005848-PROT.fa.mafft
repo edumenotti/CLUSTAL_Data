@@ -1,0 +1,97 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEB_8_178       RIFRIFGIRRTAARTVRIRFRTFRFRRRPARALRGRAFWFSFSLFSLLSIFVVFSCSFLG
+BBG_6_61        RIFRIFGIRRTAARTVRIRFRTF-FRRRPARALRGRAFWFSFSLFSLLSIFVVFSCSFLG
+BMF_1_62        ------------------------------------------------------------
+CGC_4_2226      RIFRIFGIRRTAARTVRIRFRTF-FRRRPARALRGRAFWFSFSLFSLLSIFVVFSCSFLG
+CPI_4_941       ------------------------------------------------------------
+CMG_6_84        ------------------------------------------------------------
+BMM_3_172       ------------------------------------------------------------
+CBF_5_167       ------------------------------------------------------------
+CKK_4_151       ------------------------------------------------------------
+CLA_5_147       ------------------------------------------------------------
+CMG_6_244       ------------------------------------------------------------
+CKN_4_59        ------------------------------------------------------------
+CPI_4_942       ------------------------------------------------------------
+CPN_4_8         ------------------------------------------------------------
+CPN_4_1149      ------------------------------------------------------------
+APL_4_29        ------------------------------------------------------------
+CFI_4_130       ------------------------------------------------------------
+                                                                            
+
+AEB_8_178       FIFFGFRGRFVRTRAR-GRRRSTGTRVGFTRRFRVARTAARRRRRRRRRRARFR------
+BBG_6_61        FIFFGFRGRFVRTRAR-GRRRSTGTRVGFTRRFRVARTAA---RRRRRRRARFR------
+BMF_1_62        -------------RAR-GRRRSTGTRVGFTRRFRVARTAAR--RRRRRRRARFR------
+CGC_4_2226      FIFFGFRGRFVRTRAR-GRRRSTGTRVGFTRRFRVARTAA---RRRRRRRARFR------
+CPI_4_941       --------RFVRTRAR-GRRRSTGTRVGFTRRFRVARTAAR--RRRRRRRARFR------
+CMG_6_84        -------------RAR-GRRRSTGTRVGFTRRFRVTRTAA------RRRRARFR------
+BMM_3_172       -------------RAR-GRRRSTGTRVGFTRRFRVTRTAA-----RRRRRARFR------
+CBF_5_167       -------------RAR-GRRRSTGTRVGFTRRFRVTRTAA-----RRRRRARFR------
+CKK_4_151       -------------RAR-GRRRSTGTRVGFTRRFRVTRTAA-----RRRRRARFR------
+CLA_5_147       -------------RAR-GRRRSTGTRVGFTRRFRVTRTAA-----RRRRRARFR------
+CMG_6_244       ------------------------------------------------------------
+CKN_4_59        -------GRAARAGARVGVRRVAGAGVRL--RRRVARAGA------RTVRIRFRTFRRPA
+CPI_4_942       -------GRAARAGARVGVRRVAGAGVRL--RRRVARAGA------RTVRIRFRTFRRPA
+CPN_4_8         -------GRAARAGARVGVRRVAGAGVRL--RRRVARAGA------RTVRIRFRTFRRPA
+CPN_4_1149      --------RFVRTRAR-GRRRSTGTRVGFTGRFRVTGTAA------RRRRARFR------
+APL_4_29        -----IRGRAARAGARVGVRRVAGTGVGL--RRRVARAGA------RTVRIRFR------
+CFI_4_130       -----IRGRAARAGARVGVRRVAGTGVGL--RRRVARAGA------RTVRIRFR------
+                                                                            
+
+AEB_8_178       ------------------------------------------------------------
+BBG_6_61        ------------------------------------------------------------
+BMF_1_62        ------------------------------------------------------------
+CGC_4_2226      ------------------------------------------------------------
+CPI_4_941       ------------------------------------------------------------
+CMG_6_84        ------------------------------------------------------------
+BMM_3_172       ------------------------------------------------------------
+CBF_5_167       ------------------------------------------------------------
+CKK_4_151       ------------------------------------------------------------
+CLA_5_147       ------------------------------------------------------------
+CMG_6_244       ------------------------------------------------------------
+CKN_4_59        RALRGRAFWFSFX-----------------------------------------------
+CPI_4_942       RALRGRAFWFSFSLFSLLSIFVVFSCSFLGFIFFGFRGRFVRTRARGRRRSTGTRVGFTG
+CPN_4_8         RALRGRAFWFSFX-----------------------------------------------
+CPN_4_1149      ------------------------------------------------------------
+APL_4_29        ------------------------------------------------------------
+CFI_4_130       ------------------------------------------------------------
+                                                                            
+
+AEB_8_178       -----------------VTAVTA--------AAGFAARTGRGRRRGGGGGGGGGRG----
+BBG_6_61        -----------------VTAVTA-----AAAAARFAARTGRGRRRRGGGGGGRGRR----
+BMF_1_62        -----------------VTAVTA-----AAAAARFAARTGRG------------------
+CGC_4_2226      -----------------VTAVTA-----AAAAARFAARTGRGRRRRGGGGGGRGRR----
+CPI_4_941       -----------------VTAVTA-----AAAAARFAARTGRGRRRRGGGGGGRG------
+CMG_6_84        -----------------VTAVTAVT---AAAAARFAARTGRGRRRRX-------------
+BMM_3_172       -----------------VTAVTAV------TAARFAARTGRGRRRRGGGX----------
+CBF_5_167       -----------------VTAVTAV------TAARFAARTGRGRRRRGGGX----------
+CKK_4_151       -----------------VTAVTAV------TAARFAARTGRGRRRRGGGX----------
+CLA_5_147       -----------------VTAVTAV------TAARFAARTGRGRRRRGGGX----------
+CMG_6_244       --------------------------------ARFAARTGRGRRRRGGGGGRGGRGR---
+CKN_4_59        ------------------------------------------------------------
+CPI_4_942       RFRVTGTAARRRRARFRVTAVTAVTAVTAAAAARFAARTGRGRRRRRRGGGRGGRGRGRG
+CPN_4_8         ------------------------------------------------------------
+CPN_4_1149      -----------------VTAVTAVTAVTAAAAARFAARTGRGRRRRRRGGGRGGRGRGRG
+APL_4_29        ---------------------------------RRPARALRGR-----------------
+CFI_4_130       ---------------------------------RRPARALRGR-----------------
+                                                                            
+
+AEB_8_178       --RRRRFLFNLLLLNTFWHFVNFNFLGSHCYVFX
+BBG_6_61        --RRRRFLFNLLLLNTFWHFVNFNFLGSHCYVFX
+BMF_1_62        ----------------------------------
+CGC_4_2226      --RRRRFLFNLLLLNTFWHFVNFNFLGSHCYVFX
+CPI_4_941       --RRRRFLFNLLLLNTFWHFVNFNFLGSHCYVFX
+CMG_6_84        ----------------------------------
+BMM_3_172       ----------------------------------
+CBF_5_167       ----------------------------------
+CKK_4_151       ----------------------------------
+CLA_5_147       ----------------------------------
+CMG_6_244       --RRRRFLFDLLLLNTFWHFVNFNFLGSHCYVFX
+CKN_4_59        ----------------------------------
+CPI_4_942       RGRGRRFLFNLLLLNTFRHFVNFNFLGSHCYVFX
+CPN_4_8         ----------------------------------
+CPN_4_1149      RGRGRRFLFNLLLLNTFRHFVNFNFLGSHCYVFX
+APL_4_29        ---------------AFWFX--------------
+CFI_4_130       ---------------AFWX---------------
+                                                  

@@ -1,0 +1,86 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABV_6_1503      ------------------------------------------------------------
+BTD_1_527       ---------KEGDIERISFQPIGTGKWQPRRCEVKGSGSGRRNGHIRAGQRRGAILLSNI
+ATV_5_2015      ---------KEGDIERISFQPIGTGKWQPRRCEVKGSGSGRRNGHIRAGQRRGAILLSNI
+ALV_2_1383      ------------------------------------------------------------
+ALV_2_4331      ------------------------------------------------------------
+CFI_4_4526      ------------------------------------------------------------
+CBL_2_1080      QRTGINSHDKEGDIERISFQPIGTGKWQPRRCEVKGSGSGRRNGHIRAGQRRGAILLSNI
+CBM_4_1373      QRTGINSHDKEGDIERISFQPIGTGKWQPRRCEVKGSGSGRRNGHIRAGQRRGAILLSNI
+CBM_4_1380      QRTGINSHDKEGDIERISFQPIGTGKWQPRRCEVKGSGSGRRNGHIRAGQRRGAILLSNI
+BBC_8_1237      ------------------------------------------------------------
+                                                                            
+
+ABV_6_1503      ------------------------------------------------------------
+BTD_1_527       HAASDSWCRSSGIYEIILTLLGAKTSMDGQRRNKTHQLDLHLRIHSLRAFPKSQFQDEKC
+ATV_5_2015      HAASDSWCRSSGIYEIILTLLGAKTSMDGQRRNKTHQLDLHLRIHSLRAFPKSQFQDEKC
+ALV_2_1383      ------------------------------------------------------------
+ALV_2_4331      ------------------------------------------------------------
+CFI_4_4526      ------------------------------------------------------------
+CBL_2_1080      HAASDSWCRSSGIYEIILTLLGAKTSMDGQRRNKTHQLDLHLRIHSLRAFQKSQFQDEKC
+CBM_4_1373      HAASDSWCRSSGIYEIILTLLGAKTSMDGQRRNKTHQLDLHLRIHSLRAFQKSQFQDEKC
+CBM_4_1380      HAASDSWCRSSGIYEIILTLLGAKTSMDGQRRNKTHQLDLHLRIHSLRAFQKSQFQDEKC
+BBC_8_1237      ------------------------------------------------------------
+                                                                            
+
+ABV_6_1503      ------------------------------------------------------------
+BTD_1_527       QGRYGKVNNGETIFSLFFTKSLNSAETIRRAYERFNQRHITRKDALIHKPHYVRYSYYAE
+ATV_5_2015      QGRYGKVNNGETIFSLFFTKSLNSAETIRRAYERFNQRHITRKDALIHKPHYVRYSYYAE
+ALV_2_1383      ------------------------------------------------------------
+ALV_2_4331      ------------------------------------------------------------
+CFI_4_4526      ------------------------------------------------------------
+CBL_2_1080      QGRYGKVNNGETIFSLFFTKSLNSAETIRRAYERFNQRHITRKDALIHKPHYVRYSYYAE
+CBM_4_1373      QGRYGKVNNGETIFSLFFTKSLNSAETIRRAYERFNQRHITRKDALIHKPHYVRYSYYAE
+CBM_4_1380      QGRYGKVNNGETIFSLFFTKSLNSAETIRRAYERFNQRHITRKDALIHKPHYVRYSYYAE
+BBC_8_1237      ------------------------------------------------------------
+                                                                            
+
+ABV_6_1503      ------------------------------------------------------------
+BTD_1_527       CQAEVCPFGQRVGQNKVVTKGQDGLRFECKQGYIWFTKTYQVGTKWRQLYTCTNILYFER
+ATV_5_2015      CQAEVCPFGQRVGQNKVVTKGQDGLRFECKQGYIWFTKTYQVGTKWRQLYTCTNIL----
+ALV_2_1383      ------------------------------------------------------------
+ALV_2_4331      ------------------------------------------------------------
+CFI_4_4526      ------------------------------------------------------------
+CBL_2_1080      CQAEVCPFGQRVGQNKVVTKGQDGLRFECKQGYIWFTKTYQVGTKWRQLYTCANILYFER
+CBM_4_1373      CQAEVCPFGQRVGQNKVVTKGQDGLRFECKQGYIWFTKTYQVGTKWRQLYTCANILYFER
+CBM_4_1380      CQAEVCPFGQRVGQNKVVTKGQDGLRFECKQGYIWFTKTYQVGTKWRQLYTCANILYFER
+BBC_8_1237      ------------------------------------------------------------
+                                                                            
+
+ABV_6_1503      ------------------------------------------------------------
+BTD_1_527       TSTISSFECELHRKIQITRLYPGRRGILLEQSSGCSLHYELDTFFNY-RSRRFRGIPKKF
+ATV_5_2015      ------------------------------------------------------------
+ALV_2_1383      ------------------------------------------------------------
+ALV_2_4331      ------------------------------------------------------------
+CFI_4_4526      ------------------------------------------------------------
+CBL_2_1080      TSTISSFECELHRKIQITRLHSGRRGILLEQSSGCSLHYELDTFFNYRRSRRFRGIPKKF
+CBM_4_1373      TSTISSFECELHRKIQITRLHSGRRGILLEQSSGCSLHYELDTFFNYRRSRRFRGIPKKF
+CBM_4_1380      TSTISSFECELHRKIQITRLHSGRRGILLEQSSGCSLHYELDTFFNYRRSRRFRGIPKKF
+BBC_8_1237      ------------------------------------------------------------
+                                                                            
+
+ABV_6_1503      -------------------------HFTETLRRSYQYCNFIQTVFSNWRAHTRRGIEITE
+BTD_1_527       ETTSRRKRGRREEKTTRGSGVTAKRHFTETLRRSYQYCNFIQTVFSNWRAHTRRGIEITE
+ATV_5_2015      --------------------------------RSYQYCNFIQTVFSNWRAHTRRGIEITE
+ALV_2_1383      -------------------------HFTETLRRSYQYCNFIQTVFSNWRAHRRRGIEITE
+ALV_2_4331      -------------------------HFTETLRRSYQYCNFIQTVFSNWRAHRRRGIEITE
+CFI_4_4526      -------------------------HFTETLRRSYQYCNFIQTVFSNWRAHRRRGIEITE
+CBL_2_1080      -TTSRRKRGRREEKTTRDSGVTAKRHFTETLRRSYQYCNFIQTVFSNWRAHTRRGIEITE
+CBM_4_1373      -TTSRRKRGRREEKTTRDSGVTAKRHFTETLRRSYQYCNFIQTVFSNWRAHTRRGIEITE
+CBM_4_1380      -TTSRRKRGRREEKTTRDSGVTAKRHFTETLRRSYQYCNFIQTVFSNWRAHTRRGIEITE
+BBC_8_1237      -------------------------HFTETLRRSYQYCNFIQTVFSNWRAHTRRDIEITE
+                                                ******************* **.*****
+
+ABV_6_1503      QRRRRFFVNENRERTKGHVEHFTEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+BTD_1_527       QRRRRFFVNENRERTKGHVEHFTEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+ATV_5_2015      QRRRRFFVNENRERTKGHVEHFTEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+ALV_2_1383      QRRRRFFVNENRERTKGHVEHFTEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+ALV_2_4331      QRRRRFFVNENRERTKGHVEHFTEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+CFI_4_4526      QRRRRFFVNENRERTKGHVEHFTEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+CBL_2_1080      QRRRRFFVNENRERTKGHVEHITEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+CBM_4_1373      QRRRRFFVNENRERTKGHVEHITEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+CBM_4_1380      QRRRRFFVNENRERTKGHVEHITEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+BBC_8_1237      QRRRRFFVNENRERTKGHVEHFTEYVSRYGPKPDRGCLYCKIAYWALCCSTFSVRX
+                *********************:********************************* 

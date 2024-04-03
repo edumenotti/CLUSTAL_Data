@@ -1,0 +1,35 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMG_4_4661      MGLDQDKIKKRLSQIEIDINQMNQMIDENLQLVEPAEDEAVEDNVKDTGVVDAVKVAETA
+AMI_4_4513      MGLDQDKIKKRLSQIEIDINQMNQMIDENLQLVEPAEDEAVEDNVKDTGVVDAVKVAETA
+AMQ_5_4657      MGLDQDKIKKRLSQIEIDINQMNQMIDENLQLVEPAEDEAVEDNVKDTGVVDAVKVAETA
+APK_4_4794      MGLDQDKIKKRLSQIEIDINQMNQMIDENLQLVEPAEDEAVEDNVKDTGVVDAVKVAETA
+APN_4_4366      MGLDQDKIKKRLSQIEIDINQMNQMIDENLQLVEPAEDEAVEDNVKDTGVVDAVKVAETA
+BFG_4_3867      MGLDQDKIKKRLSQIEIDINQMNQMIDENLQLVEPAEDEAVEDNVKDTGVVDAVKVAETA
+BFM_3_3164      MGLDQDKIKKRLSQIEIDINQMNQMIDENLQLVEPAEDEAVEDNVKDTGVVDAVKVAETA
+BTD_1_6144      MGLDQDKIKKRLSQIEIDINQMNQMIDENLQLVEPAEDEAVEDNVKDTGVVDAVKVAETA
+BTE_3_5158      MGLDQDKIKKRLSQIEIDINQMNQMIDENLQLVEPAEDEAVEDNVKDTGVVDAVKVAETA
+                ************************************************************
+
+AMG_4_4661      LFSGND------------------------------------------------------
+AMI_4_4513      LFSGND------------------------------------------------------
+AMQ_5_4657      LFSGND------------------------------------------------------
+APK_4_4794      LFSGND------------------------------------------------------
+APN_4_4366      LFSGND------------------------------------------------------
+BFG_4_3867      LFSGNDGADSNPGDSAQVEEHKTAQX----------------------------------
+BFM_3_3164      LFSGNDGADSNPGDSAQVEEHKTAQX----------------------------------
+BTD_1_6144      LFSGNDGADSNPGDSAQVEEHKTAQVHIPTENEANKSTDDPSQLSVTQPFIAKEQITHTA
+BTE_3_5158      LFSGNDGADSNPGDSAQVEEHKTAQX----------------------------------
+                ******                                                      
+
+AMG_4_4661      -----------------------
+AMI_4_4513      -----------------------
+AMQ_5_4657      -----------------------
+APK_4_4794      -----------------------
+APN_4_4366      -----------------------
+BFG_4_3867      -----------------------
+BFM_3_3164      -----------------------
+BTD_1_6144      IAIGDSYNSFVANSAGNEKAKDS
+BTE_3_5158      -----------------------
+                                       

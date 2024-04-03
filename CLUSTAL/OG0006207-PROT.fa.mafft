@@ -1,0 +1,122 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEB_8_610       LLNNFNQMEFMTERFNLEATNFLVENCLISLVKTILFLGTLCSSKKTNFLHYPLPIIKRL
+ASH_3_936       LLNNFNQMEFMTERFNLEATNFLVENCLISLVKTILFLGTLCSSKKTNFLHYPLPIIKRL
+ATB_1_3920      ------------------------------------------------------------
+BRQ_4_3940      LLNNFNQMEFMTERFNLEATNFLVENCLISLVKTILFLGTLCSSKKTNFLHYPLPIIKRL
+BTA_5_3083      ------------------------------------------------------------
+CGC_4_1451      LLNNFNQMEFMTERFNLEATNFLVENCLISLVKTILFLGTLCSSKKTNFLHYPLPIIKRL
+CGC_4_6171      LLNNFNQMEFMTERFNLEATNFLVENCLISLVKTILFLGTLCSSKKTNFLHYPLPIIKRL
+CMG_6_144       ------------------------------------------------------------
+AEB_8_768       LLNNFNQMEFMTERFNLEATNFLVENCLISLVKTILFLGTLCSSKKTNFLHYPLPIIKRL
+ASH_3_983       LLNNFNQMEFMTERFNLEATNFLVENCLISLVKTILFLGTLCSSKKTNFLHYPLPIIKRL
+                                                                            
+
+AEB_8_610       YHQLTCSKWLTLIMKFNICAKERV------------------------------------
+ASH_3_936       YHQLTCSKWLTLIMKFNICAKERV------------------------------------
+ATB_1_3920      ------------------------------------------------------------
+BRQ_4_3940      YHQLTCSKWLTLIMKFNICAKERVVKLCLQLLVMKKKTTVTVVKIRSGKVKSNTMRTRKL
+BTA_5_3083      ------------------------------------------------------------
+CGC_4_1451      YHQLTCSKWLTLIMKFNICAKERV------------------------------------
+CGC_4_6171      YHQLTCSKWLTLIMKFNICAKERV------------------------------------
+CMG_6_144       ------------------------------------------------------------
+AEB_8_768       YHQLTCSKWLTLIMKFNICAKERV------------------------------------
+ASH_3_983       YHQLTCSKWLTLIMKFNICAKERV------------------------------------
+                                                                            
+
+AEB_8_610       ------------------------------------------------------------
+ASH_3_936       ------------------------------------------------------------
+ATB_1_3920      ------------------------------------------------------------
+BRQ_4_3940      VLKTVVRIPMIKVAVKKNEIRRPHYFTLPPKFIQGGVPGGQRKFLLVTMNTKVLKPQTGF
+BTA_5_3083      ------------------------------------------------------------
+CGC_4_1451      ------------------------------------------------------------
+CGC_4_6171      ------------------------------------------------------------
+CMG_6_144       ------------------------------------------------------------
+AEB_8_768       ------------------------------------------------------------
+ASH_3_983       ------------------------------------------------------------
+                                                                            
+
+AEB_8_610       ------------------------------------------------------------
+ASH_3_936       ------------------------------------------------------------
+ATB_1_3920      ------------------------------------------------------------
+BRQ_4_3940      TRPRLILKQGRPSRQQKPKEDVENCLISLVKTILFLGTLCSSKKTNFLHYPLPIIKRLYH
+BTA_5_3083      ------------------------------------------------------------
+CGC_4_1451      ------------------------------------------------------------
+CGC_4_6171      ------------------------------------------------------------
+CMG_6_144       ------------------------------------------------------------
+AEB_8_768       ------------------------------------------------------------
+ASH_3_983       ------------------------------------------------------------
+                                                                            
+
+AEB_8_610       ----------------------VKLCLQLLVMKKKTTVTVVKIRSGKVKSNTMRTRKLVL
+ASH_3_936       ----------------------VKLCLQLLVMKKKTTVTVVKIRSGKVKSNTMRTRKLVL
+ATB_1_3920      ------------------------------------------------------------
+BRQ_4_3940      QLTCSKWLTLIMKFNICAKERVVKLCLQLLVMKKKTTVTVVKIRSGKVKSNTMRTRKLVL
+BTA_5_3083      ------------------------------------------------------------
+CGC_4_1451      ----------------------VKLCLQLLVMKKKTTVTVVKIRSGKVKSNTMRTRKLVL
+CGC_4_6171      ----------------------VKLCLQLLVMKKKTTVTVVKIRSGKVKSNTMRTRKLVL
+CMG_6_144       ------------------------------------------------------------
+AEB_8_768       ----------------------VKLCLQLLVMKKKTTVTVVKIRSGKVKSNTMRTRKLVL
+ASH_3_983       ----------------------VKLCLQLLVMKKKTTVTVVKIRSGKVKSNTMRTRKLVL
+                                                                            
+
+AEB_8_610       KTVVRIPMIKVAVKKNEIRRPHYFTLPPKFIQGGVLGGQRKFLLVTMNTKVLKPQTGFTG
+ASH_3_936       KTVVRIPMIKVAVKKNEIRRPHYFTLPPKFIQGGVLGGQRKFLLVTMNTKVLKPQTGFTG
+ATB_1_3920      ------------------------------------------------------------
+BRQ_4_3940      KTVVRIPMIKVAVKKNEIRRPHYFTLPPKFIQGGVLGGQRKFLLVTMNTKVLKPQTGFTG
+BTA_5_3083      ------------------------------------------------------------
+CGC_4_1451      KTVVRIPMIKVAVKKNEIRRPHYFTLPPKFIQGGVLGGQRKFLLVTMNTKVLKPQTGFTG
+CGC_4_6171      KTVVRIPMIKVAVKKNEIRRPHYFTLPPKFIQGGVLGGQRKFLLVTMNTKVLKPQTGFTG
+CMG_6_144       ------------------------------------------------------------
+AEB_8_768       KTVVRIPMIKVAVKKNEIRRPHYFTLPPKFIQGGVPGGQRKFLLVTMNTKVLKPQTGFTR
+ASH_3_983       KTVVRIPMIKVAVKKNEIRRPHYFTLPPKFIQGGVPGGQRKFLLVTMNTKVLKPQTGFTR
+                                                                            
+
+AEB_8_610       PRLILKQGRLSRRQKPKEDGFQELKSQVPQLRRFVSRLLRQQMLSQRSRQYLIRMDIKKR
+ASH_3_936       PRLILKQGRLSRRQKPKEDGFQELKSQVPQLRRFVSRLLRQQMLSQRSRQYLIRMDIKKR
+ATB_1_3920      ------------------------------------------------------------
+BRQ_4_3940      PRLILKQGRLSRRQKPKEDGFQELKSQVPQLRRFVSRLLRQQMLSQRSRQYLIRMDIKKR
+BTA_5_3083      ------------------------------------------------------------
+CGC_4_1451      PRLILKQGRLSRRQKPKEDGFQELKSQVPQLRRFVSRLLRQQMLSQRSRQYLIRMDIKKR
+CGC_4_6171      PRLILKQGRLSRRQKPKEDGFQELKSQVPQLRRFVSRLLRQQMLSQRSRQYLIRMDIKKR
+CMG_6_144       ------------------------------------------------------------
+AEB_8_768       PRLILKQGRPSRQQKPKEDGFRELKSXVPQLRRFVSRLLRQQMLSQRSRQYLIRMDIKKR
+ASH_3_983       PRLILKQGRPSRQQKPKEDGFRELKSKVPQLRRFVSRLLRQQMLSQRSRQYLIRMDIKKR
+                                                                            
+
+AEB_8_610       EILVSLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+ASH_3_936       EILVSLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+ATB_1_3920      ----SLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+BRQ_4_3940      EILVSLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+BTA_5_3083      ----SLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+CGC_4_1451      EILVSLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+CGC_4_6171      EILVSLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+CMG_6_144       ----SLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+AEB_8_768       EILVSLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+ASH_3_983       EILVSLALMVSSLHQMKEVHQQEEIRFLIQALLMSRPHCSLQPFRKCRTYQNILVNSYRR
+                    ********************************************************
+
+AEB_8_610       HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+ASH_3_936       HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+ATB_1_3920      HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+BRQ_4_3940      HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+BTA_5_3083      HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+CGC_4_1451      HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+CGC_4_6171      HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+CMG_6_144       HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+AEB_8_768       HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+ASH_3_983       HLNTKGFSYSLPSQYQLLHCWGFLTGRGYLLEIIVSMTQMMITIGQMTKLNLTKSISILF
+                ************************************************************
+
+AEB_8_610       LAYQKRGSAIKWRNNLV-
+ASH_3_936       LAYQKRGSAIKWRNNLV-
+ATB_1_3920      LAYQKRGSAIKWRNNLVX
+BRQ_4_3940      LAYQKRGSAIKWRNNLV-
+BTA_5_3083      LAYQKRGSAIKWRNNLVX
+CGC_4_1451      LAYQKRGSAIKWRNNLVX
+CGC_4_6171      LAYQKRGSAIKWRNNLVX
+CMG_6_144       LAYQKRGSAIKWRNNLVX
+AEB_8_768       LAYQKRGSAIKWRNNLV-
+ASH_3_983       LAYQKRGSAIKWRNNLV-
+                ***************** 

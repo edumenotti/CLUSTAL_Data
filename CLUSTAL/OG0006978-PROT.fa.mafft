@@ -1,0 +1,149 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AQN_7_3831      LLLLLLLITIILIILITILITTIRIPEPVVTIFRIFSTQNLLTRIWIPTITTAIVITMIT
+BFV_8_682       ------------VILITILITTIRIPEPVVTIFRIFSTQNLLTRIWIPTITTAIVITMIT
+BFV_8_695       ------------VILITILITTIRIPEPVVTIFRIFSTQNLLTRIWIPTITTAIVITMIT
+BGA_7_798       ------------VILITILITTIRIPEPVVTIFRIFSTQNLLTRIWIPTITTAIVITMIT
+BGA_7_1260      ------------VILITILITTIRIPEPVVTIFRIFSTQNLLTRIWIPTITTAIVITMIT
+                            :***********************************************
+
+AQN_7_3831      ITVTQPPARTLLLQQQSLIMPLLLMLPVEKLLISFRTSLPNSILHMTQTIPTQITACLLR
+BFV_8_682       ITVTRPPARTLLLQQQSLIMPLLLMLPVEKLLISFRTSLPNSILHMTQTIPTQITACLLR
+BFV_8_695       ITVTRPPARTLLLQQQSLIMPLLLMLPVEKLLISFRTSLPNSILHMTQTIPTQITACLLR
+BGA_7_798       ITVTRPPARTLLLQQQSLIMPLLLMLPVEKLLISFRTSLPNSILHMTQTIPTQITACLLR
+BGA_7_1260      ITVTRPPARTLLLQQQSLIMPLLLMLPVEKLLISFRTSLPNSILHMTQTIPTQITACLLR
+                ****:*******************************************************
+
+AQN_7_3831      LFPRIQSLILPIYLFKLNNSYMAVTTIIIAPELRTIMHPILSPMFNPSVKIPHLLLRTQT
+BFV_8_682       LFPRIQSLILPIYLFKLNNSYMAVTIIIIAPELRTIMHPILSPMX---------------
+BFV_8_695       LFPRIQSLILPIYLFKLNNSYMAVTIIIIAPELRTIMHPILSPMX---------------
+BGA_7_798       LFPRIQSLILPIYLFKLNNSYMAVTIIIIAPELRTIMHPILSPMFNPSVKIPHLLLRTQT
+BGA_7_1260      LFPRIQSLILPIYLFKLNNSYMAVTIIIIAPELRTIMHPILSPMFNPSVKIPHLLLRTQT
+                ************************* ******************                
+
+AQN_7_3831      LTLLRMQINNFCHSITVLPIMVIRLTSLFLITLLQIQWTDHPLQAMNLFRTQVTTTTTVI
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       LTLLRMQINNFCHSITVLPIMVIRLTSLFLITLLQIQWTDHPLQAMNLFRTQVTTTTTVI
+BGA_7_1260      LTLLRMQINNFCHSITVLPIMVIRLTSLFLITLLQIQWTDHPLQAMNLFRTQVTTTTTVI
+                                                                            
+
+AQN_7_3831      TIICVITAIIKRAITIMSLPCLLQVPLIPIIQLQTQIQCSLKELQCLPLCSKSNSNVFRL
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       TIICVITAIIKRAITIMSLPCLLQVPLIPIIQLQTQIQCSLKELQCLPLCSKSSSNVFRL
+BGA_7_1260      TIICVITAIIKRAITIMSLPCLLQVPLIPIIQLQTQIQCSLKELQCLPLCSKSNSNVFRL
+                                                                            
+
+AQN_7_3831      YSSSS----SSSNNNNNSSSSSSNKINNHNSKINNHNSNNSNSNSNSNNSNNRIPNFCRV
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       YSSSS-----SNNNNNNNSSSSSNKIN--NSKINNHNSNNS---------NNRIPNFCRV
+BGA_7_1260      YSSNSNSNNNNSNNNNNSSSSSSNKINNHNSKINNHNSNN--------------------
+                                                                            
+
+AQN_7_3831      NGSNNKDLFYKVTRHYKRKYLLNITNNMNFLNLLKTVKKEICRYNQYQKSATEKIFFIFI
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       NGSNNKDLFYKVTRHYKRKYLLNITNNMNFLNLLKTVKKEICRYNQYQKSATEKIFFIFI
+BGA_7_1260      --SNNKDLFYKVTRHYKRKYLLNITNNMNFLNLLKTVKKEICRYNQYQKSATEKIFFIFI
+                                                                            
+
+AQN_7_3831      CWFKNSVVQIKQGPNSGLWWPKGCKFPITNNNQSILEFYYLTKDTFPKKVRKLKRKEYSC
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       CWFKNSVVQIKQGPNSGLWWPKGCKFPITNNNQSILEFYYLTKDTFPKKVRKLKRKEYSC
+BGA_7_1260      CWFKNSVVQIKQGPNSGLWWPKGCKFPITNNNQSILEFYYLTKDTFPKKVRKLKRKEYSC
+                                                                            
+
+AQN_7_3831      NSSYKNYKKFNNSSRPLHWPMPTITLIVHRQHQPPRLPARPFLLQQYQEQKQGSFRFQQT
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       NSSYKNYRKFNNSSRPLHWPMPTITLIVHRQHQPPRLLARPFLLQQHQEQKQGSFRFQQT
+BGA_7_1260      NSSYKNYRKFNNSSRPLHWPMPTITLIVHRQHQPPRLLARPFLLQQHQEQKQGSFRFQQT
+                                                                            
+
+AQN_7_3831      LQKAIAILISTIITILANSKLRSQESKEKKRPKRNWNNVKKGRIFRNDNKNFRINKGNRN
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       LQKAIAILISTIITILANSKLRSQESKEKKRPKRNWNNVKKGRIFRNDNKNFRINKGNRN
+BGA_7_1260      LQKAIAILISTIITILANSKLRSQESKEKKRPKRNWNNVKKGRIFRNDNKNFRINKGNRN
+                                                                            
+
+AQN_7_3831      CYRQNYVNNMKSNKNCLKSTRDQLLGTTNPSTASSITMVTISITSLKERKIPTSPFFSSR
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       CYRQNYVNNMKSNKNCLKSTRDQLLGTTNPSTASSITMVTISITSLKERKIPTSQFFSLR
+BGA_7_1260      CYRQNYVNNMKSNKNCLKSTRDQLLGTTNPSTASSITMVTISITSLKERKIPTSQFFSLR
+                                                                            
+
+AQN_7_3831      QSVQLIYMLYQCPSNRRILEKTPPTPCWSQALTRTKYLWSNTLNYTPWQY-AIYCQICHK
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       QSVQLIYMLYQCPSNRRILEKTPPTPCWSQALTRTKYLWSNTLNYTPWQYSAIYCQICHK
+BGA_7_1260      QSVQLIYMLYQCPSNRRILEKTPPTPCWSQALTRTKYLWSNTLNYTPWQYSAIYCQICHK
+                                                                            
+
+AQN_7_3831      MLFHTIETLLTIIMRMLDQINTMLPNTIKWLIKFLKRTTTVHLHQMILTMKKSLSWWILR
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       MLFHTIETLLTIIMRMLDQINTMLPNTIKWLIKFLKRTTTVHLHQMILTMKKSLSWWILQ
+BGA_7_1260      MLFHTIETLLTIIMRMLDQINTMLPNTIKWLIKFLKRTTTVHLHQMILTMKKSLSWWILQ
+                                                                            
+
+AQN_7_3831      VINCPPLLLLKWSLISTLNVLVCSRHLPLNSGTYCLNQDSSLTNFLKFTELLILLKKSKT
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       VINCPPLLLLKWSLISTLNVLVCSRHLPLNSGTYCLNQDSSLTNFLKFTELLILLKKSKT
+BGA_7_1260      VINCPPLLLLKWSLISTLNVLVCSRHLPLNSGTYCLNQDSSLTNFLKFTELLILLKKSKT
+                                                                            
+
+AQN_7_3831      KLMIHLQKIPEGQRIPKSLTINCLPSRFGIFRSPITTPESCREIFTRDLYLIYFGSSIQK
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       KLMIHLQKIPEGQRIPKSLTINCLPSRFGIFHSPITTPESCREIFIRDLYPIYFGSSIQK
+BGA_7_1260      KLMIHLQKIPEGQRIPKSLTINCLPSRFGIFHSPITTPESCREIFIRDLYPIYFGSSIQK
+                                                                            
+
+AQN_7_3831      TLHAIGKYISRRIWLLFYQIFLIYRSLRPLIACFLFSVLVNQNSIQWRLRHHLALNLPST
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       TLHAIGKYISRRIWLLFYQIFLIYRSLRPLIACFLFSVLVNQNSIQWRLRHHLALNLPST
+BGA_7_1260      TLHAIGKYISRRIWLLFYQIFLIYRSLRPLIACFLFSVLVNQNSIQWRLRHHLALNLPST
+                                                                            
+
+AQN_7_3831      NSSCNGENIKLSVIFWPNYFHWKNRTIISNQSFTKTQVTTSMIATVTTTTRTKSCYEDFI
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       NSSCNGENIKLLVIFWPNYFHWKNRTIISNQSFTKTQVTTSMIATVTTTTRTKSCYEDFI
+BGA_7_1260      NSSCNGENIKLLVIFWPNYFHWKNRTIISNQSFTKTQVTTSMIATVTTTTRTKSCYEDFI
+                                                                            
+
+AQN_7_3831      YTMITIKIITIGTTCMMWFRFYFLPYRCSKCYRNQLIQVCSINFLRFLRVLASSLYKKYC
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       YTMITIKIITIGTTCMMWFRFYFLPYRCSKCYRNQLIQVCSTNFLRFLRVLASSLYKKYC
+BGA_7_1260      YTMITIKIITIGTTCMMWFRFYFLPYRCSKCYRNQLIQVCSTNFLRFLRVLASSLYKKYC
+                                                                            
+
+AQN_7_3831      RYPMKYLKSVRIIQTVTVTITATKILASISTRIYHLCGALKKILDLDYSVRYILTIPQVR
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       RYPMKYLKSVRIIQTVTVTITATKILASISTRIYHLCGALKKILDLDYSVRYILTIPQVR
+BGA_7_1260      RYPMKYLKSVRIIQTVTVTITATKILASISTRIYHLCGALKKILDLDYSVRYILTIPQVR
+                                                                            
+
+AQN_7_3831      ILCYSNKIIQRCSYRQLTYPVFSSNVWLKKVFVLKTATTTRKYKKHRFQICSPRIKFSSY
+BFV_8_682       ------------------------------------------------------------
+BFV_8_695       ------------------------------------------------------------
+BGA_7_798       ILCYSNKIIQRCSYRQLTYPVFSSNVWLKKVFVLKTATTTRKYKKHRFQICSPRIKFSSY
+BGA_7_1260      ILCYSNKIIQRCSYRQLTYPVFSSNVWLKKVFVLKTATTTRKYKKHRFQICSPRIKFSSY
+                                                                            
+
+AQN_7_3831      SLIHQLIFKTSINYFTIKMISPIX
+BFV_8_682       ------------------------
+BFV_8_695       ------------------------
+BGA_7_798       SLIHQLIFKTSINYFTIKMISPIX
+BGA_7_1260      SLIHQLIFKTSINYFTIKMISPIX
+                                        

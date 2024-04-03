@@ -1,0 +1,72 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BAF_6_5535      ------CEVFSVTVSKNHLPFNNVPSCLLLK-VTMSWL----------------------
+BTT_3_3962      ------------------------------------------------------------
+CMT_8_3090      ------------------------------------------------------------
+BTT_3_5568      ------------------------------------------------------------
+CMT_8_109       ------------------------------------------------------------
+CNG_4_179       ------------------------------------------------------------
+BBL_6_63        --WTKTCEVFSVTVSKNHLPFNNVPSCLLLK-VTMSWL----------------------
+CGH_5_1453      KKKTHTCR-LTEKKTKNSLKHRKNRCLLLLKAIKMTYFEEYTHTVLKHHPLSNQGLLHRL
+                                                                            
+
+BAF_6_5535      -------KLNLVLVRPVLSPLLLCKELTPL---SRLLKLCWLQLENWLCKSKRLSWLWLS
+BTT_3_3962      ------------------------------------------------------------
+CMT_8_3090      ------------------------------------------------------------
+BTT_3_5568      ------------------------------------------------------------
+CMT_8_109       ------------------------------------------------------------
+CNG_4_179       ------------------------------------------------------------
+BBL_6_63        -------KLNLVLVRPVPSPLLLCKELTPL---SRLLKLCWLQLENWLYKSKRLSWLWLS
+CGH_5_1453      FRARTLHKHNQVQVR----QQLLQSAFYKLLIGRKIYKLYYLQHVNQAKLGKKI------
+                                                                            
+
+BAF_6_5535      TWTSRSTLVSVVLPLLKTLKVEMLKSSLVLQVVFLTTSKDVDSELT------------RS
+BTT_3_3962      ------------------------------------------------------------
+CMT_8_3090      ------------------------------------------------------------
+BTT_3_5568      ------------------------------------------------------------
+CMT_8_109       ------------------------------------------------------------
+CNG_4_179       ------------------------------------------------------------
+BBL_6_63        TWTSRSTLVSVVLPLLKTLKVEMLKSSLVLQVVFLTTSKDVDSELT------------RS
+CGH_5_1453      -----GIIMSMHLP---------------LQVVKLKTTRKCKSMVARPLAEHQEEYTLRD
+                                                                            
+
+BAF_6_5535      RCSSMKLMKCCL----LVSRNKSTKFSPYFHQPLKLFYCPPPCQMTSWKLPPNLETQLEF
+BTT_3_3962      ------------------------------------------------------------
+CMT_8_3090      ------------------------------------------------------------
+BTT_3_5568      ------------------------------------------------------------
+CMT_8_109       ------------------------------------------------------------
+CNG_4_179       ------------------------------------------------------------
+BBL_6_63        RCSSMKLMKCCL----LVSRNKSTKFSPYFHQPLKLFYCPPPCQMTSWKLPPNLETQLEF
+CGH_5_1453      KCCKQEMFKCFMRLMNYVRHVSSNKYTIFLQNCLKIAKLLLSAQQIRTFKPENLMIQLKS
+                                                                            
+
+BAF_6_5535      WLRRMNLWKVSNNSTLMLKKKNTNTSVPIYTTLSPLLKLSSSVTPEERSKNPLSETTNLP
+BTT_3_3962      -------WKVSNNSTLMLKKKNTNTSVPIYTTLSPLLKLSSSVTPEERSKNPLSETTNLP
+CMT_8_3090      -------WKVSNNSTLMLKKKNTNTSVPIYTTLSPLLKLSSSVTPEERSKNPLSETTNLP
+BTT_3_5568      -------WKVSNNSTLMLKKKNTNTSVPIYTTLSPLLKLSSSVTPEERSKNPLSETTNLP
+CMT_8_109       -------WKVSNNSTLMLKKKNTNTSVPIYTTLSPLLKLSSSVTPEERSKNPLSETTNLP
+CNG_4_179       -------WKVSNNSTLMLKKKNTNTSVPIYTTLSPLLKLSSSVTPEERSKNPLSETTNLP
+BBL_6_63        WLRRMNLWKVSNNSTLMLKKKNTNTSVPIYTTLSPLLKLSSSVTPEERSKNPLSETTNLP
+CGH_5_1453      RGMKYH-LKVSNNMWLMLTKKSGNSILCVIYTILPLHNV-YSVTP--RKKIGYLSGSNQT
+                        *****  ***.**. *: : :  *: ** ::  ****  *.*    . :* .
+
+BAF_6_5535      FLPSILIYHNKKETPSRNSEVVLPEFSPLICWLEVSMSNKFLWLLTTTYQLTKKTIFTES
+BTT_3_3962      FLPSILIYHNKKETPSRNSEVVLPEFSPLICWLEVSMSNKFLWLLTTTYQLTKKTIFTES
+CMT_8_3090      FLPSILIYHNKKETPSRNSEVVLPEFSPLICWLEVSMSNKFLWLLTTTYQLTKKTIFTES
+BTT_3_5568      FLPSILIYHNKKETPSRNSEVVLPEFSPLICWLEVSMSNKFLWLLTTTYQLTKKTIFTES
+CMT_8_109       FLPSILIYHNKKETPSRNSEVVLPEFSPLICWLEVSMSNKFLWLLTTTYQLTKKTIFTES
+CNG_4_179       FLPSILIYHNKKETPSRNSEVVLPEFSPLICWLEVSMSNKFLWLLTTTYQLTKKTIFTES
+BBL_6_63        FLPSTLIYHNKKETPSRNSEVVLPEFSPLICWLEVSMSNKFLWLLTTTYQLTKKTIFTES
+CGH_5_1453      LLSPCMVINKKKEIKMILEQVILVYYRRMF-GRAVLMSNKFL-SLTMTYQ--KKITSIVS
+                :*.. :: ::***     .:*:*  :  ::    * ******  ** ***  **     *
+
+BAF_6_5535      VEVVVSVERV-LPSTLLLTKTLALENKSSTPLKLKNCHPTLLPCT-------
+BTT_3_3962      VEVVVSVERV-LPSTLLLTKTLALENKSSTPLKLKNCHPTLLPCT-------
+CMT_8_3090      VEVVVSVERV-LPSTLLLTKTLALENKSSTPLKLKNCHPTLLPCT-------
+BTT_3_5568      VEVVVSVERV-LPSTLLLTKTLALENKSSTPLKLKNCHPTSLLCT-------
+CMT_8_109       VEVVVSVERV-LPSTLLLTKTLALENKSSTPLKLKNCHPTSLLCT-------
+CNG_4_179       VEVVVSVERV-LPSTLLLTKTLALENKSSTPLKLKNCHPTSLLCT-------
+BBL_6_63        VEVVVSVERV-LPSTLLLTKTLALENKSSTPLKLKNCHPTSLLCT-------
+CGH_5_1453      VEVVDLVERVWLTSLPKLIQNLE---------KLKNSILSKIRCQQILQNYX
+                ****  **** *.*   * :.*          ****.  : : *        

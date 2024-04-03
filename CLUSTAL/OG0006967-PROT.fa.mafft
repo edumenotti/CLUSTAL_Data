@@ -1,0 +1,23 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+APL_4_6985      ------------------------------------------------------------
+CII_2_6884      ------------------------------------------------------------
+CIK_2_6511      ------------------------------------------------------------
+CIK_2_6510      ------------------------------------------------------------
+CNG_4_6208      MGSTSATSKENTPEQDDVATKKNQTTAKKTAVKPKLAKKPVRKQQKVVELSGESDLEILD
+                                                                            
+
+APL_4_6985      ----------------PQRSRRQRSSRAASVPKKSYVETLELSDDS--------------
+CII_2_6884      ----------------PQRSRRQRSSRAASVPKKSYVETLELSDDS--------------
+CIK_2_6511      ----------------PQRSRRQRSSRAASVPKKSYVETLELSDDS--------------
+CIK_2_6510      ----------------PQRSRRQRSSRAASVPKKSYVKTLELSDDS--------------
+CNG_4_6208      SYTDREDSNKDEDDAIPQRSRRQRSSRAASVPKKSYVETLELSDDSXXXXXXXXXXXXXX
+                                *********************:********              
+
+APL_4_6985      ----FIEDD--------EEENQGSDVSFNEED
+CII_2_6884      ----FIEDD--------EEENQGSDVSFNEED
+CIK_2_6511      ----FIEDD--------EEENQGSDVSFNEED
+CIK_2_6510      ----FIEDD--------EEENQGSDVSFNEED
+CNG_4_6208      XXXXFIQRKRHSFYMFISETNRSRS-------
+                    **: .        .* *:. .       

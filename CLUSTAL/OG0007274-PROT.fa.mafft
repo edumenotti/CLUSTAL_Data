@@ -1,0 +1,44 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATV_5_2607      MSKVKGTGFSSIDTEDENLRERYVNQSKANASDIQDEQLDCFEQLEEKHRTKKNEEYTAL
+BFM_3_5006      ------------------------------------------------------------
+BFG_4_5144      ------------------------------------------------------------
+BMQ_5_5183      ------------------------------------------------------------
+                                                                            
+
+ATV_5_2607      KILRDVIGPLLLTITSFYLRFQRIDQNNYVVWDEAHFGKFGSYYIKHEYYHDVHPSLGKM
+BFM_3_5006      ------------------------------------------------------------
+BFG_4_5144      ------------------------------------------------------------
+BMQ_5_5183      ------------------------------------------------------------
+                                                                            
+
+ATV_5_2607      LIALSEWMAGFDGQFDFSSNNAYPEXXXXXXXXXXXXXXXXXSYYLPMSKAKGTGFSSID
+BFM_3_5006      -----------------------------------------------MSKAKGTGFSSID
+BFG_4_5144      -----------------------------------------------MSKAKGTGFSSID
+BMQ_5_5183      -----------------------------------------------MSKAKGTGFSSID
+                                                               *************
+
+ATV_5_2607      TEDENLRERYVNQPKANASDIQDEQLDCFEQLEEKHRTKKNEEYTALKILRDVIGPLLLT
+BFM_3_5006      TEDENLRERYVNQPKANASDIQDEQLDCFEQLEEKHRTKKNEEYTALKILRDVIGPLLLT
+BFG_4_5144      TEDENLRERYVNQPKANASDIQDEQLDCFEQLEEKHRTKKNEEYTALKILRDVIGPLLLT
+BMQ_5_5183      TEDENLRERYVNQPKANASDIQDEQLDCFEQLEEKHWTKKNEEYTALKILRDVIGPLLLT
+                ************************************ ***********************
+
+ATV_5_2607      ITSFYLRFQHIDQNNYVVWDEAHFGKFGSYYIKHEYYHDVHPPLGKMLIALSEWMAGFDG
+BFM_3_5006      ITSFYLRFQHIDQNNYVVWDEAHFGKFGSYYIKHEYYHDVHPPLGKMLIALSEWMAGFDG
+BFG_4_5144      ITSFYLRFQHIDQNNYVVWDEAHFGKFGSYYIKHEYYHDVHPPLGKMLIALSEWMAGFDG
+BMQ_5_5183      ITSFYLRFQHIDQNNYVVWDEAHFGKFGSYYIKHEYYHDVHPPLGKMLIALSEWMAGFDG
+                ************************************************************
+
+ATV_5_2607      QFDFSSNNAYPEXXXXXXXXXXXXXXXXXNVNFKLMRQFNATFGALCTPVAFFTAKWMGF
+BFM_3_5006      QFDFSSNNAYPEXXXXXXXXXXXXXXXXXXXXT---------------------------
+BFG_4_5144      QFDFSSNNAYPEXXXXXXXXXXXXXXXXXRKL----------------------------
+BMQ_5_5183      QFDFSSNNAYPEXXXXXXXXXXXXXXXXXRKL----------------------------
+                ************                                                
+
+ATV_5_2607      NYFTVYLIATMVTLEHSYIVLSKFILLDSMLLFFSMTTXXXXXXXXXXXXXXXXXT
+BFM_3_5006      --------------------------------------------------------
+BFG_4_5144      --------------------------------------------------------
+BMQ_5_5183      --------------------------------------------------------
+                                                                        

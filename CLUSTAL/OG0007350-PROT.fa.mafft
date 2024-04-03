@@ -1,0 +1,50 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BFG_4_606       IWVFAEYANMETINSLPRHGMARLSTLAIMVMELFLLKITLITQRRIRYLLWIQTPLDSL
+BFM_3_2628      IWVFAEYANMETINSLPRHGMARLSTLAIMVMELFLLKITLITQRRIRYLLWIQTPLDSL
+BTD_1_810       IWVFAEYANMETINSLPRHGMARLSTLAIMVMELFLLKITLITQRRIRYLLWIQTPLDSL
+BTD_1_808       IWVFAEYANMETINSLPRHGMARLSTLAIMVMELFLLKITLITQRRIRYLLWIQTPLDSL
+                ************************************************************
+
+BFG_4_606       VTIVRLNGFACHSVRMITEQLKNQDSTKEMSLFYRKNKKVMHVAALTGELLWSSSMIRAM
+BFM_3_2628      VTIVRLNGFACHSVRMITEQLKNQDSTKEMSLFYRKNKKVMHVAALTGELLWSSSMIRAM
+BTD_1_810       VTIVRFNGFACHSVRMITEQLKNQDSTKEMSLFYRKNKKVMHVAALTGELLWSSSMIRAM
+BTD_1_808       VTIVRFNGFACHSVRMITEQLKNQDSTKEMSLFYRKNKKVMHVAALTGELLWSSSMIRAM
+                *****:******************************************************
+
+BFG_4_606       ITTQAKDLHLDATVIKIQTRIQILLNFPPVISSYTRLALMAFHAGTYKPARKKISPNLTK
+BFM_3_2628      ITTQAKDLHLDATVIKIQTRIQILLNFPPVISSYTRLALMAFHAGTYKPARKKISPNLTK
+BTD_1_810       ITTQAKDLHLDATVIKIQTRIQILLNFPPVISSYTRLALMAFHAGTYKPARKKISPNLTK
+BTD_1_808       ITTQAKDLHLDATVIKIQTRIQILLNFPPVISSYTRLALMAFHAGTYKPARKKISPNLTK
+                ************************************************************
+
+BFG_4_606       TAWLRLPVLTIFYVWQLLMILLRQTPQLTE------------------------------
+BFM_3_2628      TAWLRLPVLTIFYVWQLLMILLRQTPQLTELLNTQTINSLPRHGMARLSTLAIMVMELFL
+BTD_1_810       TAWLRLPVLTIFYVWQLLMILLRQTPQLTE------------------------------
+BTD_1_808       TAWLKLLVRTIFYVWQLLMILSRQTPQLTK------------------------------
+                ****:* * ************ *******:                              
+
+BFG_4_606       ------------------------------------------------------------
+BFM_3_2628      LKITLITQRRIRYLLWIQTPLDSLVTIVRLNGFACHSVRMITEQLKNQDSTKEMSLFYRK
+BTD_1_810       ------------------------------------------------------------
+BTD_1_808       ------------------------------------------------------------
+                                                                            
+
+BFG_4_606       ------------------------------------------------------------
+BFM_3_2628      NKKVMHVAALTGELLWSSSMIRAMITTQAKDLHLDATVIKIQTRIQILLNFPPVISSYTR
+BTD_1_810       ------------------------------------------------------------
+BTD_1_808       ------------------------------------------------------------
+                                                                            
+
+BFG_4_606       ------------------------------------------------------LLNTQV
+BFM_3_2628      LALMAFHAGTYKPARKKISPNLTKTAWLKLLVRTIFYVWQLLMILSRQTPQLTKLLNTQV
+BTD_1_810       ------------------------------------------------------LLNTQV
+BTD_1_808       ------------------------------------------------------LLNTQV
+                                                                      ******
+
+BFG_4_606       QYTYLTMRT
+BFM_3_2628      QYTYLTMRT
+BTD_1_810       QYTYLTMRT
+BTD_1_808       QYTYLTMRT
+                *********

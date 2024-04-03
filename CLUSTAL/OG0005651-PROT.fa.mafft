@@ -1,0 +1,114 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AAN_3_1         KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+AGE_1_6749      KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+ALP_4_6885      KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+AMG_4_25        KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+AMK_4_22        KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+AMQ_5_24        KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+ANP_2_5         KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+API_4_6590      KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+ASL_8_6471      KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+BFV_8_6416      KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+BGA_7_6133      KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+BRF_4_4751      KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+BSM_3_5602      KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+BTF_4_6482      KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRC---------
+BME_1_6905      ------------------------------------------------------------
+BSN_5_150       KQIKVCFERPSQGYLDATSR-SRGNRHYLPSWFHGCHHSRCHQKLQIGLRCQGXRCPPYH
+AGC_1_3556      ------------------------------------------------------------
+AGC_1_4703      ------------------------------------------------------------
+CPD_4_879       --------------------------------------------LQIGLRCQGIRCPPYH
+ABV_6_66        --------------------------------------SRCHQKLQIGLRCQGIRCPSYH
+ALN_4_22        --------------------------------------SRCHQKLQIGLRCQGIRCPSYH
+BCR_8_100       --------------------------------------SRCHQKLQIGLRCQGIRCPSYH
+BCS_8_26        --------------------------------------SRCHQKLQIGLRCQGIRCPSYH
+CHI_4_33        --------------------------------------SRCHQKLQIGLRCQGIRCPSYH
+AGC_1_18        --------------------------------------------LQIGLRCQGIRCPPYH
+BSN_5_5668      KQIKVCFERPSQGYLDATSRQSRGN-HHLPSWFHGRHHSRCHQKLQIGLRCQGIX-----
+                                                                            
+
+AAN_3_1         ------------------------------------------------------------
+AGE_1_6749      ------------------------------------------------------------
+ALP_4_6885      ------------------------------------------------------------
+AMG_4_25        ------------------------------------------------------------
+AMK_4_22        ------------------------------------------------------------
+AMQ_5_24        ------------------------------------------------------------
+ANP_2_5         ------------------------------------------------------------
+API_4_6590      ------------------------------------------------------------
+ASL_8_6471      ------------------------------------------------------------
+BFV_8_6416      ------------------------------------------------------------
+BGA_7_6133      ------------------------------------------------------------
+BRF_4_4751      ------------------------------------------------------------
+BSM_3_5602      ------------------------------------------------------------
+BTF_4_6482      ------------------------------------------------------------
+BME_1_6905      ------------------------------------------------------------
+BSN_5_150       RRSFLQVGGQEGSIREGCSIRCYPRWNYQIPRPKHQGQHCDRLGLWDYFHQVRCRVGLRY
+AGC_1_3556      ----------------------YPRWNYQIPRPKHQGQHCD-FGLWDYFHQVRCRVGLRY
+AGC_1_4703      ----------------------YPRWNYQIPRPKHQGQHCD-FGLWDYFHQVRCRVGLRY
+CPD_4_879       RRSFLQVGGQEGSIREGCSIRCYPRWNYQIPRPKHQGQHCD-FGLWDYFHQVRCRVGLRY
+ABV_6_66        RRSLLQIGGQEGPIREGCSIRCYPRWNYQIPX----------------------------
+ALN_4_22        RRSLLQIGGQEGPIREGCSIRCYPRWNYQIPX----------------------------
+BCR_8_100       RRSLLQIGGQEGPIREGCSIRCYPRWNYQIPX----------------------------
+BCS_8_26        RRSLLQIGGQEGPIREGCSIRCYPRWNYQIPX----------------------------
+CHI_4_33        RRSLLQIGGQEGPIREGCSIRCYPRWNYQIPX----------------------------
+AGC_1_18        RRSLLQIGGQEGPIREGCSIRCYPRWNYQIPRPKHQGQHC--------------------
+BSN_5_5668      ------------------------------------------------------------
+                                                                            
+
+AAN_3_1         -------------------------QGIX-------------------------------
+AGE_1_6749      -------------------------QGIX-------------------------------
+ALP_4_6885      -------------------------QGIX-------------------------------
+AMG_4_25        -------------------------QGIX-------------------------------
+AMK_4_22        -------------------------QGIX-------------------------------
+AMQ_5_24        -------------------------QGIX-------------------------------
+ANP_2_5         -------------------------QGIX-------------------------------
+API_4_6590      -------------------------QGIX-------------------------------
+ASL_8_6471      -------------------------QGIX-------------------------------
+BFV_8_6416      -------------------------QGIX-------------------------------
+BGA_7_6133      -------------------------QGIX-------------------------------
+BRF_4_4751      -------------------------QG---------------------------------
+BSM_3_5602      -------------------------QG---------------------------------
+BTF_4_6482      -------------------------QGIX-------------------------------
+BME_1_6905      --SLGSYRYYRSQGKTRWWFRFSSHQGLLGQHFRHIEQCLRHRTRALHFFAKGGYQVVYC
+BSN_5_150       WWSLGSYRYYRSQGKTRWWFRFSSHQGLLGQHFRHIEQCLRHRTRALHFFAKGGYQVVYC
+AGC_1_3556      WWSLGSYRYYRSQGKTRWWFRFGSHQGLLGQHFRHIEQCLRHWTRALHFFAKGGYQVVYC
+AGC_1_4703      WWSLGSYRYYRSQGKTRWWFRFGSHQGLLGQHFRHIEQCLRHWTRALHFFAKGGYQVVYC
+CPD_4_879       WWSLGSYRYYRSQGKTRWWFRFGSHQGLLGQHFRHIEQCLRHWTRALHFFAKGGYQVVYC
+ABV_6_66        ------------------------------------------------------------
+ALN_4_22        ------------------------------------------------------------
+BCR_8_100       ------------------------------------------------------------
+BCS_8_26        ------------------------------------------------------------
+CHI_4_33        ------------------------------------------------------------
+AGC_1_18        ------------------------------------------------------------
+BSN_5_5668      ------------------------------------------------------------
+                                                                            
+
+AAN_3_1         -----------
+AGE_1_6749      -----------
+ALP_4_6885      -----------
+AMG_4_25        -----------
+AMK_4_22        -----------
+AMQ_5_24        -----------
+ANP_2_5         -----------
+API_4_6590      -----------
+ASL_8_6471      -----------
+BFV_8_6416      -----------
+BGA_7_6133      -----------
+BRF_4_4751      -----------
+BSM_3_5602      -----------
+BTF_4_6482      -----------
+BME_1_6905      RTQKKSSTRFX
+BSN_5_150       RTQKKSSTRFX
+AGC_1_3556      RTQKKSSTRFX
+AGC_1_4703      RTQKKSSTRFX
+CPD_4_879       RTQKKSSTRFX
+ABV_6_66        -----------
+ALN_4_22        -----------
+BCR_8_100       -----------
+BCS_8_26        -----------
+CHI_4_33        -----------
+AGC_1_18        -----------
+BSN_5_5668      -----------
+                           

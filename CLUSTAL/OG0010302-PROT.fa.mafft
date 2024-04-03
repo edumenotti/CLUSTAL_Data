@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CFH_0_1000      MEIKQKYQLSKVVKVLEKVLYEKDKDVFLSAKDRFHSITDYRYDDTAFYEHILKLIHKEL
+CFH_0_1248      MEQEQ-------------------KDVI-----------------------------QEI
+                ** :*                   ***:                             :*:
+
+CFH_0_1000      FNILVELDFEDEAFYILDEVTMTLSDVMNEDKEIYYYTVTDSTGEHEHTTDREGHVIGIL
+CFH_0_1248      YN--------------------TLESVSKDERTEYNHTIKDGENEWTETVDREEHLQAII
+                :*                    **..* ::::  * :*:.*. .*  .*.*** *: .*:
+
+CFH_0_1000      EWALDYIVGNIEVE-
+CFH_0_1248      EWTLQQIENNFDGEK
+                **:*: * .*:: * 

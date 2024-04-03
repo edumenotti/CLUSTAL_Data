@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVN_5_11        -----------------------------------RQHCCQRPYGSPKQSTTTATATTTA
+BFS_8_2128      --------------------------------------------TTTTTTTTTT----TT
+BMM_3_1822      LRQSGLQGQLQQNGLCQWQQQTGLCQLQIGLRSYQRQHCCQRPYGSPKQSTTTA----TT
+CLA_5_600       LRQSGLQGQLQQNGLCQWQQQTGLCQLQIGLRSYQRQHCCQRPYGSPKQSTTTA----TT
+BEF_7_5774      -----------------------------------RQHCCQRPYGSPKQSTTTTTTTTTT
+BCH_5_5656      ----------------------------IGLRSY-RQHCCQRPYGSPKSTTTATAATTTT
+BCI_8_4         ----------------------------IGLRSY-RQHCCQRPYGSPKSTTTATAATTTT
+BEA_6_3         ----------------------------IGLRSY-RQHCCQRPYGSPKSTTTATATTTTT
+                                                             :.. :**::    *:
+
+AVN_5_11        TTTTTTTTTPSSPASKSGQSPYRFRIESTAQRTSPX------------------------
+BFS_8_2128      TTTTTTTTTPSSPASKSRQSPYRFRIESTAQRTSPKNYSWPIPSITSTTTCFKTYHVPYT
+BMM_3_1822      TTTTTTTTTPSSPASKSRQSPYRFRIESTAQRTSPKNYSRPIPSITSTTTCFKTYHVPYT
+CLA_5_600       TTTTTTTTTPSSPASKSRQSPYRFRIESTAQRTSPKNYSWPIPSITSTTTCFKTYHVPYT
+BEF_7_5774      TTTTATTTTTT----------------TTTTTTTTT---------TTTTTX---------
+BCH_5_5656      TTTTTTTTTTT----------------------------------TTTX-----------
+BCI_8_4         TTTTTTTTTTT----------------------------------TTTTTX---------
+BEA_6_3         TTTTTTTTTTT----------------------------------TTX------------
+                ****:****.:                                                 
+
+AVN_5_11        --------------------------------------------------
+BFS_8_2128      ASRSKEKSNLRYFMVCRHCCLYHGFKKSYSAWPSPYIGGGKCSLTDLQGX
+BMM_3_1822      ASRSKEKSNLRYFMVCRHCCLYHGFKKSYSAWPSPYIGGGKCSLRDLQGX
+CLA_5_600       ASRSKEKSNLRYFMVCRHCCLYHGFKKSYSAWPSPYIGGGKCSLRDLQGX
+BEF_7_5774      --------------------------------------------------
+BCH_5_5656      --------------------------------------------------
+BCI_8_4         --------------------------------------------------
+BEA_6_3         --------------------------------------------------
+                                                                  

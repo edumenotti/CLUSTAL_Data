@@ -1,0 +1,30 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_22        MRSIGNGEGLRDKGAVVANNDGEFNEGETNREEDSSTIFSFDFDEEI-------------
+ANL_2_23        MRSIGNEEGLRDKGAVVANNDGEFNDGETNREEDSSTIFSFDFDEEI-------------
+BMM_3_2607      MRSIGNEEGLRDKGAVVANNDGEFNEGETNREEDSSTIFSFDFDEEIVMCIDFSGGKLGC
+CLA_5_3007      MRSIGNEEGLRDKGAVVANNDGEFNEGETNREEDSSTIFSFDFDEEIVMCIDFSGGKLGC
+CKS_5_2814      MRSIGNEEGLRDKGAVVANNDGEFNEGETNREEDSSTIFSFDFDEEIVMCIDFSGGKLGC
+                ****** ******************:*********************             
+
+ANL_2_22        ------------------------------------------------------------
+ANL_2_23        ------------------------------------------------------------
+BMM_3_2607      SILDYHTKTLQAFDQDYVVNKTTISSHDLIDDADMSSNDISLLLGLLIMEANPTVCLVPA
+CLA_5_3007      SILDYHTKTLQAFDQDYVVNKTTISSHDLIDDADMSSNDISLLLGLLIMEANPTVCLVPA
+CKS_5_2814      SILDYHTKTLKAFDQDYVVNKTTISSHDLIDDADMSSNDISLLLGLLIMEANPTVCLVPA
+                                                                            
+
+ANL_2_22        ------------------------------------------------------------
+ANL_2_23        ------------------------------------------------------------
+BMM_3_2607      RLEDWIFDYIKTKCDEINCRLELQPIKRFKKWDLLQSLQLRGHDNQTILNDILSNSKFTT
+CLA_5_3007      RLEDWIFDYIKTKCDEINCRLELQPIKRFKKWDLLQSLQLRGHDNQTILNDILSNSKFTT
+CKS_5_2814      RLEDWIFDYIKTKCDEINCRLELQPIKRFKKWDLLQSLQLRGHDNQTILNDILSNSKFTT
+                                                                            
+
+ANL_2_22        ------------------------------------
+ANL_2_23        ------------------------------------
+BMM_3_2607      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXLLKM---
+CLA_5_3007      ---XXXXXXXXXXXXXXXXXXXXXXXXXXLLKM---
+CKS_5_2814      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXF
+                                                    

@@ -1,0 +1,72 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALV_2_8         ------------------------------------------------------------
+ARB_2_6543      ------------------------------------------------------------
+BBC_8_6859      ------------------------------------------------------------
+BFG_4_165       TPKAQNRCLFPANRNFGNQYYFQIRRCFCTVTIKEKAFGVLSFQCRVSRNNITEGKQGIK
+BTD_1_3237      TPKAQNRCLFPANRNFGNQYYFQIRRCFCTVTIKEKAFGVLSFQCRVSRNNITEGKQGIK
+AMN_5_125       -PKAQNRCLFPANRNFGNQYYFQIRRCFCTVTIKEKAFGVLSFQCRVSRNNITEGKQGIK
+AMN_5_108       ------------------------------------------------------------
+BCR_8_66        ------------------------------------------------------------
+                                                                            
+
+ALV_2_8         ------------------------------------------------------------
+ARB_2_6543      ------------------------------------------------------------
+BBC_8_6859      ------------------------------------------------------------
+BFG_4_165       HLSAEQKYQNGFVLASARKASNIPFYDLHIVRGQVFTCGNDLEQRKHTKPVKVRASFQCN
+BTD_1_3237      HLSAEQKYQNGFVLASARKASNIPFYDLHIVRGQVFTCGNDLEQRKHTKPVKVRASFQCN
+AMN_5_125       HLSAEQKYQNGFVLASARKASNIPFYDLHIVRGQVFTCGNDLEQRKHTKPVKFRASFQCN
+AMN_5_108       ------------------------------------------------------------
+BCR_8_66        ------------------------------------------------------------
+                                                                            
+
+ALV_2_8         ------------------------------------------------------------
+ARB_2_6543      ------------------------------------------------------------
+BBC_8_6859      ------------------------------------------------------------
+BFG_4_165       RLKVRRIYKKASHFDGFNLQPIRQYTGGYRCKNKLISPAVSRYRRHAIFFTRSYNFWVKA
+BTD_1_3237      RLKVRRIYKKASHFDGFNLQPIRQYTGGYRCKNKLISPAVSRYRRHAIFFTRSYNFWVKA
+AMN_5_125       RLKVRRIYKKASHFDGFNLQPIRQYTGGYRCKNKLISPAVSRYRRHAIFFTRSYNFWVKA
+AMN_5_108       ------------------------------------------------------------
+BCR_8_66        ------------------------------------------------------------
+                                                                            
+
+ALV_2_8         ------------------------------------------------------------
+ARB_2_6543      ------------------------------------------------------------
+BBC_8_6859      ------------------------------------------------------------
+BFG_4_165       HFVIRRFHRVYNLFVYYQINIQCKLSDKRWKIRVFHDRPNIRNRLRKETNEGVYVGIESI
+BTD_1_3237      HFVIRRFHRVYNLFVYYQINIQCKLSDKRWKIRVFHDRPNIRNRLRKETNEGVYVGIESI
+AMN_5_125       HFVIRRFHRVYNLFVYYQINIQCKLSDKRWKIRVFHDRPNIRNRLRKETNEGVYVGIESI
+AMN_5_108       ------------------------------------------------------------
+BCR_8_66        ------------------------------------------------------------
+                                                                            
+
+ALV_2_8         ------------------------------------------------------------
+ARB_2_6543      ------------------------------------------------------------
+BBC_8_6859      ------------------------------------------------------------
+BFG_4_165       QEQRPSNWHSRSAIYSTGSYPSNARREKGRYVFRRRKPKFRSERPFRWEWPRILRRCRRR
+BTD_1_3237      QEQRPSNWHSRSAIYSTGSYPSNARREKGRYVFRRRKPKFRSERPFRWEWPRILRRCRRR
+AMN_5_125       QEQRPSNWHSRSAIYSTGSYPSNARREKGRYVFRRRKPKFRSERPFRWEWPRILRRCRRR
+AMN_5_108       ------------------------------------------------------------
+BCR_8_66        ------------------------------------------------------------
+                                                                            
+
+ALV_2_8         -------------------------------------VGAVRTRRHSDRN-RRGWIRSRI
+ARB_2_6543      -------------------------------------VGAVRTRRHSDRN-RRGWIRSRI
+BBC_8_6859      -------------------------------------VGAVRTRRHSDRN-RRGWIRSRI
+BFG_4_165       RGSRRRRRRRGRQKGPKRFERFRFYKWSTRTGTPIQRVGAVRTRRHSDRN-RRGWIRSRI
+BTD_1_3237      RGSRRRRRRRGRQKGPKRFERFCFYKWSTRTGTPIQRVGAVRTRRHSDRN-RRGWIRSRI
+AMN_5_125       RGSRRRRRRRGRQKGPKRFERFRFYKWSTRTGTPIQRVGAVRTRR---------------
+AMN_5_108       -------------------------KWSTRTGTPIQRVGAVRTRRYSDRNWRRGWIRSRI
+BCR_8_66        -------------------------KWSTRTGTPIQRVGAVRTRRYSDRNWRRGWIRSRI
+                                                     ********               
+
+ALV_2_8         RX
+ARB_2_6543      RX
+BBC_8_6859      RX
+BFG_4_165       RX
+BTD_1_3237      RX
+AMN_5_125       --
+AMN_5_108       RX
+BCR_8_66        RX
+                  

@@ -1,0 +1,16 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANM_2_70        -----------------------------------MVLSKMKEIAEAKIGKKVEKAVITV
+ASC_6_2584      MKTWPFKVIDVDGNPVIEVQYLEETKTFSPQEISAMVLTKMKEIAEAKIGKKVEKAVITV
+BEM_7_14        -----------------------------------MVLTKMKEIAEAKIGKKVEKAVITV
+ATB_1_90        ----------------------------------------MKEIAEAKIGKKVEKAVITV
+ATB_1_134       ----------------------------------------MKEIAEAKIGKKVEKAVITV
+                                                        ********************
+
+ANM_2_70        PAYFNDAQRQAT----------------
+ASC_6_2584      PAYFNDAQRQATKDAGAI----------
+BEM_7_14        PAYFNDAQRQATKDAGA-----------
+ATB_1_90        PAYFNDAQRQATKDAGAISGLNVLRIIN
+ATB_1_134       PAYFNDAQRQATKDAGA-----------
+                ************                

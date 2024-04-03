@@ -1,0 +1,38 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATB_1_3630      ------------------------------------------------------------
+CMG_6_1228      LSPRFEFQLFRGRRRPYASRLWGRGFESGRGREAKYPHSAIEIQANSIIARKARCIYCEG
+                                                                            
+
+ATB_1_3630      --------------------------------------------------------IRSK
+CMG_6_1228      RRKYRRGGLNSPTKTDSSTIRQKPNEFEKFITVQIYGLVKYEDILFLDQTVLGLRKIRSK
+                                                                        ****
+
+ATB_1_3630      TTAEYLQEFLYKHFSHSIDHPRLHITGIELHIERIEKLHQKNRYSCKCCYWFRNFGLLHS
+CMG_6_1228      TTAEYLQEFLYKHFSHSIDHPRLHITGIELHVERIEKLHQKNRYSCKCCYWFRNFGLLHS
+                *******************************:****************************
+
+ATB_1_3630      YCSNPLQETNQTALYNHRPHKTIDKPSLYYVDKANTRDVAYCEHCQIRKFFEGRTQKIIK
+CMG_6_1228      YCSNPLQETNQTALYNHRPHKTIDKPSLYYVDKANTRDVAYCEHCQIRKFFEGRTQKIIK
+                ************************************************************
+
+ATB_1_3630      FGTRYLNHYTWISRSSKYEIDKFEKPKVFDYRGSSFEPVLPGLVSKTNVPFENGIRYTSR
+CMG_6_1228      FGTRYLNHYTWISRSSKYEIDKFEKPKVFDYRGSSFEPVLPGLVSKTNVPFENGIRYTSR
+                ************************************************************
+
+ATB_1_3630      ERDQNDLQCDIDYQHRKVKRLEPLQTKVVPEANRIVPATQIEIHQHSHGEKCLQAIDIVV
+CMG_6_1228      ERDQNDLQCDIDYQHRKVKRLEPLQTKVVPEANRIVPATQIEIHQHSHGEKYLQAIDIVV
+                *************************************************** ********
+
+ATB_1_3630      FNMPIYGTFPHCCKDFDFRIKI--------------------------------------
+CMG_6_1228      FNMPIYGTFPHCCKDFDFRIKIVYQIKQVTTTYLISLTIQRIEKPSKFGGEYFCQFKQLQ
+                **********************                                      
+
+ATB_1_3630      ---------------RRHYHLNYYRYHVPWYYRYHSSNKLPTNVFSTICPSCWNSKSRTW
+CMG_6_1228      SRKKNCCKLLASLGKRRHYHLNYYRYHVPWYYRYHSSNKLPTNVFSTICPSCWNSKSRTW
+                               *********************************************
+
+ATB_1_3630      FRLLTSRRKNVFRLKQRSRRX----------------------------------
+CMG_6_1228      FRLLTSRRKNVF-LKQRSRRRICPTIRTRFYPIGIFTIYFVSRKFEKLSQHRTSX
+                ************ *******                                   

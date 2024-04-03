@@ -1,0 +1,72 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEE_3_1595      MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+AKT_4_551       MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+AMN_5_2560      MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+BTA_5_1582      MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+BVC_6_2061      MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+CIF_2_6238      MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+CII_2_1283      MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+CKK_4_4032      MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+BCR_8_1925      MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+BTE_3_3455      MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+BME_1_470       MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+BME_1_564       MDALTPRDSPKRDDSMATSAATAASAKPDALTIGKEGIVHGHIHNYNNLTYIHGHLHHSA
+                ************************************************************
+
+AEE_3_1595      PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNX
+AKT_4_551       PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNX
+AMN_5_2560      PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNX
+BTA_5_1582      PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNX
+BVC_6_2061      PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNX
+CIF_2_6238      PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNX
+CII_2_1283      PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNX
+CKK_4_4032      PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNX
+BCR_8_1925      PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNH
+BTE_3_3455      PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNH
+BME_1_470       PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNP
+BME_1_564       PVNDSSASATPAAAAVADAATSAFASGASHDMGGDCHVNEKCKEYTDCQHFEFLNYHNNP
+                *********************************************************** 
+
+AEE_3_1595      ------------------------------------------------------------
+AKT_4_551       ------------------------------------------------------------
+AMN_5_2560      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKKNKPNPPPGSDD
+BTA_5_1582      ------------------------------------------------------------
+BVC_6_2061      ------------------------------------------------------------
+CIF_2_6238      ------------------------------------------------------------
+CII_2_1283      ------------------------------------------------------------
+CKK_4_4032      ------------------------------------------------------------
+BCR_8_1925      -----SFANNFHSVASDPTSPQQNSKSDLPRRKDSWFNDDLILLPSSKKNKPNPPPGSDD
+BTE_3_3455      -----SFANNFHSVASDPTSPQQNSKSDLPRRKDSWFNDDLILLPSSKKNKPNPPPGSDD
+BME_1_470       -----SLT----------------------------------------------------
+BME_1_564       -----SLT----------------------------------------------------
+                                                                            
+
+AEE_3_1595      ------------------------------------------------------------
+AKT_4_551       ------------------------------------------------------------
+AMN_5_2560      CYCTPKILEICCDETHPKSEANVKQGESDQPTKKEKSENGNDVAIFTDVKNDHLMSNFNL
+BTA_5_1582      ------------------------------------------------------------
+BVC_6_2061      ------------------------------------------------------------
+CIF_2_6238      ------------------------------------------------------------
+CII_2_1283      ------------------------------------------------------------
+CKK_4_4032      ------------------------------------------------------------
+BCR_8_1925      CYCTPKIX----------------------------------------------------
+BTE_3_3455      CYCTPKILEICCDETHPKSEANVKQGESDQPTKKEKSENGNDVAIFTDVKNDHLMSNFNL
+BME_1_470       ------------------------------------------------------------
+BME_1_564       ------------------------------------------------------------
+                                                                            
+
+AEE_3_1595      -----------------------------------------------------------
+AKT_4_551       -----------------------------------------------------------
+AMN_5_2560      HDQYCNSTNHDSHNHNNTVPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGEH
+BTA_5_1582      -----------------------------------------------------------
+BVC_6_2061      -----------------------------------------------------------
+CIF_2_6238      -----------------------------------------------------------
+CII_2_1283      -----------------------------------------------------------
+CKK_4_4032      -----------------------------------------------------------
+BCR_8_1925      -----------------------------------------------------------
+BTE_3_3455      HDQYCNSTNHDSHNHN--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGEH
+BME_1_470       --KYNDTATYNSNNH--------------------------------------------
+BME_1_564       --KYNDTATYNSNNH--------------------------------------------
+                                                                           

@@ -1,0 +1,50 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEV_5_133       -TKIMGY-----------------------------------------------VYYFGH
+CAN_4_4412      -TKIMGY-----------------------------------------------VYYFGH
+CID_4_2975      KQGCIGFRVPCFRCCKERGSLGNLGCYAMYGSTKRRYCSNCRSTLGSKSDVNWCCWYCGN
+GAP_0_111       -TKIMGY-----------------------------------------------VYYFGH
+CQG_6_5         ------------------------------------------------------------
+AII_1_12        ----MDC-------------------------------------------------YFGL
+                                                                            
+
+AEV_5_133       ---SFSY---------------RFLDY---------------------------------
+CAN_4_4412      ---SFSY---------------RFLDY---------------------------------
+CID_4_2975      LTIGFGYQHLQRKIRSRWRWHARFISFCKCRWFRSFPTTIQSCNLAKQRLLGCYDWWCRC
+GAP_0_111       ---SFSY---------------RFLDY---------------------------------
+CQG_6_5         ----------------------R--------------------NLAKQRLLGCYDWWCRC
+AII_1_12        ----FGH-----------------------------------------------------
+                                                                            
+
+AEV_5_133       ------------------------------------------------------------
+CAN_4_4412      ------------------------------------------------------------
+CID_4_2975      SIFEEGYWYCCRRCY-CCQICCYCFLGSWSICYYCFEDLQTNFPQNVLLRCLPYCFVSTF
+GAP_0_111       ---------------------------------------------------LDY-YVLTK
+CQG_6_5         PIFEEGYWYCCRRCYRCCQISRYCFLGP--------------------------------
+AII_1_12        ------------------------------------------------------------
+                                                                            
+
+AEV_5_133       ----------------FN--HHVLAWWYYPKFWCHEWCHVPADFTNKLVNFCH-SCWPIL
+CAN_4_4412      ----------------FN--HHVLAWWYYPKFWCHEWCHVPADFTNKLVNFCH-SCWPIL
+CID_4_2975      GNLLGSMDCYFGLFEHFDCFHRYFRWWYYPKLRCYERYYVLANFLDKLVDFHYQSCWSIL
+GAP_0_111       G-------------------------WYYPKLRCYERYYVLANFLDKLVDFHYQSCWSIL
+CQG_6_5         --------------------------------------------------------WSL-
+AII_1_12        ----------------FDCFHRY-------------------------------------
+                                                                            
+
+AEV_5_133       VFHSIVAVSRCRFR-RYYCYHVYLIWLVVKLDYCVSRSCLDLVHWYFLCIGRILLYYVHV
+CAN_4_4412      VFHSIVAVSRCRFR-RYYCYHVYLIWLVVKLDYCVSRSCLDLVHWYFLCIGRILLYYVHV
+CID_4_2975      VFYPIMAISWCRLRCRHHRYHVYLIRLVVKLDYCYCRPCLDLVYRYLLCFGWFLLRNVHF
+GAP_0_111       VFYPILAIGWCRLRCRHHRYHVYLIRLVVKLDYCYCRPCLDLVYRYLLCFGWFLLRNVHF
+CQG_6_5         ------------------------------------------------------------
+AII_1_12        ------------FRCCYFGY----------------------------------------
+                                                                            
+
+AEV_5_133       SSLVDEWVIKGKEVYKKCRRFHGCYAKSFYSTRKKQX-----
+CAN_4_4412      SSLVDEWVIKGKEVYKKCRRFHGCYAKSFYSTRKKQX-----
+CID_4_2975      SLQIDERANEGKEVYQKCRRLHGCYAKSLYSTRKGNX-----
+GAP_0_111       SLQIDERANEGKEVYQKCRRLHGCYAKSLYSTRKGNX-----
+CQG_6_5         -----------------------CYX----------------
+AII_1_12        -----------------------CLRCSLLSKARMEPTKIMG
+                                       *                  

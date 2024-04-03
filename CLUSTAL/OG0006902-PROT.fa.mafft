@@ -1,0 +1,30 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AFN_4_630       MVDDSNYLTPHETALAVVATAMKKARLQLDTLLINSILGGILFSSGSFLLVAVHSDDPDM
+AQG_4_5671      MVDDSNYLTPHETALAVVATAMKKARLQLDTLLINSVLGGILFSSGSFLLVAVHSDDPDM
+BHK_4_5878      MVDDSNYLTPHETALAVVATAMKKARLQLDTLLINSVLGGILFSSGSFLLVAVHSDDPDM
+CHV_4_1903      MVDDSNYLTPHETALAVVATAMKKARLQLDTLLINSVLGGILFSSGSFLLVAVHSDDPDM
+CPM_4_2248      MVDDSNYLTPHETALAVVATAMKKARLQLDTLIINSILGGILFSSGSFLLVAVHSDDPDM
+                ********************************:***:***********************
+
+AFN_4_630       VARNPGIVNLITGVTFAIGLFYVVIMGADLFNSNILFFSVGVMRRAVTIYDLIVSWFVS-
+AQG_4_5671      VARNPGIVNLITGVTFAMGLFYVVIMGANLFNSNILFFSVGVMRRAVTIYDLIVS-----
+BHK_4_5878      VARNPGIVNLITGVTFAIGLFYVVIMGADLFNSNILFFSVGVMRRAVTIYDLIVS-----
+CHV_4_1903      VARNPGIVNLITGVTFAMGLFYVVIMGADLFNSNILFFSVGVMRRAVTIYDLIVS-----
+CPM_4_2248      VARNPGIVNLITGVTFAIGLFYVVIMGADLFNSNILFFSVGVMRRAVTIYDLIVSWFISW
+                *****************:**********:**************************     
+
+AFN_4_630       ------------------------------------------------------------
+AQG_4_5671      ------------------------------------------------------------
+BHK_4_5878      ------------------------------------------------------------
+CHV_4_1903      ------------------------------------------------------------
+CPM_4_2248      IGNIAGSLFVSYLFGHLTGIGSQELWMKGSKQIIEQKASYSFIQTFLKGIAGNFFVCLAI
+                                                                            
+
+AFN_4_630       -------------------------------
+AQG_4_5671      -------------------------------
+BHK_4_5878      -------------------------------
+CHV_4_1903      -------------------------------
+CPM_4_2248      YLQLMAKPIHVKFIIMSFPIITFVGIGFTHV
+                                               

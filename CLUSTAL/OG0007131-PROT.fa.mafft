@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADK_8_6215      MGTVDDYINDIMQMDNVRCQEEEEDEGEGYVSFDEDEPQEYRNGDSVRSKESNSSEGKRD
+BFG_4_2270      ------------------------------------------------------------
+CPC_4_1222      ------------------------------------------------------------
+CRE_2_4227      ------------------------------------------------------------
+                                                                            
+
+ADK_8_6215      QEQLYYEYVNEDGTKTRLNFNPDSDATEQVPGEVNRDHKIPLKLKRSFTDACKSETIPNN
+BFG_4_2270      ------------------------------------------------------------
+CPC_4_1222      --------------------------------------------KRSFTDACKSETIPNN
+CRE_2_4227      -------------------------------GEVNRDHKIPLKLKRSFTDACKSETIPNN
+                                                                            
+
+ADK_8_6215      TVNAKEESVFQFSNELSDGWESSPSNSIPKRASPSKNGMNSPMFQHQFELHSPTDEFGGH
+BFG_4_2270      --------------------------------------MNSPMFQHQFELHSPTDEFGGH
+CPC_4_1222      TVNAKEESVFQFSNELSDGWESSPSNSIPKRASPSKNGMNSPMFQHQFELHSPTDEFGGH
+CRE_2_4227      TVNAKEESVFQFSNELSDGWESSPSNSIPKRASPSKNGMNSPMFQHQFELHSPTDEFGGH
+                                                      **********************
+
+ADK_8_6215      KDEILSAEGHDYDIDEYDELSDDSDEEYDNCEDEDSLDCADSAAYALCRSKSKDKISWDE
+BFG_4_2270      KDEMLSTEGHDYDIDEYDELSDDSDEEYDNCEDEDSLDYADSAAYALCRSKSKDKISWDE
+CPC_4_1222      KDEILSAEGHDYDIDEYDELSDDSDEEYDNCEDEDSLDYADSTAYALCRSKSKDKISWDE
+CRE_2_4227      KDEMLSTEGHDYDIDEYDELSDDSDEEYDNCEDEDSLDYADSAAYALCRSKSKDKISWDE
+                ***:**:******************************* ***:*****************
+
+ADK_8_6215      EEQARLMGVVKFNSEHYRD
+BFG_4_2270      EEQARLMGVVKFNSEHYRD
+CPC_4_1222      EEQARLMGVVKFNSEHYRD
+CRE_2_4227      EEQARLMGVVKFNSEHYRD
+                *******************

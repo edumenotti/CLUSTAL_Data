@@ -1,0 +1,132 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ACI_7_107       ------------------------------------------------------------
+ACI_7_3882      ------------------------------------------------------------
+ACL_7_21        ------------------------------------------------------------
+ACL_7_2145      ------------------------------------------------------------
+AFK_5_51        ------------------------------------------------------------
+AFK_5_817       ------------------------------------------------------------
+AGR_2_650       ------------------------------------------------------------
+AGR_2_3311      ------------------------------------------------------------
+AHH_3_2158      GAAGSATKASPYVIAVSSHGVRVVPHFINAVILLSVLSVGNSAFYSSSRVLMSLAKQGNA
+AHH_3_4009      ---------------------------------------------------MSLAKQGNA
+ARG_5_279       ------------------------------------------------------------
+ARG_5_680       ------------------------------------------------------------
+BAF_6_42        ------------------------------------------------------------
+BAF_6_84        ------------------------------------------------------------
+CCT_2_3         ------------------------------------------------------------
+YCM_0_13        ------------------------------------------------------------
+YCM_0_808       ------------------------------------------------------------
+YDE_0_24        ------------------------------------------------------------
+YDE_0_599       ------------------------------------------------------------
+CCV_1_3042      ---------------------------------------------------MSLAKQGNA
+CDF_1_2         ------------------------------------------------------------
+AMP_5_3572      ------------------------------------------------------------
+CPB_4_2864      ------------------------------------------------------------
+PAR_0_397       ------------------------------------------------------------
+                                                                            
+
+ACI_7_107       ------------------------------------------------------------
+ACI_7_3882      ------------------------------------------------------------
+ACL_7_21        ------------------------------------------------------------
+ACL_7_2145      ------------------------------------------------------------
+AFK_5_51        ------------------------------------------------------------
+AFK_5_817       ------------------------------------------------------------
+AGR_2_650       ------------------------------------------------------------
+AGR_2_3311      ------------------------------------------------------------
+AHH_3_2158      PKWFDYIDREGRPARAMIVSALFGVIAFCAASKKEEDVFTWLLAISGLSELFTWITICLS
+AHH_3_4009      PKWFDYIDREGRPARAMIVSALFGVIAFCAASKKEEDVFTWLLAISGLSELFTWITICLS
+ARG_5_279       ------------------------------------------------------------
+ARG_5_680       ------------------------------------------------------------
+BAF_6_42        ------------------------------------------------------------
+BAF_6_84        ------------------------------------------------------------
+CCT_2_3         ------------------------------------------------------------
+YCM_0_13        ------------------------------------------------------------
+YCM_0_808       ------------------------------------------------------------
+YDE_0_24        ------------------------------------------------------------
+YDE_0_599       ------------------------------------------------------------
+CCV_1_3042      PKCFDYIDREGRPAAAMLVSALFGVIAFCASSKKEEDVFTWLLAISGLSQLFTWITICLS
+CDF_1_2         ------------------------------------------------------------
+AMP_5_3572      ------------------------------------------------------------
+CPB_4_2864      ------------------------------------------------------------
+PAR_0_397       ------------------------------------------------------------
+                                                                            
+
+ACI_7_107       -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+ACI_7_3882      -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+ACL_7_21        -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+ACL_7_2145      -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+AFK_5_51        -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+AFK_5_817       -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+AGR_2_650       -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+AGR_2_3311      -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+AHH_3_2158      HIRFRRAMKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+AHH_3_4009      HIRFRRAMKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+ARG_5_279       -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+ARG_5_680       -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+BAF_6_42        --RFRRAMKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAISPIGGGGKLSAQ
+BAF_6_84        --RFRRAMKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAISPIGGGGKLSAQ
+CCT_2_3         -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+YCM_0_13        -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+YCM_0_808       -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+YDE_0_24        -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+YDE_0_599       -------MKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+CCV_1_3042      HIRFRRAMKVQGRSLGEVGYKSQVGVWGSAYAVLMMVLALIAQFWVAIAPIGGGGKLSAQ
+CDF_1_2         --------------------------------------------------IGGGGKLSAQ
+AMP_5_3572      -------MKVQGRSLDEVGYKANTGIWGSYYGVFFNMLVFMAQFWVALSPIGNGGKCDAQ
+CPB_4_2864      -------MKVQGRSLDEVGYKANTGIWGSYYGVFFNMLVFMAQFWVALSPIGNGGKCDAQ
+PAR_0_397       -------MKVQERCLDELGYKATTGIWGSVYGFFFNILVFIAQFWVALAPLGNGGKCDAE
+                                                                  :*.*** .*:
+
+ACI_7_107       SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+ACI_7_3882      SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+ACL_7_21        SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+ACL_7_2145      SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+AFK_5_51        SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+AFK_5_817       SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+AGR_2_650       SFFENYLAMPILIALYIFYKVWRKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+AGR_2_3311      SFFENYLAMPILIALYIFYKVWRKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+AHH_3_2158      SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+AHH_3_4009      SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+ARG_5_279       SFFENYLAMPILIALYIFYKVWRKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+ARG_5_680       SFFENYLAMPILIALYIFYKVWRKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+BAF_6_42        SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+BAF_6_84        SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+CCT_2_3         SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+YCM_0_13        SFFENYLAMPILIALYIFYKVWRKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+YCM_0_808       SFFENYLAMPILIALYIFYKVWRKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+YDE_0_24        SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+YDE_0_599       SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+CCV_1_3042      SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+CDF_1_2         SFFENYLAMPILIALYIFYKVWKKDWSLFIPADKVDLVSHRNIFDEELLKQEDEEYKERL
+AMP_5_3572      AFFESYLAAPLWIFMYVGYMVYKRDFTFLNPLDKIDLDFHRRVYDPEIMRQEDEENKERL
+CPB_4_2864      AFFESYLAAPLWIFMYVGYMVYKRDFTFLNPLDKIDLDFHRRVYDPEIMRQEDEENKERL
+PAR_0_397       SFFQSYLAFPIWLAFYLGYMVYNRDFTLLNLLDEIDLDFHRRVYDPELMRQEDEENKEKL
+                :**:.*** *: : :*: * *:.:*::::   *::**  **.::* *:::***** **:*
+
+ACI_7_107       RNGPYWKRVLDFWC
+ACI_7_3882      RNGPYWKRVLDFWC
+ACL_7_21        RNGPYWKRVLDFWC
+ACL_7_2145      RNGPYWKRVLDFWC
+AFK_5_51        RNGPYWKRVLDFWC
+AFK_5_817       RNGPYWKRVLDFWC
+AGR_2_650       RNGPYWKRVLDFWC
+AGR_2_3311      RNGPYWKRVLDFWC
+AHH_3_2158      RNGPYWKRVLDFWC
+AHH_3_4009      RNGPYWKRVLDFWC
+ARG_5_279       RNGPYWKRVLDFWC
+ARG_5_680       RNGPYWKRVLDFWC
+BAF_6_42        RNGPYWKRVLDFWC
+BAF_6_84        RNGPYWKRVLDFWC
+CCT_2_3         RNGPYWKRVLDX--
+YCM_0_13        RNGPYWKRVLDFWC
+YCM_0_808       RNGPYWKRVLDFWC
+YDE_0_24        RNGPYWKRVLDFWC
+YDE_0_599       RNGPYWKRVLDFWC
+CCV_1_3042      RNGPYWKRVLDFWC
+CDF_1_2         RNGPYWKRVLDFWC
+AMP_5_3572      KNSSIFVRVYKFWC
+CPB_4_2864      KNSSIFVRVYKFWC
+PAR_0_397       RNMSLARKAYHFWC
+                :* .   :. .   

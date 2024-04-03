@@ -1,0 +1,116 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADL_4_2812      ------------------------------------------------------------
+AEV_5_6326      ------------------------------------------------------------
+CHH_4_309       ------------------------------------------------------------
+CHH_4_1692      ------------------------------------------------------------
+CHH_4_1719      ------------------------------------------------------------
+CHH_4_4681      ------------------------------------------------------------
+BFE_4_4657      ------------------------------------------------------------
+BFG_4_4783      ------------------------------------------------------------
+BFM_3_4597      ------------------------------------------------------------
+AEB_8_4625      ------------------------------------------------------------
+ASH_3_1835      ------------------------------------------------------------
+ASH_3_297       ------------------------------------------------------------
+BBG_6_424       ------------------------------------------------------------
+BBG_6_1251      ------------------------------------------------------------
+BRQ_4_4848      ------------------------------------------------------------
+CGC_4_3770      ------------------------------------------------------------
+AQT_4_4880      MHSKRIVHGDIKLENCLLQKEGKKSDWKVFLCDFGMSCHFDEKHVYRNDTFDENLSSGNS
+                                                                            
+
+ADL_4_2812      ------------------------------------------------------------
+AEV_5_6326      ---------------------------------------------------MVSSSSHSL
+CHH_4_309       ---------------------------------------------------MVSSSSHSL
+CHH_4_1692      ---------------------------------------------------MVSSSSHSL
+CHH_4_1719      ---------------------------------------------------MVSSSSHSL
+CHH_4_4681      ---------------------------------------------------MVSSSSHSL
+BFE_4_4657      ----------------------------------------------------MQDVQNQL
+BFG_4_4783      ----------------------------------------------------MQDVQNQL
+BFM_3_4597      ----------------------------------------------------MQDVQNQL
+AEB_8_4625      ---------------------------------------------------MVSSSSHSL
+ASH_3_1835      ------------------------------------------------------------
+ASH_3_297       ---------------------------------------------------MVSSSSHSL
+BBG_6_424       ---------------------------------------------------MVSSSSHSL
+BBG_6_1251      ---------------------------------------------------MVSSSSHSL
+BRQ_4_4848      ------------------------------------------------------------
+CGC_4_3770      ------------------------------------------------------------
+AQT_4_4880      HRKRKSIEQTNLIKYPTTNFLPDDRTNDFDASENLKYQFENRKHQPFTPKGMVSSSSHSL
+                                                                            
+
+ADL_4_2812      ------------------------------------------------------------
+AEV_5_6326      KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+CHH_4_309       KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+CHH_4_1692      KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+CHH_4_1719      KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+CHH_4_4681      KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+BFE_4_4657      KCI---------------------------------------------------------
+BFG_4_4783      KCI---------------------------------------------------------
+BFM_3_4597      KCI---------------------------------------------------------
+AEB_8_4625      KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+ASH_3_1835      ------------------------------------------------------------
+ASH_3_297       KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+BBG_6_424       KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+BBG_6_1251      KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+BRQ_4_4848      ------------------MQDVQNQLKCIF-----------------------------M
+CGC_4_3770      ------------------------------------------------------------
+AQT_4_4880      KHLNQPSSSSSSNLFHKPASQPQPQHRSPFHGRHKTTDFSNLEPEPSKYIGSLPYASPEL
+                                                                            
+
+ADL_4_2812      ------------------------------------------------------------
+AEV_5_6326      LRYSDARPSSSSS----------------------NLSSLSSSTKASAVTDSGVTISSPS
+CHH_4_309       LRYSDARPSSSSS----------------------NLSSLSSSTKASAVTDSGVTISSPS
+CHH_4_1692      LRYSDARPSSSSS----------------------NLSSLSSSTKASAVTDSGVTISSPS
+CHH_4_1719      LRYSDARPSSSSS----------------------NLSSLSSSTKASAVTDSGVTISSPS
+CHH_4_4681      LRYSDARPSSSSS----------------------NLSSLSSSTKASAVTDSGVTISSPS
+BFE_4_4657      ------------------------------------FMIXXXXXXXXXXXXXXXXXSSPS
+BFG_4_4783      ------------------------------------FMIXXXXXXXXXXXXXXXXXSSPS
+BFM_3_4597      ------------------------------------FMIXXXXXXXXXXXXXXXXXSSPS
+AEB_8_4625      LRYSDARRSKSVEMHIYD--------------XXXXXXXXXXXXXXXXXXXXXXXXSSPS
+ASH_3_1835      ------------------------------------------------------------
+ASH_3_297       LRYSDARPSSSSS----------------------NLSSLSSSTKASAVTNSGVTISSPS
+BBG_6_424       LRYSDARPSSSSS----------------------NLSSLSSSTKASAVTNSGVTISSPS
+BBG_6_1251      LRYSDARPSSSSS----------------------NLSSLSSSTKASAVTNSGVTISSPS
+BRQ_4_4848      IXXXXXXXXXXXX--------------------------------------XXXXXSSPS
+CGC_4_3770      ------------------------------------------------------------
+AQT_4_4880      LRYSDARCSKSVEMHIYDSPDSSQSEISAASSSSSNLSSLSSSTKASAVTNSGVTTSSPS
+                                                                            
+
+ADL_4_2812      ----------------------------MLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+AEV_5_6326      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+CHH_4_309       GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+CHH_4_1692      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+CHH_4_1719      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+CHH_4_4681      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+BFE_4_4657      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+BFG_4_4783      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+BFM_3_4597      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+AEB_8_4625      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+ASH_3_1835      ----------------------------MLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+ASH_3_297       GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+BBG_6_424       GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+BBG_6_1251      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+BRQ_4_4848      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+CGC_4_3770      ----------------------------MLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+AQT_4_4880      GSSTDFPCIVSPLGPASDIWALGVMLYTMLVGKLPFNHEFEPRLRSLIKVGEFDRFSLAQ
+                                            ********************************
+
+ADL_4_2812      VCKFDRKKNEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+AEV_5_6326      VCKFDRKKNEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+CHH_4_309       VCKFDRKKNEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+CHH_4_1692      VCKFDRKKNEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+CHH_4_1719      VCKFDRKKNEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+CHH_4_4681      VCKFDRKKNEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+BFE_4_4657      VCKFDRKKNEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+BFG_4_4783      VCKFDRKKNEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+BFM_3_4597      VCKFDRKKNEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+AEB_8_4625      VCKFDRKKTEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+ASH_3_1835      VCKFDRKKTEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+ASH_3_297       VCKFDRKKTEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+BBG_6_424       VCKFDRKKTEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+BBG_6_1251      VCKFDRKKTEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+BRQ_4_4848      VCKFDRKKTEGTIGQGLYDTVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+CGC_4_3770      VCKFDRKKNEGTIGQGLYDIVIGCLTIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+AQT_4_4880      VCKFDRKKNEGTIGQGLYDTVIGCLMIDLDKRWKLKRIEEVLQNEMNLSEAIHDNNGS
+                ********.********** ***** ********************************

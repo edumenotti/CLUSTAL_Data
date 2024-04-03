@@ -1,0 +1,17 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BBC_8_27        TNDKLLEKENLPTIPHNNQPILASSNKSNGTLKSLAGKVSANNNASKEDGTIINGTVEDD
+BGM_1_6214      ------------------------------------------------------------
+BGP_1_6519      ------------------------------------------------------------
+                                                                            
+
+BBC_8_27        DNDNDEADTTVRIVPQDSDSSSFPKSDLFKMIEGDDTDLPQWFKGKNSRTSG--------
+BGM_1_6214      ------------------------------MIEGDDTDLPQWFKGKNSKPYTTVLNKDID
+BGP_1_6519      ------------------------------MIEGDDTDLPQWFKGKNSKPYTTVLNKDID
+                                              ******************:.          
+
+BBC_8_27        ------
+BGM_1_6214      NSKPDP
+BGP_1_6519      NSKPDP
+                      

@@ -1,0 +1,23 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVR_6_2966      MAVSARLRTTAEDTSIAKSTQDPIGDTEISVANAKGSSDSNIKNSPDGNSVGQESELEHV
+CPQ_4_6300      MAVSARLRTTAEDTSIAKSTQDPIGDTEISVANAKGSSDSNIKNSPX-------------
+CPK_4_1382      MAVSARLRTTAEDTSIAKSTQDPIGDTEISVANAKGSSDSNIKNSPGGNSVGQESELEHV
+CPK_4_1407      MAVSARLRTTAEDTSIAKSTQDPIGDTEISVANAKGSSDSNIKNSPDGNSVGQESELEHV
+CPL_4_1406      MAVSARLRTTAEDTSIAKSTQDPIGDTEISVANAKGSSDSNIKNSPDGNSVGQESELEHV
+                **********************************************              
+
+AVR_6_2966      PEEDDSGDKEADHEDSETATAKKRKAQPLKNPKKSLKRGRVPAPLNLSDSNTNTHGGNIK
+CPQ_4_6300      ------------------------------------------------------------
+CPK_4_1382      PEEDDSGDKEADHEDSETATAKKRKAQPLKNPKKSLKRG---------------------
+CPK_4_1407      PEEDDSGDKEADHDDSERATAKKRKAQPLKNPKKSLKRG---------------------
+CPL_4_1406      PEEDDSGDKEADHDDSERATAKKRKAQPLKNPKKSLKRG---------------------
+                                                                            
+
+AVR_6_2966      DGNLASSNSAHFPPVANQNVKSAPXXXXXXXXXXXXXXXXXVSNTWERPVLDNLFK
+CPQ_4_6300      --------------------------------------------------------
+CPK_4_1382      --------------------------------------------------------
+CPK_4_1407      --------------------------------------------------------
+CPL_4_1406      --------------------------------------------------------
+                                                                        

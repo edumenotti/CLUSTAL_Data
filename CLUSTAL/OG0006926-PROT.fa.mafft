@@ -1,0 +1,37 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALN_4_1140      MTVSHNHSTKISQQPISSVSAFKFFGKKLLSSSHGNKLKKKASLPPDFHSTSTNDSESSS
+ALN_4_1159      MTVSHNHSTKISQQPISSVSAFKFFGKKLLSSSHGNKLKKKASLPPDFHSTSTNDSESSS
+ALN_4_1169      MTVSHNHSTKISQQPISSVSAFKFFGKKLLSSSHGNKLKKKASLPPDFHSTSTNDSESSS
+AVP_5_1116      MTVSHNHSTKISQQPISSVSAFKFFGKKLLSSSHGNKLKKKASLPPDFHSTSTNDSESSS
+AVT_6_2937      MTVSHNHSTKISQQPISSVSAFKFFGKKLLSSSHGNKLKKKASLPPDFHSTSTNDSESSS
+                ************************************************************
+
+ALN_4_1140      PKLPNSLKTSRRANSFAHTTNSKRSLSSASTKILPPAGSSTSISR---------------
+ALN_4_1159      PKLPNSLKTSRRANSFAHTTNSKRSLSSASTKILPPAGSSTSISR---------------
+ALN_4_1169      PKLPNSLKTSRRANSFAHTTNSKRSLSSASTKILPPAGSSTSISR---------------
+AVP_5_1116      PKLPNSLKTSRRANSFAHTTNSKRSLSSASTKILPPAGSSTSISRGNRHSSTSRNLSNSK
+AVT_6_2937      PKLPNSLKTSRRANSFAHTTNSKRSLSSASTKILPPAGSSTSISRGNRHSSTSRNLSNSK
+                *********************************************               
+
+ALN_4_1140      ------------------------------------------------------------
+ALN_4_1159      ------------------------------------------------------------
+ALN_4_1169      ------------------------------------------------------------
+AVP_5_1116      FSSERLVYNPYGVSTPSTSLSSVSTSMKKDPDLGFYLHDGDSKIRMLPIPIVDPNEYLPD
+AVT_6_2937      FSSERLVYNPYGVSTPSTSLSSVSTSMKKDPDLGFYLHDGDSKIRMLPIPIVDPNEYLPD
+                                                                            
+
+ALN_4_1140      --KQTFVHFA--------------------------------------------------
+ALN_4_1159      --KQTFVHFA--------------------------------------------------
+ALN_4_1169      --KQTFVHFA--------------------------------------------------
+AVP_5_1116      EMKEASIQLSDXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMKRPRNSTSAAQRSLSS
+AVT_6_2937      EMKEASIQLSDXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------
+                  *:: ::::                                                  
+
+ALN_4_1140      ---
+ALN_4_1159      ---
+ALN_4_1169      ---
+AVP_5_1116      QSS
+AVT_6_2937      ---
+                   

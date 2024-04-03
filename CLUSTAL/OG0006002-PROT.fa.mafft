@@ -1,0 +1,137 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADL_4_2625      MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+AEC_8_2846      MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+BBT_3_765       MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+BBT_3_4157      MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+CBR_2_697       MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+CBR_2_4454      MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+CFG_4_463       MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVTTA
+CFG_4_4240      MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVTTA
+CFH_0_699       MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+CFH_0_2025      MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+CFH_0_6153      MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+CGC_4_5385      MTEEDRKLTVETETVEAPVANNLLLSNNSNVVAPNPSIPSASTSTSPLHREIVDDSVATA
+AMN_5_5851      MEEQ----------VEVWIGS---FSINIWVRTPNPSIPSASTSTSPLHREIVDDSVATA
+                * *:          **. :..   :* *  * :************************:**
+
+ADL_4_2625      NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+AEC_8_2846      NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+BBT_3_765       NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+BBT_3_4157      NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+CBR_2_697       NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+CBR_2_4454      NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+CFG_4_463       NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+CFG_4_4240      NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+CFH_0_699       NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+CFH_0_2025      NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+CFH_0_6153      NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+CGC_4_5385      NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIDSVS
+AMN_5_5851      NTTSNVVQHNLPTIDNNLMDSDATSHNQDHWHSDINRAGTSMSTSDIPTDLHLEHIGSVS
+                ********************************************************.***
+
+ADL_4_2625      STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+AEC_8_2846      STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+BBT_3_765       STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPX------
+BBT_3_4157      STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPX------
+CBR_2_697       STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+CBR_2_4454      STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+CFG_4_463       STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+CFG_4_4240      STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+CFH_0_699       STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+CFH_0_2025      STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+CFH_0_6153      STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+CGC_4_5385      STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+AMN_5_5851      STNNNSNNALINHNPLSSHLSNPSSSLRNKKSSLLVASNPAFASDVELSKKKPAVISNNM
+                *****************************************************       
+
+ADL_4_2625      PTSNIALYQTARSANIHGPSSTSASKAFRKASAFSNNTAPSTSNNIGSNTPPAPLLPLPS
+AEC_8_2846      PTSNIALYQTA-------------------------------------------------
+BBT_3_765       ------------------------------------------------------------
+BBT_3_4157      ------------------------------------------------------------
+CBR_2_697       PTSNIALYQTA-------------------------------------------------
+CBR_2_4454      PTSNIALYQTA-------------------------------------------------
+CFG_4_463       PTSNIALYQTA-------------------------------------------------
+CFG_4_4240      PTSNIALYQTA-------------------------------------------------
+CFH_0_699       PTSNIALYQTA-------------------------------------------------
+CFH_0_2025      PTSNIALYQTARSANIHGPSSTSASKAFRKASAFSNNTAPSTSNNIGSNTPPAPLLPLPS
+CFH_0_6153      PTSNIALYQTA-------------------------------------------------
+CGC_4_5385      PTSNIALYQTA-------------------------------------------------
+AMN_5_5851      PTSNIALYQTARSANIHGPSSTSASKAFRKASAFSNNTAPSTSNNIGSNTPPAPLLPLPS
+                                                                            
+
+ADL_4_2625      LSQQNKPKIIERPTMHVTNSREILLGENLLDDTKAKNAPANSTTHDNGPVANDGLRIPNH
+AEC_8_2846      ------------------------------------------------------------
+BBT_3_765       ------------------------------------------------------------
+BBT_3_4157      ------------------------------------------------------------
+CBR_2_697       ------------------------------------------------------------
+CBR_2_4454      ------------------------------------------------------------
+CFG_4_463       ------------------------------------------------------------
+CFG_4_4240      ------------------------------------------------------------
+CFH_0_699       ------------------------------------------------------------
+CFH_0_2025      LSQQNKPKIIERPTMHVTNSREILLGENLLDDTKAKNAPANSTTHDNGPVANDGLRIPNH
+CFH_0_6153      ------------------------------------------------------------
+CGC_4_5385      ------------------------------------------------------------
+AMN_5_5851      LSQQNKPKIIERPTMHVTNSREILLGENLLDDTKAKNAPANSTTHDNGPVANDGLRIPNH
+                                                                            
+
+ADL_4_2625      SNADDNENNNKMKKNKNINSGKNERNDDTSKICTTSTKTAPSTAPLGSTDNTQALTASVS
+AEC_8_2846      ------------------------------------------------------------
+BBT_3_765       ------------------------------------------------------------
+BBT_3_4157      ------------------------------------------------------------
+CBR_2_697       ------------------------------------------------------------
+CBR_2_4454      ------------------------------------------------------------
+CFG_4_463       ------------------------------------------------------------
+CFG_4_4240      ------------------------------------------------------------
+CFH_0_699       ------------------------------------------------------------
+CFH_0_2025      SNADDNENNNKMKKNKNINSGKNERNDDTSKICTTSTKTAPSTAPLGGTDNTQALTASVS
+CFH_0_6153      ------------------------------------------------------------
+CGC_4_5385      ------------------------------------------------------------
+AMN_5_5851      SNADDNENNNKMKKNKNINSGKNERNDDTSKICTTSTKTAPSTAPLGSTDNTQAL-----
+                                                                            
+
+ADL_4_2625      SSNADNHNNNKKKTSSNNNGNNSNSASNKTNADIKNSNADLSASTSNNNAINDDSHESNS
+AEC_8_2846      ------------------------------------------------------------
+BBT_3_765       ------------------------------------------------------------
+BBT_3_4157      ------------------------------------------------------------
+CBR_2_697       ------------------------------------------------------------
+CBR_2_4454      ------------------------------------------------------------
+CFG_4_463       ------------------------------------------------------------
+CFG_4_4240      ------------------------------------------------------------
+CFH_0_699       ------------------------------------------------------------
+CFH_0_2025      SSNADNHNNNKKKTSSNNNGNNSNSASNKTNADIKNSNADLSASTSNNNAINDDSHESNS
+CFH_0_6153      ------------------------------------------------------------
+CGC_4_5385      ------------------------------------------------------------
+AMN_5_5851      ------------------------------------------------------------
+                                                                            
+
+ADL_4_2625      EKPTKADFFAARLATAVGENEISDSEETFVYESAANSTKNLIFPDSSSQQQQQXXXXXXX
+AEC_8_2846      ------------------------------------------------------------
+BBT_3_765       ------------------------------------------------------------
+BBT_3_4157      ------------------------------------------------------------
+CBR_2_697       ------------------------------------------------------------
+CBR_2_4454      ------------------------------------------------------------
+CFG_4_463       ------------------------------------------------------------
+CFG_4_4240      ------------------------------------------------------------
+CFH_0_699       ------------------------------------------------------------
+CFH_0_2025      EKPTKADFFAARLATA--------------------------------------------
+CFH_0_6153      ------------------------------------------------------------
+CGC_4_5385      ------------------------------------------------------------
+AMN_5_5851      ------------------------------------------------------------
+                                                                            
+
+ADL_4_2625      XXXXXXXXXXXATKSWNNLKDKRPIAKQ
+AEC_8_2846      ----------------------------
+BBT_3_765       ----------------------------
+BBT_3_4157      ----------------------------
+CBR_2_697       ----------------------------
+CBR_2_4454      ----------------------------
+CFG_4_463       ----------------------------
+CFG_4_4240      ----------------------------
+CFH_0_699       ----------------------------
+CFH_0_2025      ----------------------------
+CFH_0_6153      ----------------------------
+CGC_4_5385      ----------------------------
+AMN_5_5851      ----------------------------
+                                            

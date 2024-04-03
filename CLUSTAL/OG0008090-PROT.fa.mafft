@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AIN_1_2670      MNGPPTFTQYRINKFSGNGATHKIRELLNFNDEKKWKQFSSRRLELIDKFQLSQYKASEQ
+AQP_4_2217      MNGPPTFTQYRINKFSGNGATHKIRELLNFNDEKKWKQFSSRRLELIDKFQLSQYKASEK
+                ***********************************************************:
+
+AIN_1_2670      DQNIKQIATILRTEFGYPVSCSKEFEKLVTAAVQSVRRNRKRSK----------------
+AQP_4_2217      DQNIKQIATILRTEFGYPVSCSKEFEKLVTAAVQSVRRNRKRSKKRYALSIANGSDGNVN
+                ********************************************                
+
+AIN_1_2670      -----NATL-----------------------------------------
+AQP_4_2217      NSISSNSTSDDEISPSIYQRSNSDFLPSSNYCCRFPVFKQVPASQESPES
+                     *:*                                          

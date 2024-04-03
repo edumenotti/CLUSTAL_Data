@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALV_2_1859      ----------------------MQSFAVPMYEAQESTGIANKMTSDEFDGDLFAKMLGVQ
+BRQ_4_405       -------------------------------------GIANKMTSDEFDGDLFAKMLGVQ
+CAT_0_5450      VGFASSLEIHEVENLKEENKRQMQSFAVPMYEAQESTGIANKMTSDEFDGDLFAKMLGVQ
+                                                     ***********************
+
+ALV_2_1859      EADEVHEKYKEELINQERLEGEASRSNRRTRVSRFRKDRASKKENTLSTFKQETTRSVEN
+BRQ_4_405       EADEVHEKYKEELINQERLEGEASRSNRRTRVSRFRKDRASKKENTLSTFKQETTRSVEN
+CAT_0_5450      EADEVHEKYKEELINQERLEGEASRSNRRTRVSRFRKDRASKKENTLSTFKQETTRSVEN
+                ************************************************************
+
+ALV_2_1859      EVVEKEPVVGDIIEKEPAVTDIVEKEPAVNDIVEREPVVGDIIEKEPAVNDIVEKEPAVT
+BRQ_4_405       EVVEKEPVVGDIIEKEPAVT------------------------------DIVEKEPAVT
+CAT_0_5450      EVVEKEPAVGDIIEKEPVVGDVIEKEPAVTDIVEKEPVINDIVEKEPAVNDIVEKEPAVN
+                *******.*********.*                               *********.
+
+ALV_2_1859      DIVEKEPVINDIVEKEPAVNDIVEREPVVGDIIGKEPAVNDIVEKEPEINRRASWRLLLK
+BRQ_4_405       ----------DIVEKEPAVNDIVEREPVVGDIIEKEPAVNDIVEKE--------------
+CAT_0_5450      DIVEREPAVNDIVEREPAVNDIVEREPVVGDIIEKEPAVNDIVEKEPEINSKSEFETPFK
+                          ****:****************** ************              
+
+ALV_2_1859      RKS---------------------------------------------------------
+BRQ_4_405       ------------------------------------------------------------
+CAT_0_5450      KKKLKSLQKPRSSKSMKKKFDPKILENISDDDYDDDDDDGNKKLLSNKSKNNTDEQDKFP
+                                                                            
+
+ALV_2_1859      ---------
+BRQ_4_405       ---------
+CAT_0_5450      SKIQEVSRS
+                         

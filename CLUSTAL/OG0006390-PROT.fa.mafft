@@ -1,0 +1,52 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ACI_7_5143      MMLSLHRFSMYVLRSLRLHFKKIIIILLTIQLLFITIFVLGGRSSIIDGNWKSFMALFFK
+ASM_8_1079      MMLSLRRFSMYVLRSLRLHFKKIIIILLTIQLLFITIFVLGGRSSIIDGNWKSFMALFFK
+ASM_8_1087      MMLSLRRFSMYVLRSLRLHFKKIIIILLTIQLLFITIFVLGGRSSIIDGNWKSFMALFFK
+BGA_7_5119      MMLSLRRFSMYVLRSLRLHFKKIIITLLTIQLLFITIFVLGGRSSIIDGNWKSFMALFFK
+BGN_1_2626      MMLSLRRFSMYVLRSLRLHFKKIIITLLTIQLLFITIFVLGGRSSIIDGNWKSFMALFFK
+BGQ_1_3037      MMLSLRRFSMYVLRSLRLHFKKIIITLLTIQLLFITIFVLGGRSSIIDGNWKSFMALFFK
+BGT_2_5051      MMLSLRRFSMYVLRSLRLHFKKIIITLLTIQLLFITIFVLGGRSSIIDGNWKSFMALFFK
+BGV_2_5421      MMLSLRRFSMYVLRSLRLHFKKIIITLLTIQLLFITIFVLGGRSSIIDGNWKSFMALFFK
+                *****:******************* **********************************
+
+ACI_7_5143      PLAYTNRNNNHASFDLRSKDNVAKLYEKMNFDTSGKWIDTYTLKNNLLTVKMGPEKGQVL
+ASM_8_1079      PLAYTNRNNNHASFDLRSKDNVAKLYEKMNFDTSGKWIDTYTLKNNLLTVKMGPEKGQVL
+ASM_8_1087      PLAYTNRNNNHASFDLRSKDNVAKLYEKMNFDTSGKWIDTYTLKNNLLTVKMGPEKGQVL
+BGA_7_5119      PLAYTNRNNNHASFDLRSKDNVAKLYEKMNFDTSGKWIDTYTLKNNLLTVKMSPEKGQVL
+BGN_1_2626      PLAYTNRNNNHASFDLRSKDNVAKLYEKMNFDTSGKWIDTYTLKNNLLTVKMGPEKGQVL
+BGQ_1_3037      PLAYTNRNNNHASFDLRSKDNVAKLYEKMNFDTSGKWIDTYTLKNNLLTVKMSPEKGQVL
+BGT_2_5051      PLAYTNRNNNHASFDLRSKDNVAKLYEKMNFDTSGKWIDTYTLKNNLLTVKMGPEKGQVL
+BGV_2_5421      PLAYTNRNNNHASFDLRSKDNVAKLYEKMNFDTSGKWIDTYTLKNNLLTVKMGPEKGQVL
+                ****************************************************.*******
+
+ACI_7_5143      DSVDELRYYDNDPRLVWSVLLDHLLESDSNEYAFSWYDWANFDSTNKLIALRHTNISCQF
+ASM_8_1079      DSVDELRYYDNDPRLVW-------------------------------------------
+ASM_8_1087      DSVDELRYYDNDPRLVW-------------------------------------------
+BGA_7_5119      DSVDELRYYDNDPRLV--------------------------------------------
+BGN_1_2626      DSVDELRYYDNDPRLV--------------------------------------------
+BGQ_1_3037      DSVDELRYYDNDPRLV--------------------------------------------
+BGT_2_5051      DSVDELRYYDNDPRLV--------------------------------------------
+BGV_2_5421      DSVDELRYYDNDPRLV--------------------------------------------
+                ****************                                            
+
+ACI_7_5143      VCEGAFDKNVLEMVESEVQEPLFVTNRNKYDELLWYNRVRKVVDSNSVQQAIHDHCMNND
+ASM_8_1079      ------------------------------------------------------------
+ASM_8_1087      ------------------------------------------------------------
+BGA_7_5119      ------------------------------------------------------------
+BGN_1_2626      ------------------------------------------------------------
+BGQ_1_3037      ------------------------------------------------------------
+BGT_2_5051      ------------------------------------------------------------
+BGV_2_5421      ------------------------------------------------------------
+                                                                            
+
+ACI_7_5143      AYSNGTPFELPFIISEISERLRPEVYDLQAKNHLLYSNFTPL
+ASM_8_1079      ------------------------------------------
+ASM_8_1087      ------------------------------------------
+BGA_7_5119      ------------------------------------------
+BGN_1_2626      ------------------------------------------
+BGQ_1_3037      ------------------------------------------
+BGT_2_5051      ------------------------------------------
+BGV_2_5421      ------------------------------------------
+                                                          

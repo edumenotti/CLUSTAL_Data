@@ -1,0 +1,30 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_4742      MFVVGAGSLADYFGRVRLTIIGLWLNIFGSLLIIVSDYIPLLLMGRAIQGLSAALIMPAT
+CFH_0_3273      MFVVGVGSLADYFGRVRLTIIGLWLNIFGSLLIIVSDYIPLLLMGRAIQGLSAALIMPAT
+                *****.******************************************************
+
+CDH_0_4742      LSLIKAYYHGDKRQRALSFWSIGSWGGSGFASLFGGMIATFLSWRWIFVFSIIVSLIAVL
+CFH_0_3273      LSLIKAYYHGDKRQRALSFWSIGSWGGSGFASLFGGMIATFLSWRWIFVFSIIVSLIAVL
+                ************************************************************
+
+CDH_0_4742      LIKGTPESKNRHASSRRFDIVGLILLVVMMLSLNIMITQAAHLGLFSVAIVSLFVAFVLS
+CFH_0_3273      LIKGTPESKNQHASSRQFDIVGLILLVVMMLSLNIMITQAAHLGLFSVAIVSLFVAFVLS
+                **********:*****:*******************************************
+
+CDH_0_4742      TILFIIFENRKRYPLIDFALFRNRFYTSATFANFLINTVAGTLLITNTFVQQGIGLSSFE
+CFH_0_3273      TILFIILENRKRYPLIDFALFRNRFYTSATFANFLINTVAGTLLITNTFVQQGIGLSSFE
+                ******:*****************************************************
+
+CDH_0_4742      TGLLSLTYLIAVLTMIRVGEKILQEFGPRKPMLIGTMSTTVGIFLMSITFLPIPVYIALC
+CFH_0_3273      TGLLSLTYLIAVLTMIRVGEKIYKSL----------------------------VLENLC
+                ********************** :.:                            *   **
+
+CDH_0_4742      VIGFLLFGLGLGLFATPSTDTAISHSPEEKVGVASGIYKMASSIGGAFGVAISGSIYSIF
+CFH_0_3273      ------------------------------------------------------------
+                                                                            
+
+CDH_0_4742      STLFDPKLGAMMGLWFNTMIAFTAYFIVWLTLPNTKKNS
+CFH_0_3273      ---------------------------------------
+                                                       

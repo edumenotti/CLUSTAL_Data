@@ -1,0 +1,146 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_1124      MMSNINYAKADSIEQNNTTINQKVSDSTSHQINIENGKSLNDNLTNNQDIENKLSTTKTN
+CFH_0_944       MMSNINYAKADSIEQNNTTINQKVSDSTSHQINIENGKSLNDNLTNNQDIENKLSTTKTN
+                ************************************************************
+
+CDH_0_1124      TQHVINTSQLEKILNQYKSLDLSNKTEDSVELFRADLQEAESILNNPQSQQQVDDYYHKF
+CFH_0_944       TQHVINTSQLEKILNQYKSLDLSNKTDESIKLFRTDLQEAESILNNPQSQQQVDDYYHKF
+                **************************::*::***:*************************
+
+CDH_0_1124      LNSAGKLHNKESLLPNRQSNGVQSQHVTKNNNISNYSYIRHKRDTSSFRSAPENNVSNDP
+CFH_0_944       LNSAGKLHNKESLLPNRQSNGVQSQHLSTNNNFSNYSYIRHKRDSSSFRSAPENNVSNDP
+                **************************::.***:***********:***************
+
+CDH_0_1124      LKANEVNPEIQNGNFSQISGGILPSRSKRLTVVTNVDNWHSYSTDPNPEYPMFYTPSAVD
+CFH_0_944       LKANEVNPEIQNGNFSQVSGGILPSRSKRLTVVTNVDNWHSYSTDPNPEYPMFYTPSAVD
+                *****************:******************************************
+
+CDH_0_1124      YSSFMSNGGAPYGVVLARTNNGRDRSVNDAKVAGIYQDIDVVPGSELNVNFISTSPVFSD
+CFH_0_944       YSSFMSNNGAPYGVVLARTNNGRDRSVNDAKVAGIYQDIDVVPGSELNVNFISTSPVFSD
+                *******.****************************************************
+
+CDH_0_1124      GASGAKLKISNIEQDRVLFDNRLNGMGPYPTGKLSAMVNIPSDMNRVRISFLPISNTGRI
+CFH_0_944       GASGAKLKISNIEQDRILFDNRLNGMGPYPTGKLSAMVNIPSDMNRVRISFLPISNTGRI
+                ****************:*******************************************
+
+CDH_0_1124      SVQRSSKEHGFGDNSSYYHGGSVSDVRINSGSYITSNVAQVEYITQPNSPNDNFARATVN
+CFH_0_944       SVQRSSKEHGFGDNSSYYHGGSVSDVRINSGSYITSNVAQVEYITQPNSPNDNFARATVN
+                ************************************************************
+
+CDH_0_1124      LSVENKGHNQSRDTYYEVLLPANSKLISSSGGTGNLDVNTNKLRMSISNLNPGERKDLSY
+CFH_0_944       LSVENKGHNQSRDTYYEVILPANSKLISSSGGTGNLDVNTNKLRMSISNLNPGERKDLSY
+                ******************:*****************************************
+
+CDH_0_1124      TVEFKATIPKIVNLNGHVSYRTNATFRGRDTQRTGDNTVNLQTVTIQMNKTELQSKVNEV
+CFH_0_944       TVEFKATIPKIVNLNGHVSYRTNATFRGRDTQRTGDNTVNLQTVTIQMNKTELQSKVNEV
+                ************************************************************
+
+CDH_0_1124      DNYLHDLNEADFTTDSWRALQDKLTEARNIINEQQNNVAIENQASQETINNVTNTLDTLK
+CFH_0_944       DNYLHDLNDADFTADSWRALQDKLTEARNIINEQQNNVAIENQASQETINNVTNTLDTLK
+                ********:****:**********************************************
+
+CDH_0_1124      NSLKYNAPSKPIIEINYLIPNLTITPANKADKLNIIYQNTANERTSIIATKTNDNWSLNN
+CFH_0_944       NSLKYNAPSKPIIEINYLIPNLTITPANKADKLNITYQNTANESTSIIATKTNDNWSLNN
+                *********************************** ******* ****************
+
+CDH_0_1124      SVPGINIEPQSGLVTINYQAVYPESVVVANDIIRNSDTSEESRENMPRKDATPEAPGIEA
+CFH_0_944       SVPGINIEPQSGLVTINYQAVYPESLVVANDIIRNSDTSEESRENMPRKEATPEAPGIEA
+                *************************:***********************:**********
+
+CDH_0_1124      SEEHVNVEVTPKGEASKIEIIYINPEGEPASINAIKNGETWKLDKQVSQINIDDHTGKVT
+CFH_0_944       SEEHVNVEVTPKGEASKIEMIYINPEGEPASINAIKNGETWTLDKQVSHINIDDHTGKVT
+                *******************:*********************.******:***********
+
+CDH_0_1124      VGYQAVQAESEIVATETKGNSDSSSESKLKMPRKETKPEAPDIESNVEHVNVEVTPKDES
+CFH_0_944       VGYQAVQAESEIIATETKGNSDSSSESKLKMPRKETTPEAPDIQSNAEHVNVEVTPKGES
+                ************:***********************.******:**.**********.**
+
+CDH_0_1124      TKLEVKYTDTNGQPSSIIANKNGGVWALNKEVPHIELDETTGKVTVGYQAVQAESEVLAN
+CFH_0_944       TKLEVKYTDTNGQPSSIIANKNGGVWALNKEVPHIELDETTGKVTVGYQAVLAESEIVAT
+                *************************************************** ****::*.
+
+CDH_0_1124      ETKGNSDSSTESKVTMPRKEAAPEAPDIVASVEHANVEVTPKGEVTKLLINYTNPEDQRV
+CFH_0_944       ETKGNSDSSSESNLKMPRKETTPEAPDIVASVEHANVKVTPKGEVTKLVINYTNPEDQRV
+                *********:**::.*****::***************:**********:***********
+
+CDH_0_1124      TIIASNNGGIWSLNKNVSHIEVDEATGKVTIGYQAVQAESEIIATEIKGNSDSSPESKVT
+CFH_0_944       TINASNNGGIWSLNKNVSHIEVDEATGKVTIGYQAVQVESEIIATEIKGNSDSSPESKVT
+                ** **********************************.**********************
+
+CDH_0_1124      MPRKEATPDSPTIEASEEYVNVEVTPKDESTKLVINYTNREGHSDSIIANKNGGAWLLNK
+CFH_0_944       MPRKETTPDSPAIEASEEYINVEVTPKDESTKLVINYTNPEGHSDSIIANKNGGAWLLNK
+                *****:*****:*******:******************* ********************
+
+CDH_0_1124      QVPHIVIDDRTGKVTIGHQAVQEESEIIATEIKGNSDSSPESKV----------------
+CFH_0_944       QVPHIVIDDRTGKVTIGHQVVQAESEIIATEIKGNSDSSPESKVTMPRKETTPHSPTIEA
+                *******************.** *********************                
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       NEEQVNVEVTPKDESTKLVINYTNTEGQSDTIIVSKNGEVWSLNKIVPHIEVDEATGKVT
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       IGYQAVQAESEVITTETKGNSDSSPESKVTMPRKDVAPEGPVLKSDHDNASVSIIPSINS
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       DKITIKYLDVNDQIATAIATKKNQSWSLNNNISGISINSQTGTVTISYVAVQPESDITAT
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       ASNGNSDNSIVKHTLMPAKEVKPQPPVVRSNIEEANVEIIPHNDVTRLDVHYVDLKGQPA
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       TITATKVGNGWTINKNISNIKLDESTGKLTMGHQAVLVESEVVATETKGNSDTSTESKIN
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       MPRKEVTPESPAIEANEEHVNVEVTPKGESTKLEVKYTDTNGQLSSFIANKNGGVWSLNK
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       EVPHIELDETTGKVTIGHQAVLAESEVVATETKGNSDTSTESKINMPRKEVTPESPAIEA
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       NEEHVNVEVTPKGESTKLIINYTNSEGQPDSIIAIKKEEIWSLNKEVPHIQLDETTGKVT
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       LGHQAVLAESEVVDTETKGNSDTSTESKINMPRKEVTPESPAIEANEEHVNVEVTPKGKS
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       TKLVINYTNSEGQPDSIIAIKKEEIWSLNKEVPHIQLDEYTGKVTLGHPVVQAESEVVAT
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       ETKGNSNTSPESKVTMPRKESTPDSPTIEANEERVNVEVTPKGESTKLVINYTNSDGQPD
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       SIIASKKEGTWSLNKEVPHIQLDEYTGKVTLGHPVVQAESEVVATETKGNSNTSPESKVT
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       MPRKEATPDAPIVEKDESKVNVSIIPSGLSTKIEIEYINPEGQSDTIIASKDEGTWSLSK
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       DITGITIEPATGKVTIDYYVVYPESEITASEVHGNSDHSKLNSVIMPRKENAPEPPIVTV
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       NEKEAIVIIKPRIEATKVEINFKNKKGKAIYINVYKNGSEWSVDQVIEGIILNAHTGEIK
+                                                                            
+
+CDH_0_1124      ------------------------------------------------------------
+CFH_0_944       ITHLAVKDGSEIIAREYKGNSDASIAISIKAPTKVTSKESYKIKSLKVKLNDRSNEMMYT
+                                                                            
+
+CDH_0_1124      -----------------------------------------
+CFH_0_944       KKDKLLELPHTGESEKANNTLLSSILILGLMLLRKSRKKEI
+                                                         

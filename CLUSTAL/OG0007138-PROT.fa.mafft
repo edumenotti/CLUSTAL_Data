@@ -1,0 +1,50 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEB_8_589       HFQSTISHPLCLIPKNRLVYGTLSLCSPSVVLSLLLPICTRAVIYQVSALILPSIRIKLG
+ASH_3_4598      HFQSTISHPLCLIPKNRLVYGTLSLCSPSVVLSLLLPICTRAVIYQVSALILPSIRIKLG
+ASC_6_319       ------------------------------------------------------------
+ASC_6_704       ------------------------------------------------------------
+                                                                            
+
+AEB_8_589       TQIQTTRGILYYMLFLLSMLVLLFSSFSLVFNLPMMTLQMALCQSMLTCKTHQNKKSLKK
+ASH_3_4598      TQIQTTRGILYYMLFLLSMLVLLFSSFSLVFNLPMMTLQMALCQSMLTCKTHQNKKSLKK
+ASC_6_319       ------------------------------------------------------------
+ASC_6_704       ------------------------------------------------------------
+                                                                            
+
+AEB_8_589       FPPLNLIRITKKNFKEKGLRMRSCTKNSVRNSLPLLPMDMRHMLPLMPTMIRLLYPQPPR
+ASH_3_4598      FPPLNLIRITKKNFKEKGLRMRSCTKNSVRNSLPLLPMDMRHMLPLMPTMIRLLYPQPPR
+ASC_6_319       ------------------------------------------------------------
+ASC_6_704       ------------------------------------------------------------
+                                                                            
+
+AEB_8_589       LHYLLLLLAAKPVSKLLITIQPDLLVKSHWPQKVLKKEILWRCLPLAHMVLRAPLYQKQF
+ASH_3_4598      LHYLLLLLAAKPVSKLLITIQPDLLVKSHWPQKVLKKEILWRCLPLAHMVLRAPLYQKQF
+ASC_6_319       ------------------------------------------------------------
+ASC_6_704       ------------------------------------------------------------
+                                                                            
+
+AEB_8_589       QHLKITTGLMRTVNPLGMRNPVQNLPTPPITTPARKVSFCQMVTPLMHVEKLIKYPKLLL
+ASH_3_4598      QHLKITTGLMRTVNPLGMRNPVQNLPTPPITTPARKVSFCQMVTPLMHVEKLIKYPKLLL
+ASC_6_319       ----------------------------------------QMVTPLMHVEKLIKYPKLLL
+ASC_6_704       ----------------------------------------QMVTPLMHVEKLIKYPKLLL
+                                                        ********************
+
+AEB_8_589       LVAKITKIPRPKTMLPLRLHLKMQILSLLSTQLLTIINRRFQWLLNKQKRLKARKMAHQD
+ASH_3_4598      LVAKITKIPRPKTMLPLRLHLKMQILSLLSTQLLTIINRRFQWLLNKQKRLKARKMAHQD
+ASC_6_319       LVAKITKIPRPKTMLPLRLHLKMQILSLLSTQLLTITNRRFQWLLNKQKRLKARKMAHQD
+ASC_6_704       LVAKITKIPRPKTMLPLRLHLKMQILSLLSTQLLTITNRRFQWLLNKQKRLKARKMAHQD
+                ************************************ ***********************
+
+AEB_8_589       LFPRRKLRILQDHPITILLLLLLLLLLLLLQMLLSPTIIITTTAIVMLERMSRTILRQPN
+ASH_3_4598      LFPRRKLRILQDHPITILLLLLLLLLLLLLQMLLSPTIIITTTAIVMLERMSRTILRQPN
+ASC_6_319       LFPRRKLRILQDHPITI----LLLLLLLLLQMLLSPTIIITTTAIVMLERMSRTILRQPN
+ASC_6_704       LFPRRKLRILQDHPITI----LLLLLLLLLQMLLSPTIIITTTAIVMLERMSRTILRQPN
+                *****************    ***************************************
+
+AEB_8_589       PLPLHRRQRKNQNIKRGYCISKRSFXKKLGRQILFLYG
+ASH_3_4598      PLPLHRRQRKNQNIKRGYCISKRSX-------------
+ASC_6_319       PLPLHRRQRKNQNIKRGYCISKRSX-------------
+ASC_6_704       PLPLHRRQRKNQNIKRGYCISKRSX-------------
+                ************************              

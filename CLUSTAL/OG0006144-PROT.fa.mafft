@@ -1,0 +1,54 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALS_5_139       MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+BBH_6_2215      MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+BBK_6_2120      MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+BFD_1_1540      MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+BQB_4_2188      MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+BRD_4_273       MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+BRD_4_687       MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+CCM_1_1450      MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+YCT_0_595       MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+YCZ_0_351       MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+YCZ_0_354       MSKLVPIASPNLSMMTSRAYDEAKKEKGSQGTIDHEKGEYVDISGREIISSESEKHGRQL
+                ************************************************************
+
+ALS_5_139       PLQAYVHYAEIQREFERERDEDGL------------------------------------
+BBH_6_2215      PLQAYVHYAEIQREFERERDEDGL------------------------------------
+BBK_6_2120      PLQAYVHYAEIQREFERERDEDGL------------------------------------
+BFD_1_1540      PLQAYVHYAEIQREFERERDEDGL------------------------------------
+BQB_4_2188      PLQAYVHYAEIQREFERERDEDGLYAVQREQMYTDPHSNVSPSKLDSQRMLRIAKAYSVF
+BRD_4_273       PLQAYVHYAEIQREFERERDEDGL------------------------------------
+BRD_4_687       PLQAYVHYAEIQREFERERDEDGL------------------------------------
+CCM_1_1450      PLQAYVHYAEIQREFERERDEDGL------------------------------------
+YCT_0_595       PLQAYVHYAEIQREFERERDEDGL------------------------------------
+YCZ_0_351       PLQAYVHYAEIQREFERERDEDGL------------------------------------
+YCZ_0_354       PLQAYVHYAEIQREFERERDEDGL------------------------------------
+                ************************                                    
+
+ALS_5_139       ------------------------------------------------------------
+BBH_6_2215      ------------------------------------------------------------
+BBK_6_2120      ------------------------------------------------------------
+BFD_1_1540      ------------------------------------------------------------
+BQB_4_2188      FLITTDILGPSNAPYAVAQMGWVPGVILYVXXXXXXXXXXXXXXXXXXXXXXXLGSGIRS
+BRD_4_273       ------------------------------------------------------------
+BRD_4_687       ------------------------------------------------------------
+CCM_1_1450      ------------------------------------------------------------
+YCT_0_595       ------------------------------------------------------------
+YCZ_0_351       ------------------------------------------------------------
+YCZ_0_354       ------------------------------------------------------------
+                                                                            
+
+ALS_5_139       -------
+BBH_6_2215      -------
+BBK_6_2120      -------
+BFD_1_1540      -------
+BQB_4_2188      GFYSLFK
+BRD_4_273       -------
+BRD_4_687       -------
+CCM_1_1450      -------
+YCT_0_595       -------
+YCZ_0_351       -------
+YCZ_0_354       -------
+                       

@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARN_6_20        ---------------------------------------MSVELDDDADLDDELAQLKGL
+ARN_6_23        ---------------------------------------MSVELDDDADLDDELAQLKGL
+CFD_4_6440      ---------------------------------------MSVELDDDADLDDELAQLKGX
+ZBG_0_3672      MAKRPLGLGKQSREKKRKVESVEKKSDEPSRESTPVRSQMSVELDDDADLDDELAQLKGL
+                                                       ******************** 
+
+ARN_6_20        WSKYFHSDRDDEYVLNGIVHECDRLLRLSEED--------------------
+ARN_6_23        WSKYFHSDRDDEYVLNGIVHECDRLLRLSEED--------------------
+CFD_4_6440      ----------------------------------------------------
+ZBG_0_3672      WSKYFHSDRDDEYVLNGIVHECDRLLRLSEEDKEIKKTLNDIFHGIYALALX
+                                                                    

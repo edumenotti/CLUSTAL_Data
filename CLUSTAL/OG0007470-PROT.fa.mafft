@@ -1,0 +1,12 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ACM_7_26        LLPKALLLQPALPLKALLLQLQLHPALLLKAPLLQPALPLKALLLQYQLHQALLP-----
+BAF_6_6750      -LLKALLLQPAPPLKALLLQYELH-----------PAPPLKALLLQLQLHQALPPKALLL
+BDD_8_8         LLLKALLLQ--------------------------PAPPLKALLLQLQLHQALLP-----
+                 * ******                          ** ******** ****** *     
+
+ACM_7_26        KALLLQ-PAX---------------------
+BAF_6_6750      KALLLQYPALLLKALLLQ-------------
+BDD_8_8         KALLLQYPALLLKALHQYQPHLPLATSLPPL
+                ****** **                      

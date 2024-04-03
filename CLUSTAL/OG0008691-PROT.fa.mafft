@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BTB_3_3760      ------------------------------------------------------------
+CKK_4_455       QKENTDEQKAQLQAPAQEQVQTSVPVQASAPVQNSAPVQTSAPVEASAQTQAPAAPPLKH
+                                                                            
+
+BTB_3_3760      --------------------------------------TNSTVIMFDHRLGINVERAIYR
+CKK_4_455       TSILPPRKLTFADVKKPDKPNSPVQFTDSAFGFPLPLLTVSTVIMFDHRLPINVERAIYR
+                                                      * ********** *********
+
+BTB_3_3760      LSHLKLSDPGRELRQQVLLSNFMYSYLNLVNHTLYMEQVGTGDIAFNGDSALGMMDKNDS
+CKK_4_455       LSHLKLSNSKRGLREQVLLSNFMYAYLNLVNHTLYMEQVA-----------------HDK
+                *******:. * **:*********:**************.                 :*.
+
+BTB_3_3760      DGTILIPDI
+CKK_4_455       EQQQQQP--
+                :     *  

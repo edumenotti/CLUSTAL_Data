@@ -1,0 +1,38 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BCR_8_755       SSSSSNKASLTREEDLPIFLMRFMAMRLPSNHNTRNLYILTTTHLCRYHTLVLPSILSSN
+BRQ_4_1078      -------------------LMMFSLF----NFKEAVLSLLLQTHI-------------TF
+                                   ** *  :    *.:   * :*  **:             : 
+
+BCR_8_755       STRHPSMLGATPSQCICIRQPLPQTMPDWRLSTARIRHPRSCMTYILTAGQIILLVIKFI
+BRQ_4_1078      RTR------------TAMKEMYLWTMVFFRVNTLR---PKPYTIYTATVAAAILLALQFL
+                 **             .:::    **  :*:.* *   *:.   *  *..  ***.::*:
+
+BCR_8_755       N---------------LLTAR-----------ELYAGIMSPPPVPGLSFWIFKIVIITTH
+BRQ_4_1078      NSQIILRKCSCTILMKVMTRRTWASMKKVIHTNLYIS----------TFEVATITLMIQS
+                *               ::* *           :** .          :* : .*.::   
+
+BCR_8_755       SLTHSSPLLFQTLRRPGR------PNPRTALQCICTISHCY--RKMVSSNCCLNHKRPHL
+BRQ_4_1078      RIMELFPIM-EAIKIGGRVLSQQNYHAGILITPFYLIHHWYWLLKMGNLNYYLLHKLPIC
+                 : .  *:: ::::  **       :.   :  :  * * *   ** . *  * ** *  
+
+BCR_8_755       YKGAIWSLLMVIVVKIFWWWNRLIIWHYLIFRKKFTLILSPIVNSISPMTSLSRLWLIQP
+BRQ_4_1078      CREVTWLLLMVTVEGIYWLLSPLSIIHYLIFKRKFTLTLLQVSHSIIAMMSLFKC-LTQK
+                 : . * **** *  *:*  . * * *****::**** *  : :** .* ** :  * * 
+
+BCR_8_755       MVSRSLMSIRSYMISLNRNSSHQSR-FDLPPRGNPPRIYTTNSRMS-----------RLF
+BRQ_4_1078      VGKRK--NIPNCMMLLNLSSYHLNKSYVLPPRGR-QRICTINLKMNKPCILLRVNYKRMI
+                : .*.  .* . *: ** .* * .: : *****.  ** * * :*.           *::
+
+BCR_8_755       TLHSNGRITITPV----------AGTSKYMQSSNLTERNLSTTFARSVMISETSKNSLSF
+BRQ_4_1078      IRNLKIQMTVLPIILRMLQLIQSLNISRFTQNSNLIERNRFTTFVRREMILET-KSCSNI
+                  : : ::*: *:           . *:: *.*** ***  ***.*  ** ** *.. .:
+
+BCR_8_755       TKQEFGFVLYRTI-YRIPNFMIQTSLS-------------GRCIRICPTIPWTTLELSWP
+BRQ_4_1078      TRQEFGCVPSRIICLLILSIMINNKKSNYIKTKITMLKIMSMSFRRTGGITELILHLRTK
+                *:**** *  * *   * .:**:.. *             . .:*    *.   *.*   
+
+BCR_8_755       LNIVNWTTSRSVFIWNWR--FCSA
+BRQ_4_1078      L---NSTTFRLLCMKNFTNYFX--
+                *   * ** * : : *:   *   

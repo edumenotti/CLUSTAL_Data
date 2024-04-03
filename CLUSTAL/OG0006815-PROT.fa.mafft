@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BFS_8_1176      ------------------------------------------------------------
+BGA_7_6180      ------------------------------------------------------------
+BGQ_1_864       ------------------------------------------------------------
+BMD_5_2892      ------------------------------------------------------------
+CGR_5_3855      PRQLRDPTASKQSAPSTTLKNLSLRTMQIQLFQQVGRRLEHLHGPRPPPPTVPLSILRLV
+MAA_0_692       ------------------------------------------------------------
+                                                                            
+
+BFS_8_1176      -----------------------------------------------------VLKATRL
+BGA_7_6180      -----------------------------------------------------VLKATRL
+BGQ_1_864       -----------------------------------------------------VLKATRL
+BMD_5_2892      --------------------LSILRLVLKATRLEHLHGPRPPPPTVPLSILRLVLKATRL
+CGR_5_3855      LKATRLEHLHGPRPPPPTVPLSILRLVLKATRLEHLHGPRPPPPMVPLSILRLVLKATRL
+MAA_0_692       -----------------------------------------------LSILRLVLKATRL
+                                                                     *******
+
+BFS_8_1176      EHLHGPRPPPPTMPLSILLPIHLILSPVDRPLLVPNKTPGLYPRILRMFYPQRPALQKYQ
+BGA_7_6180      EHLHGPRPPPPTMPLSILLPIHLILSPVDRPLLVPNKTPGLYPRILRMFYPQRPALQKYQ
+BGQ_1_864       EHLHGPRPPPPTMPLSILLPIHLILSPVDRPLLVPNKTPGLYPRILRMFYPQRPALQKYQ
+BMD_5_2892      EHLHGPRPPPPMVPLSILLPIHLILSPVDRPLLVPNKTPGLYPRILRMFYPQRPALQKYQ
+CGR_5_3855      EHLHGPRPPPPTVPLSILLPIHLILSPVGRPLLVPNKTPGLYPRILRMFYPQRPALQKYQ
+MAA_0_692       EHLHGPRPPPPTVPLSILLPIHLILSPVDRPLLVPNKTPGLYPLILRMFYPQRPALQKYQ
+                *********** :***************.************** ****************
+
+BFS_8_1176      RQLNYMVHQQRYLQLTGRYHQVKITVSAARQLWKARLLLALTPEQLLLTLSFTLWLLCRL
+BGA_7_6180      RQLNYMVHQQRYLQLTGRYHQVKITVSAARQLWKARLLLALTPEQLLLTLSFTLWLLCRL
+BGQ_1_864       RQLNYMVHQQRYLQLTGRYHQVKITVSAARQLWKARLLLALTPEQLLLTLSFTLWLLCRL
+BMD_5_2892      RQLNYMVHQQRYLQLTGRYHQVKITVSAARQLWKARLLLALTPEQLLLTLSFTLWLLCRL
+CGR_5_3855      RQLNYMVHQQRYLQLTGRYHQVKITVSAARQLWKARLLLALTPEQLLLTLSFTLWLLCRL
+MAA_0_692       RQLNYMVHQQRYLQLTGRYHQVKITVSAARQLWKARLLLALTPEQLLLTLSFTLWLLCRL
+                ************************************************************
+
+BFS_8_1176      QSS
+BGA_7_6180      QSS
+BGQ_1_864       QSS
+BMD_5_2892      QSS
+CGR_5_3855      QSS
+MAA_0_692       QSS
+                ***

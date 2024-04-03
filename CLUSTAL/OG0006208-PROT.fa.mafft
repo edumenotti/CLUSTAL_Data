@@ -1,0 +1,86 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEB_8_4900      ------------------------------------------------------------
+ASH_3_2970      MSLSKYFNPIPDASVTFDGATVQLEESLGAVQNDEESASEFKNVGHLEISDITFRANEGE
+AEB_8_4903      MSLSKYFNPIPDASVTFDGATVQLEESLGAVQNDEESASEFKNVGHLEISDITFRANEGE
+AQT_4_3169      MSLSKYFNPIPDASVTFDGATVQLEESLGAVQNDEESASEFKNVGHLEISDITFRANEGE
+ARQ_6_1695      MSLSKYFNPIPDASVTFDGATVQLEESLGAVQNDEESASEFKNVGHLEISDITFRANEGE
+BBG_6_3436      MSLSKYFNPIPDASVTFDGATVQLEESLGAVQNDEESASEFKNVGHLEISDITFRANEGE
+BRQ_4_3414      MSLSKYFNPIPDASVTFDGATVQLEESLGAVQNDEESASEFKNVGHLEISDITFRANEGE
+CGC_4_4765      MSLSKYFNPIPDASVTFDGATVQLEESLGAVQNDEESASEFKNVGHLEISDITFRANEGE
+GAV_0_3547      MSLSKYFNPIPDASVTFDGATVQLEESLGAVQNDEESASEFKNVGHLEISDITFRANEGE
+YCC_0_1030      MSLSKYFNPIPDASVTFDGATVQLEESLGAVQNDEESASEFKNVGHLEISDITFRANEGE
+                                                                            
+
+AEB_8_4900      ------------------------------------------------------------
+ASH_3_2970      VVLVLGNPTSALFKGLFHGHKHLKYSPEGSIRFKDNEYKQFASKCPHQIIYNNEQDIHFP
+AEB_8_4903      VVLVLGNPTSALFKGLFHGHKHLKYSPEGSIRFKDNEYKQFASKCPHQIIYNNEQDIHFP
+AQT_4_3169      VVLVLGNPTSALFKGLFHGHKHLKYSPEGSIRFKDNEYKQFASKCPHQIIYNNEQDIHFP
+ARQ_6_1695      VVLVLGNPTSALFKGLFHGHKHLKYSPEGSIRFKDNEYKQFASKCPHQIIYNNEQDIHFP
+BBG_6_3436      VVLVLGNPTSALFKGLFHGHKHLKYSPEGSIRFKDNEYKQFASKCPHQIIYNNEQDIHFP
+BRQ_4_3414      VVLVLGNPTSALFKGLFHGHKHLKYSPEGSIRFKDNEYKQFASKCPHQIIYNNEQDIHFP
+CGC_4_4765      VVLVLGNPTSALFKGLFHGHKHLKYSPEGSIRFKDNEYKQFASKCPHQIIYNNEQDIHFP
+GAV_0_3547      VVLVLGNPTSALFKGLFHGHKHLKYSPEGSIRFKDNEYKQFASKCPHQIIYNNEQX----
+YCC_0_1030      VVLVLGNPTSALFKGLFHGHKHLKYSPEGSIRFKDNEYKQFASKCPHQIIYNNEQDIHFP
+                                                                            
+
+AEB_8_4900      -------------------------MRDELLKEFGLSHVKKTYVGNDYVRGVSGGERKRI
+ASH_3_2970      YLTVEQTIDFALSCKFHIPKQERIEMRDELLKEFGLSHVKKTYVGNDYVRGVSGGERKRI
+AEB_8_4903      YLTVE-------------------------------------------------------
+AQT_4_3169      YLTVE-------------------------------------------------------
+ARQ_6_1695      YLTVEQTIDFALSCKFHIPKQERIEMRDELLKEFGLSHVKKTYVGNDYVRGVSGGERKRI
+BBG_6_3436      YLTVE-------------------------------------------------------
+BRQ_4_3414      YLTVE-------------------------------------------------------
+CGC_4_4765      YLTVE-------------------------------------------------------
+GAV_0_3547      ------------------------------------------------------------
+YCC_0_1030      YLTVEQTIDFALSCKFHIPKQERIEMRDELLKEFGLSHVKKTYVGNDYVRGVSGGERKRI
+                                                                            
+
+AEB_8_4900      SIIETFIANGSVYLWDNSTKGLDSATALEFLSITQKMAKATRSVNFVKISQASDKIVSKF
+ASH_3_2970      SIIETFIANGSVYLWDNSTKGLDSATALEFLSITQKMAKATRSVNFVKISQASDKIVSKF
+AEB_8_4903      ------------------------------------------------------------
+AQT_4_3169      ------------------------------------------------------------
+ARQ_6_1695      SIIETFIANGSVYLWDNSTKGLDSATALEFLSITQKMAKATRSVNFVKISQASDKIVSKF
+BBG_6_3436      ------------------------------------------------------------
+BRQ_4_3414      ------------------------------------------------------------
+CGC_4_4765      ------------------------------------------------------------
+GAV_0_3547      ------------------------------------------------------------
+YCC_0_1030      SIIETFIANGSVYLWDNSTKGLDSATALEFLSITQKMAKATRSVNFVKISQASDKIVSKF
+                                                                            
+
+AEB_8_4900      DKILMLGDSFQVFYGTMEECLTHFHDTLQIKKNPNDCIIEYLTSILNFKFKETSNSIVGL
+ASH_3_2970      DKILMLGDSFQVFYGTMEECLTHFHDTLQIKKNPNDCIIEYLTSILNFKFKETSNSIVGL
+AEB_8_4903      ------------------------------------------------------------
+AQT_4_3169      ------------------------------------------------------------
+ARQ_6_1695      DKILMLGDSFQVFYGTMEECLTHFHDTLQIKKT--------LTIVL--------------
+BBG_6_3436      ------------------------------------------------------------
+BRQ_4_3414      ------------------------------------------------------------
+CGC_4_4765      ------------------------------------------------------------
+GAV_0_3547      ------------------------------------------------------------
+YCC_0_1030      DKILMLGDSFQVFYGTMEECLTHFHDTLQIKKT--------LTIVL--------------
+                                                                            
+
+AEB_8_4900      DTPSVVSEENQALNINNETDLHTLWIQSPYYKHWKAITXXXXXXXXXXXXXXXXXXXXEN
+ASH_3_2970      DTPSVVSEENQALNINNETDLHTLWIQSPYYKHWKAIT-XXXXXXXXXXXXXXXXXXXEN
+AEB_8_4903      ------------------------------------------------------------
+AQT_4_3169      ------------------------------------------------------------
+ARQ_6_1695      ------------LNI---------------------------------------------
+BBG_6_3436      ------------------------------------------------------------
+BRQ_4_3414      ------------------------------------------------------------
+CGC_4_4765      ------------------------------------------------------------
+GAV_0_3547      ------------------------------------------------------------
+YCC_0_1030      ------------LNI---------------------------------------------
+                                                                            
+
+AEB_8_4900      VHCKSFRKNHW
+ASH_3_2970      VHCKSFRKNHW
+AEB_8_4903      -----------
+AQT_4_3169      -----------
+ARQ_6_1695      -----------
+BBG_6_3436      -----------
+BRQ_4_3414      -----------
+CGC_4_4765      -----------
+GAV_0_3547      -----------
+YCC_0_1030      -----------
+                           

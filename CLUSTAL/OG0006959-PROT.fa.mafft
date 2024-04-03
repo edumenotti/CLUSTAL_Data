@@ -1,0 +1,16 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANM_2_37        ---------------------------MDGTGVSSGDDSVDELSEDLSDIDVSDDDDYX-
+BEK_7_15        MFGGDNDSDDSDSGGDLQEEDSDSDEDMDGTGVSSGDDSVDELSEDLSDIDVSDDDX---
+BEM_7_13        MFGGDNDSDDSDSGGDLQEEDSDSDEDMDGTGVSSGDDSVDELSEDLSDIDVSDDDX---
+AVQ_5_42        ---------------------------MDGTGVSSGDDSVYELSEDLSDIDVSDDDDYDE
+AVT_6_51        ---------------------------MDGTGVSSGDDSVYELSEDLSDIDVSDDDDYDE
+                                           ************* ***************    
+
+ANM_2_37        --
+BEK_7_15        --
+BEM_7_13        --
+AVQ_5_42        VX
+AVT_6_51        VX
+                  

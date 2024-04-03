@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_974       ----------------MLDRNIPAGRGMVKWAPFATLPEQFETIHQYMIDQNKIDRPVLS
+CFH_0_955       MTDIKNETDYRNIPREMLDRNIPAGRGMVKWAPFATLPEQFETIHQYMIDQNKIDRPVLS
+                                ********************************************
+
+CDH_0_974       DDQLAQLNIRLHEALQKSQPVNIKYYEEGYINFVNLNIHRIDSLNLEIEGIKPGTTYHQK
+CFH_0_955       DDQLAQLNIRLHEALQKSQPVNIKYYEEGYINFVNLNIHRIDSLNLEIEGIKPGTTYHQK
+                ************************************************************
+
+CDH_0_974       VPILDIVDITFS
+CFH_0_955       VPILDIVDITFS
+                ************

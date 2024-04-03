@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMN_5_52        YKALKSANLRAGHWVAISGAAGGLGSLAVQYAKAMGYRVLGIDGGPGKEELFT-------
+BFM_3_153       ----------------------------------MGYRVLGIDGGEGKEELFRSIGGEVF
+BML_5_134       ----------------------------------MGYRVLGIDGGEGKEELFRSIGGEVF
+CBR_2_73        ----------------------------------MGYRVLGIDGGEGKEELFRSIGGEVF
+CFC_2_90        ----------------------------------MGYRVLGIDGGEGKEELFRSIGGEVF
+CIG_2_6615      ---------MAGHWVAISGAAGGLGSLAVQYAKAMGYRVLGIDGGEGKEELFRSIGGEVF
+                                                  *********** ******        
+
+AMN_5_52        ------------------------------
+BFM_3_153       IDFTKEKDIVGAVLKATDGGAHGVINVSVS
+BML_5_134       IDFTKEKDIVGAVLKATDGGAHGVINVSVS
+CBR_2_73        IDFTKEKDIVGAVLKATX------------
+CFC_2_90        IDFTKEKDIVGAVLKATX------------
+CIG_2_6615      IDFTKEKDIVGAVLKATDGGAHGVINVSVS
+                                              

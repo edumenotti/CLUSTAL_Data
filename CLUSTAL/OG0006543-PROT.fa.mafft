@@ -1,0 +1,47 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AET_5_22        TTMTLTAPTMTTLTVRQTRIRTLTVLLATMILTDLPITTTLTVLPTRRRALMVLTMTIR-
+BLE_2_22        TTMTLTAPTMTTLTVRQTRIRTLTVLLATMILTDLPITTTLTVLPTRRRALMVLTMTIR-
+AFI_5_25        TTMTLTVPTMTTLTVRQTRIRTLTVLLATMILTDLPITTTLTVLPTRRRALMVLTMTIR-
+BIE_1_29        TTMTLTVPTMTTLTVRQTRIRTLTVLLATMILTDLPITTTLTVLPTRRRALMVLTMTIR-
+BPA_4_36        TTMTLTVPTMTTLTVRQTRIRTLTVLLATMILTDLPITTTLTVLPTRRRALMVLTMTIR-
+CFT_5_2588      --------TMTTLTVRQTRIRALTVLLATLILTDLLITTTLTVLPTRRRVLMVPATTIRM
+CIH_2_7         ------VPTMTTLTVRQTRIRALTVLLATMILTDLPITTTLTVLPTRRRVLMVPTMTILM
+                        *************:*******:***** *************.*** : **  
+
+AET_5_22        -------------------------------------------------TAP--------
+BLE_2_22        -------------------------------------------------TAP--------
+AFI_5_25        -------------------------------------------------TAP--------
+BIE_1_29        -------------------------------------------------TAP--------
+BPA_4_36        -------------------------------------------------TAP--------
+CFT_5_2588      VLTTMIHMVLTTMIHMVLTTTIPTALTTMIPTVLPTKRRVLMVPTTMILTAPTMTTLTVR
+CIH_2_7         ALTMMIHMVL--------------------------------------------------
+                                                                            
+
+AET_5_22        ------------------------------------------------------------
+BLE_2_22        ------------------------------------------------------------
+AFI_5_25        ------------------------------------------------------------
+BIE_1_29        ------------------------------------------------------------
+BPA_4_36        ------------------------------------------------------------
+CFT_5_2588      QTRIRTLTVLLATMILTDLPITTTLTXXXXXXXXXXXXXXXXXQQRFLRLQRFLRFFQEE
+CIH_2_7         ------------------------------------------------------------
+                                                                            
+
+AET_5_22        ------------------------------------------------------------
+BLE_2_22        ------------------------------------------------------------
+AFI_5_25        ------------------------------------------------------------
+BIE_1_29        ------------------------------------------------------------
+BPA_4_36        ------------------------------------------------------------
+CFT_5_2588      EFLWFQQQRFVWFQRFIWFQQRFLRLQQRFLRFFQQKEELLWFQRRFIRLQQQQFIRLQQ
+CIH_2_7         ------------------------------------------------------------
+                                                                            
+
+AET_5_22        ---------------------------
+BLE_2_22        ---------------------------
+AFI_5_25        ---------------------------
+BIE_1_29        ---------------------------
+BPA_4_36        ---------------------------
+CFT_5_2588      QQFIXXXXXXXXXXXXXXXXXDSYGSS
+CIH_2_7         ---------------------------
+                                           

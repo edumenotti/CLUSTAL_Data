@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BBC_8_4012      MSSKVDLYNSASESTRSAQDARQQTPTAFAVSRDVNGQPEALLGDENPIEPEEKAKLNHM
+CMG_6_40        ---------------------------------DVNGQPEALLGDENPIEPEEKTKLNHM
+CMG_6_77        ----------------------------------VNGQPEALLGDENPIEPEEKAKLNHM
+BFE_4_3813      MSSKVDLYNSASESTHSAQDARQQTPTAFAASRDVNGQPEALLGDENPIEPEEKAKLNHM
+                                                  ********************:*****
+
+BBC_8_4012      TLDSWQPLTPK
+CMG_6_40        TLDSWQPLTPK
+CMG_6_77        TLDSWQPLTPK
+BFE_4_3813      TLDSWQPLTPK
+                ***********

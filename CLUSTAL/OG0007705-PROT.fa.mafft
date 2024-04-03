@@ -1,0 +1,12 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVT_6_38        ISVWLLPPLTTPTLLCTLRLTLLVLARCPWFHGTPLDWNQLSL-MVMLLLLLPQALLLX-
+CMG_6_88        ----------------------------------PLDWNQLSLWMVMLLLPLPQLLLLLQ
+CMG_6_113       ----------------------------------PLDWNQLSLWMVMLLLPLPQALLLLQ
+                                                  ********* ****** *** ***  
+
+AVT_6_38        --------------------------------------
+CMG_6_88        LLLLPQALLKLSLLLLPQALLKLSLLLLLQAPLKLRQL
+CMG_6_113       LLLLPQALLKLSLPLLPQALLKL---------------
+                                                      

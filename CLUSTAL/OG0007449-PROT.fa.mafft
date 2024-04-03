@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+JAY_0_1874      --------------------------------------------------------FSVL
+ZSA_0_1071      LTSLTVSNWKNLLTQMKLLLTVLLFKVLSLANPHLTKPRTCCCMLLHYLVLVCKVTFSVL
+ZSA_0_2597      LTSLTVSNWKNLLTQMKLLLTVLLFKVLSPANPHLTKPRTCCCMLLHYLVLVCKVTCSVS
+ZSA_0_5298      ------------------------------------------------------------
+                                                                            
+
+JAY_0_1874      LSQETQLFQPSREEPSQLSVTTKPPFNSQSTKVNVSTVKKTLCWVNSTRTSQCQLVNQSW
+ZSA_0_1071      LSQETQLFQPSREEPSQLSVTTKPPFNSQSTKVNVSTVKKTLCWVNSTRTSQCQLVNQSW
+ZSA_0_2597      LFQETLLFQPSREEPLPHVLTTKPPFNSQSTKVNVLTVKKTLCWVNSTRTSQCQLVNQSW
+ZSA_0_5298      -----------------------------------------------------------W
+                                                                           *
+
+JAY_0_1874      KLSSKLMLTVSRLLPSKSLPVSLLTSLSPTLSVDCLLKKLKRWLTKPKSSRLLMKLLLRS
+ZSA_0_1071      KLSSKLMLTVSRLLPSKSLPVSLLTSLSPTLSVDCLLKKLKRWLTKPKSSRLLMKLLLRS
+ZSA_0_2597      KLSS--------------------------------------------------------
+ZSA_0_5298      KLSSKLMLTVSRLLPSKSLPVSLLTSLSLTLLVDCLLKKLKRWLTKLKSSRLPMKLLPRS
+                ****                                                        
+
+JAY_0_1874      TKLDKD-NPTSLPSNKPSLTQSCLLNREVPSPKSKLLCPMLWLLCKSKTHPLMSERQKLV
+ZSA_0_1071      TKLDKD-NPTSLPSNKPSLTQSCLLNREVPSPRSKLLCPMLWLLCKSKTHPLMSERQKLV
+ZSA_0_2597      ------------------------------------------------------------
+ZSA_0_5298      TKLDKDWNPTLPPSNKLSLTQSCLLNREVPSPRLKLLCPMLWLLCKSKTHLLMNERLKLV
+                                                                            
+
+JAY_0_1874      RELSPRPCLLV
+ZSA_0_1071      RELSPRPCLLV
+ZSA_0_2597      -----------
+ZSA_0_5298      RELSPRPCLLV
+                           

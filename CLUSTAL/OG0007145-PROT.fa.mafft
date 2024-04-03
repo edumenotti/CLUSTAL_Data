@@ -1,0 +1,26 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEC_8_769       MTALHSVSKTPAIKEEEEDGDERDGRGVPLGPRNHDYRGRKGDEESGA------------
+ANM_2_2217      MTALHSVSKTPAIKEEEEDGDERDGRGVPLGPRNHDYRGRKGDEESGADTVTSPITFEKK
+CFG_4_483       MTALHSVSKTPAIKEEEEDGDERDGRGVPLGPRNHDYRGRKGDEESGADT----------
+CFG_4_486       MTALHSVSKTPAIKEEEEDGDERDGRGVPLGPRNHDYRGRKGDEESGADT----------
+                ************************************************            
+
+AEC_8_769       ------------------------------------------------------------
+ANM_2_2217      KVAPRASTHSEQSILSSISLKSMVNQHRQQQLQQESSTGAGTGFVDRKQQIQSPAMVSIL
+CFG_4_483       ------------------------------------------------------------
+CFG_4_486       ------------------------------------------------------------
+                                                                            
+
+AEC_8_769       ------------------------------------------------------------
+ANM_2_2217      RKNSAEENVRSSHSSKLGEGQIDGRKASASKEIGKTLPFTDDQRSNPEXXXXXXXXXXXX
+CFG_4_483       ------------------------------------------------------------
+CFG_4_486       ------------------------------------------------------------
+                                                                            
+
+AEC_8_769       ---------
+ANM_2_2217      XXXXXXCVQ
+CFG_4_483       ---------
+CFG_4_486       ---------
+                         

@@ -1,0 +1,87 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEL_3_4579      ---------------------------------------MFDVAINKPDVLYTDVYEVDE
+ARB_2_1356      ---------------------------------------MFDVAINKPDVLYTDVYEVDE
+BDM_5_52        MGTTVATNALLERKGEKCAFFVTSGFKDLLHIGNQSRPDMFDIAINKPDVLYSDVFEVEE
+                                                       ***:*********:**:**:*
+
+AEL_3_4579      RVTLEDWSESKDNVIIDMNNESLEKSISGEVIRVLKSLDLENAEKNLTHAFDLGYRSIAI
+ARB_2_1356      RVTLEDWSESKDNVIIDMNNESLEKSISGEVIRVLKSLDLENAEKNLTHAFDLGYRSIAI
+BDM_5_52        RVTLENWSESKIPSKVEANGGALVEGVSGEIVNVLKPLDVEDVRNKLSYAYQVGYRSIAV
+                *****:*****    :: *. :* :.:***::.***.**:*:..::*::*:::******:
+
+AEL_3_4579      GLMHFYTYRKHEHMLGELAKKKGFNQISLSPQLSPRIGITSRGYSATADAYLTPVIRDYI
+ARB_2_1356      GLMHFYTYRKHEHMLGELAKKKGFNQISLSPQLSPRIGITSRGYSATADAYLTPVIRDYI
+BDM_5_52        CLMHAYTFREHERVIGVLAREIGFTQISLSSELSPRIGITGRGFSAAADAYLTPVIKEYI
+                 *** **:*:**:::* **:: **.*****.:********.**:**:*********::**
+
+AEL_3_4579      KTFKKAFSDDAFAETKCQFMQSDGGLVEFENLSGLHAILSGPGHGVVGYSATAYDEDLRV
+ARB_2_1356      KTFKKAFSDDAFAETKCQFMQSDGGLVEFENLSGLHAILSGPGHGVVGYSATAYDEDLRV
+BDM_5_52        ATFKKGFHEDGFASTTCQFMQSDGGLVEFDNLSGLRAILSGPAGGVVGYSATTYDKELNI
+                 ****.* :*.**.*.*************:*****:******. ********:**::*.:
+
+AEL_3_4579      PVISFDMGGTSTDVSRYGGTYEHIFETTTSGVSIQSPQLDINTVAAGGSSILHWKNGLFT
+ARB_2_1356      PVISFDMGGTSTDVSRYGGTYEHIFETTTSGVSIQSPQLDINTVAAGGSSILHWKNGLFT
+BDM_5_52        PVIGFDMGGTSTDVSRYGGSYEHIFETTTAGVTIQSPQLDINTVAAGGGSLLHWKNGLFT
+                ***.***************:*********:**:***************.*:*********
+
+AEL_3_4579      VGPDSASAHPGPACYRKGGPLTITDANLVLGRLLIERFPAIFGPEENETLDIKTSIKKFS
+ARB_2_1356      VGPDSASAHPGPACYRKGGPLTITDANLVLGRLLIERFPAIFGPEENETLDIKTSIKKFS
+BDM_5_52        VGPDSASAHPGPACYRKGGPLTITDANLVLGRLVLEKFPAMFGPSEDQPLDLETSLKKFA
+                *********************************::*:***:***.*::.**::**:***:
+
+AEL_3_4579      IITQQINEVTGKNLSLYDVAEGFLKVTNKSMCRPIRILTEARGYDVASHILSSFGGAGGQ
+ARB_2_1356      IITQQINEVTGKNLSLYDVAEGFLKVTNKSMCRPIRILTEARGYDVASHILSSFGGAGGQ
+BDM_5_52        SVTAQINKDTGKSLTLHDVAEGFLKVANEAMCRPIRTLTEARGHDAAKHILSSFGGAGGQ
+                 :* ***: ***.*:*:*********:*::****** ******:*.*.************
+
+AEL_3_4579      HACFIAQNLGITKAVVHKYSSLLSAYGISLANTINEEQLPSAQIFDIGKIEYFKNILNKL
+ARB_2_1356      HACFIAQNLGITKAVVHKYSSLLSAYGISLANTINEEQLPSAQIFDIGKIEYFKNILNKL
+BDM_5_52        HACFIAQNLGITKVVIHQYSSLLSAYGISLADTINEEQVPCAHEFNVKSSEYFKKSLQDL
+                *************.*:*:*************:******:*.*: *:: . ****: *:.*
+
+AEL_3_4579      TKISESKLFSSGFERESIFSELFLNMRYKGSSSSIMVQKQADSWDFGKLFT---------
+ARB_2_1356      TKISESKLFSSGFERESIFSELFLNMRYKGSSSSIMVQKQADSWDFGKLFT---------
+BDM_5_52        ATKSESNLQTSGFRGELVTTDMFLNMRYKGSSSSIMIPKPEGSWAFEHEFTSTHEREFGF
+                :. ***:* :***. * : :::**************: *  .** * : **         
+
+AEL_3_4579      -----------------EAMNVSLVSSLTVLLLLM-------------------------
+ARB_2_1356      -----------------EAMNVSLVSSLTVLLLLM-------------------------
+BDM_5_52        ISDRPIIVDDIRVRSIGKVTRSALVSPLSELQGLTLSAATPESESKVFFGESFICTPTFS
+                                 :. . :***.*: *  *                          
+
+AEL_3_4579      -------------------------------------IYVFVQ-----------------
+ARB_2_1356      -------------------------------------IYVFVQ-----------------
+BDM_5_52        LPQLAVGNKIIGPALLADKTQTIVVTPGATAYILSSSVYIDVQKVDNSGGDHNEVDPVQL
+                                                     :*: **                 
+
+AEL_3_4579      ------------------------------------------------------------
+ARB_2_1356      ------------------------------------------------------------
+BDM_5_52        SIFNHRFMGVAEQMGRALQKTSISTNIKERLDFTCSVFSPSGGLVANAPHVPAMIGSMAF
+                                                                            
+
+AEL_3_4579      ------------------------------------------------------------
+ARB_2_1356      ------------------------------------------------------------
+BDM_5_52        AVKWQIEHWKDQINDGDVLLSNAPEAGGTHLPDLTVITPVFNSNGEEIIFWTASRGHHAD
+                                                                            
+
+AEL_3_4579      -----------------------------------LEALEE-------------------
+ARB_2_1356      -----------------------------------LEALEE-------------------
+BDM_5_52        IGGTLPGSMPPNSRELWEEGAFIKAFKLVENGRFKVEELTEILYTKPNKIEPGSGSRCLS
+                                                   :* * *                   
+
+AEL_3_4579      ------------------------------------------------------------
+ARB_2_1356      ------------------------------------------------------------
+BDM_5_52        DNIADLKAQIAANHKGVDLIRSLMDEYGQDVVHLYMEMIQKSSELAVRNLLKTVYESFGS
+                                                                            
+
+AEL_3_4579      ---------------HI-------------------------------------------
+ARB_2_1356      ---------------HI-------------------------------------------
+BDM_5_52        EPLEGEDYMDDGTPIHLKVTIHPEDWSADFDFRGTGPEVYANWNAPIAITHSSIIFSLRC
+                               *:                                           
+
+AEL_3_4579      -----------------------------------------------------
+ARB_2_1356      -----------------------------------------------------
+BDM_5_52        MVNSDIPLNQGCIAPINVIVPEGCFLKPSNQAACCAGNVLTSQRLTDTIFKVF
+                                                                     

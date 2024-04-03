@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BMM_3_5647      MNRSLLLRLSDTGEPITSCSYGKGVLTLPPIPLPKDAPKDQPLYTVKLLVSAGSPVARDG
+BQI_4_1000      MNRSLLLRLSDTGEPITSCSYGKGVLTLPPIPLPKDAPKDQPLYTVKLLVSAGSPVARDG
+CKS_5_5374      MNRSLLLRLSDTGEPITSCSYGKGVLTLPPIPLPKDAPKDQPLYTVKLLVSAGSPVARDG
+                ************************************************************
+
+BMM_3_5647      LVWTNCPPDHNTPFKRDKFYKKIIHPSFHEDDCIDLNVYAPGSYCFYLSFRNDNEKLETT
+BQI_4_1000      LVWTNCPPDHNTPFKRDKFYKKIIHSSFHEDDCIDLNV----------------------
+CKS_5_5374      LVWTNCPPDHNTPFKRDKFYKKIIHPSFHEDDCIDLNVYAPGSYCFYLSFRNDNEKLETT
+                *************************.************                      
+
+BMM_3_5647      RKYYFVALPMLYINXXXXXXXXXXXXXXXXXXL---------------------------
+BQI_4_1000      ------------------------------------------------------------
+CKS_5_5374      RKYYFVALPMLYINXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                                                            
+
+BMM_3_5647      ------------------------------------------------------------
+BQI_4_1000      ------------------------------------------------------------
+CKS_5_5374      XXXXXXXXXXXSDWEPILSKIAAKNYNMVHFTPLQERGESNSPYSIYDQLQFDQEHFKSP
+                                                                            
+
+BMM_3_5647      ------------------------------------------------------------
+BQI_4_1000      ------------------------------------------------------------
+CKS_5_5374      EDVKNLVEHIHRDLNMLSLTDIVFNHTANNSPWLVEHPEAGYNHITAPHLISAIELDQEL
+                                                                            
+
+BMM_3_5647      ---------------------------------
+BQI_4_1000      ---------------------------------
+CKS_5_5374      LNFSRNLKSWGYPTELKNIEDLFKIMDGIKVHV
+                                                 

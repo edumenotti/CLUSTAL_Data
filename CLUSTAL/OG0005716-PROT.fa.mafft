@@ -1,0 +1,122 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABV_6_674       MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+ABV_6_1069      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+AGB_1_3474      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+ALN_4_6599      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+ALV_2_767       MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+AMN_5_5703      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+BBC_8_952       MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CBF_5_3729      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CFC_2_4510      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CFD_4_5153      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CFI_4_843       MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CFI_4_1201      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CFM_4_5796      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CFN_4_1006      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CFN_4_1012      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CFP_4_1910      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CKK_4_1562      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CKS_5_3349      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+CLA_5_3429      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+BBF_6_4185      MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+ATV_5_240       MGVADLIKKFESISKEEGDATVDTNSSSKPLKSNDETKELHQQESTAVPQEVDVNEEFEN
+PAR_0_4649      MGVADLIKKFESISKEEGDVTVDTSSQSKPLKSDDETKDLNQQEPPAVPQEDDSNEQHES
+                *******************.****.*.******:****:*:***..***** * **:.*.
+
+ABV_6_674       EPETX-------------------------------------------------------
+ABV_6_1069      EPETX-------------------------------------------------------
+AGB_1_3474      EPETTNSSRTAEKPLETNLPKPETNEEDEEEGSMSENKIDSKGENADINVNDFQEYKEME
+ALN_4_6599      EPETTNSSRTAEKPLETNLPKPETN-----------------------------------
+ALV_2_767       EPETX-------------------------------------------------------
+AMN_5_5703      EPETX-------------------------------------------------------
+BBC_8_952       EPETX-------------------------------------------------------
+CBF_5_3729      EPETX-------------------------------------------------------
+CFC_2_4510      EPETTNSSRTAEKPLETNLPKPETNEEDEEEGSMSENKIDSKGENADINVNDFQEYKEME
+CFD_4_5153      EPETTNSSRTAEKPLETNLPKPETNEEDEEEGSMSENKIDSKGENADINVNDFQEYKEME
+CFI_4_843       EPETX-------------------------------------------------------
+CFI_4_1201      EPETX-------------------------------------------------------
+CFM_4_5796      EPETTNSSRTAEKPLETNLPKPETNEEDEEEGSMSENKIDSKGENADINVNDFQEYKEME
+CFN_4_1006      EPETX-------------------------------------------------------
+CFN_4_1012      EPETX-------------------------------------------------------
+CFP_4_1910      EPETX-------------------------------------------------------
+CKK_4_1562      EPETX-------------------------------------------------------
+CKS_5_3349      EPETX-------------------------------------------------------
+CLA_5_3429      EPETX-------------------------------------------------------
+BBF_6_4185      EPETINSSRTAEKPLETNLPKPETNEEDEEEGSMSENKIYSKGENADINVNDFQEYKEME
+ATV_5_240       EPETTNSSRTAEKPLETNLPKPETNKEDEEEGSISENKLDSKSENADINVNDFQESKEME
+PAR_0_4649      ELETTNSGRSVE--------KLETNEEEKEEGSKSEEKVDPKSEKADFNVGDFQEPKEME
+                * **                                                        
+
+ABV_6_674       ------------------------------------------------------------
+ABV_6_1069      ------------------------------------------------------------
+AGB_1_3474      NTGAEVLASSVEESDAIQEGVX--------------------------------------
+ALN_4_6599      ------------------------------------------------------------
+ALV_2_767       ------------------------------------------------------------
+AMN_5_5703      ------------------------------------------------------------
+BBC_8_952       ------------------------------------------------------------
+CBF_5_3729      ------------------------------------------------------------
+CFC_2_4510      NTGAEVLASSVEESDAIQEGVAEETEGIATPKQKENEKN---------------------
+CFD_4_5153      NTGAEVLASSVEESDAIQEGVX--------------------------------------
+CFI_4_843       ------------------------------------------------------------
+CFI_4_1201      ------------------------------------------------------------
+CFM_4_5796      NTGAEVLASSVEESDAIQEGVX--------------------------------------
+CFN_4_1006      ------------------------------------------------------------
+CFN_4_1012      ------------------------------------------------------------
+CFP_4_1910      ------------------------------------------------------------
+CKK_4_1562      ------------------------------------------------------------
+CKS_5_3349      ------------------------------------------------------------
+CLA_5_3429      ------------------------------------------------------------
+BBF_6_4185      NTGAEVLASSVEESDAIQEGVX--------------------------------------
+ATV_5_240       NTGAEVLASSVEESDAIQEGVAEETEGIATPKQ---------------------------
+PAR_0_4649      NTGSEVPANNVEESNAIEEGLAKETEGIAAPEQKENEEHDEPEEDSSNNASEPVGEHSQS
+                                                                            
+
+ABV_6_674       ------------------------------------------------------------
+ABV_6_1069      ------------------------------------------------------------
+AGB_1_3474      ------------------------------------------------------------
+ALN_4_6599      ------------------------------------------------------------
+ALV_2_767       ------------------------------------------------------------
+AMN_5_5703      ------------------------------------------------------------
+BBC_8_952       ------------------------------------------------------------
+CBF_5_3729      ------------------------------------------------------------
+CFC_2_4510      ------------------------------------------------------------
+CFD_4_5153      ------------------------------------------------------------
+CFI_4_843       ------------------------------------------------------------
+CFI_4_1201      ------------------------------------------------------------
+CFM_4_5796      ------------------------------------------------------------
+CFN_4_1006      ------------------------------------------------------------
+CFN_4_1012      ------------------------------------------------------------
+CFP_4_1910      ------------------------------------------------------------
+CKK_4_1562      ------------------------------------------------------------
+CKS_5_3349      ------------------------------------------------------------
+CLA_5_3429      ------------------------------------------------------------
+BBF_6_4185      ------------------------------------------------------------
+ATV_5_240       ------------------------------------------------------------
+PAR_0_4649      EEDVDTEQSNGEETQNAENASQQANDCSTSTTIPKNKKKKNKKKNKKKRNANVNVNADVN
+                                                                            
+
+ABV_6_674       ---------------------------------------------
+ABV_6_1069      ---------------------------------------------
+AGB_1_3474      ---------------------------------------------
+ALN_4_6599      ---------------------------------------------
+ALV_2_767       ---------------------------------------------
+AMN_5_5703      ---------------------------------------------
+BBC_8_952       ---------------------------------------------
+CBF_5_3729      ---------------------------------------------
+CFC_2_4510      ---------------------------------------------
+CFD_4_5153      ---------------------------------------------
+CFI_4_843       ---------------------------------------------
+CFI_4_1201      ---------------------------------------------
+CFM_4_5796      ---------------------------------------------
+CFN_4_1006      ---------------------------------------------
+CFN_4_1012      ---------------------------------------------
+CFP_4_1910      ---------------------------------------------
+CKK_4_1562      ---------------------------------------------
+CKS_5_3349      ---------------------------------------------
+CLA_5_3429      ---------------------------------------------
+BBF_6_4185      ---------------------------------------------
+ATV_5_240       ---------------------------------------------
+PAR_0_4649      STATGENGDTTGGNIGTINGTTSSTTSAVQEVNDLEVVGDSCLRH
+                                                             

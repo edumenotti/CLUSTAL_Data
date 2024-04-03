@@ -1,0 +1,38 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARA_4_3276      ------------------------------------------------------------
+CGC_4_204       MYWRHARIVIPLSSTYTYIVSPLAPIQGYTIDDCKSTSQNDGNVKKMEDRENNKSGSDRV
+CKR_1_858       ------------------------------------------------------------
+CLA_5_2689      ------------------------------------------------------------
+                                                                            
+
+ARA_4_3276      -------MLFRSKFPSLPSLPIFLSLLSTDKPQAYSNIIPSREHKPVYLNALAWLIQYGY
+CGC_4_204       PLIYQNSMLFRSKFPSLPSLPIFLSLLSTDKPQAYSNIIPSREHKPVYLNALAWLIQYGY
+CKR_1_858       ------------------------------------------------------------
+CLA_5_2689      ------------------------------------------------------------
+                                                                            
+
+ARA_4_3276      VTQLLTFINIRVDKHIKMAVDEDLEKEGFRKTNTARRPSMDYKKTDKKLDDEDGQSRDAN
+CGC_4_204       VTQLLTFINIRVDKHIKMAVDEDLEKEGFRKTNTARRPSMDYKKTDKKLDDEDGQSRDAN
+CKR_1_858       ---------------------------------------MDYKKTDKKLDDEDGQSRDAN
+CLA_5_2689      ------------------------------------------------------------
+                                                                            
+
+ARA_4_3276      ASEACSGKNEGMQSNDNNKDVDEKDNENDSRVDDRDDNEIAIADEEEILHFEYDDPEMQH
+CGC_4_204       ASEACSGKNEGMQSNDNNKDVDEKDNENDSRVDDRDDNEIAIADEEEILHFEYDDPEMQH
+CKR_1_858       ASEACSGKNEGMQSNDNNKDVDEKDNENDSRVDDRDDNEIAIADEEEILHFEYDDPEMQH
+CLA_5_2689      -----------MQSNDNNKDVDEKDNENDSRVDDRDDNEIAIADEEEILHFEYDDPEMQH
+                           *************************************************
+
+ARA_4_3276      DYTIILEPERATAIEKRWLYRCIYGQPSDIQILFNKLLKYFNGKVPMELVIIKEEISRHD
+CGC_4_204       DYTIILEPERATAIEKRWLYRCIYGQPSDIQILFNKLLKYFNGKVPMELVIIKEEISRHD
+CKR_1_858       DYTIILEPERATAIEKRWLYRCIYGQPSDIQILFNKLLKYFNGKVPMELVIIKEEISRHD
+CLA_5_2689      DYTIILEPERATAIEKRWLYRCIYGQPSDIQILFNKLLKYFNGKVPMELVIIKEEISRHD
+                ************************************************************
+
+ARA_4_3276      LKKXXXXXXXXXXXXXXXXXXXXXXKKKKSTKN
+CGC_4_204       LKKLLNALDKYLIEIHHW---------------
+CKR_1_858       LKKLLNALDKYLIEIHHW---------------
+CLA_5_2689      LKKLLNALDKYLIEIHHW---------------
+                ***                              

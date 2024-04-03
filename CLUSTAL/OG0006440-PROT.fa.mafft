@@ -1,0 +1,72 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_3296      MSEQHSVAVGKAANEHETAPRRNVRVKKRPLIRPLNSSASTLYEFALECFNKGGKRDGMA
+CIF_2_5532      MSEQHSVAVGKAADEHETAPRRNVRVKKRPLIRPLNSSASTLYEFALECFNKGGKRDGMA
+YBK_0_1366      MSEQHSVAVGKAANEHETAPRRNVRVKKRPLIRPLNSSASTLYEFALECFNKGGKRDGMA
+ARN_6_2499      MVAQYTVPVGKAANEHETAPRRNYQCREKPLVRPPNTKCSTVYEFVLECFQKNKNSNAMG
+ASN_8_4300      MVAQYTVPVGKAANEHETAPRRNYQCREKPLVRPPNTKCSTVYEFVLECFQKNKNSNAMG
+BGK_1_3581      MVAQYTVPVGKAANEHETAPRRNYQCREKPLVRPPNTKCSTVYEFVLECFQKNKNSNAMG
+BGS_1_3277      MVAQYTVPVGKAANEHETAPRRNYQCREKPLVRPPNTKCSTVYEFVLECFQKNKNSNAMG
+BGL_1_5330      MVAQYTVPVGKAANEHETAPRRNYQCREKPLVRPPNTKCSTVYEFVLECFQKNKNSNAMG
+                *  *::*.*****:********* : :::**:** *:..**:***.****:*. : :.*.
+
+ANL_2_3296      WRDVIEIHETKKTIVKKVDGKDKSIEKTWLYYEMSPYKMMTYQELIWVMHDMGRGLAKIG
+CIF_2_5532      WRDVIEIHETKKTIVRKVDGKDKSIEKTWLYYEMS-------------------------
+YBK_0_1366      WRDVIEIHETKKTIVRKVDGKDKSIEKTWLYYEMSP------------------------
+ARN_6_2499      WRDVKEIHEESKSVMKKVDGKETSVEKKWMYYELSHYHYNSFDQLTDIMHEIGRGLVKIG
+ASN_8_4300      WRDVKEIHEESKSVMKKVDGKETSVEKKWMYYELSHYHYNSFDQLTDIMHEIGRGLVKIG
+BGK_1_3581      WRDVKEIHEESKSVMKKVDGKETSVEKKWMYYELSHYHYNSFDQLTDIMHEIGRGLVKIG
+BGS_1_3277      WRDVKEIHEESKSVMKKVDGKETSVEKKWMYYELSHYHYNSFDQLTDIMHEIGRGLVKIG
+BGL_1_5330      WRDVKEIHEESKSVMKKVDGKETSVEKKWMYYELSHYHYNSFDQLTDIMHEIGRGLVKIG
+                **** **** .*::::*****:.*:**.*:***:*                         
+
+ANL_2_3296      IKPNGEHKFHIFASTSHKWMKIFLGCISQGIPVVTAYDTLGESGLIHSMVETESAAIFTD
+CIF_2_5532      ------------------------------------------------------------
+YBK_0_1366      ------------------------------------------------------------
+ARN_6_2499      LKPNDDDKLHLYAATSHKWMKMFLGAQSQGIPVVTAYDTLGEKGLIHSLVQTGSKAIFTD
+ASN_8_4300      LKPNDDDKLHLYAATSHKWMKMFLGAQSQGIPVVTAYDTLGEKGLIHSLVQTGSKAIFTD
+BGK_1_3581      LKPNDDDKLHLYAATSHKWMKMFLGAQSQGIPVVTAYDTLGEKGLIHSLVQTGSKAIFTD
+BGS_1_3277      LKPNDDDKLHLYAATSHKWMKMFLGAQSQGIPVVTAYDTLGEKGLIHSLVQTGSKAIFTD
+BGL_1_5330      LKPNDDDKLHLYAATSHKWMKMFLGAQSQGIPVVTAYDTLGEKGLIHSLVQTGSKAIFTD
+                                                                            
+
+ANL_2_3296      NQLLAKMIVPLQSAKD----------------------------IKFLIHNEPIDPNDRR
+CIF_2_5532      ------------------------------------------------------------
+YBK_0_1366      ------------------------------------------------------------
+ARN_6_2499      NSLLPSLIKPVQAAQDVKYIIHFDSISSEDRRQSGKIYQSAHDAINKIK---EVRPDIKT
+ASN_8_4300      NSLLPSLIKPVQAAQX--------------------------------------------
+BGK_1_3581      NSLLPSLIKPVQAAQX--------------------------------------------
+BGS_1_3277      NSLLPSLIKPVQAAQX--------------------------------------------
+BGL_1_5330      NSLLPSLIKPVQAAQX----------XXXXXXXXXXXXXXXXXXINLL-----MMPSTKL
+                                                                            
+
+ANL_2_3296      ------------------------------------------------------------
+CIF_2_5532      ------------------------------------------------------------
+YBK_0_1366      ------------------------------------------------------------
+ARN_6_2499      FSFDDILKLGKESCNEIDVHPPGKDDLCCIMYTSGSTGEPKGVVLKHSNVVAGVGGASLN
+ASN_8_4300      ------------------------------------------------------------
+BGK_1_3581      ------------------------------------------------------------
+BGS_1_3277      ------------------------------------------------------------
+BGL_1_5330      KKLDLISR----------------------------------------------------
+                                                                            
+
+ANL_2_3296      ------------------------------------------------------------
+CIF_2_5532      ------------------------------------------------------------
+YBK_0_1366      ------------------------------------------------------------
+ARN_6_2499      VLKFVGNTDRVICFLPLAHIFELVFELLSFYWGACIGYATVKTLTSSSVRNCQGDLQEFK
+ASN_8_4300      ------------------------------------------------------------
+BGK_1_3581      ------------------------------------------------------------
+BGS_1_3277      ------------------------------------------------------------
+BGL_1_5330      ---------------PLA-------------------------LTTS-------------
+                                                                            
+
+ANL_2_3296      ----------------
+CIF_2_5532      ----------------
+YBK_0_1366      ----------------
+ARN_6_2499      PTIMVGVAAVWETVRX
+ASN_8_4300      ----------------
+BGK_1_3581      ----------------
+BGS_1_3277      ----------------
+BGL_1_5330      ----------------
+                                

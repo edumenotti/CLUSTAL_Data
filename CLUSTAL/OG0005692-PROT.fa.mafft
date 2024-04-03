@@ -1,0 +1,80 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AKL_3_5835      RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRCH----
+ANL_2_82        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+ANM_2_69        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+AVN_5_63        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+AVP_5_79        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+AVQ_5_85        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+AVR_6_78        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+AVT_6_101       RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+BBT_3_26        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRCH----
+BEI_7_7         RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+BEK_7_17        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+BFH_3_5946      RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRCHCRWW
+BLT_2_13        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRCHCR--
+BMQ_5_49        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRX-----
+CGG_4_5709      RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRCH----
+CGR_5_20        RYHCLQRRKARQRCPSQSFWLRYHHWSQPRKQNQ-SQITIRCQEGYLFRQRCHRCH----
+AVQ_5_239       RYHCLQRRKARQRCPSQSFRLRYYHRSQPRRKQD-SQITIRCQEGYLFCQRCHRCHCRWW
+BAE_6_5353      RYHCLQRRKARQRCPSQSFRLRYYHRSQPRRKQD-SQITIRCQEGYLFCQRCHRCHCRWW
+BHQ_4_43        ----------------------YYHRSQPRRKQD-SQITIRCQEGYLFCQRCHRCHCRWW
+BHR_4_48        ----------------------YYHRSQPRRKQD-SQITIRCQEGYLFCQRCHRCHCRWW
+BHS_1_6000      ----------------------YYHRSQPRRKQD-SQITIRCQEGYLFCQRCHRCHCRWW
+CGI_4_1         -------------CPSQSFRLRYYHRSQPRRKQNQSQITIRCQEGYLFCQRCHRCHCRWW
+CGL_4_5881      RYHCLQRRKARQRCPSQSFRLRYYHRSQPRRKQD-SQITIRCQKGYLFCQRCH-------
+CGI_4_5839      -------------CPSQSFRLRYYHRSQPRRKQD-SQITIRCQKGYLFCQRCHWCHCRWW
+                                      *:* ****:::: ********:**** ****       
+
+AKL_3_5835      ------------------------------------------------------------
+ANL_2_82        ------------------------------------------------------------
+ANM_2_69        ------------------------------------------------------------
+AVN_5_63        ------------------------------------------------------------
+AVP_5_79        ------------------------------------------------------------
+AVQ_5_85        ------------------------------------------------------------
+AVR_6_78        ------------------------------------------------------------
+AVT_6_101       ------------------------------------------------------------
+BBT_3_26        ------------------------------------------------------------
+BEI_7_7         ------------------------------------------------------------
+BEK_7_17        ------------------------------------------------------------
+BFH_3_5946      SQTIVEGWSCFPQVQIEEKLLAKDPWCCHESSSPSRWWPSTYWGFYYLRCRFWSKGWFDC
+BLT_2_13        ------------------------------------------------------------
+BMQ_5_49        ------------------------------------------------------------
+CGG_4_5709      ------------------------------------------------------------
+CGR_5_20        ------------------------------------------------------------
+AVQ_5_239       SQTIVEGWSCFPQVQIEEKLLAKDPWCCHESSSPSRWWPSTYWGFYHLRCCFWSKGRFDC
+BAE_6_5353      SQTIVEGWSCFPQVQIEEKLLAKDPWCCHESSSPSRWWPSTYWGFYHLRCCFWSKGRFDC
+BHQ_4_43        SQTIVEGX----------------------------------------------------
+BHR_4_48        SQTIVEGX----------------------------------------------------
+BHS_1_6000      SQTIVEGX----------------------------------------------------
+CGI_4_1         SQTIVEGX----------------------------------------------------
+CGL_4_5881      ------------------------------------------------------------
+CGI_4_5839      SQTIVEGWSCFPX-----------------------------------------------
+                                                                            
+
+AKL_3_5835      ----------------
+ANL_2_82        ----------------
+ANM_2_69        ----------------
+AVN_5_63        ----------------
+AVP_5_79        ----------------
+AVQ_5_85        ----------------
+AVR_6_78        ----------------
+AVT_6_101       ----------------
+BBT_3_26        ----------------
+BEI_7_7         ----------------
+BEK_7_17        ----------------
+BFH_3_5946      CQKNRFTTWFSKDPRX
+BLT_2_13        ----------------
+BMQ_5_49        ----------------
+CGG_4_5709      ----------------
+CGR_5_20        ----------------
+AVQ_5_239       RQKNWFVTWFSKDPRX
+BAE_6_5353      RQKNWFVTWFSKDPRX
+BHQ_4_43        ----------------
+BHR_4_48        ----------------
+BHS_1_6000      ----------------
+CGI_4_1         ----------------
+CGL_4_5881      ----------------
+CGI_4_5839      ----------------
+                                

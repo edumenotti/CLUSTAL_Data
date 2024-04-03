@@ -1,0 +1,35 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AQH_2_3704      MFTKNIQIQSAAIGADAIVDPKCQISAHSNVKMSVLGTQANIGSRCRVAGSLLFPGVHLG
+BFE_4_149       MFTKNIQIQSAAIGADAIVDPKCQISAHSNVKMS--------------------------
+BFM_3_155       MFTKNIQIQSAAIGADAIVDPKCQISAHSNVKMS--------------------------
+BTD_1_140       MFTKNIQIQSAAIGADAIVDPKCQISAHSNVKMS--------------------------
+CKK_4_69        MFTKNIQIQSAAIGADAIVDPKCQISAHSNVKMSVLGTQ---------------------
+CMG_6_74        MFTKNIQIQSAAIGADAIVDPKCQISAHSNVKMS--------------------------
+ZTW_0_761       MFTKNIQIQSAAIGADAIVDPKCQISAHSNVKMSVLGTQANIGSRCRVAGSLLFPGVHLG
+BFM_3_4356      --------------------------------MA--------------------------
+CBF_5_3759      --------------------------------MA--------------------------
+                                                *:                          
+
+AQH_2_3704      DEVILENCIIGPMAKIGSKCKLSNCYIEGHYVVEPKNNFKGETLANVYLDEDEEDELIYD
+BFE_4_149       ------------------------------------------------------------
+BFM_3_155       ------------------------------------------------------------
+BTD_1_140       ------------------------------------------------------------
+CKK_4_69        ------------------------------------------------------------
+CMG_6_74        ------------------------------------------------------------
+ZTW_0_761       DEVILENCIIGPMAKIGSKCKLSNCYIEGHYVVEPKNNFKGETLANVYLDEDEEDELIYD
+BFM_3_4356      --------------KIGSKCKLSNCYIEGHYVVEPKNNFKGETLANVYLDEDEEDELIYD
+CBF_5_3759      --------------KIGSKCKLSNCYIEGHYVVEPKNNFKGETLANVYLDEDEEDELIYD
+                                                                            
+
+AQH_2_3704      DSVIAGESEIAEETDSDDRSDEDSDDSEYTDEYEYEDDGLFER
+BFE_4_149       -------------------------------------------
+BFM_3_155       -------------------------------------------
+BTD_1_140       -------------------------------------------
+CKK_4_69        -------------------------------------------
+CMG_6_74        -------------------------------------------
+ZTW_0_761       DSIIAGESEIAEETDSDDRSDEDSDDSEYTDEYEYEDDGLFER
+BFM_3_4356      DSIIAGESEIAEETDSDDRSDEDSDDSEYTDEYEYEDDGLFER
+CBF_5_3759      DSVIAGESEIAEETDSDDRSDEDSDDSEYTDEYEYEDDGLFER
+                                                           

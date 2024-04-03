@@ -1,0 +1,162 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ACN_8_3298      ------------------------------------------------------------
+BDS_6_636       ------------------------------------------------------------
+CQF_6_2306      ------------------------------------------------------------
+ZSA_0_1839      ------------------------------------------------------------
+BGB_7_462       LPNWDVLGFFLKLPASEFLHSEELHLAMHGQPLWALIRNRPLNYLMLFTKQAEISLILQI
+BGQ_1_2790      LPNWDVLGFFLKLPASEFLHSEELHLAMHGQPLWALIRNRPLNYLMLFTKQAEISLILQI
+CHR_4_2837      ------------------------------------------------------------
+BAF_6_732       ------------------------------------------------------------
+BRL_4_1858      ------------------------------------------------------------
+CPB_4_872       ------------------------------------------------------------
+MAL_0_4671      ------------------------------------------------------------
+AVR_6_294       ------------------------------------------------------------
+CEE_4_15        ------------------------------------------------------------
+CHS_4_50        ------------------------------------------------------------
+CPK_4_355       ------------------------------------------------------------
+AVT_6_501       ------------------------------------------------------------
+BBH_6_198       ------------------------------------------------------------
+BPI_4_510       ------------------------------------------------------------
+                                                                            
+
+ACN_8_3298      ------------------------------------------------------------
+BDS_6_636       ----------------------------------------------VITSVVYMVGILSA
+CQF_6_2306      ------------------------------------------------------------
+ZSA_0_1839      ------------------------------------------------------------
+BGB_7_462       IISMSSQRLGSVNGWHQENCVTRLLPLNLPRIIRGMMAKGKAPITVVTTSVVYMVEILSV
+BGQ_1_2790      IISMSSQRLGSVNGWHQENCVTRLLPLNLPRIIRGMMAKGKAPITVVTTSVVYMVEILSV
+CHR_4_2837      ------------------------------------------------------------
+BAF_6_732       ------------------------------------------------------------
+BRL_4_1858      --SMSSQRLGSVNGWHQENCVTRLLPLNLPRIIRGMMARGRVPISVGITSAVCMVEIPFV
+CPB_4_872       ------------------------------------------------------------
+MAL_0_4671      ------------------------------------------------------------
+AVR_6_294       ------------------------------------------------------------
+CEE_4_15        ------------------------------------------------------------
+CHS_4_50        ------------------------------------------------------------
+CPK_4_355       ------------------------------------------------------------
+AVT_6_501       ------------------------------------------------------------
+BBH_6_198       ------------------------------------------------------------
+BPI_4_510       ------------------------------------------------------------
+                                                                            
+
+ACN_8_3298      ------------------------------------------------------------
+BDS_6_636       NCKLIGLIYFTFTGGIIVQSKNLWIVCIFWSSRARSSIWVYLIHLLGLFLRQTTTLHLMV
+CQF_6_2306      ----------------------LWIVCIFWSSRARSSIWVYLIHLLGLFLRQTTTLHLMV
+ZSA_0_1839      ------------------------------------------------------------
+BGB_7_462       NCKPIGLIFFTFTGGIIVQSKKLWIVCIFF-SRARSYI-EYLIHLLGLFLRQITTPHLMG
+BGQ_1_2790      NCKPIGLIFFTFTGGIIVQSKKLWIVCIFF-SRARSYI-EYLIHLLGLFLRQITTLHLMV
+CHR_4_2837      -----------FTGGIIVQSKKLWIVCIFF-SRARSYI-EYLIHLLGLFLRQITTLHLMV
+BAF_6_732       ------------------------------------------------------------
+BRL_4_1858      SCKLIGLIFFTFTGGIIAPLRKLWIVCTFLCSRAKYSI-VCLILLPGLFLQQITTPHLMV
+CPB_4_872       ------------------------------------------------------------
+MAL_0_4671      ------------------------------------------------------------
+AVR_6_294       ------------------------------------------------------------
+CEE_4_15        ------------------------------------------------------------
+CHS_4_50        ------------------------------------------------------------
+CPK_4_355       ------------------------------------------------------------
+AVT_6_501       ------------------------------------------------------------
+BBH_6_198       ------------------------------------------------------------
+BPI_4_510       ------------------------------------------------------------
+                                                                            
+
+ACN_8_3298      ------------------------------------------------------------
+BDS_6_636       KLPLVSTKVNGTCTEILSVILFQWLGISV------------------WPSPHGMSWEVED
+CQF_6_2306      KLPLVSTKVNGTCTEILSVILFQWLGISVXXXXXXXXXXXXXXXXXXW-LPHGMLWEVED
+ZSA_0_1839      --------------------LFQWLGISV------------------WPSPHGMSWEVED
+BGB_7_462       KLLLVSIKVNGM------------------------------------------------
+BGQ_1_2790      KLLLASIKVNGMYTGTLSVILFQWLGILV------------------W-LPHGMSWEVED
+CHR_4_2837      KLLLASIKVNGMYTGTLSVILFQWLGILV------------------W-LPHGMSWEVED
+BAF_6_732       ------------------------------------------------------------
+BRL_4_1858      KLPLVSIKVNGMYTGTLNVISFQWLGILV------------------WLLLHGMLWEAGD
+CPB_4_872       ---------NGMYTGTLNVISFQWLGILV------------------WLLLHGMLWEAGD
+MAL_0_4671      ---------------------FQWLGILV------------------WLLLHGMLWEAGD
+AVR_6_294       ------------------------------------------------------------
+CEE_4_15        ----------------LNVISFQWLGILV------------------WLLLHGMLWEVED
+CHS_4_50        ------------------------------------------------------------
+CPK_4_355       ------------------------------------------------------------
+AVT_6_501       ------------------------------------------------------------
+BBH_6_198       ------------------------------------------------------------
+BPI_4_510       ------------------------------------------------------------
+                                                                            
+
+ACN_8_3298      ---------------V--------FVLSLAPPNKQMQ------KS--RLVKHWPRL----
+BDS_6_636       FRVKKQWRNGGRMERV--------FVLSLAPPNRQMQ------KS--RLVKHWPRL----
+CQF_6_2306      FRVKKQWKNGGRMERI--------YVLSLAPPNKQMQ------KS--RWVKHWPRL----
+ZSA_0_1839      FRVKKQWRNGGRMERV--------FVLSLAPPNKQMQ------KS--RLVKHWPRL----
+BGB_7_462       ------------------------------------------------------------
+BGQ_1_2790      FRVKKQWKNGRRMERVXXXXXXXXXXXXXXXXXKISE------KSNGRTEEEW-------
+CHR_4_2837      FRVKKQWKNGRRMERV--------------------------------------------
+BAF_6_732       ----------------------------LAPPNKQMQ------KS--RLAKHWPRL----
+BRL_4_1858      FRVKRQWKSGRRKEKA--------CVPFLVLRNRRIW------RL--KSAKHC-KL----
+CPB_4_872       FRVKRQWKSGRRKEKA--------CVPFLVLRNRRIW------RL--KSAKHC-KL----
+MAL_0_4671      FRVKRQWKSGRRKEKA--------CVPFLVLRNRRIW------RL--RSAKHC-KL----
+AVR_6_294       --------------------------------NRQNW------RL--KSVKHI-KL----
+CEE_4_15        FRVKKQWKNGRRMERV--------CVLLWVAPNRQNW------RL--KSVKHI-KL----
+CHS_4_50        FRVKKQWKNGRRMERV--------CVLLWVAPNRQNW------RL--KSVKHI-KL----
+CPK_4_355       ----------------------------WVAPNRQNW------RL--KSVKHI-KL----
+AVT_6_501       --------------------------------NRQNW------RL--KSVKHI-KL----
+BBH_6_198       ------------M-------------------ALAPWDVMGGGRF--QSKKAM-EERKKN
+BPI_4_510       ----------------------------------------------------CPRL----
+                                                                            
+
+ACN_8_3298      ---LRNM-------ALSL-----------------LLLLLLPMFALRRKIFFRRLKEE-K
+BDS_6_636       ---LRNM-------ALSL-----------------LLLLLLPMFALRRKMFFRRLKEE-K
+CQF_6_2306      ---LKNM-------ALSL-----------------LLLLLL-------------------
+ZSA_0_1839      ---LRNM-------ALSL-----------------LLLLLLPMFALRRKMFFLRLKEE-K
+BGB_7_462       -----------------C-----------------X------------------------
+BGQ_1_2790      ----RGS-------AYFC-----------------GW-------------------PR-T
+CHR_4_2837      -----------------C-----------------VLLWV----AXXXXXXXXXXXXX-X
+BAF_6_732       ---LRNM-------ALNL-----------------LLLLLLPMFGLKRNM-FSHWEEE-R
+BRL_4_1858      ---RKNM-------ALSL-----------------SLLLPL-MFGLKRNM-FSHWEEE-R
+CPB_4_872       ---RKNM-------VLSL-----------------SLLLPL-MFGLKRNM-FSHWEEE-R
+MAL_0_4671      ---RKNM-------VLSL-----------------SLLLPL-MFGLKRNM-FSHWEEE-R
+AVR_6_294       ---LRNM-------ELNL-----------------LLLLLLPMFALRRKM-FSHWLEEGK
+CEE_4_15        ---LRNM-------ELSL-----------------LLLSLLPMFALKRKM-FSHWLEEGK
+CHS_4_50        ---LRNM-------ELSL-----------------LLLSLLPMFALKRKM-FSHWLEEGK
+CPK_4_355       ---LRNM-------ELSL-----------------LLLSLLPMFALKRKM-FSHWLEEGK
+AVT_6_501       ---LRNM-------ELNL-----------------LLLLLLPMFALRRKM-FSHWLEEGK
+BBH_6_198       GEGLRTFVGGPEQTELEVKISEALNKIAEEHGTESVLLSLLPMFALKRKM-FSHWLEEGK
+BPI_4_510       ---LRNM-------ELNL-----------------SQLLLSPMSTPKQKK-FSHLEEE--
+                                                                            
+
+ACN_8_3298      LRISKRTLRLSVSIRQTINT-KV-FLLTSDF-LIIL--------------SCI---PLKN
+BDS_6_636       LRISKRT-RLSVSIHRTINT-KV-FLLTSDS-LIIL--------------SCI---PLKN
+CQF_6_2306      ------------------------------------------------------------
+ZSA_0_1839      LRISKRKLRLSVSIRRTINT-KV-FLLTSDF-LILL--------------SCI---PLKN
+BGB_7_462       ------------------------------------------------------------
+BGQ_1_2790      NRIGGNQRSX--------------------------------------------------
+CHR_4_2837      XXXGGRKX----------------------------------------------------
+BAF_6_732       SNISNRTLRLALN-HQNKST-KVLFLLMSDFPLILLEMTQLLPRNLHFSPKCP---P---
+BRL_4_1858      SNISNRTLRLALN-HQNKST-KVLFLLMSDFPLILLEMTQLLPRNLHFSPKCL---P---
+CPB_4_872       SNISNRTLRLALN-HQNKST-KVLFLLMSDFPLILLEMTQLLPRNLHFSPKCL---P---
+MAL_0_4671      LNISKRTLRLSVSIRRTINT-KV-FLLTSDF-LTLL--------------SCI---PLKN
+AVR_6_294       LNTSNRTLRLVLN-HRNKNTWKVLLLLMLAF---PKVEMTQRPRSFHPSHRCL---P---
+CEE_4_15        LNISSRTLRLVLN-HRNKNTWKVLLLLMLAF---PKVEMTQRPRSFHPSHRCL---P---
+CHS_4_50        LNISSRTLRLVLN-HRNKNTWKVLLLLMLAF---PKVEMTQRPRSFHPSHRCL---P---
+CPK_4_355       LNISSRTLRLVLN-HRNKNTWKVLFLLMLAF---PKVEMTQRPRSFHPSHRCL---P---
+AVT_6_501       LNTSNRTLRLVLN-HRNKNTWKVLFLLMLVFLLILSVMIRLLPRRLHFSRQCLRRFP---
+BBH_6_198       LNISSRTLRL--------------------------------------------------
+BPI_4_510       KNTSNRTLRLVLN-HQNRNT-KVLSLSMLVFLLISSVMIQLLPRSFQFSQQCLRRFPLX-
+                                                                            
+
+ACN_8_3298      MVRIMX--
+BDS_6_636       MVRIMX--
+CQF_6_2306      --------
+ZSA_0_1839      MVRIMX--
+BGB_7_462       --------
+BGQ_1_2790      --------
+CHR_4_2837      --------
+BAF_6_732       --RLASKX
+BRL_4_1858      --RLASKX
+CPB_4_872       --RLASKX
+MAL_0_4671      IVRIMX--
+AVR_6_294       --GLLTX-
+CEE_4_15        --GLLTX-
+CHS_4_50        --GLLTX-
+CPK_4_355       --GLSIX-
+AVT_6_501       --SX----
+BBH_6_198       --------
+BPI_4_510       --------
+                        

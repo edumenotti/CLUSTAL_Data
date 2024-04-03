@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BHS_1_3927      MNASGRSHSKGPIIRSVSLEDLKRNSSFKGNLKYKDEVISHKEPQVGTLSNEELLKDLDN
+CGP_5_4753      MNASGRSHSKGPIIRSVSLEDLKRNSSFKGNLKYKDEVISHKEPQVGTLSNEELLKDLDN
+BME_1_2965      MNASGRSHSKGPIIRSVSLEDLKRNSSFKGNLKYKDEVPSHKEPQVGTLSNEELLKDLDN
+                ************************************** *********************
+
+BHS_1_3927      MLRGKLNMGRNSFHADKRNKSDGNICALTFKARSGLEGDIRTIDIQQDSSDENDNFKFSD
+CGP_5_4753      MLRGKLNMGRNSFHADKRNKSDGNISALTFKARSGLEGDIRTIDIQQDSSDENDNFKFSD
+BME_1_2965      MLRGKLNMGRNSFHADKRNKSDGNISALTFKARSGLEGDIRTIDIQQDSSDENDNFKFSD
+                *************************.**********************************
+
+BHS_1_3927      DGVNKDRNNEKDNNTDNAVEFQXXXXXXXXXXXXXXXXXXXXXL----------------
+CGP_5_4753      DGVNKDRNNEKDNNTDNAVEFQXXXXXXXXXXXXXXXXXXXXL-----------------
+BME_1_2965      DGVNKDRNNEKDNNTDNAVEFQDDAEEAEEENEDESFANVDELDGFDLNKVSDGKHVPIN
+                **********************                                      
+
+BHS_1_3927      ------------------------------------------------------------
+CGP_5_4753      ------------------------------------------------------------
+BME_1_2965      EKGEVDYNMPVDKEFQKSLDQCAASLEERSSAPYALQRAVDWELKMFYSLEDELSEWFCS
+                                                                            
+
+BHS_1_3927      ------------------------------------------------------------
+CGP_5_4753      ------------------------------------------------------------
+BME_1_2965      SDYMHFGQTQTLFKQKITQPQLFFDDENYAASVVECLIEDIPNSLASNLLALSYISMGCF
+                                                                            
+
+BHS_1_3927      ----------------------------
+CGP_5_4753      ----------------------------
+BME_1_2965      AFTNSKSEHTXXXXXXXXXXXXXXXXXX
+                                            

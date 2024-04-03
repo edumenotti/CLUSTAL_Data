@@ -1,0 +1,282 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEL_3_2199      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+AEL_3_2203      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+BTD_1_547       MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+BBT_3_2088      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+BBT_3_2317      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+AVR_6_390       MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFPI
+AVS_5_312       MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFPI
+BME_1_2192      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFPI
+CHP_4_1383      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+CHP_4_1387      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+BTD_1_5114      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+BFG_4_4634      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+BFE_4_5396      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+BFM_3_5303      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+BMQ_5_1425      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+BMQ_5_1492      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFTI
+CHN_4_1940      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFPI
+CHN_4_1941      MTAILNWEDISPVLEKGTRESHVSKRVPFLQDISQLVRQETLEKPQLSEIAFVLLNTFPI
+                **********************************************************.*
+
+AEL_3_2199      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+AEL_3_2203      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+BTD_1_547       YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+BBT_3_2088      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+BBT_3_2317      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+AVR_6_390       YEDNRSKSLVTSVLLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+AVS_5_312       YEDNRSKSLVTSVLLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+BME_1_2192      YEDNRSKSLVTSVLLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+CHP_4_1383      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+CHP_4_1387      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+BTD_1_5114      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+BFG_4_4634      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+BFE_4_5396      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+BFM_3_5303      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVISNPATKAVADYLNLLDWINSFLI
+BMQ_5_1425      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVINNPATKAVADYLNLLDWINSFLI
+BMQ_5_1492      YEDNRSKSLVTSILLDILNLEPCLLENFIRFISDVVINNPATKAVADYLNLLDWINSFLI
+CHN_4_1940      YEDNRSKSLVTSVLLDILNLEPCLLENFIRFISDVVINNPATKAVADYLNLLDWINSFLI
+CHN_4_1941      YEDNRSKSLVTSVLLDILNLEPCLLENFIRFISDVVINNPATKAVADYLNLLDWINSFLI
+                ************:************************.**********************
+
+AEL_3_2199      FVSHNSNLFEEYIPKLLVAHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQATV
+AEL_3_2203      FVSHNSNLFEEYIPKLLVAHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQATV
+BTD_1_547       FVSHNSNLFEEYIPKLLVX-----------------------------------------
+BBT_3_2088      FVSHNSNLFEEYIPKLLVAHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQTTV
+BBT_3_2317      FVSHNSNLFEEYIPKLLVAHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQTTV
+AVR_6_390       FVSHNSNLFEEYIPKLLVVHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQATV
+AVS_5_312       FVSHNSNLFEEYIPKLLVVHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQATV
+BME_1_2192      FVSHNSNLFEEYIPKLLVVHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQATV
+CHP_4_1383      FVSHNSNLFEEYIPKLLVVHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQTTV
+CHP_4_1387      FVSHNSNLFEEYIPKLLVVHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQTTV
+BTD_1_5114      FVSHNSNLFEEYIPKLLVVHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQTTV
+BFG_4_4634      FVSHNSNLFEEYIPKLLVX----------------------XXXXXXXXXXXXXXXXXXX
+BFE_4_5396      FVSHNSNLFEEYIPKF--------------------------------------------
+BFM_3_5303      FVSHNSNLFEEYIPKF--------------------------------------------
+BMQ_5_1425      FVSHNSNLFEEYIPKLLVAHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQTTV
+BMQ_5_1492      FVSHNSNLFEEYIPKLLVAHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQTTV
+CHN_4_1940      FVSHNSNLFEEYIPKLLVVHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQTTV
+CHN_4_1941      FVSHNSNLFEEYIPKLLVVHSYATFGVETILDNQEEGKKSQDKQNQHRKRIRYCIFQTTV
+                ***************:                                            
+
+AEL_3_2199      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMITGALTQAALQLLSRQPALH
+AEL_3_2203      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMITGALTQAALQLLSRQPALH
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+BBT_3_2317      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+AVR_6_390       KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+AVS_5_312       KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+BME_1_2192      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+CHP_4_1383      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+CHP_4_1387      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+BTD_1_5114      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+BFG_4_4634      XXXXKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+BFE_4_5396      -------------ISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+BFM_3_5303      -------------ISFMKISIKTVLESYSKLKITSVGVVMIMGALTQAALQLLSRQPALH
+BMQ_5_1425      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMITGALTQAALQLLSRQPALH
+BMQ_5_1492      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMITGALTQAALQLLSRQPALH
+CHN_4_1940      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMITGALTQAALQLLSRQPALH
+CHN_4_1941      KAFLKCLKDNDDSISFMKISIKTVLESYSKLKITSVGVVMITGALTQAALQLLSRQPALH
+                                                                            
+
+AEL_3_2199      SVLKENSAEKYCEYLGKEV-----------------------------------------
+AEL_3_2203      SVLKENSAEKYCEYLGKEV-----------------------------------------
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      SVLKENSAEKYCEYLGKEVFLGKNPPSSFCLEIGLKPFLKEFVSQELFIKFFIPNIEKAV
+BBT_3_2317      SVLKENSAEKYCEYLGKEVFLGKNPPSSFCLEIGLKPFLKEFVSQELFIKFFIPNIEKAV
+AVR_6_390       SVLKENSAEKYCEYLGKEVFLGKNPPSSFCLEIGLKPFLKEFVS----------------
+AVS_5_312       SVLKENSAEKYCEYLGKEVFLGKNPPSSFCLEIGLKPFLKEFVS----------------
+BME_1_2192      SVLKENSAEKYCEYLGKEVFLGKNPPSSFCLEIGLKPFLKEFVSQELFIKFFIPNIEKAV
+CHP_4_1383      SVLKENSAEKYCEYLGKEV-----------------------------------------
+CHP_4_1387      SVLKENSAEKYCEYLGKEV-----------------------------------------
+BTD_1_5114      SVLKENSAEKYCEYLGKEVFLGKNPPSSFCLEIGLKPFLKEFVSQELFIKFFIPNIEKAV
+BFG_4_4634      SVLKENSAEKYCEYLGKEVFLGKNPPSSFCLEIGLKPFLKEFVSQELFIKFFIPNIEKAV
+BFE_4_5396      SVLKENSAEKYCEYLGKEVFLGKNPPSSFCLEIGLKPFLKEFVSQELFIKFFIPNIEKAV
+BFM_3_5303      SVLKENSAEKYCEYLGKEVFLGKNPPSSFCLEIGLKPFLKEFVSQELFIKFFIPNIEKAV
+BMQ_5_1425      SVLKENSAEKYCEYLGKEV-----------------------------------------
+BMQ_5_1492      SVLKENSAEKYCEYLGKEVFLGKX------------------------------------
+CHN_4_1940      SVLKENSAEKYCEYLGKEV-----------------------------------------
+CHN_4_1941      SVLKENSAEKYCEYLGKEV-----------------------------------------
+                                                                            
+
+AEL_3_2199      ------------------------------------------------------------
+AEL_3_2203      ------------------------------------------------------------
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      LRSPEVGFSILSELYAGVSPEKVNLLNAFASSKLINQYFSSFKSSKEVVRSVSLQSMIIL
+BBT_3_2317      LRSPEVGFSILSELYAGVSPEKVNLLNAFASSKLINQYFSSFKSSKEVVRSVSLQSMIIL
+AVR_6_390       ------------------------------------------------------------
+AVS_5_312       ------------------------------------------------------------
+BME_1_2192      LRSPEVGFSILSELYAGVSSEKVNLLNAFTSSKLINQYFSSFKSSKEVVRSVSLQSMIIL
+CHP_4_1383      ------------------------------------------------------------
+CHP_4_1387      ------------------------------------------------------------
+BTD_1_5114      LRSPEVGFSILSGLYAGVSPEKVNLLNAFASSKLINQYFSSFKSSKEVVRSVSLQSMIIL
+BFG_4_4634      LRSPEVGFSILSGLYAGVSPEKVNLLNAFASSKLINQYFSSFKSSKEVVRSVSLQSMIIL
+BFE_4_5396      LRSPEVGFSILSGLYAGVSPEKVNLLNAFASSKLINQYFSSFKSSKEVVRSVSLQSMIIL
+BFM_3_5303      LRSPEVGFSILSGLYAGVSPEKVNLLNAFASSKLINQYFSSFKSSKEVVRSVSLQSMIIL
+BMQ_5_1425      ------------------------------------------------------------
+BMQ_5_1492      ------------------------------------------------------------
+CHN_4_1940      ------------------------------------------------------------
+CHN_4_1941      ------------------------------------------------------------
+                                                                            
+
+AEL_3_2199      ------------------------------------------------------------
+AEL_3_2203      ------------------------------------------------------------
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      LRKISNTDTTLEDLTKLIDEIFKNIKSNLNADYKSLISKILIEIPLTHYEVSEKICKGLS
+BBT_3_2317      LRKISNTDTTLEDLTKLIDEIFKNIKSNLNADYKSLISKILIEIPLTHYEVSEKICKGLS
+AVR_6_390       ------------------------------------------------------------
+AVS_5_312       ------------------------------------------------------------
+BME_1_2192      LRKISNTDTTLEDLTKLIDEIFKNIKSNLNADYKSLISKILIEIPLTHYEVSEKTCKGLS
+CHP_4_1383      ------------------------------------------------------------
+CHP_4_1387      ------------------------------------------------------------
+BTD_1_5114      LRKISNTDTTLEDLTKLIDEIFKXXXXXXXXXXXXXXXXXXRAVP---------------
+BFG_4_4634      LRKISNTDTTLEDLTKLIDEIFKXXXXXXXXXXXXXXXXXXRAVP---------------
+BFE_4_5396      LRKISNTDTTLEDLTKLIDEIFKXXXXXXXXXXXXXXXXXXRAVP---------------
+BFM_3_5303      LRKISNTDTTLEDLTKLIDEIFKXXXXXXXXXXXXXXXXXXRAVP---------------
+BMQ_5_1425      ------------------------------------------------------------
+BMQ_5_1492      ------------------------------------------------------------
+CHN_4_1940      ------------------------------------------------------------
+CHN_4_1941      ------------------------------------------------------------
+                                                                            
+
+AEL_3_2199      ------------------------------------------------------------
+AEL_3_2203      ------------------------------------------------------------
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      PYIGKEGNEAALTLMLNAFFVHYFSLGKPVEDLDKIISAGFADKKPALKKCWFAAFLNNS
+BBT_3_2317      PYIGKEGNEAALTLMLNAFFVHYFSLGKPVEDLDKIISAGFADKKPALKKCWFAAFLNNS
+AVR_6_390       ------------------------------------------------------------
+AVS_5_312       ------------------------------------------------------------
+BME_1_2192      PYIGKEGNEAALTLMLNAFFVHYFSLGKPIEDLDKIISAGFADKKPALKKCWFAAFLNNS
+CHP_4_1383      ------------------------------------------------------------
+CHP_4_1387      ------------------------------------------------------------
+BTD_1_5114      ------------------------------------------------------------
+BFG_4_4634      ------------------------------------------------------------
+BFE_4_5396      ------------------------------------------------------------
+BFM_3_5303      ------------------------------------------------------------
+BMQ_5_1425      ------------------------------------------------------------
+BMQ_5_1492      ------------------------------------------------------------
+CHN_4_1940      ------------------------------------------------------------
+CHN_4_1941      ------------------------------------------------------------
+                                                                            
+
+AEL_3_2199      ------------------------------------------------------------
+AEL_3_2203      ------------------------------------------------------------
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      ------------------------------------------------------------
+BBT_3_2317      ------------------------------------------------------------
+AVR_6_390       ------------------------------------------------------------
+AVS_5_312       ------------------------------------------------------------
+BME_1_2192      NAASEEVILNFIDGCLEFVKDSIIHYQTHGHACILASIEFTNKILALDNTELNDRVMQLI
+CHP_4_1383      ------------------------------------------------------------
+CHP_4_1387      ------------------------------------------------------------
+BTD_1_5114      ------------------------------------------------------------
+BFG_4_4634      ------------------------------------------------------------
+BFE_4_5396      ------------------------------------------------------------
+BFM_3_5303      ------------------------------------------------------------
+BMQ_5_1425      ------------------------------------------------------------
+BMQ_5_1492      ------------------------------------------------------------
+CHN_4_1940      ------------------------------------------------------------
+CHN_4_1941      ------------------------------------------------------------
+                                                                            
+
+AEL_3_2199      ------------------------------------------------------------
+AEL_3_2203      ------------------------------------------------------------
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      ------------------------------------------------------------
+BBT_3_2317      ------------------------------------------------------------
+AVR_6_390       ------------------------------------------------------------
+AVS_5_312       ------------------------------------------------------------
+BME_1_2192      ETLPENSSIGDAILTAALSTELSIENRIHAVNLLQELFYKKPEFIGFSVIDAIERRMRVQ
+CHP_4_1383      ------------------------------------------------------------
+CHP_4_1387      ------------------------------------------------------------
+BTD_1_5114      ------------------------------------------------------------
+BFG_4_4634      ------------------------------------------------------------
+BFE_4_5396      ------------------------------------------------------------
+BFM_3_5303      ------------------------------------------------------------
+BMQ_5_1425      ------------------------------------------------------------
+BMQ_5_1492      ------------------------------------------------------------
+CHN_4_1940      ------------------------------------------------------------
+CHN_4_1941      ------------------------------------------------------------
+                                                                            
+
+AEL_3_2199      ------------------------------------------------------------
+AEL_3_2203      ------------------------------------------------------------
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      ------------------------------------------------------------
+BBT_3_2317      ------------------------------------------------------------
+AVR_6_390       ------------------------------------------------------------
+AVS_5_312       ------------------------------------------------------------
+BME_1_2192      ELIPQQNTSFKYVTSVLLAITSELPDKEASIKVLINALVIAQWNIFNIKNGWAGLVLRAR
+CHP_4_1383      ------------------------------------------------------------
+CHP_4_1387      ------------------------------------------------------------
+BTD_1_5114      ------------------------------------------------------------
+BFG_4_4634      ------------------------------------------------------------
+BFE_4_5396      ------------------------------------------------------------
+BFM_3_5303      ------------------------------------------------------------
+BMQ_5_1425      ------------------------------------------------------------
+BMQ_5_1492      ------------------------------------------------------------
+CHN_4_1940      ------------------------------------------------------------
+CHN_4_1941      ------------------------------------------------------------
+                                                                            
+
+AEL_3_2199      ------------------------------------------------------------
+AEL_3_2203      ------------------------------------------------------------
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      ------------------------------------------------------------
+BBT_3_2317      ------------------------------------------------------------
+AVR_6_390       ------------------------------------------------------------
+AVS_5_312       ------------------------------------------------------------
+BME_1_2192      LDPAEVVKEHASVIMEKILEITGSCEWIDTIYGACGLQAAAYAAFIQPTEFTPILCKTIE
+CHP_4_1383      ------------------------------------------------------------
+CHP_4_1387      ------------------------------------------------------------
+BTD_1_5114      ------------------------------IY----------------------------
+BFG_4_4634      ------------------------------IY----------------------------
+BFE_4_5396      ------------------------------IY----------------------------
+BFM_3_5303      ------------------------------IY----------------------------
+BMQ_5_1425      ------------------------------------------------------------
+BMQ_5_1492      ------------------------------------------------------------
+CHN_4_1940      ------------------------------------------------------------
+CHN_4_1941      ------------------------------------------------------------
+                                                                            
+
+AEL_3_2199      ------------------------------------------------------------
+AEL_3_2203      ------------------------------------------------------------
+BTD_1_547       ------------------------------------------------------------
+BBT_3_2088      ------------------------------------------------------------
+BBT_3_2317      ------------------------------------------------------------
+AVR_6_390       ------------------------------------------------------------
+AVS_5_312       ------------------------------------------------------------
+BME_1_2192      ADLTADDFSRLSEEDFEIFAGEEGVLVVDVLEESMNKKLSNKNSKEYETLMWEQKIRKEQ
+CHP_4_1383      ------------------------------------------------------------
+CHP_4_1387      ------------------------------------------------------------
+BTD_1_5114      ---------------------------------------------------W--------
+BFG_4_4634      ---------------------------------------------------W--------
+BFE_4_5396      ---------------------------------------------------W--------
+BFM_3_5303      ---------------------------------------------------W--------
+BMQ_5_1425      ------------------------------------------------------------
+BMQ_5_1492      ------------------------------------------------------------
+CHN_4_1940      ------------------------------------------------------------
+CHN_4_1941      ------------------------------------------------------------
+                                                                            
+
+AEL_3_2199      ----
+AEL_3_2203      ----
+BTD_1_547       ----
+BBT_3_2088      ----
+BBT_3_2317      ----
+AVR_6_390       ----
+AVS_5_312       ----
+BME_1_2192      AKKX
+CHP_4_1383      ----
+CHP_4_1387      ----
+BTD_1_5114      ----
+BFG_4_4634      ----
+BFE_4_5396      ----
+BFM_3_5303      ----
+BMQ_5_1425      ----
+BMQ_5_1492      ----
+CHN_4_1940      ----
+CHN_4_1941      ----
+                    

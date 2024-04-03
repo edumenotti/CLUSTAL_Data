@@ -1,0 +1,149 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABI_5_4885      ------------------------------------------------------------
+YAT_0_4460      ------------------------------LSKRLDDNTFMDHGDHHLQRCD--------
+AIG_2_2522      -------------------------------------NTFMDHGDHHLQR----------
+ARS_1_2624      -------------------------------------NTFMDHGDHHLQRCDH-------
+BFN_4_607       ------------------------------LSKRLDDNTFMAHGDHHLQRCDHVYYD---
+BGH_1_55        -------------------------------------NTFMDHGDHHLQR----------
+BGN_1_102       ------------------------------------------------------------
+ASN_8_1014      -----------------------------------DDNTFMAHGDHHLQWCDLVYYD---
+BFV_8_4730      DNCEGIRRRRNSQHHLLRNTYLCVLCKYNYFNKWGDDNTFMAHGDHHLQWCDLVYYD---
+BGC_8_2699      DNCEGIRRRRNSQHHLLRNTYLCVLCKYNYFNKWGDDNTFMAHGDHHLQWCDLVYYDLSK
+BGI_1_340       -----------------------------------DDNTFMAHGDHHLQWCDLVYYD---
+BGL_1_2900      DNCEGIRRRRNSQHHLLRNTYLCVLCKYNYFNKWGDDNTFMAHGDHHLQWCDLVYYD---
+BGS_1_471       -----------------------------------DDNTFMAHGDHHLQWCDLVYYD---
+BGT_2_626       -----------------------------------DDNTFMAHGDHHLQWCDLVYYD---
+BGF_8_4521      DNCEGIRRRRNSQHHLLRNTYLCVLCKYNYFNKWGDDNTFMAHGDHHLQWCDLVYYD---
+BFH_3_797       ------------------------------LSKRLDDNTFMAHGDHHLQW----------
+BDC_8_860       ------------------------------------------------------------
+BDF_8_971       ------------------------------LSKRLDDNTFMAHGDHHLQRCDH-------
+YBL_0_2122      -------------------------------------NTFMDHGDHHLQRCDHVYYDLSK
+                                                                            
+
+ABI_5_4885      ------------------------------------------------------------
+YAT_0_4460      ------------------------------------------------------------
+AIG_2_2522      ------------------------------------------------------------
+ARS_1_2624      ------------------------------------------------------------
+BFN_4_607       ------------------------LSKRLDDNTFMDHGDHHLQWCD--------------
+BGH_1_55        ------------------------------------------------------------
+BGN_1_102       ------------------------------------------------------------
+ASN_8_1014      ------------------------LSKRLDDNTFMDHGDHHLQRCD--------------
+BFV_8_4730      ------------------------LSKRLDDNTFMDHGDHHLQRCDHVYYDLSKRLDDNT
+BGC_8_2699      RLDDNTFMDHGDHHLQRCDHVYYDL-----------------------------------
+BGI_1_340       ------------------------LSKRLDDNTFMDHGDHHLQRCD--------------
+BGL_1_2900      ------------------------LSKRLDDNTFMDHGDHHLQRCD--------------
+BGS_1_471       ------------------------LSKRLDDNTFMDHGDHHLQRCD--------------
+BGT_2_626       ------------------------LSKRLDDNTFMDHGDHHLQRCD--------------
+BGF_8_4521      ------------------------LSKRLDDNTFMDHGDHHLQRCD--------------
+BFH_3_797       ------------------------------------------------------------
+BDC_8_860       ------------------------------------------------------------
+BDF_8_971       --------------------VYYDLSKRLDDNTFMDHGDHHLQRCD--------------
+YBL_0_2122      RLDDNTFMAHGXXXXXXXXXVYYDLSKRLDDNTFMAHGDHHLQWCD--------------
+                                                                            
+
+ABI_5_4885      ------------------------------------------------------------
+YAT_0_4460      ------------------------------------------------------------
+AIG_2_2522      ------------------------------------------------------------
+ARS_1_2624      ------------------------------------------------------------
+BFN_4_607       ------------------------------------------------------------
+BGH_1_55        ------------------------------------------------------------
+BGN_1_102       ------------------------------------------------------------
+ASN_8_1014      ------------------------------------------------------------
+BFV_8_4730      FMDHGDHHLQXXXXXXXXXXXXKRLDDNTFMDHGDHHLQRCGHRLDDNTFMDHGDHHLQW
+BGC_8_2699      ------------------------------------------------------------
+BGI_1_340       ------------------------------------------------------------
+BGL_1_2900      ------------------------------------------------------------
+BGS_1_471       ------------------------------------------------------------
+BGT_2_626       ------------------------------------------------------------
+BGF_8_4521      ------------------------------------------------------------
+BFH_3_797       ------------------------------------------------------------
+BDC_8_860       ------------------------------------------------------------
+BDF_8_971       ------------------------------------------------------------
+YBL_0_2122      ------------------------------------------------------------
+                                                                            
+
+ABI_5_4885      ------------------------------------------------------------
+YAT_0_4460      --------------------------------------------------------HVYY
+AIG_2_2522      ------------------------------------------------------------
+ARS_1_2624      ---------------------------------------------------------VYY
+BFN_4_607       --------------------------------------------------------LVYY
+BGH_1_55        ------------------------------------------------------------
+BGN_1_102       ------------------------------------------------------------
+ASN_8_1014      --------------------------------------------------------HVYY
+BFV_8_4730      CDHVYYDLSKRLDDNTFMDHGDHHLQRCDHVYYDLSKRLDDNTFMDHGDHHLQRCGHVYY
+BGC_8_2699      ------------------------------------------------------------
+BGI_1_340       --------------------------------------------------------HVYY
+BGL_1_2900      --------------------------------------------------------HVYY
+BGS_1_471       --------------------------------------------------------HVYY
+BGT_2_626       --------------------------------------------------------HVYY
+BGF_8_4521      --------------------------------------------------------HVYY
+BFH_3_797       ------------------------------------------------------------
+BDC_8_860       ------------------------------------------------------------
+BDF_8_971       --------------------------------------------------------HVYY
+YBL_0_2122      --------------------------------------------------------LVYY
+                                                                            
+
+ABI_5_4885      ----------------------------NTFMAHGDHHLQWCDLVYYYRFIFAQWIGHYS
+YAT_0_4460      DLSKRLDD--------------------NTFMAHGDHHLQWCDLVYYYRFIFAQWIGHYS
+AIG_2_2522      -----------------------------------------CDHVYYYRFIFAQWIGHYS
+ARS_1_2624      DLSKRLDD--------------------NTFMAHGDHHLQWCDHVYYYRFIFAQWIGHYS
+BFN_4_607       DLSKRLDD--------------------NTFMAHGDHHLQWCDHVYYYRFIFAQWIGHYS
+BGH_1_55        -----------------------------------------CDHVYYYRFIFAQWIGHYS
+BGN_1_102       -----------------------------------------CDHVYYYRFIFAQWIGHYS
+ASN_8_1014      DLSKRLDD--------------------NTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+BFV_8_4730      DLSKRLDD--------------------NTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+BGC_8_2699      --SKRLDDNTFMDHGDHHLQRCGHRLDDNTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+BGI_1_340       DLSKRLDD--------------------NTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+BGL_1_2900      DLSKRLDDNTFMDHGDHHLQRCGHRLDDNTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+BGS_1_471       DLSKRLDD--------------------NTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+BGT_2_626       DLSKRLDD--------------------NTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+BGF_8_4521      DLSKRLDDNTFMDHGDHHLQRCGH----NTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+BFH_3_797       -----------------------------------------CDHVYYYRFIFAQWIGHYS
+BDC_8_860       ----------------------------NTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+BDF_8_971       DLSKRLDD--------------------NTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+YBL_0_2122      DLSKRLDD--------------------NTFMDHGDHHLQRCDHVYYYRFIFAQWIGHYS
+                                                         ** ****************
+
+ABI_5_4885      PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+YAT_0_4460      PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+AIG_2_2522      PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+ARS_1_2624      PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BFN_4_607       PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BGH_1_55        PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BGN_1_102       PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+ASN_8_1014      PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BFV_8_4730      PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BGC_8_2699      PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BGI_1_340       PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BGL_1_2900      PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BGS_1_471       PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BGT_2_626       PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BGF_8_4521      PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BFH_3_797       PTKHQDFINLEFECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BDC_8_860       PTKHQDFINL-FECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+BDF_8_971       PTKHQDFINL-FECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+YBL_0_2122      PTKHQDFINL-FECFILNVRLFKNINANIIWFINNDICSPAGTIKSKLRFQQRDNFGKLG
+                ********** *************************************************
+
+ABI_5_4885      FYLLRRSSSYFDDELFLLLYGCSAACNLX
+YAT_0_4460      FYLLRRSSSYFDDELFLLLYGCSAACNLX
+AIG_2_2522      FYLLRRSSSYFDDELFLLLYGCSAACNLX
+ARS_1_2624      FYLLRRSSSYFDDELFLLLYGCSAACNIX
+BFN_4_607       FYLLRRSSSYFDDELFLLLYGCSAACNIX
+BGH_1_55        FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BGN_1_102       FYLLRRSSSYFDDELFLLLYGCSAACNLX
+ASN_8_1014      FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BFV_8_4730      FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BGC_8_2699      FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BGI_1_340       FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BGL_1_2900      FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BGS_1_471       FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BGT_2_626       FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BGF_8_4521      FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BFH_3_797       FYLLRRSSSYFDDELFLLLYGCSAACNIX
+BDC_8_860       FYLLRRSSSYFDDELFLLLYGCSAACNLX
+BDF_8_971       FYLLRRSSSYFDDELFLLLYGCSAACNLX
+YBL_0_2122      FYLLRRSSSYFDDELFLLLYGCSAACNLX
+                ***************************: 

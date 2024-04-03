@@ -1,0 +1,26 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BBT_3_5384      MSFTQPINEILILNDNFQKACISPCERIIPSADRQIPLKNEASENQLEIFTDISKEFLQR
+CFG_4_3422      ------------------------------------------------------------
+CFH_0_2277      ------------------------------------------------------------
+CFH_0_2656      ------------------------------------------------------------
+                                                                            
+
+BBT_3_5384      IVKAQTLGVSIHNRIHEQQFELTRQLQSTCKIISKDDDLRRKFEAQNKKWDAQLSRQSEL
+CFG_4_3422      ------------------------------------------------------------
+CFH_0_2277      ------------------------------------------------------------
+CFH_0_2656      -------------------------------------------EAQNKKWDAQLSRQSEL
+                                                                            
+
+BBT_3_5384      MERFSKLSKKLSQIAESNKFKEKKISHGEMKWFKEIRNQILQFNSFVHSQKSLQQDLSYL
+CFG_4_3422      MERFSKLSKKLSQIAESNKFKEKKISHGEMKWFKEIRNQILQFNSFVHSQKSLQQDLSYL
+CFH_0_2277      MERFSKLSKKLSQIAESNKFKEKKISHGEMKWFKEIRNQILQFNSFVHSQKSLQQDLSYL
+CFH_0_2656      MERFSKLSKKLSQIAESNKFKEKKISHGEMKWFKEIRNQILQFNSFVHSQKSLQQDLSYL
+                ************************************************************
+
+BBT_3_5384      KSELTRIEAETIKVDKKSQNEWDELRKMLEIDSKIIKECNEELLQVSQEFTTKTQ
+CFG_4_3422      KSELTRIEAETIKVDKKSQNEWDELRKMLEIDSKIIKECNEELLQVSQEFTTKTQ
+CFH_0_2277      KSELTRIEAETIKVDKKSQNEWDELRKMLEIDSKIIKECNEELLQVSQEFTTKTQ
+CFH_0_2656      KSELTRIEAETIKVDKKSQNEWDELRKMLEIDSKIIKECNEELLQVSQEFTTKTQ
+                *******************************************************

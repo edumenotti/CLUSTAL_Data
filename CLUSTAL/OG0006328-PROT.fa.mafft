@@ -1,0 +1,90 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMN_5_2074      MPETSVQNPLRLSENENTRSMFLSASQQQRPSATPSFPRLVRNTTANLSLSDFQVLNPSS
+BIG_1_2492      MPETSVQNPLRLSENENTRSMFLSASQQQRPSATPSFPRLVRNTTANLSLSDFQVLNPSS
+BVF_5_3788      MPETSVQNPLRLSENENTRSMFLSASQQQRPSATPSFPRLVRNTTANLSLSDFQVLNPSS
+BVG_4_3420      MPETSVQNPLRLSENENTRSMFLSASQQQRPSATPSFPRLVRNTTANLSLSDFQVLNPSS
+BVH_1_5095      MPETSVQNPLRLSENENTRSMFLSASQQQRPSATPSFPRLVRNTTANLSLSDFQVLNPSS
+CNB_4_5750      MPETSVQNPLRLSENENTRSMFLSASQQQRPSATPSFPRLVRNTTANLSLSDFQVLNPSS
+CNL_4_2747      MPETSVQNPLRLSENENTRSMFLSASQQQRPSATPSFPRLVRNTTANLSLSDFQVLNPSS
+BVA_4_820       MPETSVQNPLRLSENENTRSMFLSASQQQRPSATPSFPRLVRNTTANLSLSDFQVLNPSS
+CAT_0_5497      ------------------------------------------------------------
+                                                                            
+
+AMN_5_2074      KRQNSNSVYDDINSSKRRISRPRFSDIEGKNNDHTYPERTTVKESEKNPSPRYVSSSKRA
+BIG_1_2492      KRQNSNSVYDDINSSKRRISRPRFSDIEGKNNDHTYPERTTVKESEKNPSPRYVSSSKRA
+BVF_5_3788      KRQNSNSVYDDINSSKRRISRPRFSDIEGKNNDHTYPERTTVKESEKNPSPRYVSSSKRA
+BVG_4_3420      KRQNSNSVYDDINSSKRRISRPRFSDIEGKNNDHTYPERTTVKESEKNPSPRYVSSSKRA
+BVH_1_5095      KRQNSNSVYDDINSSKRRISRPRFSDIEGKNNDHTYPERTTVKESEKNPSPRYVSSSKRA
+CNB_4_5750      KRQNSNSVYDDINSSKRRISRPRFSDIEGKNNDHTYPERTTVKESEKNPSPRYVSSSKRA
+CNL_4_2747      KRQNSNSVYDDINSSKRRISRPRFSDIEGKNNDHTYPERTTVKESEKNPSPRYVSSSKRA
+BVA_4_820       KRQNSNSVYDDINSSKRRINRPRFSDIEGKNNDHTYPERTTVKESEKNPSPRYVSSSKRA
+CAT_0_5497      ----------------------------------------------------------RA
+                                                                          **
+
+AMN_5_2074      LKRENSVGITQSSALISKSFSENGGSIAHEKWSPENMIKPLNVSQNSLAFVDAGSDEQSK
+BIG_1_2492      LKRENSVGITQSSALISKSFSENGGSIAHEKWSPENMIKPLNVSQNSLAFVDAGSDEQSK
+BVF_5_3788      LKRENSVGITQSSALISKSFSENGGSIAHEKWSPENMIKPLNVSQNSLAFVDAGSDEQSK
+BVG_4_3420      LKRENSVGITQSSALISKSFSENGGSIAHEKWSPENMIKPLNVSQNSLAFVDAGSDEQSK
+BVH_1_5095      LKRENSVGITQSSALISKSFSENGGSIAHEKWSPENMIKPLNVSQNSLAFVDAGSDEQSK
+CNB_4_5750      LKRENSVGITQSSALISKSFSENGGSIAHEKWSPENMIKPLNVSQNSLAFVDAGSDEQSK
+CNL_4_2747      LKRENSVGITQSSALISKSFSENGGSIAHEKWSPENMIKPLNVSQNSLAFVDAGSDEQSK
+BVA_4_820       LKRENSVGITQSSALISKSFSENGGSIAHEKWSPENMIKPLNVSQNSLAFVDAGSDEQSK
+CAT_0_5497      LKRENSVGITQSSALISKSFSENGGSIAHEKWSPENMIKPLNVSQNSLAFVDAGSDEQSK
+                ************************************************************
+
+AMN_5_2074      SEIVGVKQEIELQERCSQLTNSQTTE----------------------------------
+BIG_1_2492      SEIVGGFQR--------KSNNSQEIKDKDNSARDQDFNNSGNNNNNNNHSSNNNDNNNNN
+BVF_5_3788      SEIVGGFQR--------KSNNSQEIX----------------------------------
+BVG_4_3420      SEIVGGFQR--------KSNNSQEIX----------------------------------
+BVH_1_5095      SEIVGGFQR--------KSNNSQEIX----------------------------------
+CNB_4_5750      SEIVGGFQR--------KSNNSQEIX----------------------------------
+CNL_4_2747      SEIVGGFQR--------KSNNSQEIX----------------------------------
+BVA_4_820       SEIVGGFQR--------KSNNSQEIKDKDNSAR---------------------------
+CAT_0_5497      SEIVGGFQR--------KSNNSQEINDKDNSARDQDFNNSGNNNNNNNHSSNNNDNNNNN
+                *****  *.        : .***                                     
+
+AMN_5_2074      ------------------------------------------------------------
+BIG_1_2492      NDDNNNDNSNSRDNNNNSDDSNEREENDSCKPASNKRSGIALIQKLQELYKVIVKQEIEL
+BVF_5_3788      ------------------------------------------------------------
+BVG_4_3420      ------------------------------------------------------------
+BVH_1_5095      ------------------------------------------------------------
+CNB_4_5750      ------------------------------------------------------------
+CNL_4_2747      ------------------------------------------------------------
+BVA_4_820       ------------------------------------------------------------
+CAT_0_5497      NDDNNNNNSNSRDNNNNSDDSNEREENDSCKPASNKRSGIALIQKLQELYKVIVKQEIEL
+                                                                            
+
+AMN_5_2074      --------------LKSLWTIYKINTDLVNNYVTFITTALLPSQPPHDLVIGQEIVEIYR
+BIG_1_2492      QERCSQLTNSQTTELKSLWTIYKINTDLVNNYVTFITTALLPSQPPHDLVIGQEIVEIYR
+BVF_5_3788      ------------------------------------------------------------
+BVG_4_3420      ------------------------------------------------------------
+BVH_1_5095      ------------------------------------------------------------
+CNB_4_5750      ------------------------------------------------------------
+CNL_4_2747      ------------------------------------------------------------
+BVA_4_820       ------------------------DQDFNNS-----------------------------
+CAT_0_5497      QERCSQLTNSQTTELKSLWTIYKINTDLVNNYVTFITTALLPSQPPHDLVIGQEIVEIYR
+                                                                            
+
+AMN_5_2074      IERRLWVYGTITFLDVLKNFSNFMDPEVCCQFITHVFVSLSTMISDIPS-----------
+BIG_1_2492      IERRLWVYGSITFLDVLKNFSNFMDPEVCCQFITHVFVSLSTMISDIPSKYSITWLQRLG
+BVF_5_3788      ------------------------------------------------------------
+BVG_4_3420      ------------------------------------------------------------
+BVH_1_5095      ------------------------------------------------------------
+CNB_4_5750      ------------------------------------------------------------
+CNL_4_2747      ------------------------------------------------------------
+BVA_4_820       --------GN-------NNNNNX-------------------------------------
+CAT_0_5497      IERRLWVYX---------------------------------------------------
+                                                                            
+
+AMN_5_2074      ----------------
+BIG_1_2492      DLSRMAIALYPSSFID
+BVF_5_3788      ----------------
+BVG_4_3420      ----------------
+BVH_1_5095      ----------------
+CNB_4_5750      ----------------
+CNL_4_2747      ----------------
+BVA_4_820       ----------------
+CAT_0_5497      ----------------
+                                

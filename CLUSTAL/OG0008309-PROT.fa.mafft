@@ -1,0 +1,30 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATV_5_2544      RRGMVKKDSKSKWIRVSTTRRITIYQYDRRLQNGKEGNMSRYLLVMWYIVCFCAFWHQTI
+BTD_1_769       ------------------------------------------------------------
+                                                                            
+
+ATV_5_2544      FSAGGRYGQAKQKPPSTIYKAFKPVYCFMCNRPVLHALREFRQVSWQNRGWRKKLPSTTI
+BTD_1_769       ------------------------------------------------------------
+                                                                            
+
+ATV_5_2544      LFDGRAVYPQLHDEQNKWRIRNCIQCENRCVSCIHWLMP---------------------
+BTD_1_769       -------------------------CENRCVSCIHWLMPQSGDIRQEQTRCRVDEPEYQK
+                                         **************                     
+
+ATV_5_2544      ------------------ASSLKRISIVWQLCENVSGRLPSSTTRETELHPHSCRWDCTN
+BTD_1_769       SKQGKTKHYILLRATNGRASSLKRISIVWQLCENVSGRLPSSTTRETELHPHSCRWDCTN
+                                  ******************************************
+
+ATV_5_2544      PYKRRALRVRCQTQQRDYLRSAKPAARARIAPTVSDPPQLCKVEGIYRYGLRTKYGDAAG
+BTD_1_769       PYKRRALRVRCQTQQRDYLRSAKPAARARIAPTVSDPPQLCKVEGIYRYGLRTKYGDAAG
+                ************************************************************
+
+ATV_5_2544      NNIELGSRPCGIWRCSLTQC-PTNHVYPARVRVAHPWFYYSCHGSEELSWGSRTVRPISW
+BTD_1_769       NNIELGSRPCGIWRCSLTQCRPTNHVYPARVRVAHP-FYYSCHGSEELSWGSRTVRPISW
+                ******************** *************** ***********************
+
+ATV_5_2544      GHNFIMQVRRX
+BTD_1_769       GHNFIMQVRRX
+                ********** 

@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BSK_4_69        EVHLLIVVVDWVDNKGRKRYGQASKYISDLAVGSELVVSVKPSVMKLPPSPKQPVIMSGL
+CHC_4_1687      --------------------------------------------MKLPPSPKQPVIMSGL
+                                                            ****************
+
+BSK_4_69        GTGLAPFKAIVEEKLWQKQQGYEIGEVFLYLGSRHKREEYLYGELWEAYKDAGIITHIGA
+CHC_4_1687      GTGLAPFKAIVEEKLWQKQQGYEIGEVFLYLGSRHKREEYLYGELWEAYKDAGIITHIGA
+                ************************************************************
+
+BSK_4_69        AFSRDQPQKIYIQDRIKENLDELKTAMIDNKGSFYLCGPTWPVPDITQALQDILAKDAEE
+CHC_4_1687      AFSRDQPQKIYIQDRIKENLDELKTAMIDNKGSFYLCGPTWPVPDITQALQDILAKDAEE
+                ************************************************************
+
+BSK_4_69        RGIKVDLDAAIEELKEASRYILEVY
+CHC_4_1687      RGIKVDLDAAIEELKEASRYILEVY
+                *************************

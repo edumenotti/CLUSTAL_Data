@@ -1,0 +1,27 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATB_1_1124      --DEDR------------------------------------------------------
+ATB_1_1125      --DEDR------------------------------------------------------
+BFT_8_4881      MNDQDRTSIHEAMEQQSISISKAGIVTTLQARCSIIAAANPNGGRYNSTLPLAQNVSLTE
+                  *:**                                                      
+
+ATB_1_1124      ------------------EGEE----------LKNNGESAIEQGEDEINEQLNARQRRLQ
+ATB_1_1125      ------------------EGEE----------LKNNGESAIEQGEDEINEQLNARQRRLQ
+BFT_8_4881      PILSRFDILCVVRDLVDEEADERLATFVVDSHLKNNGESAIEQGEDEINEQLNARQRRLQ
+                                  *.:*          ****************************
+
+ATB_1_1124      RQRKKEEEISPIPQELLMKYIHYARTKIYPKLHQMDMDKVSRVYADLRRESISTGSFPIT
+ATB_1_1125      RQRKKEEEISPIPQELLMKYIHYARTKIYPKLHQMDMDKVSRVYADLRRESISTGSFPIT
+BFT_8_4881      RQRKKEEEISPIPQELLMKYIHYARTKIYPKLHQMDMDKVSRVYADLRRESISTGSFPIT
+                ************************************************************
+
+ATB_1_1124      VRHLESILRIAESFAKMRLSEFVSSYDLDRAIKVVVDSFVDAQKVSVRRQLRRSFAIYTL
+ATB_1_1125      VRHLESILRIAESFAKMRLSEFVSSYDLDRAIKVVVDSFVDAQKVSVRRQLRRSFAIYTL
+BFT_8_4881      VRHLESILRIAESFAKMRLSEFVSSYDLDRAIKVVVDSFVDAQKVSVRRQLRRSFAIYTL
+                ************************************************************
+
+ATB_1_1124      GH
+ATB_1_1125      GH
+BFT_8_4881      GH
+                **

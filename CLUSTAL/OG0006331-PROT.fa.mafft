@@ -1,0 +1,35 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMQ_5_5884      MSLPATFDLTPEDAQLLLAANTHLGARNVQ------------------------------
+ATB_1_3888      MSLPATFDLTPEDAQLLLAANTHLGARNVQ------------------------------
+BTA_5_2710      MSLPATFDLTPEDAQLLLAANTHLGARNVQ------------------------------
+CHS_4_2882      MSLPATFDLTPEDAQLLLAANTHLGARNVQ------------------------------
+CKK_4_850       MSLPATFDLTPEDAQLLLAANTHLGARNVQ------------------------------
+JAY_0_1977      MSLPATFDLTPEDAQLLLAANTHLGARNVQVHQEPYVFNARPDGVHVINVGKTWEKLVLA
+MAA_0_5131      MSLPATFDLTPEDAQLLLAANTHLGARNVQVHQEPYVFNARPDGVHVINVGKTWEX----
+MAB_0_2245      MSLPATFDLTPEDAQLLLAANTHLGARNVQVHQEPYVFNARPDGVHVINVGKTWEKLVLA
+MAL_0_662       MSLPATFDLTPEDAQLLLAANTHLGARNVQVHQEPYVFNARPDGVHVINVGKTWEX----
+                ******************************                              
+
+AMQ_5_5884      ------------------------------------------------------------
+ATB_1_3888      ------------------------------------------------------------
+BTA_5_2710      ------------------------------------------------------------
+CHS_4_2882      ------------------------------------------------------------
+CKK_4_850       ------------------------------------------------------------
+JAY_0_1977      ARIIAAIPNPEDVVAISSRTYGQRAVLKFAAHTGATPIAGRFTPGSFTNYITRSFKEPRL
+MAA_0_5131      ------------------------------------------------------------
+MAB_0_2245      ARIIAAIPNPEDVVAISSRTYGQRAVLKFAAHTGATPIAGRFTPX---------------
+MAL_0_662       ------------------------------------------------------------
+                                                                            
+
+AMQ_5_5884      --------------------------------------------------------
+ATB_1_3888      --------------------------------------------------------
+BTA_5_2710      --------------------------------------------------------
+CHS_4_2882      --------------------------------------------------------
+CKK_4_850       --------------------------------------------------------
+JAY_0_1977      VIVTDPRLDAQAIKEASYVNIPVIALTDLDSPSEFVDVAIPCNNRGKHSIGLIWYX
+MAA_0_5131      --------------------------------------------------------
+MAB_0_2245      --------------------------------------------------------
+MAL_0_662       --------------------------------------------------------
+                                                                        

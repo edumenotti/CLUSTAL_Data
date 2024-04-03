@@ -1,0 +1,30 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AQM_4_4900      MARIQAEKGRLFATGGKAIFPENIPGFELGTDSDGFFRLEEQPKKVVVVGAGYIGIELAG
+BFN_4_1554      MARIQAEKGRLFATGGKAIFPENIPGFELGTDSDGFFRLEEQPKKVVVVGAGYIGIELAG
+BFP_3_83        ------------------------------------------------------------
+CLB_5_30        ------------------------------------------------------------
+BME_1_563       MARIQAEKGRLFATGGKAIFPENIPGFELATDSDGFFRLEEQPKK-VVVGAGYIGIELAG
+                                                                            
+
+AQM_4_4900      VFHGLGSETHLVIRGETVLRKFDECIQNTITDHYVKEGINVHKLSNIVKVEKNVETNKLK
+BFN_4_1554      VFHGLGSETHLVIRGETVLRKFDECIQNTITDHYVKEGINVHKLSNIVKVEKNVETNKLK
+BFP_3_83        ------------------------------------------------------------
+CLB_5_30        ------------------------------------------------------------
+BME_1_563       LFHGLGSETHLVIRGETVLRKFDECIQNTITDHYVKE-----------------------
+                                                                            
+
+AQM_4_4900      IHMNDSKSIDDVDELIWTIGRKSHLGMGSENVGIKLNSHDQIIADEYQNTNVPNIYSLGD
+BFN_4_1554      IHMNDSKSIDDVDELIWTIGRKSHLGMGSENVGIKLNSHDQIIADEYQNTNVPNIYSLGD
+BFP_3_83        --MNDSKSIDDVDELIWTIGRKSHLGMGSENVGIKLNSHDQIIADEYQNTNVPNIYSLGD
+CLB_5_30        --MNDSKSIDDVDELIWTIGRKSHLGMGSENVGIKLNSHDQIIADEYQNTNVPNIYSLGD
+BME_1_563       --------------------------------GINVQNYPKLLR----------------
+                                                **:::.: :::                 
+
+AQM_4_4900      VVGKVELTPV
+BFN_4_1554      VVGKVELTPV
+BFP_3_83        VVGKVELTPV
+CLB_5_30        VVGKVELTPV
+BME_1_563       ----------
+                          

@@ -1,0 +1,65 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AHG_3_3449      MENMSEIEKRSPTVHEAAKDVEDISTGSVTSFKEESEIPIE------QNLYIDPKEENAL
+BDM_5_48        MENMSEIEKRSPTVHEAAKDVEDISTGSVTSFKEESEIPIE------QNLYIDPKEENAL
+BLT_2_1965      MENMSEIEKRSPTVHEAAKDVEDISTGSVTSFKEESEIPIE------QNLYIDPKEENAL
+BHE_2_4194      ---MSDSLPKSDNIQKVIA-LEDFSKMKVKDAGEEGVVSVAVDSELVEDLYIDEQEEKAL
+YDF_0_4613      ---MSDSLPKSDNIQKVIA-LEDFSKMKVKDAGEEGVVSVAVDSELVEDLYIDEQEEKAL
+                   **:   :* .:::.   :**:*. .*..  **. :.:       ::**** :**:**
+
+AHG_3_3449      VRKLDRRLIPMLAFMYFLSSLDRSNIGNAYTSGMKEDLKLTNKQYSNAVSVFYSTYLAAE
+BDM_5_48        VRKLDRRLIPMLAFMYFLSSLDRSNIGNAYTSGMKEDLKLTNKQYSNAVSVFYSTYLAAE
+BLT_2_1965      VRKLDRRLIPMLAFMYFLSSLDRSNIGNAYTSGMKEDLKLTNKQYSNAVSVFYSTYLAAE
+BHE_2_4194      VKKLDFRLLPMLAFMYFLSSLDRSNIGNAYTSGMKEDLNLTSRQYSNCVSVFYSTYLAAE
+YDF_0_4613      VKKLDFRLLPMLAFMYFLSSLDRSNIGNAYTSGMKEDLNLTSRQYSNCVSVFYSTYLAAE
+                *:*** **:*****************************:**.:****.************
+
+AHG_3_3449      LPAVLVLKRVNVKYYMSFLVLSWSIITLCNGFVQDHKSLMALRVLLGAFEGGFFPAMTLI
+BDM_5_48        LPAVLVLKRVNVKYYMSFLVLSWSIITLCNGFVQDHKSLMALRVLLGAFEGGFFPAMTLI
+BLT_2_1965      LPAVLVLKRVNVKYYMSFLVLSWSIITLCNGFVQDHKSLMALRVLLGAFEGVFF------
+BHE_2_4194      LPAVLVLKRANVKYYMSFLVF---------------------------------------
+YDF_0_4613      LPAVLVLKRANVKYYMSFLVF---------------------------------------
+                *********.**********:                                       
+
+AHG_3_3449      ISMIYKQHEQAKRMAIFFGFAALSGAFGGLIATGLASVQNAGGLEGWRWLYIIEGLISVC
+BDM_5_48        ISMIYKQHEQAKRMAIFFGFAALSGAFGGLIATGLASVQNAGGLEGWRWLYIIEGLISVC
+BLT_2_1965      ------------------------------------------------------------
+BHE_2_4194      ------------------------------------------------------------
+YDF_0_4613      ------------------------------------------------------------
+                                                                            
+
+AHG_3_3449      ASIWLFCCLPARFEVIPFLNERERHLMEIRGKQRVKYMGASDKFEWSYLKDALIDFKTYI
+BDM_5_48        ASIWLFCCLPARFEVIPFLNERERHLMEIRGKQRVKYMGASDKFEWSYLKDALIDFKTYI
+BLT_2_1965      ------------------------------------------------------------
+BHE_2_4194      ---------PGR------------------------------------------------
+YDF_0_4613      ---------PGR------------------------------------------------
+                                                                            
+
+AHG_3_3449      SFTIQFCHDIILYGFTTFLTAILKLGLGFTAREAQYMSVPVYLLAGFVFLVSAYLSDRLR
+BDM_5_48        SFTIQFCHDIILYGFTTFLTAILKLGLGFTAREAQYMSVPVYLLAGFVFLVSAYLSDRLR
+BLT_2_1965      ---LQ-------------------------------------------------------
+BHE_2_4194      ------------------------------------------------------------
+YDF_0_4613      ------------------------------------------------------------
+                                                                            
+
+AHG_3_3449      LRGSILFIYNIFGIVGYILLLSVHNNAVKYFACYLITFSLYTGPGLNVSWLTNNFAPHYK
+BDM_5_48        LRGSILFIYNIFGIVGYILLLSVHNNAVKYFACYLITFSLYTGPGLNVSWLTNNFAPHYK
+BLT_2_1965      ------------------------------------------------------------
+BHE_2_4194      ------------------------------------------------------------
+YDF_0_4613      ------------------------------------------------------------
+                                                                            
+
+AHG_3_3449      RATALGLNQTLGNLAGAIAGQIFTKSPYTFGNSFSLGCIVLTNVLCLSQITILRYINKRR
+BDM_5_48        RATALGLNQTLGNLAGAIAGQIFTKSPYTFGNSFSLGCIVLTNVLCLSQITILRYINKRR
+BLT_2_1965      ------------------------------------------------------------
+BHE_2_4194      ------------------------------------------------------------
+YDF_0_4613      ------------------------------------------------------------
+                                                                            
+
+AHG_3_3449      ERILNGEIPDDQKNRRGDWALDFKYCL
+BDM_5_48        ERILNGEIPDDQKNRRGDWALDFKYCL
+BLT_2_1965      ---------------------------
+BHE_2_4194      ---------------------------
+YDF_0_4613      ---------------------------
+                                           

@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CFH_0_6753      RGRYQDARNAKGRAFQILLLCLFPYIKRIGELSTYKCLHRCFVRCLDFSFPNITLCQCKK
+CNI_4_215       ------------------------------------------------------------
+CPI_4_517       ------------------------------------------------------------
+                                                                            
+
+CFH_0_6753      TCKTITLCQCQFRLVMLCFNRYHRFCSGYSIHRVSFDFSVYDPYGFCSHVTKDWKADNDA
+CNI_4_215       ------------------------------------------------------------
+CPI_4_517       ------------------------------------------------------------
+                                                                            
+
+CFH_0_6753      DETLERSRCYQNVRQKMSRNWYWASAISNHGELTSGTRECEPEPNKLIKLYANNITTKGR
+CNI_4_215       ------------------------------------------------------------
+CPI_4_517       ------------------------------------------------------------
+                                                                            
+
+CFH_0_6753      YCFILRYSGSFVDDVSKFIGVRKDFFITCKLPGPITSGIILSYRNVGSYYVRYNVSSIKC
+CNI_4_215       ----------------------------------------FSDRNVGSHHDRYNASSIKC
+CPI_4_517       ----------------------------------------FSDRNVGSHHDRYNASSVKC
+                                                        :* *****:: ***.**:**
+
+CFH_0_6753      YYWSVRYECKSSRKKWKYCVVVWNFGGTAFTSCHKLVFS-LLDQKNRPTCNAQRSR-RWG
+CNI_4_215       YHWSFRYEC-SSGGEFQYRVVVWDIGCAAFAGRPWLVLGQLLD-KNRPSCNT-RGR-KWS
+CPI_4_517       YHWSFRYECYSSRTGFQYCVVVWDIGCAAFPGGPRLVLG-LLD-KNRSPCDA-RSRGKWS
+                *:**.**** **   ::* ****::* :**..   **:. *** ***..*:: *.* :*.
+
+CFH_0_6753      QISHI-FFTEKRK--IRF-KWQCESWRSKEINCQSTQIPLQX
+CNI_4_215       QIGYFELLAKKKQEIQSFQKYKCKSRSFKQISCKSS-IPLRX
+CPI_4_517       -IGHL-FLAEKKQEVQSFQKFKCESRPFK-ISCKSS-IPLRX
+                 *.:: ::::*::    * *::*:*   * *.*:*: ***: 

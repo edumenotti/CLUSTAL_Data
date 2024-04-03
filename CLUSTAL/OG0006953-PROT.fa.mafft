@@ -1,0 +1,16 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_36        MLSAPQFAAMKDGAYVINASRGTVVDIPSLIQAVKANKIA--------------------
+AQM_4_18        MLSAPQFAAMKDGAYVINASRGTVVDIPSLIQAVKANKIAGAALDVYPHEPAKNGEGSFN
+CNL_4_3         ---------MKDGAYVINASRGTVVDIPSLIQAVKANKIAGAALDVYPHEPAKNGE----
+CNN_1_6638      ---------MKDGAYVINASRGTVVDIPSLIQAVKANKIAGAALDVYPHEPAKNGE----
+CNS_4_6446      ---------MKDGAYVINASRGTVVDIPSLIQAVKANKIAGAALDVYPHEPAKNGE----
+                         *******************************                    
+
+ANL_2_36        ----------------
+AQM_4_18        DELNSWTSELVSLPNX
+CNL_4_3         ----------------
+CNN_1_6638      ----------------
+CNS_4_6446      ----------------
+                                

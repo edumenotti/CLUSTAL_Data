@@ -1,0 +1,47 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADE_2_1256      ------------------------------------------------------------
+CPI_4_4888      ------------------------------------------------------------
+CPN_4_434       ------------------------------------------------------------
+CPQ_4_379       ------------------------------------------------------------
+YCL_0_661       ------------------------------------------------------------
+BHK_4_2452      QPSFSLRWLPPPYFVTRSMQLYLLRQQSPKLQLLPHRNHKTKRKPLILLLTFKPCSFFST
+CRH_2_188       -----------------SMQLYLLRQQSPKLQLLPHRNHKTKRKPLILLLTFKPCSFFST
+                                                                            
+
+ADE_2_1256      ------------------------------------------------------------
+CPI_4_4888      ------------------------------------------------------------
+CPN_4_434       ------------------------------------------------------------
+CPQ_4_379       ------------------------------------------------------------
+YCL_0_661       ------------------------------------------------------------
+BHK_4_2452      AHHLSGRVLKLLVRTLLSYYSPLGAIFSICRKISIAMLIWKKWGWDLAKWSAESSERVSG
+CRH_2_188       AHHLSGRVLKLLVRTLLSYYSPLGAISSICRKISIAMLIWKKWDWDLGKWSAESSERLSG
+                                                                            
+
+ADE_2_1256      ------------------------------RCHSTICLQRYALTSTLWTRYPTTTMGVFR
+CPI_4_4888      ------------------------------RCHSTICLQRYALTSTLWTRYPTTTMGVFR
+CPN_4_434       ------------------------------RCHSTICLQRYALTSTLWTRYPTTTMGVFR
+CPQ_4_379       ------------------------------RCHSTICLQRYALTSTLWTRYPTTTMGVFR
+YCL_0_661       ------------------------------RCHSTICLQRYALTSTLWTRYPTTTMGVFR
+BHK_4_2452      KLLLKWISLRNCTRSKEATGRNVYSPSEKTRCHSTICLQRYALTSTLWTRYPTTTMGVFR
+CRH_2_188       KLLLKWISLRNCTRSKEATGRNVYSPSEKTRCHSTICLQRYALTSTLWTRYPTTTMGVFR
+                                              ******************************
+
+ADE_2_1256      SMLDQAPWGSRIFHRKCPLANYTHFLEIIRKYWAASLSWLQLLTERTGRGKETGSWFYRG
+CPI_4_4888      FMLDQAPWGSRIFHRKCPLANYTHFLEIIRKYWAASLSWLQLLTERTGRGKETGSWFYRG
+CPN_4_434       FMLDQAPWGSRIFHRKCPLANYTHFLEIIRKYWAASLSWLQLLTERTGRGKETGSWFYRG
+CPQ_4_379       FMLDQAPWGSRIFHRKCPLANYTHFLEIIRKYWAASLSWLQLLTERTGRGKETGSWFYRG
+YCL_0_661       FMLDQAPWGSRIFHRKCPLANYTHFLEIIRKYWAASLSWLQLLTERTGRGKETGSWFYRG
+BHK_4_2452      FMLDQAPWGSRIFHRKCPLANYTHFLEIIRKYWAASLNWLQLLTERTGRGKETGSRFYRE
+CRH_2_188       FMLDQAPWGSRIFHRKCPLANYTHFLEIIRKYWAASLNWLQLLTERTGRGKETGSRFYRE
+                 ************************************.***************** *** 
+
+ADE_2_1256      TGLTRRYASICTLQACX
+CPI_4_4888      TGLTRRYASICTLQACX
+CPN_4_434       TGLTRRYASICTLQACX
+CPQ_4_379       TGLTRRYASICTLQACX
+YCL_0_661       TGLTRRYASICTLQACX
+BHK_4_2452      TGLTRRYASICTLQACX
+CRH_2_188       TGLTRRYASICTLQACX
+                **************** 

@@ -1,0 +1,30 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVN_5_838       ------------------------------------------------------------
+CGR_5_2906      MPLPVGVIGPLVIDGTSYHIPMATTEGCLVASAMRGCKAINAGGGATTVLTKDGMTRGPV
+                                                                            
+
+AVN_5_838       ------------------------------------------------------------
+CGR_5_2906      VRFPTLKRSGACKIWLDSEEGQNAIKKAFNSTSRFARLQHIQTCLAGDLLFMRFRTTTGD
+                                                                            
+
+AVN_5_838       -----------------MVEEYGWEDMEVVSVSGNYCTDKKPAAINWIEGRGKSVVAEAT
+CGR_5_2906      AMGMNMISKGVEYSLKQMVEEYGWEDMEVVSVSGNYCTDKKPAAINWIEGRGKSVVAEAT
+                                 *******************************************
+
+AVN_5_838       IPGDVVRKVLKSDVSALVELNIAKNLVGSAMAGSVGGFNAHAANLVTAVFLALGQDPAQN
+CGR_5_2906      IPGDVVRKVLKSDVSALVELNIAKNLVGSAMAGSVGGFNAHAANLVTAVFLALGQDPAQN
+                ************************************************************
+
+AVN_5_838       VESSNCITLMKEVDGDLRISVSMPSIEVGTIGGGTVLEPQGAMLDLLGVRGPHATAPGTN
+CGR_5_2906      VESSNCITLMKEVDGDLRISVSMPSIEVGTIGGGTVLEPQGAMLDLLGVRGPHATAPGTN
+                ************************************************************
+
+AVN_5_838       ARQLARIVACAVLAGELSLCAALAAGHLVQSHMTHNRKPAEPTKPNNLDATDINRLKDGS
+CGR_5_2906      ARQLARIVACAVLAGELSLCAALAAGHLVQSHMTHNRKPAEPTKPNNLDATDINRLKDGS
+                ************************************************************
+
+AVN_5_838       VTCIKS
+CGR_5_2906      VTCIKS
+                ******

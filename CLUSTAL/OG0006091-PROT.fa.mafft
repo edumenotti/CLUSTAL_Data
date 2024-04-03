@@ -1,0 +1,86 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVR_6_424       -------------------------------------LMAKSKP----------------
+CNC_4_566       ---------------------------------SLKLVTAKSKPPPR-LPQLRLPLQPSP
+MAL_0_130       -----------------------------KLLLSLKLVTAKSKPPPR-LPQLRLPLQ---
+JAY_0_5334      LLTRVVLITLLLSVLLLNQLPLLLPPRLRELLLSLKLVTVKSKPLPKQLLQLSL------
+MAB_0_402       -------------------------------------VTVKSKPLPKQLLQLSL------
+MAL_0_2902      -------------------------------------VTVKSKPLPKQLLQL--------
+BMD_5_5046      MHTKTTAAA--VSQIGDGQ------------------IQATTKTKAAAVSQIGDG-----
+CFI_4_5459      MHTTY-----------KGG------------------ITDYSSTFGIAVEPI--------
+BCM_8_1114      ----FKLLNL-------------------PLPLPLRFLMAKFRPLP--LLRL--------
+BEA_6_1377      ----FKLLNL-------------------PLPLPLRFLMAKFRPLP--LLRL--------
+BEC_6_1404      ----FKLLNL-------------------PLPLPLRFLMAKFRPLP--LLRL--------
+MAB_0_117       -------PRL-------------------PLLLSLKSVMVKFKQLPKPLPQL--------
+                                                     :                      
+
+AVR_6_424       ------------------------------------------------------------
+CNC_4_566       KLVTVKFKPLLKPKLQPSPKLVTVKFKPLLKPKLLLSLKLVTVKSK---PPPILLL----
+MAL_0_130       ----------------PSPKLVTVKFKPLLKPKLLLSLKLV-------------------
+JAY_0_5334      -------------------KSVTVKSKPLLKPLLLLFLKLVTVKSK---PPPILLL----
+MAB_0_402       -------------------KLVTVKSXXXXXXXXXXXLKLVTVKSK---PPPILLL----
+MAL_0_2902      ------------------------------------FLKLVTVKSK---PPPILLL----
+BMD_5_5046      ------------------------------------QIQATTKTT----AAAVSQIGDGQ
+CFI_4_5459      ---------------------------------------ATTASSKAKRAAAISQIGDGQ
+BCM_8_1114      -----------------------------------LHPKLQMGRYK-HLKLPVALV----
+BEA_6_1377      -----------------------------------LHPKLQMGRYK-HLKLPVALV----
+BEC_6_1404      -----------------------------------LHPKLQMGRYK-HLKLPVALV----
+MAB_0_117       ------------------------------------FPKLLTVKFK-LLQKP--------
+                                                                            
+
+AVR_6_424       -------------QL-----------LLQPLYHL---QLQLQLLMALTQLLKHVKA----
+CNC_4_566       LQSPRSLMAKSKPQL-----------LLQPLYHL---QLQLQLLMALTQLLKHVKA----
+MAL_0_130       ------------------------------------------------------------
+JAY_0_5334      LQSPKSLMAKSKPQL-----------LLQPLYHL---QLQLQLLMALTQLLKHVKA----
+MAB_0_402       LQSPKSLMAKSKPQL-----------LLQPLYHL---QLQLQLLMALTQLLKHVKA----
+MAL_0_2902      LQSPKSLMAKSKPQL-----------LLQPLYHL---QLQLQLLMALTQLLKHVKA----
+BMD_5_5046      IQATTKTTAAAVSQIGDGQIQATTNTTVAPVSQITDGQIQATTLTSATIIPSPAPAPITN
+CFI_4_5459      IQATTKTTAAAVSQIGD----ATTNTTVAPVSQITDGQIQATTLTSATIIPSPAPAPITN
+BCM_8_1114      -----KVMAKSRLLLKK---TLTIQSMLFPVITI--------------------------
+BEA_6_1377      -----KVMAKSRLLLKK---TLTIQSMLFPVITI--------------------------
+BEC_6_1404      -----KVMAKSRLLLKK---TLTIQSMLFPVITI--------------------------
+MAB_0_117       LKQPAKAMAKSKLLL--------LLPLLQPLPPLTQSTLSPVRL----------------
+                                                                            
+
+AVR_6_424       ----VALKTRVVSLTVKVELALSLPTDSSNSMV---------------------------
+CNC_4_566       ----VALKTRVVSLTVKVELVLSLPTDNSNSMV---------------------------
+MAL_0_130       ------------------------------------------------------------
+JAY_0_5334      ----VALKTRVVSLTVKVELVLSLPTDNSNSMV---------------------------
+MAB_0_402       ----VALKTRVVSLTVKVELVLSLPTDNSNSMV---------------------------
+MAL_0_2902      ----VALKTRVVSLTVKVELVLSLPTDNSNSMV---------------------------
+BMD_5_5046      GTDPVTAETCKSSGTLEMNLKGGILTDGKGRIG----------XXXXXXXXXXXXXXXXX
+CFI_4_5459      GTDPVTAETCKSSGTLEMNLKGGILTDGKGRIGSIVANRQFQXXXXXXXXXXXXXXXXXX
+BCM_8_1114      ----VPCQVARVSPIGRVELALSLPTDSSNSMV---------------------------
+BEA_6_1377      ----VPCQVARVSPIGRVELALSLPTDSSNSMV---------------------------
+BEC_6_1404      ----VPCQVARVSPIGRVELALSLPTDSSNSMV---------------------------
+MAB_0_117       ----LVPKTRAVSLTVRVELVLLLLTDNSNLTV---------------------------
+                                                                            
+
+AVR_6_424       LHHKLVLSMLLVGPSPQKVTWPSVTRILFTNVCQETSTTYTMSTLELNVMQSTYKLSTWS
+CNC_4_566       LHHKLVLSMLLVGPSPQKVTWPSVTRILFTNVCQETSTTYTMSTLELNVMQSTYKLSTWS
+MAL_0_130       ------------------------------------------------------------
+JAY_0_5334      LHHKLVLSMLLVGPSPQKVTWPSVTRILFTNVCQETSTTYTMSTLEPNVMQSTYKLSTWS
+MAB_0_402       LHHKLVLSMLLVGPSPQKVTL-LVTRILFTN-----------------------------
+MAL_0_2902      LHHKLVLSMLLVGPSPQKVTL-LVTRILFTNVCQETSTTYTMSTLELNVMQSTYKLSIWS
+BMD_5_5046      LHHKLVLSMLLVGPSPQKVTWPSVTRILFTNVCQETSTTYTMSTLELNVMQSTYKLSTWS
+CFI_4_5459      LHHKLVLSMLLVGPSPQKVTWPSVTRILFTNVCQETSTTYTMSTLELNVMQSTYKLSICS
+BCM_8_1114      LHHKLVLSMLLVGPSPQKVTL-LVTRILFTNVCLVTSITCMISTLVLSAMKFICKLIL--
+BEA_6_1377      LHHKLVLSMLLVGPSPQKVTL-LVTRILFTNVCLVTSITCMISTLVLSAMKFICKLIL--
+BEC_6_1404      LHHKLVLSMLLVGPSPQKVTL-LVTRILFTNVCLVTSITCMISTLVLSAMKFICKLIL--
+MAB_0_117       HHHKLVPSTLLVG-LLQTVTWLLVTMMSSTNVCPVLSTTCTTNTLVVNVLQSTWKLSI--
+                                                                            
+
+AVR_6_424       TV------------
+CNC_4_566       TV------------
+MAL_0_130       --------------
+JAY_0_5334      TV------------
+MAB_0_402       --------------
+MAL_0_2902      TV------------
+BMD_5_5046      TVNHKFTSHSRMKT
+CFI_4_5459      TVNHKFTSHSRMKT
+BCM_8_1114      TV------------
+BEA_6_1377      TV------------
+BEC_6_1404      TV------------
+MAB_0_117       TV------------
+                              

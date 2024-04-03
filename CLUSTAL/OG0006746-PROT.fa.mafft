@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_2358      MSNDPSAVSELPDKDSLDNGISNDNERTMGGNGNGGDGLRLPRTTGTLNVNALQKGTNAA
+AQH_2_3         ------------------------------------------------------------
+BBT_3_2679      MSNDPSAVSELPDKDSLDNGISNDNERTMGGNGNGGDGLRLPRTTGTLNVNALQKGTNAA
+ASC_6_329       MSNDPSAVSELPDKDSLDNGISNDNERTMGGNGNGGDGLRLPRTTGTLNVNALQKGTNAA
+ASC_6_1391      MSNDPSAVSELPDKDSLDNGISNDNERTMGGNGNGGDGLRLPRTTGTLNVNALQKGTNAA
+CFC_2_3097      MSNDPSAVSELPDKDSLDNGISNDNERTMGGNGNGGDGLRLPRTTGTLNVNALQKGTNAA
+                                                                            
+
+ANL_2_2358      HEAGGYKSMDPAKNAETTNDDDNNVVSLDDPIQFTRVSSSSVISGMSSSMSPHSNIDETK
+AQH_2_3         ---------------------------------------------MSSSMSPHSNIDETK
+BBT_3_2679      HEAGGYKSMDPAKNAETTNDDDNNVVSLDDPIQFTRVSSSSVISGMSSSMSPHSNIDETK
+ASC_6_329       HEAGGYKSMDPAKNAETTNDDDNNVVS---------------------------------
+ASC_6_1391      HEAGGYKSMDPAKNAETTNDDDNNVVS---------------------------------
+CFC_2_3097      HEAGGYKSMDPAKNAETTNDDDNNXXXXXXXXXXXXXXXXXXXXXXXXXX----------
+                                                                            
+
+ANL_2_2358      SLEAVTPNINTSNMTPDHSADNTFSTINASESDHQFNDTLLSKLSLTDSTETIENNATVK
+AQH_2_3         SLEAVTPNINTSNMTPDHSADNTFSTINASX-----------------------------
+BBT_3_2679      SLEAVTPNINTSNMTPDHSADNTFSTINASESDHQFNDTLLSKLSLTDSTETIENNATVK
+ASC_6_329       ------------------------------------------------------------
+ASC_6_1391      ------------------------------------------------------------
+CFC_2_3097      ------------------------------------------------------------
+                                                                            
+
+ANL_2_2358      HQQPVASSTVNSNKSSTDIRRATPVSTPVISKPSMTTTPRQINSASHSLSXXXXXXXXXX
+AQH_2_3         ------------------------------------------------------------
+BBT_3_2679      HQQPV-------------------------------------------------------
+ASC_6_329       ------------------------------------------------------------
+ASC_6_1391      ------------------------------------------------------------
+CFC_2_3097      ------------------------------------------------------------
+                                                                            
+
+ANL_2_2358      XXXXXXXXXXXXXXXXFEKSFKKLLST
+AQH_2_3         ---------------------------
+BBT_3_2679      ---------------------------
+ASC_6_329       ---------------------------
+ASC_6_1391      ---------------------------
+CFC_2_3097      ---------------------------
+                                           

@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CCN_1_1         MYRTRSSDEVTTSTDPTGSSDIASTIDSTTSVISSTSADPTSSSAVTTSVISSTSADPTS
+CCT_2_9         MYRTRSSDEVTTSTGLTSSSDVATSVDPTTSVIX--------------------------
+CQK_4_6095      MYRTRSSDEVTTSTDPTGSSDVATTIDSTTSVISSTSADPTSSSAVTTSVISSTSADSTS
+CFC_2_42        MYRTRSSDEVTTSTDPTGSSDVATTIDSTTSVIX--------------------------
+CGV_3_10        MYRTRSSDEVTTSTDPTGSSDVATTIDSTTSVIX--------------------------
+CDV_4_2         MYRTRSSDEVTTSTDPTGSSDVATSVDSTTSTVQTTSADPTTST----------------
+CEF_4_4         MYRTRSSDEVTTSTDPTGSSDVATSVDSTTSTVQTTSADPTTST----------------
+CRD_2_7         MYRTRSSDEVTTSTDPTGSNDVATTIDSTTSVIX--------------------------
+                **************. *.*.*:*:::*.***.:                           
+
+CCN_1_1         SVVSSTSVGLTSSIHVTTSTVQTTSVDPSSSSDLTSSTSSILSSSFVSSNLSTLATPYIR
+CCT_2_9         ------------------------------------------------------------
+CQK_4_6095      SVVSSTSVGLTSSIHVTTSTVQTTSVDPSSSSDLTSSTSSILSSSFVSSNLSTLATPYIR
+CFC_2_42        ------------------------------------------------------------
+CGV_3_10        ------------------------------------------------------------
+CDV_4_2         ------------------------------------------------------------
+CEF_4_4         ------------------------------------------------------------
+CRD_2_7         ------------------------------------------------------------
+                                                                            
+
+CCN_1_1         SSSTVSGTALAGQTTSVYPTSSSDITTSTVQTTSADPSSSVTISTSTDSTSSIE
+CCT_2_9         ------------------------------------------------------
+CQK_4_6095      SSSTVSGTALAGQTTSVYPTSSSDITTSTVQTASADPSSSVTISTSTDSTSSIE
+CFC_2_42        ------------------------------------------------------
+CGV_3_10        ------------------------------------------------------
+CDV_4_2         ------------------------------------------------------
+CEF_4_4         ------------------------------------------------------
+CRD_2_7         ------------------------------------------------------
+                                                                      

@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BTA_5_1827      MEGMNMGSSMNMDAMSSASKTVASSMASMSMDAMSSASKTIASSMASMSMDAMSSASKTI
+BTA_5_2252      MEGMNMGSSMNMDAMSSASKTVASSMASMSMDAMSSASKTIASSMASMSMDAMSSASKTI
+BVC_6_1764      MEGMNMGSSMNMDAMSSASKTVASSMAS-------------------MSMDAMSSASKTI
+CAT_0_5442      MEGMNMGSSMNMDAMSSASKTVASSMASMSMDAMSSASKTIASSMASMSMDAMSSASKTI
+CLG_4_806       MEGMNMGSSMNMDAMSSASKTVASSMSS--------------------------------
+CNI_4_101       MEGMNMGSSMNMDAMSSASKTVASSMAS-------------------MSMDAMSSASKTI
+CNI_4_106       MEGMNMGSSMNMDAMSSASKTVASSMAS-------------------MSMDAMSSASKTI
+CRE_2_21        MEGMNMGSSMNMDAMSSASKTVASX-----------------------------------
+ZVR_0_5445      MEGMNMGSSMNMDAMSSASKTVASSMASMSMDAMSSASKTIASSMASMSMDAMSSASKTI
+                ************************                                    
+
+BTA_5_1827      LSSMSSMSMEAMSSASKTLASTMSSMASMSMGSSSMSX----------------------
+BTA_5_2252      LSSMSSMSMEAMSSASKTLASTMSSMASMSMGSSSMSX----------------------
+BVC_6_1764      ASSMASMSMDAMSSA---------------------------------------------
+CAT_0_5442      LSSMSSMSMEAMSSASKTLASTMSSMASMSMGSSSMSGMSMGSSSMSGMSMSMSSTPTSS
+CLG_4_806       ------MSMEAMSSASKTLAST--------------------------------------
+CNI_4_101       ASSMASMSMDAMSSASKT------------------------------------------
+CNI_4_106       ASSMASMSMDAMSSASKT------------------------------------------
+CRE_2_21        ------------------------------------------------------------
+ZVR_0_5445      LSSMSSMSMEAMSSASKTLASTMSSMASMSMGSSSMSGMSMGSSSMSGMSMSMSSTPTSS
+                                                                            
+
+BTA_5_1827      ------------------------------------------------------------
+BTA_5_2252      ------------------------------------------------------------
+BVC_6_1764      ------------------------------------------------------------
+CAT_0_5442      ASAQTTSDSSMSDMSGMSGMSGMSSSDNSSSSGMDMDMSMGMNYYLTPTYKNYPVLFHHL
+CLG_4_806       ------------------------------------------------------------
+CNI_4_101       ------------------------------------------------------------
+CNI_4_106       ------------------------------------------------------------
+CRE_2_21        ------------------------------------------------------------
+ZVR_0_5445      ASAQTTSDSSMSDMSGMSGMSGMSSSDNSSSSGMDMDMSMGMNYYLTPTYKNYPVLFHHL
+                                                                            
+
+BTA_5_1827      -----------------------------------
+BTA_5_2252      -----------------------------------
+BVC_6_1764      -----------------------------------
+CAT_0_5442      HANNSGKAFGIFLLFVVAAFVYKLLLFVSWCLEVH
+CLG_4_806       -----------------------------------
+CNI_4_101       -----------------------------------
+CNI_4_106       -----------------------------------
+CRE_2_21        -----------------------------------
+ZVR_0_5445      HANNSGKAFGIFLLFVVAAFVYKLLLFVSWCLX--
+                                                   

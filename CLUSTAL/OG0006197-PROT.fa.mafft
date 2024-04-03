@@ -1,0 +1,26 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ABV_6_102       MGMIEDDHSTSQQQQPLDFTSEHTLKTAEMEQQV--------------------------
+ALV_2_100       MGMIEDDHSTSQQQQPLDFTSEHTLKTAEMEQQV--------------------------
+BFG_4_195       MGMIEDDHSTSQQQQPLDFTSEHTLKTAEMEQQV--------------------------
+BFM_3_191       MGMIEDDHSTSQQQQPLDFTSEHTLKTAEMEQQV--------------------------
+BML_5_170       MGMIEDDHSTSQQQQPLDFTSEHTLKTAEMEQQV--------------------------
+BTD_1_174       MGMIEDDHSTSQQQQPLDFTSEHTLKTAEMEQQV--------------------------
+CBF_5_196       MGMIEDDHSTSQQQQPLDFTSEHTLKTAEMEQQV--------------------------
+CKS_5_157       MGMIEDDHSTSQQQQPLDFTSEHTLKTAEMEQQV--------------------------
+BTE_3_66        -------------QQPLDFTSEHTLKTAEMEQQVEILKLEQSLSNARKRLGEIRRHAYYN
+CKS_5_39        -------------QQPLDFTSEHTLKTAEMEQQVEILKLEQSLSNARKRLGEIRRHAYYN
+                             *********************                          
+
+ABV_6_102       ----
+ALV_2_100       ----
+BFG_4_195       ----
+BFM_3_191       ----
+BML_5_170       ----
+BTD_1_174       ----
+CBF_5_196       ----
+CKS_5_157       ----
+BTE_3_66        QDDD
+CKS_5_39        QDDD
+                    

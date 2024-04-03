@@ -1,0 +1,22 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_2551      ------------------------------------------------------------
+ANM_2_979       ------------------------------------------------------------
+BRP_4_3921      MTNRGMWQLKIINFPPYIPIEFLEKLSESDFNELMNQEKFTVIEIKEKGQLEKFGRLRWT
+                                                                            
+
+ANL_2_2551      ----------------------------------MDALKISENENTNGSANNSTYTNGGP
+ANM_2_979       ----------------------------------MDALKISENENTNGSANNSTYTNGGP
+BRP_4_3921      VLKDFIKLKCPKLLRLQERQFLQQQNEASLLNESMDALKISENENTNGSANNSTYTNGGP
+                                                  **************************
+
+ANL_2_2551      RTSINNTREFYVGVYEDHEEATLLRFELPEDELEEFNRNLPTTFAQSENVSDSEGDSKAK
+ANM_2_979       RTSINNTREFYVGVYEDHEEATLLRFELPEDELEEFNRNLPTTFAQSGNVSDSEGDSKAK
+BRP_4_3921      RTSINNTREFYVGVYEDHEEATLLRFELPEDELEEFNRNLPTTFAQSGNVSDSEGDSKAK
+                *********************************************** ************
+
+ANL_2_2551      YFKVSTIVYNAIVGFHDKELSDLTFESLQDQEYSLGYKIQVMELPPFDEDEFENQRQQF
+ANM_2_979       YFKVSTIVYNAIVGFHDKELSDLTFESLQDQEYSLGYKIQVMELPPFDEDEFENQRQQF
+BRP_4_3921      YFKVSTIVYNAIVGFHDKELSDLTFESLQDQEYSLGYKIQVMELPPFDEDEFENQRQQF
+                ***********************************************************

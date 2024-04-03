@@ -1,0 +1,128 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADK_8_2309      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+AEL_3_2694      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+AGE_1_2865      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+AKT_4_2347      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+AKT_4_2353      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+BCT_8_2686      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+BEI_7_1164      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+BMG_2_1595      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+BPA_4_3373      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+BRV_4_1684      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+BRV_4_1686      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+CHH_4_4892      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+CHL_4_2941      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+CHQ_4_2850      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+CHR_4_6455      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+CKS_5_2215      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+BEN_7_5356      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+BHA_2_4045      MPIGNPINTNDIKSNRMRQESNMSAVSNSESTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+CID_4_2567      MPIGNPINTNDIKSNRMRQESNMSAVSNSENTIGQSTQQQQQQQQYLGQSVQPLMPVSYQ
+                ******************************.*****************************
+
+ADK_8_2309      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+AEL_3_2694      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+AGE_1_2865      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+AKT_4_2347      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+AKT_4_2353      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+BCT_8_2686      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+BEI_7_1164      YVVPEQWPYPQYYQQPQSQSQQQLQSQPQMYQVQESFQSSGSDSNASNPPSTSVGVPSNA
+BMG_2_1595      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+BPA_4_3373      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+BRV_4_1684      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+BRV_4_1686      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+CHH_4_4892      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+CHL_4_2941      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+CHQ_4_2850      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+CHR_4_6455      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+CKS_5_2215      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+BEN_7_5356      YVVPEQWPYPQYYQQPQSQSQQQLQSQPQMYQVQESFQSSGSDSNASNPPSTSVGVPSNA
+BHA_2_4045      YVVPEQWPYPQYYQQPQSQSQQQLQSQPQMYQVQESFQSSGSDSNASNPPSTSVGVPSNA
+CID_4_2567      YVVPEQWPYPQYYQQPQSQ-----------------------------------------
+                *******************                                         
+
+ADK_8_2309      ------------------------------------------------------------
+AEL_3_2694      ------------------------------------------------------------
+AGE_1_2865      ------------------------------------------------------------
+AKT_4_2347      ------------------------------------------------------------
+AKT_4_2353      ------------------------------------------------------------
+BCT_8_2686      ------------------------------------------------------------
+BEI_7_1164      TATALPNGSAITTNSNNSTNISNNVPYYYYFPQMQAQQSMAYSYPQAYYYYPANGDGTTN
+BMG_2_1595      ------------------------------------------------------------
+BPA_4_3373      ------------------------------------------------------------
+BRV_4_1684      ------------------------------------------------------------
+BRV_4_1686      ------------------------------------------------------------
+CHH_4_4892      ------------------------------------------------------------
+CHL_4_2941      ------------------------------------------------------------
+CHQ_4_2850      ------------------------------------------------------------
+CHR_4_6455      ------------------------------------------------------------
+CKS_5_2215      ------------------------------------------------------------
+BEN_7_5356      TATALPNGSAITTNSNNSTNISNNVPYYYYFPQMQAQQSMAYSYPQAYYYYPANGDGTTN
+BHA_2_4045      TATALPNGSAITTNSNNSTNISNNVPYYYYFPQMQAQQSMAYSYPQAYYYYPANGDGTTN
+CID_4_2567      ------------------------------------------------------------
+                                                                            
+
+ADK_8_2309      ------------------------------------------------------------
+AEL_3_2694      ------------------------------------------------------------
+AGE_1_2865      ------------------------------------------------------------
+AKT_4_2347      ------------------------------------------------------------
+AKT_4_2353      ------------------------------------------------------------
+BCT_8_2686      ------------------------------------------------------------
+BEI_7_1164      GVTPSVTSNQVQNPNLEKTYSTFEQQQQHQQQQQLQAQTYPAQPPKIGNAFSKLSKSGPP
+BMG_2_1595      ------------------------------------------------------------
+BPA_4_3373      ------------------------------------------------------------
+BRV_4_1684      ------------------------------------------------------------
+BRV_4_1686      ------------------------------------------------------------
+CHH_4_4892      ------------------------------------------------------------
+CHL_4_2941      ------------------------------------------------------------
+CHQ_4_2850      ------------------------------------------------------------
+CHR_4_6455      ------------------------------------------------------------
+CKS_5_2215      ------------------------------------------------------------
+BEN_7_5356      GVTPSVTSNQVQNPNLEKTYSTFEQQQQHQQQQQLQAQTYPAQPPKIGNAFSKLSKSGPP
+BHA_2_4045      GVTPSVTSNQVQNPNLEKTYSTFEQQQQHQQQQQLQAQTYPAQPPKIGNAFSKLSKSGPP
+CID_4_2567      ------------------------------------------------------------
+                                                                            
+
+ADK_8_2309      ------------------------------------------------------------
+AEL_3_2694      ------------------------------------------------------------
+AGE_1_2865      ------------------------------------------------------------
+AKT_4_2347      ------------------------------------------------------------
+AKT_4_2353      ------------------------------------------------------------
+BCT_8_2686      ------------------------------------------------------------
+BEI_7_1164      SDSSSGSMSPNSNRTSRNSNSISSLAQQPPMSNYPQPSTYQYPGFHKTSSIPNSHSPIPP
+BMG_2_1595      ------------------------------------------------------------
+BPA_4_3373      ------------------------------------------------------------
+BRV_4_1684      ------------------------------------------------------------
+BRV_4_1686      ------------------------------------------------------------
+CHH_4_4892      ------------------------------------------------------------
+CHL_4_2941      ------------------------------------------------------------
+CHQ_4_2850      ------------------------------------------------------------
+CHR_4_6455      ------------------------------------------------------------
+CKS_5_2215      ------------------------------------------------------------
+BEN_7_5356      SDSSSGSMSPNSNRTSRNSNSISSLAQQPPMSNYPQPSTYQYPGFHKTSSIPNSHSPIPP
+BHA_2_4045      SDSSSGSMSPNSNRTSRNSNSISSLAQQPPMSNYPQPSTYQYPGFHKTSSIPNSHSPIPP
+CID_4_2567      ------------------------------------------------------------
+                                                                            
+
+ADK_8_2309      ---------------------------------------
+AEL_3_2694      ---------------------------------------
+AGE_1_2865      ---------------------------------------
+AKT_4_2347      ---------------------------------------
+AKT_4_2353      ---------------------------------------
+BCT_8_2686      ---------------------------------------
+BEI_7_1164      RSLTTPXXXXXXXXXXXXXXXXXXXXXXXXXKFYNSTS-
+BMG_2_1595      ---------------------------------------
+BPA_4_3373      ---------------------------------------
+BRV_4_1684      ---------------------------------------
+BRV_4_1686      ---------------------------------------
+CHH_4_4892      ---------------------------------------
+CHL_4_2941      ---------------------------------------
+CHQ_4_2850      ---------------------------------------
+CHR_4_6455      ---------------------------------------
+CKS_5_2215      ---------------------------------------
+BEN_7_5356      RSLTTPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIL
+BHA_2_4045      RSLTTP------XXXXXXXXXXXXXXXXXXXXXXXXXIL
+CID_4_2567      ---------------------------------------
+                                                       

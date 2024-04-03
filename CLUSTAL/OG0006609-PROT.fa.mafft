@@ -1,0 +1,74 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARN_6_995       ----------------------HIQLVYTTLEENLINEEREDIKLPSSALIGHLKARLKN
+ATB_1_2140      ------------------------------------------------------------
+ATB_1_2141      ------------------------------------------------------------
+ATB_1_2720      ------------------------------------------------------------
+ATV_5_1137      ------------------------------------------------------------
+ATV_5_4347      MSIRNGIEFMKHVTSVFPVVKAHIQLVYTTLEENLINEEREDIKLPSSALIGHLKARLKD
+BME_1_4637      ------------------------------------------------------------
+                                                                            
+
+ARN_6_995       ALELDEFCTLTEEEAEQKRIREMELEEIKNYETACQNEQKQVALRKQLELNKSQRLQNDP
+ATB_1_2140      ------------------------------------------------------------
+ATB_1_2141      ------------------------------------------------------------
+ATB_1_2720      ------------------------------------------------------------
+ATV_5_1137      ------------------------------------------------------------
+ATV_5_4347      ALELDEFCTLTEEEAEKKRIREMELEEIKNYETACQNEQKQVALRKQLELNKSQRLQNDP
+BME_1_4637      ------------------------------------------------------------
+                                                                            
+
+ARN_6_995       PKSVASGSAXLNSKDRYTYSRNEPVIPTKPSSSQWSYSKVTRHLDDINHYLATNHLQKAI
+ATB_1_2140      ------------------------------------------------------------
+ATB_1_2141      ------------------------------------------------------------
+ATB_1_2720      ------------------------------------------------------------
+ATV_5_1137      ------------------------------------------------------------
+ATV_5_4347      PKSVASGSAVLNSKDRYTYSRNEPVIPTKPSSSQWSYSKVTRHLDDINHYLATNHLQKAI
+BME_1_4637      ----------------------------------------------------------AI
+                                                                            
+
+ARN_6_995       SLVENDDETRNLRKLSKQNMPIFDFRNSTLEIFERYFRTLIQNPQNPDFAEKIDSLKRHI
+ATB_1_2140      -------------------MPIFDFRNSTLEIFERYFRTLIQNPQNPDFAEKIDSLKRHI
+ATB_1_2141      ------------------------------------------------------------
+ATB_1_2720      ------------------------------------------------------------
+ATV_5_1137      -------------------MPIFDFRNSTLEIFERYFRTLIQNPQNPDFAEKIDSLKRHI
+ATV_5_4347      SLVENDDETRNLRKLSKQNMPIFDFRNSTLEIFERYFRTLIQNPQNPDFAEKIDSLKRHI
+BME_1_4637      SLVENDDETRNLRKLSKQNMPIFDFRNSTLEIFERYFRTLIQNPQNPDFAEKIDSLKRHI
+                                                                            
+
+ARN_6_995       KNISREPYPDTTSSYSEAAAPEYTKRSX--------------------------------
+ATB_1_2140      KNISREPYPDTTSSYSEASAPEYTKRSSRYSGNAGGKDGYGSSNYRGPSNDRSAPKNIKP
+ATB_1_2141      --------------------------------NAGGKDGYGSSNYRGPSNDRSAPKNIKP
+ATB_1_2720      --------------------------------NAGGKDGYGSSNYRGPSNDRSAPKNIKP
+ATV_5_1137      KNISREPYPDTTSSYSEASAPEYTKRSSRYSGNAGGKDGYGSSNYRGPSNDRSAPKNIKP
+ATV_5_4347      KNISREPYPDTTSSYSEASAPEYTKRSSRYSGNAGGKDGYGSSNYRGPSNDRSAPKNIKP
+BME_1_4637      KNISREPYPDTTSSYSEASAPEYTKRSSRYSGNAGGKDGYGSSNYRGPSNDRSAPKNIKP
+                                                                            
+
+ARN_6_995       ------------------------------------------------------------
+ATB_1_2140      ISSYAHKRSELPTRPSKSKTYNDRSRPLRPTGPDRGDGFDQRDNRLREEYKKNSSQRSQL
+ATB_1_2141      ISSYAHKRSELPTRPSKSKTYNDRSRPLRPTGPDRGDGFDQRDNRLREEYKKNSSQRSQL
+ATB_1_2720      ISSYAHKRSELPTRPSKSKTYNDRSRPLRPTGPDRGDGFDQRDNRLREEYKKNSSQRSQL
+ATV_5_1137      ISSYAHKRSELPTRPSKSKTYNDRSRALRPTGPDRGDGFDQRDNRLREEYKKNSSQRSQL
+ATV_5_4347      ISSYAHKRSELPTRPSKSKTYNDRSRALRPTGPDRGDGFDQRDNRLREEYKKNSSQRSQL
+BME_1_4637      ISSYAHKRSELPTRPSKSKTYNDRSRALRPTGPDRGDGFDQRDNRLREEYKKNSSQRSQL
+                                                                            
+
+ARN_6_995       ------------------------------------------------------------
+ATB_1_2140      RFPEKPFQEGKDSSKANPYQASSYKRDSPSENEEKPNKRFKKDETIRNKFQTQDYRNTRD
+ATB_1_2141      RFPEKPFQEGKDSSKANPYQASSYKRDSPSENEEKPNKRFKKDETIRNKFQTQDYRNTRD
+ATB_1_2720      RFPEKPFQEGKDSSKANPYQASSYKRDSPSENEEKPNKRFKKDETIRNKFQTQDYRNTRD
+ATV_5_1137      RFPEKPFQEGKDSSKANPYQASSYKRDSPSENEEKPNKRFKKDETIRNKFQTQDYRNTRD
+ATV_5_4347      RFPEKPFQEGKDSSKANPYQASSYKRDSPSENEEKPNKRFKKDETIRNKFQTQDYRNTRD
+BME_1_4637      RFPEKPFQEGKDSSKANPYQASSYKRDSPSENEEKPNKRFKKDETIRNKFQTQDYRNTRD
+                                                                            
+
+ARN_6_995       ---------------------------------------
+ATB_1_2140      SGAAHRANENQRYNGNRKSNTQALPQGPKGGNYVSRYQR
+ATB_1_2141      SGAAHRANENQRYNGNRKSNTQALPQGPKGGNYVSRYQR
+ATB_1_2720      SGAAHRANENQRYNGNRKSNTQALPQGPKGGNYVSRYQR
+ATV_5_1137      SGAAHRANENQRYNGNRKSNTQALPQGPKGGNYVSRYQR
+ATV_5_4347      SGAAHRANENQRYNGNRKSNTQALPQGPKGGNYVSRYQR
+BME_1_4637      SGAAHRANENQRYNGNRKSNTQALPQGPKGGNYVSRYQR
+                                                       

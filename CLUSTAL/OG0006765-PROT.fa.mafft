@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARN_6_3216      ------------------------------------------------------------
+ASE_2_4238      MPDNVETSIVSASTLINKFLVNESGGKQLVTSNENPSKKRKIFKALDNLENDSTEEASSS
+ASH_3_2964      ------------------------------------------------------------
+AVN_5_4568      ------------------------------------------------------------
+CFI_4_5393      ------------------------------------------------------------
+BBT_3_3124      ------------------------------------------------------------
+                                                                            
+
+ARN_6_3216      ------------------------------------------------------------
+ASE_2_4238      LETEDEEVSDDNNVFIAEGQNGCQKDLETAIIRTGESLTTLKPLHNFERPNMALFVNDCG
+ASH_3_2964      ------------------------------------------------------------
+AVN_5_4568      ------------------------------------------------------------
+CFI_4_5393      ------------------------------------------------------------
+BBT_3_3124      ---------------------------------------------------MALFVNDCG
+                                                                            
+
+ARN_6_3216      -------------------------------MVLSLDDWNFFRNRYIPEGVSFDVEPNFV
+ASE_2_4238      LPTKIEKNVKDIRGNQHNLEKEKSCTVDKNNMVLSLDDWNFFRNRYIPEGVSFDVEPNFV
+ASH_3_2964      -------------------------------MVLSLDDWNFFRNRYIPEGVSFDVEPNFV
+AVN_5_4568      -------------------------------MVLSLDDWNFFRNRYIPEGVSFDVEPNFV
+CFI_4_5393      -------------------------------MVLSLDDWNFFRNRYIPEGVSFDVEPNFV
+BBT_3_3124      LPTKIEKNVKDIRGNQHNLEKEKNCTVDKNNMVLSLDDWNFFRNRYIPEGVSFDVEPNFV
+                                               *****************************
+
+ARN_6_3216      QYTKGVKVPHCHKVSKIITLFNDESNDNKKRTIDMNYTKCLARGMLRDEKKFVKVNDKSQ
+ASE_2_4238      QYTKGVKVPHCHKVSKIITLFNDESNDNKKRTIDMNYTKCLARGMLRDEKKFVKVNDKSQ
+ASH_3_2964      QYTKGVKVPHCHKVSKIITLFNDESNDNKKRTIDMNYTKCLARGMLRDEKKFVKVNDKSQ
+AVN_5_4568      QYTKGVKVPHCHKVSKIITLFNDESNDNKKRTIDMNYTKCLARGMLRDEKKFVKVNDKSQ
+CFI_4_5393      QYTKGVKVPHCHKVSKIITLFNDESNDNKKRTIDMNYTKCLARGMLRDEKKFVKVNDKSQ
+BBT_3_3124      QYTKGVKVPHCHKVSKIITLFNDESNDNKKRTIDMNYTKCLARGMLRDEKQFVKVNDKSQ
+                **************************************************:*********
+
+ARN_6_3216      VDNNSVNHDSSQSFTLSNAELDDILGSDSDF
+ASE_2_4238      VDNNSVNHDSSQSFTLSNAELDDILGSDSDF
+ASH_3_2964      VDNNSVNHDSSQSFTLSNAELDDILGSDSDF
+AVN_5_4568      VDNNSVNHDSSQSFTLSNAELDDILGSDSDF
+CFI_4_5393      VDNNSVNHDSSQSFTLSNAELDDILGSDSDF
+BBT_3_3124      VDNNSVNHDSSQSFTLSNAELDDILGSDSDF
+                *******************************

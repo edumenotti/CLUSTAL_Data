@@ -1,0 +1,102 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANR_2_223       MNQSDPQDKKNFPMEYSLTKYLFFDRLLLVLPIESNLKTYADVEADSVFNSCRSIILNIA
+ANV_5_291       MNQSDPQDKKNFPMEYSLTKYLFFDRLLLVLPIESNLKTYADVEADSVFNSCRSIILNIA
+ARM_6_255       MNQSDPQDKKNFPMEYSLTKYLFFDRLLLVLPIESNLKTYADVEADSVFNSCRSIILNIA
+APQ_4_4196      MNQSDPQDKKNFPMEYSLTKHLFFDRLLLVLPIESNLKTYADVEADSVFNSCRSIILNIA
+CLC_4_285       MNQGDPQDKKNSPMEYSLTKHLFFDRLLLVLPIESNLKTYADVEADSVFNSCRSIILNIA
+BSI_3_95        MNQSDLQDKKNSPMEYSLTKHLFFDRLLLVLPIESNLKTYADVEADSVFNSCRSIILNIA
+BSI_3_1440      MNQSDLQDKKNSPMEYSLTKHLFFDRLLLVLPIESNLKTYADVEADSVFNSCRSIILNIA
+CBR_2_3476      MNQSDLQDKKNSPMEYSLTKHLFFDRLLLVLPIESNLKTYADVEADSVFNSCRSIILNIA
+                ***.* ***** ********:***************************************
+
+ANR_2_223       ITKDLNPIIENTLGLIDLIVQDEEITSDNITDDIAHSILVLLRLLSDVF-----------
+ANV_5_291       ITKDLNPIIENTLGLIDLIVQDEEITSDNITDDIAHSILVLLRLLSDVF-----------
+ARM_6_255       ITKDLNPIIENTLGLIDLIVQDE-------------------------------------
+APQ_4_4196      ITKDLNPIIENTLGLIDLIVQDEEITSDNITDDIAHSILVLLRLLSDVFEYYWDQNNDFK
+CLC_4_285       ITKDLNPIIENTLGLIDLIVQDEEITSDNITDDIAHSILVLLRLLSDVFEYYWDQNNDFK
+BSI_3_95        ITKDLNPIIENTLGLIDLIVQDEEITSGNITDDIAHSILVLLRLLSDVFEYYWDQNNDFK
+BSI_3_1440      ITKDLNPIIENTLGLIDLIVQDEEITSGNITDDIAHSILVLLRLLSDVFEYYWDQNNDFK
+CBR_2_3476      ITKDLNPIIENTLGLIDLIVQDEEITSDNITDDIAHSILVLLRLLSDVFEYYWDQNNDFK
+                ***********************                                     
+
+ANR_2_223       ------------------------------------------------------------
+ANV_5_291       ------------------------------------------------------------
+ARM_6_255       ------------------------------------------------------------
+APQ_4_4196      KIRNDNYKPGFSSHRPNFHTSRPKHTRINPALATMLLCKISKLKFNTRTLKVLQNMSHHL
+CLC_4_285       KIRNDNYKPGFSSHRPNFHTSRPKHTRINPALATMLLCKISKLKFNTRTLKVLQNMSHHL
+BSI_3_95        KIRNDNYKPGFSSHRPNFHTSRPKHTRINPALATMLLCKISKLKFNTRTLKVLQNMSHHL
+BSI_3_1440      KIRNDNYKPGFSSHRPNFHTSRPKHTRINPALATMLLCKISKLKFNTRTLKVLQNMSHHL
+CBR_2_3476      KIRNDNYKPGFSSHRPNFHTSRPKHTRINPALATMLLCKISKLKFNTRTLKVLQNMSHHL
+                                                                            
+
+ANR_2_223       ------------------------------------------------------------
+ANV_5_291       ------------------------------------------------------------
+ARM_6_255       ------------------------------------------------------------
+APQ_4_4196      SGSATISKSSILPDSQEFLQKRNYPAYTEKIDLTIDYIQRFISASNHVEFTKCVKTKVVA
+CLC_4_285       SGSATISKSSILPDSQEFLQKRNYPAYTEKIDLTIDYIQRFISASNHVEFTKCVKTKVVA
+BSI_3_95        SGSATISKSSILPDSQEFLQKRNYPAYTEKIDLTIDYIQRFISASNHVEFTKCVKTKVVA
+BSI_3_1440      SGSATISKSSILPDSQEFLQKRNYPAYTEKIDLTIDYIQRFISASNHVEFTKCVKTKVVA
+CBR_2_3476      SGSATISKSSILPDSQEFLQKRNYPAYTEKIDLTIDYIQRFISASNHVEFTK--------
+                                                                            
+
+ANR_2_223       ------------------------------------------------------------
+ANV_5_291       ------------------------------------------------------------
+ARM_6_255       ------------------------------------------------------------
+APQ_4_4196      PLLISHTSTELGVVNHLDLFGCEYLTDKNLLAYLDILQHL--------------------
+CLC_4_285       PLLISHTSTELGVVNHLDLFGCEYLTDKNLLAYLDILQHLSSYMKRTIFHSLLLYYASKA
+BSI_3_95        PLLISHTSTELGVVNHLDLFGCEYLTDKNLLAYLDILQHLSSYMKRTIFHSLLLYYASKA
+BSI_3_1440      PLLISHTSTELGVVNHLDLFGCEYLTDKNLLAYLDILQHLSSYMKRTIFHSLLLYYASKA
+CBR_2_3476      ------------------------------------------------------------
+                                                                            
+
+ANR_2_223       ------------------------------------------------------------
+ANV_5_291       ------------------------------------------------------------
+ARM_6_255       ------------------------------------------------------------
+APQ_4_4196      ------------------------------------------------------------
+CLC_4_285       FLFWIMARPKEYVKIYNNLISSDYNSPSSSSDNGGSNNSDKTSISQLVSLLFDDVYSTFS
+BSI_3_95        FLFWIMARPKEYVKIYNNLISSDYNSPSSSSDNGGSNNSDKTSISQLVSLLFDDVYSTFS
+BSI_3_1440      FLFWIMARPKEYVKIYNNLISSDYNSPSSSSDNGGSNNSDKTSISQLVSLLFDDVYSTFS
+CBR_2_3476      --------PKEYVKIYNNLISSDYNSPSSSSDNGGSNNSDKTSISQLVSLLFDDVYSTFS
+                                                                            
+
+ANR_2_223       ------------------------------------------------------------
+ANV_5_291       ------------------------------------------------------------
+ARM_6_255       ------------------------------------------------------------
+APQ_4_4196      ------------------------------------------------------------
+CLC_4_285       VSSLLTNVNNDHHYHLHHSSSSSKTTNTNSPNSISKTSIKQSSVNASGNVSPSQFSTGND
+BSI_3_95        VSSLLTNVNNDHHYHLHHSSSSSKTTNTNSPNSISKTSIKQSSVNASGNVSPSQFSTGND
+BSI_3_1440      VSSLLTNVNNDHHYHLHHSSSSSKTTNTNSPNSISKTSIKQSSVNASGNVSPSQFSTGND
+CBR_2_3476      VSSLLTNVNNDHHYHLHHSSSSSKTTNTNSPNSISKTSIKQSSVNASGSVSPSQFSTGND
+                                                                            
+
+ANR_2_223       ------------------------------------------------------------
+ANV_5_291       ------------------------------------------------------------
+ARM_6_255       ------------------------------------------------------------
+APQ_4_4196      ------------------------------------------------------------
+CLC_4_285       ASPTPPMASLSSPLNTNILGYPLSPITSTLGQANTSTSTTAATTKTDADTPSTMNTNNNN
+BSI_3_95        ASPTSPMASLSSPLNTNILGYPLSPITSTLGQANTSTSTTAATTKTDADTPSTMNTNNNN
+BSI_3_1440      ASPTSPMASLSSPLNTNILGYPLSPITSTLGQANTSTSTTAATTKTDADTPSTMNTNNNN
+CBR_2_3476      ASPTSPMASLSSPLNTNILGYPLSPITSTLGQGNTSTSTTAATTKTDADTPSTMNTNNNN
+                                                                            
+
+ANR_2_223       ------------------------------------------------------------
+ANV_5_291       ------------------------------------------------------------
+ARM_6_255       ------------------------------------------------------------
+APQ_4_4196      ------------------------------------------------------------
+CLC_4_285       NNNNSANLNNIPQRIFSLDDISSFNSSRKI------------------------------
+BSI_3_95        NNNNSANLNNIPQRIFSLDDISSFNSSRKSLNLDDSNSLFLWDTSQHSNASMTNTNMHAG
+BSI_3_1440      NNNNSANLNNIPQRIFSLDDISSFNSSRKSLNLDDSNSLFLWDTSQHSNASMTNTNMHAG
+CBR_2_3476      NNNNSANLNNIPQRIFSLDDISSFNSSRKSFNLDDSNSLFLWDTSQHSNASMTNTNMHAG
+                                                                            
+
+ANR_2_223       -----------------------------------------
+ANV_5_291       -----------------------------------------
+ARM_6_255       -----------------------------------------
+APQ_4_4196      -----------------------------------------
+CLC_4_285       ---TQSR----------------------------------
+BSI_3_95        VNNSQSQN-----------DQSSLNYM-------ENIMELX
+BSI_3_1440      VNNSQSQN-----------DQSSLNYM-------ENIMELX
+CBR_2_3476      VNNSQXXXXXXXXXXXXXXXXXXLPYCHIKVFGGSDLIRQ-
+                                                         

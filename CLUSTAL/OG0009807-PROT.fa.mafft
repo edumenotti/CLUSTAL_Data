@@ -1,0 +1,34 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_4527      MSHHIDTLQLKVAQLSRKTHELGIPVMIIFEGIPASGKTRLSNDLLLQLDAKYTNFIATK
+CFH_0_3282      MSHHIDTLQLKVAQLSRKTHELGIPVMIIFEGIPASGKTRLSNDLLLQLDAKYTNFIATK
+                ************************************************************
+
+CDH_0_4527      SPETYDLRYQFLQKYWDTLPQKGDINIYFRSWYSHYLDYKENKIKHHQYVNYDSLLKQIS
+CFH_0_3282      SPETYDLRYQFLQKYWNTLPQKGDINIYFRSWYSHYLDYKENNIKHHQYVNYDSLLKQIS
+                ****************:*************************:*****************
+
+CDH_0_4527      NFESMLKKDNYEIIKFFIEINEEKRQAHIQQTKSNPLMRWKVQEYEEVISQDVYLNEMRR
+CFH_0_3282      NFESMLKKDNYEIIKFFIEINEEKRQAHIQQTKSNPLMRWKVQEYEEVIPQDVYLNEMRR
+                *************************************************.**********
+
+CDH_0_4527      IIHNCNNWQVIDYTVREKAITNMYLHIIERLEYALEKYQKHEEYIDGEFNSHFSTSLFNI
+CFH_0_3282      IIHNCNDWQIIDYTVREQAITNMYLNIIERLEYALEKYQKHEEYIDGEFNSHFSTSLFNI
+                ******:**:*******:*******:**********************************
+
+CDH_0_4527      EESKIKKKDYQHQIVELQTRMREIQFALYKHKIPLVLVFEGMDAAGKGGNIKRIREKLDP
+CFH_0_3282      EESKIKKKDYQHQIVELQTRMREIQFALYKRKIPLVLVFEGMDAAGKGGNIKRIREKLDP
+                ******************************:*****************************
+
+CDH_0_4527      TGYEVNGISAPTDVEKNHHYLWRFAKKMPKSGHIEIFDRSWYGRILVERVEGFAEHHEWK
+CFH_0_3282      TGYEVNGISAPTDVEKNHHYLWRFAKKNA-------------------------------
+                *************************** .                               
+
+CDH_0_4527      RAYDEINQFERMWTDEGTIIIKFFLCLDKEEQLQRFKDREQNPNKQWKITDEDWRNREKW
+CFH_0_3282      ------------------------------------------------------------
+                                                                            
+
+CDH_0_4527      DMYLEASQDMIKYTNTKLAPWHVIKADHKKTSRLEVLKTIIKRCEDVL
+CFH_0_3282      ------------------------------------------------
+                                                                

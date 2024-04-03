@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CBL_2_6349      --------------------------MCASLNEVKKNDTYGVSQKGYNDNFSESEGVLHG
+ZTW_0_5310      MEGLLTASLKSSANTYQWTIKGSQRGMCASLNEVKKNDTYGVSQKGYNDNFSESEGVLHG
+                                          **********************************
+
+CBL_2_6349      SKSMPTSMKNMLQSPTMVNMCDILQNKEAANDEKPVIPTTDTATAGTGTEDISSTQSEET
+ZTW_0_5310      SKSMPTSMKNMLQSPTMVNMCDILQNKEAANDEKPVIPTTDTATAGTSTEDISSTQVRGN
+                ***********************************************.******** . .
+
+CBL_2_6349      DQNX
+ZTW_0_5310      ----
+                    

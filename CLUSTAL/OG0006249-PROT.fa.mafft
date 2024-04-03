@@ -1,0 +1,62 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BDA_8_3         LITIFSYQVSILRPLKLAYRPSPGILLIFHFPLQWTRQSQKWPLLWLCWVVSVSFTITVP
+BDD_8_4         LITIFSYQVSILRPLKLAYRPSPGILLIFHFPLQWTRQSQKWPLLWLCWVVSVSFTITVP
+BDI_5_1         LITIFSYQVSILRPLKLAYRPSPGILLIFHFPLQWTRQSQKWPLLWLCWVVSVSFTITVP
+BMQ_5_82        LITIFSYQVSILRPLKLAYRPSPGILLIFHFPLQWTRQSQKWPLLWLCWVVSVSFTITVP
+CFT_5_813       LITIFSYQVSILRPLKLAYRPSPGILLIFHFPLQWTRQSQKWPLLWLCWVVSVSFTITVP
+CNF_4_45        LITIFSYQVSILRPLKLAYRPSPGILLIFHFPLQWTRQSQKWPLLWLCWVVSVSFTITVP
+BVG_4_40        LITIFSYQVSILRPLKLAHRPSPGILLTFHYPLQWTLRNLKWPLLWLCWVVSVSFTITVL
+CNB_4_35        LITIFSYQVSILRPLKLAHRPSPGILLTFHYPLQWTLRNLKWPLLWLCWVVSVSFTITVL
+CNL_4_46        LITIFSYQVSILRPLKLAHRPSPGILLTFHYPLQWTLRNLKWPLLWLCWVVSVSFTITVL
+CPQ_4_3389      --------VSILRPLKLAHRPSPGILLTFHYPLQWTLRNLKWPLLWLCWVVSVSFTITVL
+                        **********:******** **:***** :. ******************* 
+
+BDA_8_3         QRTKLTWSEESRTMKMGX------------------------------------------
+BDD_8_4         QRTKLTWSEESRTMKMGX------------------------------------------
+BDI_5_1         QRTKLTWSEESRTMKMGX------------------------------------------
+BMQ_5_82        QRTKLTWSEESRTMKMGX------------------------------------------
+CFT_5_813       QRTKLTWSEESRTMKMGLLTTLFLQLRPLVKLRARKSMDLQASLSRQMEREMQSWWVSSP
+CNF_4_45        QRTKLTWSEESRTMKMGX------------------------------------------
+BVG_4_40        QRTKLTWSEESRTMKMGLLTT---------------------------------------
+CNB_4_35        QRTKLTWSEESRTMKMGLLTT---------------------------------------
+CNL_4_46        QRTKLTWSEESRTMKMGLLTT---------------------------------------
+CPQ_4_3389      QRTKLTWSEESRTMKMGLLTTX--------------------------XXXXXXXXXXXX
+                *****************                                           
+
+BDA_8_3         ------------------------------------------------------------
+BDD_8_4         ------------------------------------------------------------
+BDI_5_1         ------------------------------------------------------------
+BMQ_5_82        ------------------------------------------------------------
+CFT_5_813       LVIYNSLRTTLYSFRMSPKTLLPAHKISHYQKVTKFRKSKRVGYWLLMKRVTFLCFPELI
+CNF_4_45        ------------------------------------------------------------
+BVG_4_40        ------------------------------------------------------------
+CNB_4_35        ------------------------------------------------------------
+CNL_4_46        ------------------------------------------------------------
+CPQ_4_3389      XXXXXXXXTTLYSFRMSPKTLLPAHKVSHY-----------------------------I
+                                                                            
+
+BDA_8_3         ------------------------------------------------------------
+BDD_8_4         ------------------------------------------------------------
+BDI_5_1         ------------------------------------------------------------
+BMQ_5_82        ------------------------------------------------------------
+CFT_5_813       KIRTTHRPNLPTPSNCYVVLLLGLWTLIKKDDYWKLGWMSSYWIHPKETLSSNTCSSGSK
+CNF_4_45        ------------------------------------------------------------
+BVG_4_40        ------------------------------------------------------------
+CNB_4_35        ------------------------------------------------------------
+CNL_4_46        ------------------------------------------------------------
+CPQ_4_3389      RRRNS-------------------------------------------------------
+                                                                            
+
+BDA_8_3         ---------------------------------------------------
+BDD_8_4         ---------------------------------------------------
+BDI_5_1         ---------------------------------------------------
+BMQ_5_82        ---------------------------------------------------
+CFT_5_813       RVSQVWKSSLVTLSPGNKLPILLPVRTVELVWELALFVLPKKLWLVVGHKX
+CNF_4_45        ---------------------------------------------------
+BVG_4_40        ---------------------------------------------------
+CNB_4_35        ---------------------------------------------------
+CNL_4_46        ---------------------------------------------------
+CPQ_4_3389      ---------------------------------------------------
+                                                                   

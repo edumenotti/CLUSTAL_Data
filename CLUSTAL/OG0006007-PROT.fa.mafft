@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AGB_1_17        -----YRRC-CLSNRWSNPSYHHYFSPKEHRCCRFSN-RWSSSSYY----------DYRC
+CHS_4_1         ------------------------FSPKEHRCCRFSN-RWSSSSYY----------DYRC
+BDC_8_6806      ----------------------------EHRCCRFSN-RWSSSSYY----------DYRC
+BDF_8_6607      ----------------------------EHRCCRFSN-RWSSSSYY----------DYRC
+BDG_5_6672      ----------------------------EHRCCRFSN-RWSSSSYY----------DYRC
+ARB_2_6546      -----YRRC-CLSNRWSNPSYHHYFSPKEHRCCRFSN-RWSSSSYYQ---------DYRC
+BMQ_5_7031      --LCDYRRC-CLSNRWSNPSYHHYFSPKEHRCCRFSN-RWSSSSYYQ---------DYRC
+BRQ_4_71        DYLCDYRRC-CLSNRWSNPSNHHYFSPKEHRCCRFSNRRWSSSSYYQ---------DYRC
+ALI_5_6179      ------------SNRWSNPSYHHYFSSKEHRCRRFSN-RWSSSSYY----------DYRC
+BIE_1_51        -----YRRC-CLSNRWSNPSYHHYFSSKEHRCRRFSN-RWSSSSNYQNH-CRSCFPNYRS
+CFH_0_8223      -YLCDYRRC-CLSNRWSNPSYHHYFSSKEHRCRRFSN-RWSNPSYY----------DYRX
+CGC_4_6395      DYLCDYRRC-CLSNRWSNPSYHHYFSSKEHRCRRFSN-RWSNPSYY----------DYRX
+BRV_4_13        -------RCRRFSNRWSSSSYY-----QDYRCRRFSN-RWSNSSYHQDYLC-----DYRR
+                                            ::** **** ***..* :          :** 
+
+AGB_1_17        CCLSNWWSSSSYHQDYCCRRFSNRWSSSS-----
+CHS_4_1         CCLSNWWSSSSYHQDYCCRRFSNRX---------
+BDC_8_6806      CCLSNWWSSSSYHQDYCCRRFSNRWSSSSYYQDX
+BDF_8_6607      CCLSNWWSSSSYHQDYCCRRFSNRWSSSSYYQDX
+BDG_5_6672      CCLSNWWSSSSYHQDYCCRRFSNRWSSSSYYQDX
+ARB_2_6546      CCX-------------------------------
+BMQ_5_7031      CCX-------------------------------
+BRQ_4_71        CCLSNWWX--------------------------
+ALI_5_6179      CRLSNWWSSSSX----------------------
+BIE_1_51        S--SSYYKNHSSSQPSX-----------------
+CFH_0_8223      ----------------------------------
+CGC_4_6395      ----------------------------------
+BRV_4_13        CCLSNRX---------------------------
+                                                  

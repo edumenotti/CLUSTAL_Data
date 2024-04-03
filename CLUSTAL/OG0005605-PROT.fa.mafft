@@ -1,0 +1,66 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADL_4_39        ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+AEB_8_41        ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+ATV_5_78        ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+ATV_5_94        ------------------------MTKLIPRNSTIPTKKSEIFSTYADNQPGVLIQVFEG
+BBG_6_20        ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+BFE_4_148       ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+BHP_4_48        ---------------------GGVMTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+BHQ_4_8         ---------------------GGVMTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+BRQ_4_50        ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+CBR_2_74        ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+CFG_4_59        ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+CFH_0_77        ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+CHP_4_57        SKTQDLLLLDVAPLSLGIETAGGVMTKLIPRNSTIPTKKSEIFSTYADNQPGVLIQVFEG
+CKS_5_120       ------------------------MTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+CQI_6_56        SKTQDLLLLDVAPLSLGIETAGGVMTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+CQP_4_6         SKTQDLLLLDVAPLSLGIETAGGVMTKLIPRNSTIPTKKSEVFSTYADNQPGVLIQVFEG
+AQM_4_5931      -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+BFN_4_32        -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+BGA_7_42        -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+BGC_8_29        -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+BGF_8_28        -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+BGG_8_32        -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+BGL_1_27        -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+CFD_4_6         -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+CFT_5_34        -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+CKV_5_23        -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+CPT_4_5626      -------------------MQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQG
+BGI_1_6251      -------------------MQGDIFGIVVPRNTTVPTIKRRTFTTVSDNQTT--------
+BGR_1_6257      -------------------MQGDIFGIVVPRNTTVPTIKRRTFTTVSDNQTT--------
+CFP_4_13        -------------------MQGDIFGIVVPRNTTVPTIKRRTFTTVSDNQTTVQFPVYQG
+                                        :  ::***:*:** * . *:* :***.         
+
+ADL_4_39        ERAKTKDNNLLGKFELX-----------------------
+AEB_8_41        ERAKTKDNNLLGKFELX-----------------------
+ATV_5_78        ERAKTKDNNLLGKFELX-----------------------
+ATV_5_94        ERAKTKDNNL------------------------------
+BBG_6_20        ERAKTKDNNLLGKFELX-----------------------
+BFE_4_148       ERAKTKDNNLLGKFELX-----------------------
+BHP_4_48        ERAKTKDNNLLGKFELSGIPPAPR----------------
+BHQ_4_8         ERAKTKDNNLLGKFELSGIPPAPR----------------
+BRQ_4_50        ERAKTKDNNLLGKFELX-----------------------
+CBR_2_74        ERAKTKDNNLLGKFELX-----------------------
+CFG_4_59        ERAKTKDNNLLGKFELX-----------------------
+CFH_0_77        ERAKTKDNNLLGKFELX-----------------------
+CHP_4_57        ERAKTKDNNLLGKFELSGIPPAPRGVPQIEVTFDVDSNGX
+CKS_5_120       ERAKTKDNNLLGKFELX-----------------------
+CQI_6_56        ERAKTKDNNLLGKFELSGIPPAPRGVPQIEVTFDVDSNGX
+CQP_4_6         ERAKTKDNNLLGKFELSGIPPAPRGVPQIEVTFDVDSNGX
+AQM_4_5931      ERV-------------------------------------
+BFN_4_32        ERV-------------------------------------
+BGA_7_42        ERV-------------------------------------
+BGC_8_29        ERV-------------------------------------
+BGF_8_28        ERV-------------------------------------
+BGG_8_32        ERV-------------------------------------
+BGL_1_27        ERV-------------------------------------
+CFD_4_6         ERV-------------------------------------
+CFT_5_34        ERV-------------------------------------
+CKV_5_23        ERV-------------------------------------
+CPT_4_5626      ERV-------------------------------------
+BGI_1_6251      ----------------------------------------
+BGR_1_6257      ----------------------------------------
+CFP_4_13        ERVNCKENTLLGEFDLKNIPMMPA----------------
+                                                        

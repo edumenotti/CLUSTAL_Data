@@ -1,0 +1,66 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEE_3_6377      --------------------MASQYKQDLQSNIAMATNSEQQR----QQQQQQQQQQQQW
+ATV_5_6444      --------------------MASQYKQDLQSNIAMATNSEQQRQ--QQQQQQQQQQQQQW
+BBG_6_6031      ----------------------------------MATNSEQQR----QQQQQQQQQQQQW
+BTA_5_7197      ----------------------------------MATNSEQQR----QQQQQQQQQQQQW
+BBT_3_59        ----------------------------------MATNSEQQRQ--QQQQQQQQQQQQQW
+BTA_5_31        ----------------------------------MATNSEQQRQQQQQQQQQQQQQQQQW
+BBT_3_6427      MRYNVNSSYPDSIPPTEQPYMAGQYKQDLQSNIAMATNSEQQR----QQQQQQQQQQQQW
+CIL_2_6878      --------------------MASQYKQDLQSNIAMATNSEQQR----QQQQQQQQQQQQW
+BRQ_4_6223      --------------------MASQYKQDLQSNIAMATNSEQQRQ--QQQQQQQQQQQQQW
+BMM_3_6831      --------------------MASQYKQDLQSNIAMATNSEQQRQQQQQQQRQQQQQQQQW
+BTD_1_7150      --------------------MASQYKQDLQSNIAMATNSEQQRQQQQQQQRQQQQQQQQW
+BTE_3_6555      --------------------MASQYKQDLQSNIAMATNSEQQRQQQQQQQRQQQQQQQQW
+BFT_8_5468      MSYKVNSSYPDSIPPTEQPYMASQYKQDLQSNIAMVTNSEQQRQ--QQQQQQQQQQQQQW
+CHP_4_4459      MSYKVNSSYPDSIPPTEQPYMASQYKQDLQSNIAMATNSEQQRQQQQQQQRQQQQQQQQX
+                                                  *.*******    ***:******** 
+
+AEE_3_6377      INQPTAENSDLKEKMNCK------------------------------------------
+ATV_5_6444      INQPTAENSDLKEKMNCK------------------------------------------
+BBG_6_6031      INQPTAENSDLKEKMNCK------------------------------------------
+BTA_5_7197      INQPTAENSDLKEKMNC-------------------------------------------
+BBT_3_59        INQPTAENSDLKEKMNCK------------------------------------------
+BTA_5_31        INQPTAENSDLKEKMNC-------------------------------------------
+BBT_3_6427      INQPTAENSDLKEKMNCKNTLNEYIFDFLTKSSLKNTAAAFAQDAHLDRDKGQNPIDGPK
+CIL_2_6878      INQPTAENSDLKEKMNC-------------------------------------------
+BRQ_4_6223      INQPTAENSDLK------------------------------------------------
+BMM_3_6831      INQPTAENSDLKEKM---------------------------------------------
+BTD_1_7150      INQPTAENSDLKEKMNCK------------------------------------------
+BTE_3_6555      INQPTAENSDLKEKM---------------------------------------------
+BFT_8_5468      INQPTAENSDLKEKMNCKNTLNEYIFDFLTKSSLENTAAAFAQDAHLDRDKGQNPX----
+CHP_4_4459      XXXXXXXXXXXXXXXXSSG-----------------------------------------
+                                                                            
+
+AEE_3_6377      ------------------------------------------------------------
+ATV_5_6444      ------------------------------------------------------------
+BBG_6_6031      ------------------------------------------------------------
+BTA_5_7197      ------------------------------------------------------------
+BBT_3_59        ------------------------------------------------------------
+BTA_5_31        ------------------------------------------------------------
+BBT_3_6427      SKENNGNQNTFSKVVDTPQGFLYEWWQIFWDIFXXXXXXXXXXXXXXXXXHFVCRRHGEL
+CIL_2_6878      ------------------------------------------------------------
+BRQ_4_6223      ------------------------------------------------------------
+BMM_3_6831      ------------------------------------------------------------
+BTD_1_7150      ------------------------------------------------------------
+BTE_3_6555      ------------------------------------------------------------
+BFT_8_5468      ------------------------------------------------------------
+CHP_4_4459      ------------------------------------------------------------
+                                                                            
+
+AEE_3_6377      -----
+ATV_5_6444      -----
+BBG_6_6031      -----
+BTA_5_7197      -----
+BBT_3_59        -----
+BTA_5_31        -----
+BBT_3_6427      TLVSH
+CIL_2_6878      -----
+BRQ_4_6223      -----
+BMM_3_6831      -----
+BTD_1_7150      -----
+BTE_3_6555      -----
+BFT_8_5468      -----
+CHP_4_4459      -----
+                     

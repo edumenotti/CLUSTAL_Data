@@ -1,0 +1,47 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BTA_5_3976      MDESNAAASLLSMETTANNHHYLHNKTSRATLMNSSQDGKKHAEDEVSDGANSRHPTISS
+GAL_0_100       MDESNAAASLLSMETTANNHHYLHNKTSRATLMNSSQDGKKHAEDEVSDGANSRHPTISS
+GAP_0_291       MDESNAAASLLSMETTANNHHYLHNKTSRATLMNSSQDGKKHAEDEVSDGANSRHPTISS
+                ************************************************************
+
+BTA_5_3976      ASIESLKTTYDENPLLSIMKSTCAPNNTPVHTPSGSPSLKVQSGGDIKDDPKENDTTTTT
+GAL_0_100       ASIESLKTTYDENPLLSIMKSTCAPNNTPVHTPSGSPSLKVQSGGDIKDDPKENDTTTTT
+GAP_0_291       ASIESLKTTYDENPLLSIMKSTCAPNNTPVHTPSGSPSLKVQSGGDIKDDPKENDTTTTT
+                ************************************************************
+
+BTA_5_3976      NTTLQDRRDSDNAVHAAASPLAPSNTPSDPKSLCNGHVAQATDPQISGAIQPQYTATNED
+GAL_0_100       NTTLQDRRDSDNAVHAAASPLAPSNTPSDPKSLCNGHVAQATDPQISGAIQPQYTATNED
+GAP_0_291       NTTLQDRRDSDNAVHAAASPLAPSNTPSDPKSLCNGHVAQ--------------------
+                ****************************************                    
+
+BTA_5_3976      IFPYSSTSTNSNTATTTIVAGAKKKIHLPPPQAPAVSSPGTTAAGSGAGTGSGIRSRTGS
+GAL_0_100       VFPYSSTSTNSNTATTTIVAGAKX------------------------------------
+GAP_0_291       ------------------------------------------------------------
+                                                                            
+
+BTA_5_3976      DLPLIITSANKNNGKNTNSPMSILSRNNSTNNNDNNSIQSSDSRESSNNNEIGGYLRGGT
+GAL_0_100       ------------------------------------------------------------
+GAP_0_291       ------------------------------------------------------------
+                                                                            
+
+BTA_5_3976      KRGGSPSNDSQVQHNVHDDQCAVGVAPRNFYFNKDREITDPNVKLDENESKVNISFWLNS
+GAL_0_100       ------------------------------------------------------------
+GAP_0_291       ------------------------------------------------------------
+                                                                            
+
+BTA_5_3976      KYRDEAYSLNESSSNNASSNTDTPTNSRHANTSSSITSRNNFQHFRFNQIPSQPPTSASS
+GAL_0_100       ------------------------------------------------------------
+GAP_0_291       ------------------------------------------------------------
+                                                                            
+
+BTA_5_3976      FTSTNNNNPQRNNINRGEDPFATSSRPSTGFFYGDLPNRNNRNSPFHTNEQYIPPPPPKY
+GAL_0_100       ------------------------------------------------------------
+GAP_0_291       ------------------------------------------------------------
+                                                                            
+
+BTA_5_3976      INSKLDGLRSRLLLGPNSA
+GAL_0_100       -------------------
+GAP_0_291       -------------------
+                                   

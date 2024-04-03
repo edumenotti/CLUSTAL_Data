@@ -1,0 +1,162 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEK_3_1042      ------------------------------------------------------------
+AQE_5_1054      ------------------------------------------------------------
+AFB_4_234       MCYLSE------------------------------------------------------
+AEL_3_4571      ------------------------------------------------------------
+ARB_2_1361      ------------------------------------------------------------
+BTV_5_153       ---MEEIQKSSELAIRNLLKDVYNRFGSDSLVGADRMDDGTVIHSKVTIHPEDWSADFDF
+CPA_4_5222      ------------------------------------------------------------
+YAX_0_4013      ---MEEIQKSSELAIRNLLKDVYNRFGSDSLVGADRMDDGTVIHSKVTIHPEDWSADFDF
+YCG_0_1726      ---MEEIQKSSELAIRNLLKDVYNRFGSDSLVGADRMDDGTVIHSKVTIHPEDWSADFDF
+ZVR_0_5439      ---MEEIQKSSELAIRNLLKDVYNRFGSDSLVGADRMDDGTVIHSKVTIHPEDWSADFDF
+AEL_3_4581      ---MEEIQKSSELAIRNLLKDVYNRFGSDSLVGAHRMDDGTVIHSKVTIHPEDWSADFDF
+ARB_2_1371      ---MEEIQKSSELAIRNLLKDVYNRFGSDSLVGAHRMDDGTVIHSKVTIHPEDWSADFDF
+CPA_4_5228      ---MEEIQKSSELAIRNLLKDVYNRFGSDSLVGADRMDDGTVIHSKVTIHPEDWSADFDF
+BDM_5_49        ------------------------------------------------------------
+                                                                            
+
+AEK_3_1042      ------------------------------------------------------------
+AQE_5_1054      ------------------------------------------------------------
+AFB_4_234       ---------------AITNSAILYCLRCLVGEDIPLNQGCLKPITIKIPKGSILSPINGI
+AEL_3_4571      ------------------------------------------------------------
+ARB_2_1361      ------------------------------------------------------------
+BTV_5_153       TGTGPEVYANWNAPIAITHSSIIYSLRCMVNADIPLNQGCVAPIRVIVPKAAFL------
+CPA_4_5222      ------------------------------------------------------------
+YAX_0_4013      TGTGPEVYANWNAPIAITHSSIIYSLRCMVNADIPLNQGCVAPIRVIVPKAAFL------
+YCG_0_1726      TGTGPEVYANWNAPIAITHSSIIYSLRCMVNADIPLNQGCVAPIRVIVPKAAFL------
+ZVR_0_5439      TGTGPEVYANWNAPIAITHSSIIYSLRCMVNADIPLNQGCVAPIRVIVPKAAFL------
+AEL_3_4581      TGTGPEVYANWNAPIAITHSSIIFSLRCMVNADIPLNQGCVAPIRVIVPKAAFL------
+ARB_2_1371      TGTGPEVYANWNAPIAITHSSIIFSLRCMVNADIPLNQGCVAPIRVIVPKAAFL------
+CPA_4_5228      TGTGPEVYANWNAPIAITHSSIIYSLRCMVNADIPLNQGCVAPIRVIVPKAAFL------
+BDM_5_49        ------------------------------------------------------------
+                                                                            
+
+AEK_3_1042      -----------------------MADSQGDCNNFTFGTGGNSGNKTDKQIKGFGYYETIC
+AQE_5_1054      -----------------------MADSQGDCNNFTFGTGGNSGNKTDKQIKGFGYYETIC
+AFB_4_234       AVVGGNVLTSQRVTDVILKTFHVMADSQGDCNNFTFGTGGRD-PETSVITNGFGYYETIC
+AEL_3_4571      ------------------------------MNNLTFGIDGNN---------GFGYYETIC
+ARB_2_1361      ------------------------------MNNLTFGIDGNN---------GFGYYETIC
+BTV_5_153       --------------NQALKQ-HYCGASQGCMNNFTFGIDGNN---------GFGYYETIC
+CPA_4_5222      ------------------------------MNNFTFGIDGNN---------GFGYYETIC
+YAX_0_4013      --------------NQALKQ-HYCGASQGCMNNFTFGIDGNN---------GFGYYETIC
+YCG_0_1726      --------------NQALKQ-HYCGASQGCMNNFTFGIDGNN---------GFGYYETIC
+ZVR_0_5439      --------------NQALKQ-HYCGASQGCMNNFTFGIDGNN---------GFGYYETIC
+AEL_3_4581      --------------NQALKQ-HV-------------------------------------
+ARB_2_1371      --------------NQALKQ-HV-------------------------------------
+CPA_4_5228      --------------NQALKQ-HV-------------------------------------
+BDM_5_49        ------------------------------MNNFTFGIDGEN---------GFGYYETIC
+                                                                            
+
+AEK_3_1042      GGSGAGADSWRGSGWNGSDAVHTNMTNTRMTDTEVFERRYPVLLKEFSIRRGSGGKGKYT
+AQE_5_1054      GGSGAGADSWRGSGWNGSDAVHTNMTNTRMTDTEVFERRYPVLLKEFSIRRGSGGKGKYT
+AFB_4_234       GGHGAGADSFRGLGWDGADAVHTNMTNTRMTDSEIFERRYPVILREFSVRKNSGGSGKYI
+AEL_3_4571      GGSGAGP------TWDGTSGVHTNMTNTRITDPEIMERRYPVILNQFSIREGSGGDDKYI
+ARB_2_1361      GGSGAGP------TWDGTSGVHTNMTNTRITDPEIMERRYPVILNQFSIREGSGGDDKYI
+BTV_5_153       GGSGAGP------TWDGTSGVHTNMTNTRITDPEIMERRYPVILNQFSIREGSGGDDKYI
+CPA_4_5222      GGSGAGP------TWDGTSGVHTNMTNTRITDPEIMERRYPVILNQFSIREGSGGDDKYI
+YAX_0_4013      GGSGAGP------TWDGTSGVHTNMTNTRITDPEIMERRYPVILNQFSIREGSGGDDKYI
+YCG_0_1726      GGSGAGP------TWDGTSGVHTNMTNTRITDPEIMERRYPVILNQFSIREGSGGDDKYI
+ZVR_0_5439      GGSGAGP------TWDGTSGVHTNMTNTRITDPEIMERRYPVILNQFSIREGSGGDDKYI
+AEL_3_4581      ------------------------------------------------------------
+ARB_2_1371      ------------------------------------------------------------
+CPA_4_5228      ------------------------------------------------------------
+BDM_5_49        GGSGAGP------TWNGTSGVHTNMTNTRITDPEILERRYPVILRQFGIREESYGSGKHV
+                                                                            
+
+AEK_3_1042      GGNGVVRDVQFRKAVTASILSERRVIGPHGIKGGQDGSRGENLWVRHSTGALINVGGKNT
+AQE_5_1054      GGNGVVRDVQFRKAVTASILSERRVIGPHGIKGGQDGSRGENLWVRHSTGALINVGGKNT
+AFB_4_234       GGNGVVRDIEFCYPVEASILSERRVIAPHGINDGGNGQRGVNLWVKNNGKNIINIGGKNS
+AEL_3_4571      GGCGVIREIQFSIPMVASILSERRAIQPYGMLRGNSGASGINLWLRGD-GRIVNIGSKGS
+ARB_2_1361      GGCGVIREIQFSIPMVASILSERRAIQPYGMLRGNSGASGINLWLRGD-GRIVNIGSKGS
+BTV_5_153       GGCGVIREIQFSIPMVASILSERRAIQPYGMLRGNSGASGINLWLRGD-GRIVNIGSKGS
+CPA_4_5222      GGCGVIREIQFSIPMVASILSERRAIQPYGMLRGNSGASGINLWLRGD-GRIVNIGSKGS
+YAX_0_4013      GGCGVIREIQFSIPMVASILSERRAIQPYGMLRGNSGASGINLWLRGD-GRIVNIGSKGS
+YCG_0_1726      GGCGVIREIQFSIPMVASILSERRAIQPYGMLRGNSGASGINLWLRGD-GRIVNIGSKGS
+ZVR_0_5439      GGCGVIREIQFSIPMVASILSERRAIQPYGMLRGNSGASGINLWLRGD-GRIVNIGSKGS
+AEL_3_4581      ------------------------------------------------------------
+ARB_2_1371      ------------------------------------------------------------
+CPA_4_5228      ------------------------------------------------------------
+BDM_5_49        GGCGVVREIEFSTPMVASILSERRTFQPYGMAGGGPGARGKNLWLKGD-GCVVNIGSKGS
+                                                                            
+
+AEK_3_1042      IYAQPGDRFIIKTPGGGGFGQYKD------------------------------------
+AQE_5_1054      IYAQPGDRFIIKTPGGGGFGQYKD------------------------------------
+AFB_4_234       VKVKPGDRIIIMTPGGGGCGTKIL------------------------------------
+AEL_3_4571      VNVQKGDRIQILTPGGGDYGPK--IERSEVFKKKCDKNAFFPRANGSIDIIRSLGNQINY
+ARB_2_1361      VNVQKGDRIQILTPGGGDYGPK--IERSEVFKKKCDKNAFFPRANGSIDIIRSLGNQINY
+BTV_5_153       VNVQKGDRIQILTPGGGDYGPK--IERSEVFKKKCDKNAFFPRANGSIDIIRSLGNQINY
+CPA_4_5222      VNVQKGDRIQILTPGGGDYGPK--IERSEVFKKKCDKNAFFPRANGSIDIIRSLGNQINY
+YAX_0_4013      VNVQKGDRIQILTPGGGDYGPK--IERSEVFKKKCDKNAFFPRANGSIDIIRSLGNQINY
+YCG_0_1726      VNVQKGDRIQILTPGGGDYGPK--IERSEVFKKKCDKNAFFPRANGSIDIIRSLGNQINY
+ZVR_0_5439      VNVQKGDRIQILTPGGGDYGPK--IERSEVFKKKCDKNAFFPRANGSIDIIRSLGNQINY
+AEL_3_4581      --------VQVM------------------------------------------------
+ARB_2_1371      --------VQVM------------------------------------------------
+CPA_4_5228      --------VQVM------------------------------------------------
+BDM_5_49        VKVKRGDRIQILTPGGGGYGPKQGKETSNPYSR--SKAPFVPRANGTVDILKCLGE----
+                        . :                                                 
+
+AEK_3_1042      ------------------------------------------------------------
+AQE_5_1054      ------------------------------------------------------------
+AFB_4_234       ------------------------------------------------------------
+AEL_3_4571      IMQYRDENGKPWVLKSVNQAKEITKLSGHEYLPILGLRGFRKSCVDILFNTDSLITKGKR
+ARB_2_1361      IMQYRDENGKPWVLKSVNQAKEITKLSGHEYLPILGLRGFRKSCVDILFNTDSLITKGKR
+BTV_5_153       IMQYRDENGKPWVLKSVNQAKEITKLSGHEYLPILGLRGFRKSCVDILFNTDSLITKGKR
+CPA_4_5222      IMQYRDENGKPWVLKSVNQAKEITKLSGHEYLPILGLRGFRKSCVDILFNTDSLITKGKR
+YAX_0_4013      IMQYRDENGKPWVLKSVNQAKEITKLSGHEYLPILGLRGFRKSCVDILFNTDSLITKGKR
+YCG_0_1726      IMQYRDENGKPWVLKSVNQAKEITKLSGHEYLPILGLRGFRKSCVDILFNTDSLITKGKR
+ZVR_0_5439      IMQYRDENGKPWVLKSVNQAKEITKLSGHEYLPILGLRGFRKSCVDILFNTDSLITKGKR
+AEL_3_4581      FLHPRD------------------------------------------------------
+ARB_2_1371      FLHPRD------------------------------------------------------
+CPA_4_5228      FLHPRD------------------------------------------------------
+BDM_5_49        ------------------------------------------------------------
+                                                                            
+
+AEK_3_1042      ------------------------------------------------------------
+AQE_5_1054      ------------------------------------------------------------
+AFB_4_234       ------------------------------------------------------------
+AEL_3_4571      VASTQAISGTGSLHLAAIFLATYYSKHYKVYISDPTWSNHAAVFSRAGFEVETYPYYDSQ
+ARB_2_1361      VASTQAISGTGSLHLAAIFLATYYSKHYKVYISDPTWSNHAAVFSRAGFEVETYPYYDSQ
+BTV_5_153       VVSTQAISGTGSLHLAAIFLATYYSKHYKVYISDPTWSNHAAVFSRAGFEVETYPYYDSQ
+CPA_4_5222      VVSTQAISGTGSLHLAAIFLATYYSKHYKVYISDPTWSNHAAVFSRAGFEVETYPYYDSQ
+YAX_0_4013      VVSTQAISGTGSLHLAAIFLATYYSKHYKVYISDPTWSNHAAVFSRAGFEVETYPYYDSQ
+YCG_0_1726      VVSTQAISGTGSLHLAAIFLATYYSKHYKVYISDPTWSNHAAVFSRAGFEVETYPYYDSQ
+ZVR_0_5439      VVSTQAISGTGSLHLAAIFLATYYSKHYKVYISDPTWSNHAAVFSRAGFEVETYPYYDSQ
+AEL_3_4581      ------------------------------------------------------------
+ARB_2_1371      ------------------------------------------------------------
+CPA_4_5228      ------------------------------------------------------------
+BDM_5_49        -------------------------------------SN---------------------
+                                                                            
+
+AEK_3_1042      ------------------------------------------------------------
+AQE_5_1054      ------------------------------------------------------------
+AFB_4_234       ------------------------------------------------------------
+AEL_3_4571      TKSLSFLEFLDSLKNCPEGSIIVLHTCAHNPTGLDPSKEEWKEIASITKHRNLFPYLMVL
+ARB_2_1361      TKSLSFLEFLDSLKNCPEGSIIVLHTCAHNPTGLDPSKEEWKEIASITKHRNLFPYLMVL
+BTV_5_153       TKSLSFLEFLDSLKNCPEGSIIVLHTCAHNPTGLDPSKEEWKEIASITKHRNLFPYLMVL
+CPA_4_5222      TKSLSFLEFLDSLKNCPEGSIIVLHTCAHNPTGLDPSKEEWKEIASITKHRNLFPYLMVL
+YAX_0_4013      TKSLSFLEFLDSLKNCPEGSIIVLHTCAHNPTGLDPSKEEWKEIASITKHRNLFPYLMVL
+YCG_0_1726      TKSLSFLEFLDSLKNCPEGSIIVLHTCAHNPTGLDPSKEEWKEIASITKHRNLFPYLMVL
+ZVR_0_5439      TKSLSFLEFLDSLKNCPEGSIIVLHTCAHNPTGLDPSKEEWKEIASITKHRNLFPYLMVL
+AEL_3_4581      ------------------------------------------------------------
+ARB_2_1371      ------------------------------------------------------------
+CPA_4_5228      ------------------------------------------------------------
+BDM_5_49        ------------------------------------------------------------
+                                                                            
+
+AEK_3_1042      --------------
+AQE_5_1054      --------------
+AFB_4_234       --------------
+AEL_3_4571      IWGSTVVISKRIAG
+ARB_2_1361      IWGSTVVISKRIAG
+BTV_5_153       IWGSTVVISKRIAG
+CPA_4_5222      IWGSTVVISKRIAG
+YAX_0_4013      IWGSTVVISKRIAG
+YCG_0_1726      IWGSTVVISKRIAG
+ZVR_0_5439      IWGSTVVISKRIAG
+AEL_3_4581      --------------
+ARB_2_1371      --------------
+CPA_4_5228      --------------
+BDM_5_49        --------------
+                              

@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BFT_8_2082      MYQGPPQPPPQAVPMPYIVNNNTPPYPNGNINFPPTAQQNIPPTVYPQQVPFPGQPQGGQ
+CQL_4_2454      MYQGPPQPPPQVVPMPYIVNNNTPPYPNGNINFPPTAQQNIPPTVYPQQVPFPGQPQGGQ
+                ***********.************************************************
+
+BFT_8_2082      FPQPSSEQQVFNQLPQVTQTFHNSAQNTNAT-----------------------------
+CQL_4_2454      FPQPSSEQQVFNQLPQVTQTFHNSAQNTNATGGPGSGSMPMFTPVASFPHPMATAATAAA
+                *******************************                             
+
+BFT_8_2082      -------------------
+CQL_4_2454      PLPRSASQASLSMLRVPYH
+                                   

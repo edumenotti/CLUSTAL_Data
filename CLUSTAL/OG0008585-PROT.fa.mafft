@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BME_1_754       VPSNWPEQLTGFDIEVYIQLEGGNYRARNQETRKEIQALSTEGQALYLQLYLTFRCFFSG
+CFN_4_450       ------------------------------------------------------------
+                                                                            
+
+BME_1_754       VISSRACYVVGPIQHCIQSFHKRIHQLHPRRWVRYKTLWPRGSRAISIGQYREFYVCGYL
+CFN_4_450       ------------------------------------------------------------
+                                                                            
+
+BME_1_754       MWKRLTVYNREKTRIHRSFNNHNEPRNGQNKIIADHPNQNNCHHHIAHLQYGVFIISEQG
+CFN_4_450       ------------------------------KIIADHPNQNNCHHHIAHLQYGVFINSEQG
+                                              ************************* ****
+
+BME_1_754       HCMQDQRATSTLGFRGITRCIKRWRQITSLTEVRCIEEFCEGIYQRSTKEEX
+CFN_4_450       HCMQDQRATSTLGFRGITRCIKRWRQITSLTEVRCIEEFCEGIYQRSTKEEX
+                *************************************************** 

@@ -1,0 +1,44 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMP_5_3776      ------------------------------------------------------------
+CNC_4_2090      ------------------------------------------------------------
+CNC_4_6904      ------------------------------------------------------------
+CPB_4_5253      ------------------------------------------------------------
+AVR_6_3140      TLKKKKVARKLTFHLQRNMTRKLTAIFSIIPPAIFPQRNYVSKNRHFQKMIHLKPFLPPK
+                                                                            
+
+AMP_5_3776      ------------------------------------------------------------
+CNC_4_2090      ------------------------------------------------------------
+CNC_4_6904      ------------------------------------------------------------
+CPB_4_5253      ------------------------------------------------------------
+AVR_6_3140      GFWSRHSILYSTTQVRRKTLTLHYQSRVWKTIVKMCLRFCNVKYSMILKTNFLVKEMAPW
+                                                                            
+
+AMP_5_3776      ------------------------------------------------------------
+CNC_4_2090      ----------------------------------------------------------RK
+CNC_4_6904      ----------------------------------------------------------RK
+CPB_4_5253      ------------------------------------------------------------
+AVR_6_3140      FQKLNQNVLWPNTLATLAPPDRIEKSPNRLGTWLLQRAIIQFYQTKIVYSREKRREKRRK
+                                                                            
+
+AMP_5_3776      -----------------LRSHRIIAFPSLREMSLQTIYLTFTATKARKKKSKMSKPIRRI
+CNC_4_2090      RRREKKRESTAKAPLKLLRSHRIIAFPSLREMSLQTIYLTFTATKARKKKSKMSKPIRRI
+CNC_4_6904      RRREKKRESTAKAPLKLLRSHRIIAFPSLREMSLQTIYLTFTATKARKKKSKMSKPIRRI
+CPB_4_5253      -----------------LRSHRIIAFPSLREMSLQTIYLTFTATKARKKKSKMSKPIRRI
+AVR_6_3140      RRREKKRELTAKAPLKLLRSHRIIAFPSLREMSLQTIYLTFTATKARKKKSMMSKPIRRI
+                                 ********************************** ********
+
+AMP_5_3776      KKGRTRAVILKCRRLSVTVQIGYLPRTTVDTNLPLALIVVVYLQLTLKMKKSKFIHLDKN
+CNC_4_2090      KKGRTRAVILKCRRLSVTVQIGYLPRTTVDTNLPLALIVVVYLQLTLKMKKSRFIHLDKN
+CNC_4_6904      KKGRTRAVILKCRRLSVTVQIGYLPRTTVDTNLPLALIVVVYLQLTLKMKKSRFIHLDKN
+CPB_4_5253      KKGRTRAVILKCRRLSVTVQIGYLPRTTVDTNLPLALIVVVYLQLTLKMKKSRFIHLDKN
+AVR_6_3140      KKGRTRAVILKCRRLSVTVQIGYLPRTTVDTNLPLALIVVVYLQLTLKMKKKQ-VHPS--
+                ***************************************************.: :* .  
+
+AMP_5_3776      VLR
+CNC_4_2090      VLR
+CNC_4_6904      VLR
+CPB_4_5253      VLR
+AVR_6_3140      ---
+                   

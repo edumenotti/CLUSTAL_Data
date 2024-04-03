@@ -1,0 +1,119 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMN_5_5675      STDSTSSIEYTTSDDPHASSSLAAMYRTRSSDEVTTSTDPTGSSDVATTIDSTTSVISST
+BMM_3_1045      STDSTSSIEYTTSDDPHASSSLA-------------------------------------
+BTE_3_876       STDSTSSIEYTTSDDPHASSSLA-------------------------------------
+CBF_5_1114      STDSTSSIEYTTSDDPHASSSLA-------------------------------------
+CKK_4_1172      STDSTSSIEYTTSDDPHASSSLA-------------------------------------
+CKS_5_1144      STDSTSSIEYTTSDDPHASSSLA-------------------------------------
+CHQ_4_395       ---------YTTSDDPHASSSLA-------------------------------------
+                         **************                                     
+
+AMN_5_5675      SAYPTSSSAVSTSVISSTSADPTSSVVSSTSVGLTSSIHVTTSTVQTTSVDPSSSSDLTS
+BMM_3_1045      ------------------------------------------------------------
+BTE_3_876       ------------------------------------------------------------
+CBF_5_1114      ------------------------------------------------------------
+CKK_4_1172      ------------------------------------------------------------
+CKS_5_1144      ------------------------------------------------------------
+CHQ_4_395       ------------------------------------------------------------
+                                                                            
+
+AMN_5_5675      STSSILSSSFVSSNLSTLATPYIRSSSTVSGTALAGQTTSVYPTSSSDITTSTVQTTSAD
+BMM_3_1045      ------------------------------------------------------------
+BTE_3_876       ------------------------------------------------------------
+CBF_5_1114      ------------------------------------------------------------
+CKK_4_1172      ------------------------------------------------------------
+CKS_5_1144      ------------------------------------------------------------
+CHQ_4_395       ------------------------------------------------------------
+                                                                            
+
+AMN_5_5675      PSSSVTISTSTDSTSSIEYTTSDDPHASSSLAAMYRTRSSDEVTTSTDLTSSSDVATSVD
+BMM_3_1045      --------------------------------AMYRTRSSDEVTTSTDLTSSSNVATSV-
+BTE_3_876       --------------------------------AMYRTRSSDEVTTSTDLTSSSNVATSV-
+CBF_5_1114      --------------------------------AMYRTRSSDEVTTSTDLTSSSNVATSV-
+CKK_4_1172      --------------------------------AMYRTRSSDEVTTSTDLTSSSNVATSV-
+CKS_5_1144      --------------------------------AMYRTRSSDEVTTSTDLTSSSNVATSV-
+CHQ_4_395       --------------------------------GMYRTRSPDEVTTSTDPTSSSDVATSVD
+                                                .******.******** ****:***** 
+
+AMN_5_5675      PTTSVISSTSADPTTSADSTTSTVQTTSVDPTSSVXSSAPVDPASSVVSLTSSYPTSSST
+BMM_3_1045      -----------DPTTSADSTTSTVQTTSADPTTSVVT-----------------------
+BTE_3_876       -----------DPTTSADSTTSTVQTTSADPTTSVVT-----------------------
+CBF_5_1114      -----------DPTTSADSTTSTVQTTSADPTTSVVT-----------------------
+CKK_4_1172      -----------DPTTSADSTTSTVQTTSADPTTSVVT-----------------------
+CKS_5_1144      -----------DPTTSADSTTSTVQTTSADPTTSVVT-----------------------
+CHQ_4_395       STTST------VQTTSADSTTSVVSSTSADPTTSTVQ-----------------------
+                             *********.*.:**.***:*.                         
+
+AMN_5_5675      VTISANSNGSATLTAQTTSIDPVSSIVSSSGATTIISSASIDPASSVVSSTSSEPTSFIV
+BMM_3_1045      ------------------------------------------------------------
+BTE_3_876       ------------------------------------------------------------
+CBF_5_1114      ------------------------------------------------------------
+CKK_4_1172      ------------------------------------------------------------
+CKS_5_1144      ------------------------------------------------------------
+CHQ_4_395       ------------------------------------------------------------
+                                                                            
+
+AMN_5_5675      SSTSVYSTRPSGPTTSTDXXXXXXXXXXXXXXXXXAMYRTRSSDEVTTSTDLTSSSNVAT
+BMM_3_1045      ------------------------------------------------------------
+BTE_3_876       ------------------------------------------------------------
+CBF_5_1114      ------------------------------------------------------------
+CKK_4_1172      ------------------------------------------------------------
+CKS_5_1144      ------------------------------------------------------------
+CHQ_4_395       ------------------------------------------------------------
+                                                                            
+
+AMN_5_5675      SVDPTTSADSTTSTVQTTSTVQTTSVVSSSSADPTSSSAVTTSIVQTTSAGPSNNIGNST
+BMM_3_1045      --------------------------------------------------GPSNNIGNST
+BTE_3_876       --------------------------------------------------GPSNNIGNST
+CBF_5_1114      --------------------------------------------------GPSNNIGNST
+CKK_4_1172      --------------------------------------------------GPSNNIGNST
+CKS_5_1144      --------------------------------------------------GPSNNIGNST
+CHQ_4_395       ----------------------------------------------------TTSVDPTT
+                                                                    :..:. :*
+
+AMN_5_5675      LANPTTFAISSTSIDPTSSSDVITSTVQTTSIEPTTSLVSSNDITTSTSLNISVVISTST
+BMM_3_1045      LANSTTFAVSSTSIDPTSSSDVITSTVQTTSIEPTTSLVSSNDITTSTSLNISVVISTST
+BTE_3_876       LANSTTFAVSSTSIDPTSSSDVITSTVQTTSIEPTTSLVSSNDITTSTSLNISVVISTST
+CBF_5_1114      LANSTTFAVSSTSIDPTSSSDVITSTVQTTSIEPTTSLVSSNDITTSTSLNISVVISTST
+CKK_4_1172      LANSTTFAVSSTSIDPTSSSDVITSTVQTTSIEPTTSLVSSNDITTSTSLNISVVISTST
+CKS_5_1144      LANSTTFAVSSTSIDPTSSSDVITSTVQTTSIEPTTSLVSSNDITTSTSLNISVVISTST
+CHQ_4_395       SVDSTTSTVQTTSVDPTTSTDSTTSTVQTTSADPTTSVV--------TDLSSSVIISSSA
+                 .:.** ::.:**:***:*:*  ******** :****:*        *.*. **:**:*:
+
+AMN_5_5675      DSTSLIASTTTVGPHASSSVAGMYRTRSSDEVTTSTDPTSSSDVATSADPTSSSAVTTLV
+BMM_3_1045      DSTSLIESTTTVGPHASSSVAGMYRTRSSDEVTTSTDP----------------------
+BTE_3_876       DSTSLIESTTTVGPHASSSVAGMYRTRSSDEVTTSTDP----------------------
+CBF_5_1114      DSTSLIESTTTVGPHASSSVAGMYRTRSSDEVTTSTDPTSSSDVATSADPTSSSAVTTLV
+CKK_4_1172      DSTSLIESTTTVGPHASSSVAGMYRTRSSDEVTTSTDPTSSSDVATSADPTSSSAVTTLV
+CKS_5_1144      DSTSLIESTTTVGPHASSSVAGMYRTRSSDEVTTSTDPTSSSDVATSADPTSSSAVTTLV
+CHQ_4_395       DPTSSIEYITSDDPHASSSLAAMYRTRSSDEVTTSTGL----------------------
+                *.** *   *: .******:*.**************.                       
+
+AMN_5_5675      DPTTSVVISTSVDQTSSSDVATSVDPTTSVISSTSADPTTSADSTTSTVQTTSVDPTSSV
+BMM_3_1045      --------------TGSSDVATTIDSTTSVISSTSADPTSSSDATTSTVQTTSVDPTSSV
+BTE_3_876       --------------TGSSDVATTIDSTTSVISSTSADPTSSSDATTSTVQTTSVDPTSSV
+CBF_5_1114      DPTTSVVISTSVDQTSSSDVATSVDPTTSVISSTSADPTTSADSTTSTVQTTSV------
+CKK_4_1172      DPTTSVVISTSVDQTSSSDVATSVDPTTSVISSTSADPTTSADSTTSTVQTTSVDPTSSV
+CKS_5_1144      DPTTSVVISTSVDQTSSSDVATSVDPTTSVISSTSADPTTSADSTTSTVQTTSV------
+CHQ_4_395       --------------TSSSDVATSVDPTASVISSTSVDSTTPADSTTWTVQTTSVDPTTSV
+                              *.******::*.*:*******.*.*:.:*:** *******      
+
+AMN_5_5675      XSSAPVDPASSVVSLTSSYPTSSSTVTISANSNGSATLTAQTTSIDPVSSIVSSSGATTI
+BMM_3_1045      VSSAPVDPA---------------------------------------------------
+BTE_3_876       VSSAPVDPASSVVSLTSSYPTSSSTVTISANSNGSATLTAQTTSIDPVSSIVSSSGATTI
+CBF_5_1114      ------------------------------------------------------------
+CKK_4_1172      XSSAPVDPASSVVSLTSSYPTSSSTVTISANSNGSATLTAQTTSIDPVSSIVSSSGATTI
+CKS_5_1144      ------------------------------------------------------------
+CHQ_4_395       VSSTSADPTTSVVSS---------------------------------------------
+                                                                            
+
+AMN_5_5675      ISSASIDPASSVVSSTSSEPTSFIVSSTSVYSTRPSGPTTSTDX
+BMM_3_1045      --------------------------------------------
+BTE_3_876       ISSASIDPASSVVSSTSSEPTSFIVSSTSVYSTRPSGPTTSTDX
+CBF_5_1114      --------------------------------------------
+CKK_4_1172      ISSASIDPASSVVSSTSSEPTSFIVSSTSVYSTRPSGPTTSTDX
+CKS_5_1144      --------------------------------------------
+CHQ_4_395       --------------------------------------------
+                                                            

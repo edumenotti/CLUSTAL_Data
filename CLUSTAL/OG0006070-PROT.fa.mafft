@@ -1,0 +1,58 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AFI_5_4179      MTETKDLLQDEEFLKIRRLNSAEPNKRHSVTYDNVILPQESMEVSPRSSTTSLVEPVEST
+AVV_8_1458      MTETKDLLQDEEFLKIRRLNSAEPNKRHSVTYDNVILPQESMEVSPRSSTTSLVEPVESS
+BAB_8_2466      MTETKDLLQDEEFLKIRRLNSAEPNKRHSVTYDNVILPQESMEVSPRSSTTSLVEPVESS
+BAB_8_2476      MTETKDLLQDEEFLKIRRLNSAEPNKRHSVTYDNVILPQESMEVSPRSSTTSLVEPVESS
+BAD_8_2338      MTETKDLLQDEEFLKIRRLNSAEPNKRHSVTYDNVILPQESMEVSPRSSTTSLVEPVESS
+BAD_8_2341      MTETKDLLQDEEFLKIRRLNSAEPNKRHSVTYDNVILPQESMEVSPRSSTTSLVEPVESS
+BAE_6_2330      MTETKDLLQDEEFLKIRRLNSAEPNKRHSVTYDNVILPQESMEVSPRSSTTSLVEPVESS
+BAE_6_2333      MTETKDLLQDEEFLKIRRLNSAEPNKRHSVTYDNVILPQESMEVSPRSSTTSLVEPVESS
+AVN_5_1         MDKKKDLLENEQFLRIQKLNAADAGKRQSITVDD-----------------------EGE
+AVN_5_41        MDKKKDLLENEQFIRIQKLNAADAGKRQSITVDD-----------------------EGE
+AVS_5_53        MDKKKDLLENEQFLRIQKLNAADAGKRQSITVDD-----------------------EGE
+AVT_6_5889      MDKKKDLLENEQFIRIQKLNAADAGKRQSITVDD-----------------------EGE
+                * :.****::*:*::*::**:*:..**:*:* *:                       *. 
+
+AFI_5_4179      EAERVAGKQEQEEEYPVDAHMQKYLSHLKSKSRSRFHRKDASKYVSFFGDVSFDPRPTLL
+AVV_8_1458      X-----------------------------------------------------------
+BAB_8_2466      X-----------------------------------------------------------
+BAB_8_2476      X-----------------------------------------------------------
+BAD_8_2338      X-----------------------------------------------------------
+BAD_8_2341      X-----------------------------------------------------------
+BAE_6_2330      X-----------------------------------------------------------
+BAE_6_2333      X-----------------------------------------------------------
+AVN_5_1         L-----------------------------------------------------------
+AVN_5_41        L-----------------------------------------------------------
+AVS_5_53        L-----------------------------------------------------------
+AVT_6_5889      L-----------------------------------------------------------
+                                                                            
+
+AFI_5_4179      DSAINVPFQTTFKGPVLEKQLKNLQLTKTKTKATVKTTVKTTEKTDKADAPPRRKTGVEL
+AVV_8_1458      ------------------------------------------------------------
+BAB_8_2466      ------------------------------------------------------------
+BAB_8_2476      ------------------------------------------------------------
+BAD_8_2338      ------------------------------------------------------------
+BAD_8_2341      ------------------------------------------------------------
+BAE_6_2330      ------------------------------------------------------------
+BAE_6_2333      ------------------------------------------------------------
+AVN_5_1         ------------------------------------------------------------
+AVN_5_41        ------------------------------------------------------------
+AVS_5_53        ------------------------------------------------------------
+AVT_6_5889      ------------------------------------------------------------
+                                                                            
+
+AFI_5_4179      FRDLRVRMDVLGLDSHQVLHRLLCVVRQCME
+AVV_8_1458      -------------------------------
+BAB_8_2466      -------------------------------
+BAB_8_2476      -------------------------------
+BAD_8_2338      -------------------------------
+BAD_8_2341      -------------------------------
+BAE_6_2330      -------------------------------
+BAE_6_2333      -------------------------------
+AVN_5_1         ----------YGLDT----------------
+AVN_5_41        ----------YGLDT----------------
+AVS_5_53        ----------YGLDT----------------
+AVT_6_5889      ----------YGLDT----------------
+                                               

@@ -1,0 +1,58 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ACT_2_4         FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFS----------
+ACV_2_25        FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFS----------
+ALT_5_28        FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFSSN--------
+ARK_5_11        FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFS----------
+BEP_4_860       FSSNYFSSNFYSQFYFSPNYFXXXXXXXXXXXXXXXNFYSQFYFSPNYFSSNYFSPNFKR
+BHC_2_3         FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFSSN--------
+BLC_4_36        FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFSSN--------
+BRB_4_14        FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFSSN--------
+CEF_4_25        FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFSSN--------
+YBT_0_5479      FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFSSN--------
+GAP_0_703       FCSNYFSPNFYSQFYFSPN-----------------------YFSPNYFSSN--------
+GAP_0_391       FCSNYFSPNFYSQFYFSSN-----------------------YFSPNYFSPN--------
+                *.*****.*********.*                       ********          
+
+ACT_2_4         ---------------SN---------------------YFSSNYFSSNYFS------SNY
+ACV_2_25        ---------------SN---------------------YFSSNYFSSNYFS------SNY
+ALT_5_28        ------------YFSSN---------------------YFSSNYFSSNYFS------SNY
+ARK_5_11        ---------------SN---------------------YFSSNYFSSNYFS------SNY
+BEP_4_860       CDYFSPNYFSPKYFSSNYLDRSNYFCSNYFSPNFYSQFYFSSNYFSPNYFSPNYLDRSNY
+BHC_2_3         ------------YFSPN---------------------YFSSNYFSSNYFS------SNY
+BLC_4_36        ------------YFSSN---------------------YFSSNYFSSNYFS------SNY
+BRB_4_14        ------------YFSSN---------------------YFSSNYFSSNYFS------SNY
+CEF_4_25        ------------YFSSN---------------------YFSSNYFSSNYFS------SNY
+YBT_0_5479      ------------YFSSN---------------------YFSSNYFSSNYFS------SNY
+GAP_0_703       ------------YFSSN---------------------YFSSNYFSSNYFS------SNY
+GAP_0_391       --------------------------------------YFSPNYLDR----------SNY
+                                                      ***.**:.           ***
+
+ACT_2_4         FSSNYFSSN---------------------------------------------------
+ACV_2_25        FSSNYFSSN---------------------------------------------------
+ALT_5_28        FSSNYFRSQFKFSSKLCYQF----------------------------------------
+ARK_5_11        FSSNYFSSN---------------------------------------------------
+BEP_4_860       FSSNYFRSQFKFSSKLCYQF----------------------------------------
+BHC_2_3         FSSNYFRSX---------------------------------------------------
+BLC_4_36        FSSNYFRSQFKFSSKLCYQF----------------------------------------
+BRB_4_14        FSSN--------------------------------------------------------
+CEF_4_25        FSSNYFRSX---------------------------------------------------
+YBT_0_5479      FSSNYFRSX---------------------------------------------------
+GAP_0_703       FSSNYFRSQFKFSSKLCYQFKFSRPNFKRCDYFSPNYFSPKYFSFNYFDRSNYLSSKLCY
+GAP_0_391       FSSNYFRSQFKFSSKLCYQFKFSRPNFKCCDYFNPN-----YSSFNYFGRSNYPSSKLCY
+                ****                                                        
+
+ACT_2_4         ------------
+ACV_2_25        ------------
+ALT_5_28        ------------
+ARK_5_11        ------------
+BEP_4_860       ------------
+BHC_2_3         ------------
+BLC_4_36        ------------
+BRB_4_14        ------------
+CEF_4_25        ------------
+YBT_0_5479      ------------
+GAP_0_703       HFX---------
+GAP_0_391       HFYFHRLYIFNV
+                            

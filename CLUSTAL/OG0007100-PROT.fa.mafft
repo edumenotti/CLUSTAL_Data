@@ -1,0 +1,86 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_2465      METYKTGTVNTIINENGVDLGSINVNLYTMDNKTSVIDIHIKKKNIINENQEYISVNFNQ
+CDH_0_3055      METYKTGTVNTIINENGVDLGSINVNLYTMDNKTSVIDIHIKKKNIINENQEYISVNFNQ
+CDH_0_3064      METYKTGTVNTIINENGVDLGSINVNLYTMDNKTSVIDIHIKKKNIINENQEYISVNFNQ
+CDH_0_6956      METYKTGTVNTIINENGVDLGSINVNLYTMDNKTSVIDIHIKKKNIINENQEYISVNFNQ
+CFH_0_1585      METYKTGTVNTIINENGVDLGSINVNLYTMDNKTSVIDIHIKKKNIINENQEYISVNFNQ
+                ************************************************************
+
+CDH_0_2465      TKFEPVLHVFAQDGSIFTNEPLEIVKAEEGFVRYIIPEYITKHVGQMQCKLFLENPENND
+CDH_0_3055      TKFEPVLHVFAQDGSIFTNEPLEIVKAEEGFVRYIIPEYITKHVGQMQCKLFLENPENND
+CDH_0_3064      TKFEPVLHVFAQDGSIFTNEPLEIVKAEEGFVRYIIPEYITKHVGQMQCKLFLENPENND
+CDH_0_6956      TKFEPVLHVFAQDGSIFTNEPLEIVKAEEGFVRYIIPEYITKHVGQMQCKLFLENPENND
+CFH_0_1585      TKFEPVLHVFAQDGSIFTNEPLEIVKAEEGFVRYIIPEYITKHVGQMQCKLFLENPENND
+                ************************************************************
+
+CDH_0_2465      STHVANFYFTVNDSGITKSVGKEIRVELLDDIVEKVMKDNVDIFKGPKGDTGEQGPAGQD
+CDH_0_3055      STHVANFYFTVNDSGITKSVGKEIRVELLDDIVEKVMKDNVDIFKGPKGDTGEQGPAGQD
+CDH_0_3064      STHVANFYFTVNDSGITKSVGKEIRVELLDDIVEKVMKDNVDIFKGPKGDTGEQGPAGQD
+CDH_0_6956      STHVANFYFTVNDSGITKSVGKEIRVELLDDIVEKVMKDNVDIFKGPKGDTGEQGPAGQD
+CFH_0_1585      STHVANFYFTVNDSGITKSVGKEIRVELLDDIVEKVMKDNVDIFKGPKGDTGEQGPAGQD
+                ************************************************************
+
+CDH_0_2465      GKDGKNGINGIDGINGNPGPQGPPGRDGKDGVDGQDGSDGKSFDFESLTEEQKAEITPKL
+CDH_0_3055      GKDGKNGINGX-------------------------------------------------
+CDH_0_3064      GKDGKNGINGX-------------------------------------------------
+CDH_0_6956      GKDGKNGINGIDGVNGNPGPQGPPGKDGRDGVNGKDGSDGKSFDFESLTEEQKAEITPKL
+CFH_0_1585      GKDGKNGINGIDGINGNPGPQGPPGRDGKDGVDGQDGSDGKSFDFESLTEEQKAEITPKL
+                **********                                                  
+
+CDH_0_2465      PDFSNWQQYRFTENDGSRKWLGTLSQPIETLDAGLYECSMPSDYKSVNAPSDSN------
+CDH_0_3055      ------------------------------------------------------------
+CDH_0_3064      ------------------------------------------------------------
+CDH_0_6956      PDFSNWQQYRFTENDGTRKWLGTLSKPVETLEPGLYECSIPSDNQSVNAPADIN------
+CFH_0_1585      PDFSNWQQYKLTNDDGTL--------------------------NSITAEVDMNMMTSDI
+                                                                            
+
+CDH_0_2465      ----GAGYIAEI-NVTKGQSGRKHI-ILIQNYQ------NNIWSKTIHTD----GNDRDW
+CDH_0_3055      ------------------------------------------------------------
+CDH_0_3064      ------------------------------------------------------------
+CDH_0_6956      ----GVGYIAEI-NVTKGQSGRKQI-ILTQSNR------NNIWSKVIHTN----GDDKGW
+CFH_0_1585      FTRTGFNYCSNIKNAPNGGTNKGYINVYIQSDTIGYAFYKDYNSSSIYTNYKYGKNWQGW
+                                                                            
+
+CDH_0_2465      VLLNPQSQRYRLTNDDGTNFF---------DTNA---IINLSNEDEIKKLPSGIRYITRT
+CDH_0_3055      ------------------------------------------------------------
+CDH_0_3064      ------------------------------------------------------------
+CDH_0_6956      TQLNPQSQKYKLTNDDGTNFY---------TGFG---TTNLNNEDEIKKLPTGIRYITRV
+CFH_0_1585      ILINPQGQMTKITNDNGFSFYIDSIDFNDLSGFASNHTTGFFCSNNLKNTPNGY------
+                                                                            
+
+CDH_0_2465      TGLPSDVSSNNGWILKLTRSDSQLS-TLYFQPYNSSQLLQRVTYNGLSEWRYINQASIDT
+CDH_0_3055      ------------------------------------------------------------
+CDH_0_3064      ------------------------------------------------------------
+CDH_0_6956      TGLPSDVSSNEGWLLKLTRSDSQLS-TLYFQPYNSSQLLQRVTYNGLSEWRYINQASTDT
+CFH_0_1585      ---------TSGSIL-LVRTFEEVNKIIYTNPFNNDIYINTSLNNKWSRWRKVVSEDYDT
+                                                                            
+
+CDH_0_2465      GWVPLPLLNGAEADVYSDSYLPVSYRVRKTGDNKTVQIIGNIKKLYTGSVFAQLPLNITP
+CDH_0_3055      ------------------------------------------------------------
+CDH_0_3064      ------------------------------------------------------------
+CDH_0_6956      GWVPLPLLNGAEADVYSDSYLPVSYRVRKTGDNKTVQIIGNIKKLNTGSVFAQLPLNITP
+CFH_0_1585      GWIPLPLTNGASPDTYSSSYLPVSFRVITQGESKTIQIIGNIKNLSTGLVFSQLPNNIAP
+                                                                            
+
+CDH_0_2465      TKNIEFKLNQRIG-----------------------------------------------
+CDH_0_3055      ------------------------------------------------------------
+CDH_0_3064      ------------------------------------------------------------
+CDH_0_6956      TKNIEFKLNQRIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXEWKRQ
+CFH_0_1585      IKTIEYKLNQRTS-----------------------------------------------
+                                                                            
+
+CDH_0_2465      --------------TSNAVGYLA-----------------SDGTMKVVGAVEADSTYMIN
+CDH_0_3055      ------------------------------------------------------------
+CDH_0_3064      ------------------------------------------------------------
+CDH_0_6956      QVEVETPKQDTEIHKDQIIAELSLELIRTQEELSDVRKDISDLTIQLLGGTTNA------
+CFH_0_1585      --------------SNSTLAYIT-----------------NDGAMKVVGTADPNNTYMIN
+                                                                            
+
+CDH_0_2465      LTYMV
+CDH_0_3055      -----
+CDH_0_3064      -----
+CDH_0_6956      -----
+CFH_0_1585      LSYII
+                     

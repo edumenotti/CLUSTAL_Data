@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_5843      MIHFEHFTLEHYRTLFQDDRLISVIFNTVAVALLAASVSTVIGTFGAIALYYLRNKKFKV
+CFH_0_1769      ------------------------------------------------------------
+                                                                            
+
+CDH_0_5843      TLLTLNNVLMVSSDVVIGASFLIMFTAIGHFTGLGLGFSTVLASHIAFCIPIVVIIVLPQ
+CFH_0_1769      ------------------------------------------------------------
+                                                                            
+
+CDH_0_5843      LYEMNDNMLNAARDLGANESQLLSSVIIPNIMPSIIGGFFMALTYSLDDFTVSFFVTGNG
+CFH_0_1769      ------------------------------------------------------------
+                                                                            
+
+CDH_0_5843      FSVLSVEVYAMARKGIIIIGILCLVMSHWFKSKENTQTQEKIYVYNWGEYIDPSLIKKFE
+CFH_0_1769      -------------------------MSHWFKSKENTQTQEKIYVYNWGEYIDPSLIKKFE
+                                         ***********************************
+
+CDH_0_5843      KQTGIQVVYETFDSNEVMEAKIRNGGTHYDVAFPSEYTVQKLKRSNLLVPLDHTKIPNIK
+CFH_0_1769      KQTGIQVVYETFDSNEAMEAKIRNGGTHYDVAFPSEYTVQKLKRSNLLVPLDHTKIPNIK
+                ****************.*******************************************
+
+CDH_0_5843      NLDSDYMNMSYDPHNKYSLPYFFGTVGILYNKDKYPHDNFNSWSELYQSKYKNDILLVDG
+CFH_0_1769      NLDSDYMNMSYDPHNKYSLPYFFGTVGILYNKDKYPHDNFNSWSDLYQSKYKNDILLVDG
+                ********************************************:***************
+
+CDH_0_5843      AREMMGMGLNKLGYSLNDNHSSHIKRAEVDLKKLVPQVRGVVGDEITMMLQQHEGNIAVV
+CFH_0_1769      AREMMGMGLNKLGYSLNDNHSSHIKRAEVDLKKLVPQVRGVVGDEITMMLQQHEGNIAVV
+                ************************************************************
+
+CDH_0_5843      WSGVAAPLVQGSNKYNYVIPKEGSNLWFDNMVIPKTAQNKEGAYKFMNFLLDEKNNKQNT
+CFH_0_1769      WSGVAAPLVQGSNKYNYVIPKEGSNLWFDNMVIPKTAQNKEGAYKFMNFLLDEKNNKQNT
+                ************************************************************
+
+CDH_0_5843      EWVGYATPNKAARDKLPKEVREDQRFYPTKKEQNRLEVYKDLGQKTLSEYNESFLNFKMN
+CFH_0_1769      EWVGYATPNKAARDKLPKEVREDHRFYPTKKEQNRLEVYKDLGQKTLSEYNESFLNFKMN
+                ***********************:************************************
+
+CDH_0_5843      LK
+CFH_0_1769      LK
+                **

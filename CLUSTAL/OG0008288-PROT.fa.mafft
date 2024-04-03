@@ -1,0 +1,38 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATB_1_2523      HLQLRTEPAQTGPQYQEMPLKKRSSHYHQYLQPNPKHLQSSPQLTHHSKLLNRQKRRRKR
+BTE_3_3966      ------------------------------------------------------------
+                                                                            
+
+ATB_1_2523      RRHLLRSQLKQEACLKNMRKRERKGKDVKNNYMPNTKFAQTVTQVQNMPIKLVKVHQVVF
+BTE_3_3966      ---LLRSQLKQEACLKNMRKRERKGKDVKNNYTPNTKFAQTVTQVQNMPIKLVKVHQVVF
+                   ***************************** ***************************
+
+ATB_1_2523      ILLMKVRMSQWPLSKISKSNQKRSSSMRFWSRVANTLILISLILTFKATFGSLWNTWKVA
+BTE_3_3966      ILLMKVRMSQWPLSKISKSNQKRSSSMRFWSRVANTLILISLILTFKATFGSLWNTWKVA
+                ************************************************************
+
+ATB_1_2523      PLMWSPIVFQKVKLVPFVEKLVGWNFYILKVFFTEISNPITSYCPWKGILSRISVFALKS
+BTE_3_3966      PLMWSPIVFQKVKLVPFVEKLVGWNFYILKVFFTEISNPITSYCPWKGILSRISDFALKS
+                ****************************************************** *****
+
+ATB_1_2523      MNTKELLWWERLIGWRLKWFLGKNMAQKISGRWVSSLKSRGSLHIMKPREHCILLQMVHP
+BTE_3_3966      MNTKELLWWERLIGWRLKWFLGKNMAQKISGRWVSSLKSRGSLHIMKPLEHCILLQMVHP
+                ************************************************ ***********
+
+ATB_1_2523      SRNPRIYRQAKNSLIGVYVWSPKIEQALRNCFMMNISRRLKPIPHWPRSSQDRKLRTWML
+BTE_3_3966      SRNPRIYRQAKNSLIGVYVWSPKIEQALRNCFMMNISQRLKPIPHWLRSSQDRKLRTWML
+                *************************************:******** *************
+
+ATB_1_2523      MKIMTTITTTSILIRQTIVTTITIAKKPIWTLKMINKX----------------------
+BTE_3_3966      MKIMTTITTTSILIRQTIVTTITIAKKPIWTLKMIXXXXXXXXXXXXXXXXXIDKVYTQL
+                ***********************************                         
+
+ATB_1_2523      ------------------------------------------------------------
+BTE_3_3966      LAKFFSYILSCIFGHFITHPTLIHNFINRITIWHCNPIHVRNLLCYSIILFNLLHLVISN
+                                                                            
+
+ATB_1_2523      -----------------------------
+BTE_3_3966      VCAGRFFQCGRRQEKEKIVNMIVIFLVSX
+                                             

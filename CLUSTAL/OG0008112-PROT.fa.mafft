@@ -1,0 +1,22 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ALV_2_590       RRTRTKFRQQGVCRKLKRAGSEARTEREKKFRNQSEYLENATATSNQITGALEEAGSKGL
+CFN_4_5635      RRTRTKFRQQGVCRKLKRAGSEARTEREKKFRNQSEYLENATATSNQITGALEEAGSKGL
+                ************************************************************
+
+ALV_2_590       SMYSAGRQSQSHDVILQEKHRPEGDYRSITSRTIATIRNKGANRNRNTKSSTNPHQCDFG
+CFN_4_5635      SMYSAGRQSQSHDVILQEKHRPEGDYRSVTSRTIATIRNKEANRNRNTKSSTNPHQCDFG
+                ****************************:*********** *******************
+
+ALV_2_590       GPLGKQSRGFVRYPGTGIARSKVAENGREEPNYPLAFRKKKYHQATAELRAIINSTAT--
+CFN_4_5635      GPLGKQSRGFVRYPGTGIARSKVAENGREEPNYPLAFRKKKYHQXTAELRAIINSTATTS
+                ******************************************** *************  
+
+ALV_2_590       ------------------------------------------------------------
+CFN_4_5635      PAQTSFGHIPKTSRKIVSTRPRCGKYICASSTLIPAFEPSRNQHPPTASISGSRRAVIFR
+                                                                            
+
+ALV_2_590       ------------------------
+CFN_4_5635      KEHNTKPLLIKEILLIKTTTTTYX
+                                        

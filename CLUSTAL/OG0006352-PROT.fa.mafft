@@ -1,0 +1,101 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATB_1_5556      MSDSEEDLGIQLKGLKIARHLKESGEHTDEESNSSPEHDCGLSNQDDLTVMHTQAKEEVF
+BCR_8_1084      MSDSEEDLGIQLKGLKIARHLKESGEHTDEESNSSPEHDCGLSNQDDLTVMHTQAKEEVF
+BMQ_5_474       MSDSEEDLGIQLKGLKIARHLKESGEHTDEESNSSPEHDCGLSNQDDLTVMHTQAKEEVF
+BMQ_5_791       MSDSEEDLGIQLKGLKIARHLKESGEHTDEESNSSPEHDCGLSNQDDLTVMHTQAKEEVF
+BTB_3_2557      MSDSEEDLGIQLKGLKIARHLKESGEHTDEESNSSPEHDCGLSNQDDLTVMHTQAKEEVF
+CFI_4_4615      MSDSEEDLGIQLKGLKIARHLKESGEHTDEESNSSPEHDCGLSNQDDLTVMHTQAKEEVF
+BAD_8_6073      MSDSEEDLGIQLKGLKIARHLKESGEHTDEESNSSPEHDCGLSNQDDLTVMHTQAKEEVF
+BMQ_5_2668      MSDSEEDLGIQLKGLKIARHLKESGEHTDEESNSSPEHDCGLSNQDDLTVMHTQAKEEVF
+BMQ_5_2667      MSDSEEDLGIQLKGLKIARHLKESGEHTDEESNSSPEHDCGLSNQDDLTVMHTQAKEEVF
+                ************************************************************
+
+ATB_1_5556      KRREEDGTRTEDALHEGEAGKEGTGFPSSQSVCSPNEADSGIDRADKPSLLDPFKSVHDT
+BCR_8_1084      KRREEDGTRTEDALHEGEAGKEGTGFPSSQSVCSPNEADSGIDRADKPSLLDPFKSVHDT
+BMQ_5_474       KRREEDGTRTEDALHEGEAGKEGTGFPSSQSVCSPNEADSGIDRADKPSLLDPX------
+BMQ_5_791       KRREEDGTRTEDALHEGEAGKEGTGFPSSQSVCSPNEADSGIDRADKPSLLDPX------
+BTB_3_2557      KRREEDGTRTEDALHEGEAGKEGTGFPSSQSVCSPNEADSGIDRADKPSLLDPFKSVHDT
+CFI_4_4615      KRREEDGTRTEDALHEGEAGKEGTGFPSSQSVCSPNEADSGIDRADKPSLLDPFKSVHDT
+BAD_8_6073      KRREEDGTRTEDALHEGEAGKEGTGFPSSQSVCSPNEADSGIDRADKPSLLDPFKSVHDT
+BMQ_5_2668      KRREEDGTRTEDALHEGEAGKEGTGFPSSQSVCSPNEADSGIDRADKPSLLDPFKSVHDT
+BMQ_5_2667      KRREEDGTRTEDALHEGEAGKEGTGFPSSQSVCSPNEADSGIDRADKPSLLDPSKSVHDT
+                *****************************************************       
+
+ATB_1_5556      DPVPGTKSRSNSDSDSDSDDGGWQEMPAVSSFNIYNHRGELELTSKVRNSEQASETSPTV
+BCR_8_1084      DPVPGTKSRSNSDSDSDSDDGGWQEMPAVSSFNIYNHRGELELTSKVRNSEQASETSPTV
+BMQ_5_474       ------------------------------------------------------------
+BMQ_5_791       ------------------------------------------------------------
+BTB_3_2557      DPVPGTKSRSNSDSDSDSDDGGWQEMPAVSSFNIYNHRGELELTSKVRNSEQASETSPTV
+CFI_4_4615      DPVPGTKSRSNSDSDSDSDDGGWQEMPAVSSFNIYNHRGELELTSKVRNSEQASETSPTV
+BAD_8_6073      DPVPGTKSRSNSDSDSDSDDG--------------------------------XXXXXXX
+BMQ_5_2668      DPVPGTKSRSNSDSDSDSDDGGWQEMXAVSSFNIYNHRGELELTSKVRNSEQASETSPTV
+BMQ_5_2667      DPVPGTKSRSNSDSDSDSDDGGWQEMPAVSSFNIYNHRGELELTSKVRNSEQASETSPTV
+                                                                            
+
+ATB_1_5556      PPGKNCKSVNDSRFDYTKMAAEQQAQRSYRTNKX--------------------------
+BCR_8_1084      PPGKNCKSVNDSRFDYTKMAAX--------------------------------------
+BMQ_5_474       ------------------------------------------------------------
+BMQ_5_791       ------------------------------------------------------------
+BTB_3_2557      PPGKNCKSVNDSRFDYTKMAAEQQAQRSYRTNKX--------------------------
+CFI_4_4615      PPGKNCKSVNDSRFDYTKMAAEQQAQRSYRTNKXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BAD_8_6073      XXXXXXXXXXXXRVDFQG------------------------------------------
+BMQ_5_2668      PPGKNCKSVNDSRFDYTKMAAEQQAQRSYRTNKKTDFLFDHK------------------
+BMQ_5_2667      PPGKNCKSVNDSRFDYTKMAAEQQAQRSYRTNKKTDFLFDHK------------------
+                                                                            
+
+ATB_1_5556      ------------------------------------------------------------
+BCR_8_1084      ------------------------------------------------------------
+BMQ_5_474       ------------------------------------------------------------
+BMQ_5_791       ------------------------------------------------------------
+BTB_3_2557      ------------------------------------------------------------
+CFI_4_4615      XXXXXXXXXXXMMMILMTNMRTTWNQ----------------------------------
+BAD_8_6073      ------------------------------------------------------------
+BMQ_5_2668      --------------VLKKKINSSQTSVXXXXXXXXXXXXXXXXXKQS-------------
+BMQ_5_2667      --------------VLKKKINSSQTSVNLTSSPSTTSLNNEKNNDDDDDDDSYDEYEDDV
+                                                                            
+
+ATB_1_5556      ------------------------------------------------------------
+BCR_8_1084      ------------------------------------------------------------
+BMQ_5_474       ------------------------------------------------------------
+BMQ_5_791       ------------------------------------------------------------
+BTB_3_2557      ------------------------------------------------------------
+CFI_4_4615      ------------------------------------------------------------
+BAD_8_6073      ------------------------------------------------------------
+BMQ_5_2668      ----------------------RYFADLNALRI---------------------------
+BMQ_5_2667      EPVNDLNRDSQLNITKNLLSDMEKFAYVGAINILANQMCTNLATLCLCIDIKSHKKLAHR
+                                                                            
+
+ATB_1_5556      ------------------------------------------------------------
+BCR_8_1084      ------------------------------------------------------------
+BMQ_5_474       ------------------------------------------------------------
+BMQ_5_791       ------------------------------------------------------------
+BTB_3_2557      ------------------------------------------------------------
+CFI_4_4615      ------------------------------------------------------------
+BAD_8_6073      ------------------------------------------------------------
+BMQ_5_2668      ------------------------------------------------------------
+BMQ_5_2667      LQFTQKDMAAWKTVVLSRLYDHLGISQEEIVMIEKLSLHKIQLEDLCKCXXXXXXXXXXX
+                                                                            
+
+ATB_1_5556      ------------------------------------------------------------
+BCR_8_1084      ------------------------------------------------------------
+BMQ_5_474       ------------------------------------------------------------
+BMQ_5_791       ------------------------------------------------------------
+BTB_3_2557      ------------------------------------------------------------
+CFI_4_4615      ------------------------------------------------------------
+BAD_8_6073      ------------------------------------------------------------
+BMQ_5_2668      ------------------------------------------------------------
+BMQ_5_2667      XXXXXXXXXXXXXXXXXXXXXVLPTQNNPQHLKHQRLNNHRYLRTFQEKYSIRKMSKAKT
+                                                                            
+
+ATB_1_5556      -
+BCR_8_1084      -
+BMQ_5_474       -
+BMQ_5_791       -
+BTB_3_2557      -
+CFI_4_4615      -
+BAD_8_6073      -
+BMQ_5_2668      -
+BMQ_5_2667      N
+                 

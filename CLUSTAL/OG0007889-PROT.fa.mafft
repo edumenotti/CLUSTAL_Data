@@ -1,0 +1,87 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CDH_0_1482      -------MNKYSIRRFSVGTASILVGTTLLFGIGNEAHAAEGDQTPNANENVADKDVSGT
+CDH_0_4757      MDFVPNRHNKYAIRRFTVGTASILVGATLIFGVNHEAKAAE--TSTELTQAQADEDCSG-
+CFH_0_3326      MDFVPNRHNKYAIRRFTVGTASILVGATLIFGVNHEAKAAE--TSTELTQAQVDEDCSG-
+                        ***:****:*********:**:**:.:**:***   :.: .:  .*:* ** 
+
+CDH_0_1482      QLKEEAQNNEVTNEEPSKEEATSNEVTSEEQPKEEVTSNEATNEEPSKEEATSNEVTSEE
+CDH_0_4757      -ITDQGQQEEMLTE----TQNTQND-YNEQQPTQQIDNDCIIDEVPMNEVEYSDDASSKA
+CFH_0_3326      -ITDQGQQEEMLTE----TQNTQND-YNEQQPTQQIDNDCIIDEVPMNEVEYSDDASSKA
+                 :.::.*::*: .*     : *.*:  .*:**.::: .:   :* * :*   *::.:*: 
+
+CDH_0_1482      QPKEEATSNEVTSEEPSKEEAASNEVTSEEQPKEEATNNEVTSEEQPKEEATSKEVTSEE
+CDH_0_4757      Q-EEDATSLENVSTDINTRNTENESV--DAQSTDNCIANEQTFDNESVQEQTDNQVNNDN
+CFH_0_3326      Q-EEDATSLENVSTDINTRNTENESV--DAQSTDNCIANEQTFDNESVQEQTDNQVNNDN
+                * :*:*** * .* : ...:: .:.*  : *..::.  ** * :::. :* *.::*..::
+
+CDH_0_1482      QPKEEATSNEVTSEEQPKKEVASNEVTSEEPSKE---EAASNEVTNEEPSKEEATNNEVT
+CDH_0_4757      NIDELQKAQEYETQEENND---ANQSLSESADCENDIQAGSNNYDIEAISGVSENNND--
+CFH_0_3326      NIDELQKAQEYETQEENND---ANQSLSESADCENGIQAGSNNYDIEAISGVSENNND--
+                : .*  .::*  ::*: :.   :*:  **... *   :*.**:   *  *  . .**:  
+
+CDH_0_1482      SEEQPKEEVTSNEATNEEPSKEEATSNEVTNEGPSSDEASANDSTSNPDFNSKVLNDSVQ
+CDH_0_4757      ---------------------NLDNSSDVSANGDVAENVSALDSNSDCDLYA----DRSL
+CFH_0_3326      ---------------------DLDNSSDVSANGDVAENVSALDSNSDCDLYA----DRSL
+                                     :  .*.:*: :*  :::.** **.*: *: :    *   
+
+CDH_0_1482      EFDNDQSSDSEDRNVAYATPNGTTATRSVKPVSRVAVNRSQAQQQGKNVNDSIKVTSVNT
+CDH_0_4757      DYDTDSTS-----------------------------------------------YDYNT
+CFH_0_3326      DYDTDSTS-----------------------------------------------NDYNT
+                ::*.*.:*                                                . **
+
+CDH_0_1482      DKDYVEPNNGQGFSADVSFEVDGKVHKGDYFTVDMPEYADFNGIADYKAANNKIYPTIND
+CDH_0_4757      DSDY---NTDCDYGSDRSLDYDTDSTSYDYNT----------------------------
+CFH_0_3326      DSDY---NTDCDYGSDRSLDYDTDSTSYDYNT----------------------------
+                *.**   *.. .:.:* *:: * .  . ** *                            
+
+CDH_0_1482      GNQVVANGVYDTQTKKLVYTFTDYVNKKDNIKGNFEIPQFIDRANAKTSGNYDLNYNIAG
+CDH_0_4757      ------DSGYDTDSE--YNTDCDY--------------------------NTDSDYN---
+CFH_0_3326      ------DSGYDTNSE--YNTDCDY--------------------------NTDSDYN---
+                      :. ***:::    *  **                          * * :**   
+
+CDH_0_1482      NTVTKQMEVKYNNYNDGHVVANTSSLITKADLFNVGSHDYTQYIYVNPKSEDSYNTRLTI
+CDH_0_4757      ------SDCDYSSDSDSGLDYDSDSS-YDSD----ASYD----------SDSSYDSDASY
+CFH_0_3326      ------SDCDYSSDSDSGLDYDSDS-----------SYD----------SDSSYDSDASY
+                       : .*.. .*. :  ::.*           *:*          *:.**::  : 
+
+CDH_0_1482      QG-----YQEDVN-DSSTLLNPNDTKIEILDAKSSDNIVPSFHINDEDFEDVTGNFGINQ
+CDH_0_4757      DSDTDCDYNSDC------------------DSDSS-------YDSDTDYDS-------DS
+CFH_0_3326      DSDTDCDYNSDCDLDSS------------YDSDSS-------YDSDSSYDS-------DS
+                :.     *:.*                   *:.**       : .* .::.       :.
+
+CDH_0_1482      TGDKKAQIDFGHIDHPYIVKVTSKIDSNSSQDLRTRVIMENENAEGTTDFYAHDNTVERL
+CDH_0_4757      DNDLDSDSDS-----------ESDCDSDSDSDSDS-----DSDSDSDSDSDSDSDSDSDC
+CFH_0_3326      SYDSDTDCDY-----------NSDCDSDSSYDSDS-----DYDSDSDSDLDSDSDSDSDC
+                  * .:: *             *. **:*. *  :     : :::. :*  :..:: .  
+
+CDH_0_1482      GANGVATGNEKLYNLGDYVWEDTNKNGIQDEDEHGIEGVEVSLTRPNGTVETTTTNSEGK
+CDH_0_4757      GSD-----------------SDCDSDSDSDSDSDSDSDSDSDSDSDCGSDSDCDSDSDSD
+CFH_0_3326      GSD-----------------SDCDSDSDSDSDSDS------------------DSDSDSD
+                *::                 .* :.:. .*.*...                   ::*:..
+
+CDH_0_1482      YEFNDLQNGDYVINFKTPEGYTATKSYEGNNSEVDSNGLSTMGTIKDADNWTLDSGFYKT
+CDH_0_4757      SD-------------------SDSDSDSDSDSDSDSDSDSDSDSDSDSDS----------
+CFH_0_3326      SD-------------------SDSDSYSDSDSDSDSDSDSDCGSDSDCDS----------
+                 :                   : :.* ...:*: **:. *  .: .*.*.          
+
+CDH_0_1482      PSKYSLGDYVWYDSNKDGYQDDDEKGIKGVKVTLKDSEGNTLKTTETDENGKYLFDDLDS
+CDH_0_4757      ------------DSDSDSDSDSDSDSDCG-----SDSDCDSDSDSDSDSD-----SDSDS
+CFH_0_3326      ------------DSDSDSDSDSDSDSDCG-----SDSDC-----------------DSDS
+                            **:.*. .*.*...  *     .**:                  * **
+
+CDH_0_1482      GDYTVHFDKPEGFTQTSINNGNDDAKDADGKDVHVTITDHD-DFSIDNGYFEDSESESES
+CDH_0_4757      ----------------------DSDSDSDSDSDSDCGSDSDCDSDSDSDSDSDSDSDSDS
+CFH_0_3326      ----------------------DSDSDSDS------------DSDS----------DSDS
+                                      *. .*:*.            * .           :*:*
+
+CDH_0_1482      HSDSESHSDSESTSESESES----------------------------------------
+CDH_0_4757      DSDSDSDSDSGSNCDSGSEHKVPVVPTQYHEMTSHHDSNHHYNNLVMEQHHKQELPDTGY
+CFH_0_3326      DSDSDSDSDSGSNCDSGSEHKVPVVPTQYHEMTSHHDSNHHYNNLVMEQHHKQELPDTGY
+                .***:*.*** *..:* **                                         
+
+CDH_0_1482      -------------------------------
+CDH_0_4757      DVANNGTLFGGILAALGSLLLVGSKRRSKKY
+CFH_0_3326      DVANNGTLFGGILAALGSLLLVGSKRRSKKY
+                                               

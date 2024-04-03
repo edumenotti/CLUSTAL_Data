@@ -1,0 +1,123 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AAN_3_282       ------------------------------------------------------------
+AAN_3_285       ------------------------------------------------------------
+ADM_2_230       ------------------------------------------------------------
+AMN_5_296       ------------------------------------------------------------
+AMN_5_5521      ------------------------------------------------------------
+CFP_4_365       ------------------------------------------------------------
+BHL_4_98        ------------------------------------------------------------
+BDM_5_2237      GSVFAGLLYWTRRADFAINTNLCRQFWKAFSG----------------------------
+BTD_1_2531      --------------DFAINTNLCRQFWKAFSSRINQYRQINSSLCCRSAIRTYVGPIWAY
+                                                                            
+
+AAN_3_282       ------------------------------------------------------------
+AAN_3_285       ------------------------------------------------------------
+ADM_2_230       ------------------------------------------------------------
+AMN_5_296       ------------------------------------------------------------
+AMN_5_5521      ------------------------------------------------------------
+CFP_4_365       ------------------------------------------------------------
+BHL_4_98        ------------------------------------------------------------
+BDM_5_2237      ------------------------------------------------------------
+BTD_1_2531      RMLDLCAGALYCGRNYFCRHTNIWRTSCRYCYTTVRLFWISSSCYSTXXXXXXXXXXXXX
+                                                                            
+
+AAN_3_282       ------------------------------------------------------------
+AAN_3_285       ------------------------------------------------------------
+ADM_2_230       ------------------------------------------------------------
+AMN_5_296       ------------------------------------------------------------
+AMN_5_5521      ------------------------------------------------------------
+CFP_4_365       ------------------------------------------------------------
+BHL_4_98        ------------------------------------------------------------
+BDM_5_2237      -----RIDQYRQINSSLCCRSAIRTCIPVWTYRMLDFCACALYYWRNYFCCYSNVFRTVC
+BTD_1_2531      XXXXXRIDQYRQINSSLCCRSAIRTYISVWTYRMLDFCACALYYWRNYFCCYSNVFRTFC
+                                                                            
+
+AAN_3_282       ------------------------------------------------------------
+AAN_3_285       ------------------------------------------------------------
+ADM_2_230       ------------------------------------------------------------
+AMN_5_296       ------------------------------------------------------------
+AMN_5_5521      ------------------------------------------------------------
+CFP_4_365       ------------------------------------------------------------
+BHL_4_98        ------------------------------------------------------------
+BDM_5_2237      RYCYTTVRLFWISSSCYSTDWSVWIERSYICDEHISDSRDYKHMGKWKYCLSCWCCTIMA
+BTD_1_2531      RYCYTTVRLFWISSSCYSTDWSVWIERSYICDEHISDSRDYKHMGKWKYCLSCWCCTIMA
+                                                                            
+
+AAN_3_282       ------------------------------------------------------------
+AAN_3_285       ------------------------------------------------------------
+ADM_2_230       ------------------------------------------------------------
+AMN_5_296       ------------------------------------------------------------
+AMN_5_5521      ------------------------------------------------------------
+CFP_4_365       ------------------------------------------------------------
+BHL_4_98        ------------------------------------------------------------
+BDM_5_2237      LGLWNFLHHCAHLHPNLGPSLCVCSVHFLAQRVTTIKIERKRTDPASNALEICGRHKLNW
+BTD_1_2531      ------------------------------------------------------------
+                                                                            
+
+AAN_3_282       --------------------------------------------------ICESIYPTSI
+AAN_3_285       --------------------------------------------------ICESIYPTSI
+ADM_2_230       --------------------------------------------------ICESIYPTSI
+AMN_5_296       --------------------------------------------------ICESIYPTSI
+AMN_5_5521      --------------------------------------------------ICESIYPTSI
+CFP_4_365       --------------------------------------------------ICESIYPTSI
+BHL_4_98        ----------------------------------------------------ESIYPTSI
+BDM_5_2237      SHSFHCFLSFSIITSHNSWWSHLQMERGSHYCNDCGWWLLRFYLSNLGIKICESIYPTSI
+BTD_1_2531      ---------FSIITSHNSWWSHLQMERGSHYCNDCGWWLLRFYLSNLGIKICESIYPTSI
+                                                                    ********
+
+AAN_3_282       SRSNHLRCIANGICMASRFADVRVFGHRVNGSIRRINIKCAADSSALQFSTVMHYCCRHY
+AAN_3_285       SRSNHLRCIANGICMASRFADVRVFGHRVNGSIRRINIKCAADSSALQFSTVMHYCCRHY
+ADM_2_230       SRSNHLRCIANGICMASRFADVRVFGHRVNGSIRRINIKCAADSSALQFSTVMHYCCRHY
+AMN_5_296       SRSNHLRCIANGICMASRFADVRVFGHRVNGSIRRINIKCAADSSALQFSTVMHYCCRHY
+AMN_5_5521      SRSNHLRCIANGICMASRFADVRVFGHRVNGSIRRINIKCAADSSALQFSTVMHYCCRHY
+CFP_4_365       SRSNHLRCIANGICMASRFADVRVFGHRVNGSIRRINIKCAADSSALQFSTVMHYCCRHY
+BHL_4_98        SRSNHLRCIANGICMASRFADVRVFGHRVNGSIRRINIKCAADSSALQFSTVMHYCCRHY
+BDM_5_2237      SRSNHLRCIANGICMASRFADVRVFGHRVNGSIRRINIKCAADSSALQFSTVMHYCCRHY
+BTD_1_2531      SRSNHLRCIANGICMASRFADVRVFGHRVNGSIRRINIKCAADSSALQFSTVMHYCCRHY
+                ************************************************************
+
+AAN_3_282       AAFLSSSESLCSRWVASWCPRNGSFVQIQGGIRDFGSYWRDCGRYSWWYDTFSYVDASAC
+AAN_3_285       AAFLSSSESLCSRWVASWCPRNGSFVQIQGGIRDFGSYWRDCGRYSWWYDTFSYVDASAC
+ADM_2_230       AAFLSSSESLCSRWVASWCPRNGSFVQIQGGIRDFGSYWRDCGRYSWWYDTFSYVDASAC
+AMN_5_296       AAFLSSSESLCSRWVASWCPRNGSFVQIQGGIRDFGSYWRDCGRYSWWYDTFSYVDASAC
+AMN_5_5521      AAFLSSSESLCSRWVASWCPRNGSFVQIQGGIRDFGSYWRDCGRYSWWYDTFSYVDASAC
+CFP_4_365       AAFLSSSESLCSRWVASWCPRNGSFVQIQGGIRDFGSYWRDCGRYSWWYDTFSYVDASAC
+BHL_4_98        AAFLSSSESLCSRWVASWCPRNGSFVQIQGGIRDFGSYWRDCGRYSWWYDTFSYVDASAC
+BDM_5_2237      AAFLSSSESLCSRWVASWCHRNGSFVQIQGGIRDFGSYWRDCGRYSWWYDTFSYVDASAC
+BTD_1_2531      AAFLSSSESLCSRWVASWCPRNGSFVQIQGGIRDFGSYWRDCGRYSWWYDTFSYVDASAC
+                ******************* ****************************************
+
+AAN_3_282       FNHPQDGNCHWVTNVRLSNRRRSRCFHRWCYMDSASGKGVDTATRLFRDGNLQITTQLSK
+AAN_3_285       FNHPQDGNCHWVTNVRLSNRRRSRCFHRWCYMDSASGKGVDTATRLFRDGNLQITTQLSK
+ADM_2_230       FNHPQDGNCHWVTNVRLSNRRRSRCFHRWCYMDSASGKGVDTATRLFRDGNLQITTQLSK
+AMN_5_296       FNHPQDGNCHWVTNVRLSNRRRSRCFHRWCYMDSASGKGVDTATRLFRDGNLQITTQLSK
+AMN_5_5521      FNHPQDGNCHWVTNVRLSNRRRSRCFHRWCYMDSASGKGVDTATRLFRDGNLQITTQLSK
+CFP_4_365       FNHPQDGNCHWVTNVRLSNRRRSRCFHRWCYMDSASGKGVDTATRLFRDGNLQITTQLSK
+BHL_4_98        FNHPQDGNCHWVTNVRLSNRRRSRCFHRWCYMDSASGKGVDTATRLFRDGNLQITTQLSK
+BDM_5_2237      FNHPQDGNCHWVTNVRLSNRRRSRCFHRWCYMDSASGKGVDTATRLFRDGNLQITTQLSK
+BTD_1_2531      FNHPQDGNCHWVTNVRLSNRRRSRCFHRWCYMDSASGKGVDTATRLFRDGNLQITTQLSK
+                ************************************************************
+
+AAN_3_282       KIPYWIRGSCSDDRILFEDSTLIDNCVDFVCGFQCCSLFFLAWFYCKQEAKSFRRRTRER
+AAN_3_285       KIPYWIRGSCSDDRILFEDSTLIDNCVDFVCGFQCCSLFFLAWFYCKQEAKSFRRRTRER
+ADM_2_230       KIPYWIRGSCSDDRILFEDSTLIDNCVDFVCGFQCCSLFFLAWFYCKQEAKSFRRRTRER
+AMN_5_296       KIPYWIRGSCSDDRILFEDSTLIDNCVDFVCGFQCCSLFFLAWFYCKQEAKSFRRRTRER
+AMN_5_5521      KIPYWIRGSCSDDRILFEDSTLIDNCVDFVCGFQCCSLFFLAWFYCKQEAKSFRRRTRER
+CFP_4_365       KIPYWIRGSCSDDRILFEDSTLIDNCVDFVCGFQCCSLFFLAWFYCKQEAKSFRRRTRER
+BHL_4_98        KIPYWIRGSCSDDRILFEDSTLIDNCVDFVCGFQCCSLFFLAWLYCKQEAKSFRRRTRER
+BDM_5_2237      KIPYWIRGSCSDDRILFEDSTLIDNCVDFVCGFQCCSLFFLAWLYCKQEAKSFRRRTRER
+BTD_1_2531      KIPYWIRGSCSDDRILFEDSTLIDNCVDFVCGFQCCSLFFLAWFYCKQEAKSFRRRTRER
+                *******************************************:****************
+
+AAN_3_282       EAQNQTTIMAPSCNWIX
+AAN_3_285       EAQNQTTIMAPSCNWIX
+ADM_2_230       EAQNQTTIMAPSCNWIX
+AMN_5_296       EAQNQTTIMAPSCNWIX
+AMN_5_5521      EAQNQTTIMAPSCNWIX
+CFP_4_365       EAQNQTTIMAPSCNWIX
+BHL_4_98        EAQNQTTIMAPSCNWIX
+BDM_5_2237      EAQNQTTIMAPSCNWIX
+BTD_1_2531      EAQNQT-----------
+                ******           

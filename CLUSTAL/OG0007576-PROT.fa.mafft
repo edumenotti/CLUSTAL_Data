@@ -1,0 +1,17 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMN_5_2947      YCCFSSRHCLQGFPICLPRILQMVQPHRFQGRIRLFPSCLCCRCRRRRRRRRFIRFRRRS
+BTA_5_4557      YCCFSSRHCLQGFPICLPRILQMVQPHRFQGRIRLFPSCLCCRCRRRRRRRRFIRFRRRS
+CFP_4_147       YCCFSSRHCLQGFPICLPRILQMVQPHRFQGRIRLFPSCX--------------------
+                ***************************************                     
+
+AMN_5_2947      RSKVEGKNCRIQREGCASASCVHCHSRCQAMGNQFGRNGCRQGHRNGRFDLGCSPIYPNW
+BTA_5_4557      RSKVEGKNCRIQREGCASASCVHCHSRCQAMGNQFGRNGCRQGHRNGRFDLGCSPIYPNW
+CFP_4_147       ------------------------------------------------------------
+                                                                            
+
+AMN_5_2947      FRYQEVANLCCRRQGFLGRLATKHRRRRPRPIYRYCCYAKIX
+BTA_5_4557      FRYQEVANLCCRRQGFLGRLATKHRRRRPRPIYRYCCYAKIX
+CFP_4_147       ------------------------------------------
+                                                          

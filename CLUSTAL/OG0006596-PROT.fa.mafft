@@ -1,0 +1,20 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_5932      -------------------------EIHCCCCFSNNW-----------------SSSSCQ
+ANM_2_5877      -------------------------EIHCCCCFSNNW-----------------SSSSCQ
+CKN_4_7366      ---------CHYY--------CCCFEIHRCCCFSNNW-----------------SSSSCQ
+CPI_4_33        -----SSTGCHYH--------CCCFEIHRCCCFSNNWSSSSCQVYCRCCFSNNRSSSSCQ
+CMT_8_7         SDRRWSSTGCHYHCCCFEIHRCCCFEIHRCCCFSNNW-----------------SSSSCQ
+CNG_4_18        SDRRWSSTGCHYHCCCFEIHRCCCFEIHRCCCFSNNW-----------------SSSSCQ
+CNM_1_21        -----------------------------CCCFSNNW-----------------SSSSCQ
+                                             ********                 ******
+
+ANL_2_5932      VY-CRCCLSDFRSGSSCQVYCRCCLSDFRSGSSCVYCRCRFX-
+ANM_2_5877      VY-CRCCLSDFRSGSSCQVYCRCCLSDFRSGSSCVYCRCRFX-
+CKN_4_7366      VYRCRC-LSDFWSSSSC-VYCRCCFPNNRSSX-----------
+CPI_4_33        VYRCRC-LSDFWSSX----------------------------
+CMT_8_7         VYRCRX-------------------------------------
+CNG_4_18        VYRCRX-------------------------------------
+CNM_1_21        VYRCRC-LSDFRSGSSC-VYCRCRFPNNRSGSSCVYCRCRFSX
+                ** **                                      

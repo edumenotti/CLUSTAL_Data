@@ -1,0 +1,194 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVN_5_294       ------------------------------------------------------------
+AVN_5_454       ------------------------------------------------------------
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       ------------------QEVPMSLTPYGPKGKNHTRMKKLALGPGRSSLMVNNKSKVLM
+BMQ_5_691       ------------------QEVPMSLTPYGPKGKNHTRMKKLALGPGRSSLMVNNKSKVLM
+CBR_2_247       ------------------QEVPMSLTPYGPKGKNHTRMKKLALGPGRSSLMLNNKSKVLM
+BME_1_5944      ------------------------------------------------------------
+BEK_7_359       ---------EEVPFSLMCQEVPMSLTPYGPEGKNHTRMKKLALGPGRSSLMLNNKSKVLM
+BEM_7_4034      HHQPRFKEGEEVPFSLMCQEVPMSLTPYGPEGKNHTRMKKLALGPGRSSLMLNNKSKVLM
+AVP_5_1952      -----------------------------------------------SSLMLNNKSKVLM
+                                                                            
+
+AVN_5_294       ------------------------------------------------------------
+AVN_5_454       ------------------------------------------------------------
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       NISVTRLIFQKCILKTSKPTKKAEQFLLIFWKTILFFTESWEMRIEFLTKMSLLMMKIKS
+BMQ_5_691       NISVTRLIFQKCILKTSKPTKKAEQFLLIFWKTILFFTESWEMRIEFLTKMSLLMMKIKS
+CBR_2_247       NISVTRLIFQKCILKTSKPTKKAEQFLLIFWKTILFITESWEMRIEFLTKMSLLMMKIKS
+BME_1_5944      ------------------------------------------------------------
+BEK_7_359       NISVTRQIFQKSILKTSKPTKKAEQFLLIF-KTILFFTESWEMRIEFLTKMSLLMMKIKS
+BEM_7_4034      NISVTRQIFQKSILKTSKPTKKAEQFLLIF-KTILFFTESWEMRIEFLTKMSLLMMKIKS
+AVP_5_1952      NISVTRQIFQKSILKTSKPTKKAEQFLLIF-KTILFFTESWEMRIEFLTKMSLLMMKIKS
+                                                                            
+
+AVN_5_294       ------------------------------------------------------------
+AVN_5_454       ------------------------------------------------------------
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       FNILYHPYRISYPTILISNIFMMNLLSPSIHRILSFSRQCKTTCLPVITNQNLHPIIMPR
+BMQ_5_691       FNILYHPYRISYPTILISNIFMMNLLSPSIHRILSFSRQCKTTCLPVITNQNLHPIIMPR
+CBR_2_247       FNILYHPYRISYPTILISNIFMMNLLSPSIHRILSFSRQCKTTCLPVITNQNLHPIIMPR
+BME_1_5944      ------------------------------------------------------------
+BEK_7_359       FNILYHPYRISYPTILISNIFMMNLLSPSIHRILSFSRQCKTTCLPV-------------
+BEM_7_4034      FNILYHPYRISYPTILISNIFMMNLLSPSIHRILSFSRQCKTTCLPV-------------
+AVP_5_1952      FNILYHPYRISYPTILISNIFMMNLLSPSIHXXXXXXXXXXXXXXXX------XXXXXXX
+                                                                            
+
+AVN_5_294       ------------------------------------------------------------
+AVN_5_454       ------------------------------------------------------------
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       IRRMGAKILISKRRKMNMSQTRIVLFSSTTLSIKILISMISFLISPTFLKNPVMTILMCL
+BMQ_5_691       IRRMGAKILISKRRKMNMSQTRIVLFSSTTLSIKILISMISFLISPTFLKNPVMTILMCL
+CBR_2_247       IRRMGAKILISKRRKMNMSQTRIVLFSSTTLSIKILISMISFLISPTFLKNPVMTILMCL
+BME_1_5944      ------------------------------------------------------------
+BEK_7_359       ------------------------------------------------------------
+BEM_7_4034      ------------------------------------------------------------
+AVP_5_1952      XXXXXXXILISKRRKMNMSQTRIVLFSFATLSIKIPISMISFLITPTFLKNPVMTILMCL
+                                                                            
+
+AVN_5_294       ------------------------------------------------------------
+AVN_5_454       ------------------------------------------------------------
+BME_1_701       --------FKERICIMLLEKTISRNCYCAGKKAMGPMTAVKLPKKVTRMLFMQIQILKTM
+BMQ_5_689       N-PLSSINFKERICIMLLEKTISRNCYCAGKKAMGPMTAVKLPKKVTRMLFMQIQILKTM
+BMQ_5_691       N-PLSSINFKERICIMLLEKTISRNCYCAGKKAMGPMTAVKLPKKVTRMLFMQIQILKTM
+CBR_2_247       NYPLSSIDFKERICIMLLEKTISRNCYCAGKKAMGPMTAVKLPKKVTRMLFMQIQILKTM
+BME_1_5944      --------FKERICIMLLEKTISRNCYCAGKKAMGPMTAVKLPKKVTRMLFMQIQILKTM
+BEK_7_359       ------------------------------------------------------------
+BEM_7_4034      ------------------------------------------------------------
+AVP_5_1952      N-PLNSINFKGRICIMLLEKTILRNCYCAGKKDMGPMTAVKLPKKMTPMLFIQIQIRKTM
+                                                                            
+
+AVN_5_294       -----AKSSYRGICSASMIVNFGALTIGLKVVLNTHSLTQIMKRRTYFSILLFSLSEASL
+AVN_5_454       -----AKSSYRGICSASMIVNFGALTIGLKVVLNTHSLTQIMKRRTYFSILLFSLSEASL
+BME_1_701       TNGVTAKSSYRGICSASMIVNFGALTIGLKVVLNTHSLTQIMKRRTYFSILLFSLSEASL
+BMQ_5_689       TNGVTAKSNYRGICSASMTVNFGALTIGLKVVLNTHSLTQIMKRRTYFSILLFSLSEASL
+BMQ_5_691       TNGVTAKSNYRGICSASMTVNFGALTIGLKVVLNTHSLTQIMKRRTYFSILLFSLSEASL
+CBR_2_247       TNGVTAKSSYRGICSASMIVNFGALTIGLKVVLNTHSLTQIMKRRTYFSILLFSLSEASL
+BME_1_5944      TNGVTAKSSYRGICSASMIVNFGALTIGLKVVLNTHSLTQIMKRRTYFSILLFSLSEASL
+BEK_7_359       ------------------------------------------------------------
+BEM_7_4034      ------------------------------------------------------------
+AVP_5_1952      TNGVTAKSSYRGICSASMIVNFGVLTIGLKVVLNTHSLTQIMKRRTYFSILLFSLSEASL
+                                                                            
+
+AVN_5_294       LQRSFATSRNIIWIQQRI--------CALKN--IMNGRKDLYQLNVGWLRLQPFSSNIGS
+AVN_5_454       LQRSFATSRNIIWIQQRI--------CALKN--IMNGRKDLYQLNVGWLRLQPFSGNIGS
+BME_1_701       LQRSFATSRNIIWIHQRI--------CALKN--IMNGRKSLYRLNVGWLRLQPFSSNIGS
+BMQ_5_689       LQRSFATSRNIIWIHQRI--------CALKN--TMNGRKSLYRLNVGWLRLQPFSSNIGS
+BMQ_5_691       LQRSFATSRNIIWIHQRI--------CALKN--TMNGRKSLYRLNVGWLRLQPFSSNIGS
+CBR_2_247       LQRSFATSRNIIWIHQRI--------CALKNXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BME_1_5944      LQRSFATSRNIIWIHQRI--------CALKN--IMNGRKSLYRLNVGWLRLQPFSSNIGS
+BEK_7_359       ---------------------------------IMN------------------------
+BEM_7_4034      ---------------------------------IMN------------------------
+AVP_5_1952      LQRSFATSRNIIWIHQRIKTISRNCYCAGKK--AMG------------------------
+                                                                            
+
+AVN_5_294       RAMMSPILRLIWIILRKQSRKIQDPWNYRRSIRSLNMVISKKRQHQQKRINRSARSITWA
+AVN_5_454       RAMMSPILRPIWIILRKQSRKIQDLWNYRRSIRSLNMVICKKRLH-QKRINRSARSITGA
+BME_1_701       RAMMSPILRPIWIILRKQSRKIQDLWNYRRSIRSLNMVICKKRLH-QKRINRSARSITGA
+BMQ_5_689       RAMMSPILRPIWIILRKQSRKIQDLWNYRRSIRSLNMVIYKKRLH-QKRINRSARTITRA
+BMQ_5_691       RAMMSPILRPIWIILRKQSRKIQDLWNYRRSIRSLNMVICKKRLH-QKRINRSARSITGA
+CBR_2_247       XAMMSPILRPIWIILRKQSRKIQDLWNYRRSIRSLNMVIYKKRLH-QKRINRSARTITRA
+BME_1_5944      RAMMSPILRPIWIILRKQSRKIQDLWNYRRSIRSLNMVIYKKRLH-RKRINRSARTITRA
+BEK_7_359       ------------------------------------------------------------
+BEM_7_4034      ------------------------------------------------------------
+AVP_5_1952      --PMTAVKLP------------------KKVTRMLFMQIIRKTMTNGVTAKSSYRGICSA
+                                                                            
+
+AVN_5_294       LYTLPRNPFWPSIQFYLPPNRYSMKFIVRPFLIVYKKFGRTSIQNRMGPHRVTSLSVLPI
+AVN_5_454       LYTLPRNPFWPSIQFYLPPNRYSMKFIVRPFLIVYKKFGRTSIQNRMGPHRVTSLSVLPI
+BME_1_701       LYTLPRNPFWPSIQFYLPPNRYSMKFIVRPFLIVYKX-----------------------
+BMQ_5_689       LYTLPRNPFWPSIQFYLPLNRYSMKFXVRPFLIVYKKFGRTSIQNRMGLHRVTSLSVLPI
+BMQ_5_691       LYTLPRNPFWPSIQFYLPPNRYSMKFIVRPFLIVYKKFGRTSIQNRMGLHRVTSLSVLPI
+CBR_2_247       LYTLPRNPFWPSIQFYLPLNRYSMKFIVRPFLIVYKKFGRTSIQNRMGLHRVTSLSVLPI
+BME_1_5944      LYTLPRNPFWPSIQFYLPLNRYSMKFIVRPFLIVYKKFGRTSIQNRMGLHRVTSLSVLPI
+BEK_7_359       ------------------------------------------------------------
+BEM_7_4034      ------------------------------------------------------------
+AVP_5_1952      ----------------------SM--------IV--NFGALTIG----------------
+                                                                            
+
+AVN_5_294       NQISYPTLLRRLIKVSAPSYSPILFLSQNIVGNSITFLPLQLFQHYTLHQFIVRRPGGQL
+AVN_5_454       NQISYPTLLRRLIKVSAPSYSPILFLSQNIVGNSITFLPLQLFQHYTLHQFIVRRPGGQL
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       NQISYPTLLRRLIKVSAPSYSLILFLSQNIVGNSITFLPLQSFQHYILHQFIVRKPGRQL
+BMQ_5_691       NQISYPTLLRRLIKVSAPSYSLILFLSQNIVGNSITFLPLQSFQHYILHQFIVRKPGRQL
+CBR_2_247       NQISYPTLLRRLIKVSAPSYSLILFLSQNIVGNSITFLPLQLFQHYILHQFIVRKPGRQL
+BME_1_5944      NQISYPTLLRRLIKVSAPSYSLILFLSQNIVGNSITFLPLQLFQHYILHQFIVRKPGRQL
+BEK_7_359       ------------------------------------------------------------
+BEM_7_4034      ------------------------------------------------------------
+AVP_5_1952      ------------LKVVLNTHS----LTQ--------------------------------
+                                                                            
+
+AVN_5_294       FLKREIYCSR-IGWILRKISITETSNLYIALPAYRFSAFIYLIPLQIPEIRIILSW----
+AVN_5_454       FLKREIYCSR-IGWILRKISITETSNLYIALPAYRFSAFIYLIPLQIPEIRIILSW----
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       FLKREIYCSH-TSWIPRKISITETSSLYIALPAYRFSAFIYLIPLLIPEIRIILSW----
+BMQ_5_691       FLKREIYCSH-TSWIPRKISITETSSLYIALPAYRFSAFIYLIPLLIPEIRIILSW----
+CBR_2_247       FLKREIYCSHWTSWILRKISITEASNLYIALPAYRFSAFIYLIPLQIPEIRIILSW----
+BME_1_5944      FLKREIYCSHWTSWILRKISITEASNLYIALPAYRFSAFIYLIPLQIPEIRIILPWNMVR
+BEK_7_359       ------------------------QNLY---------------PIIMPRIR---------
+BEM_7_4034      ------------------------QNLY---------------PIIMPRIR---------
+AVP_5_1952      IMKRRTY----------------------------FSILLF-------------------
+                                                                            
+
+AVN_5_294       ------------------------------------------------------------
+AVN_5_454       ------------------------------------------------------------
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       ------------------------------------------------------------
+BMQ_5_691       ------------------------------------------------------------
+CBR_2_247       ------------------------------------------------------------
+BME_1_5944      VSMMRRSITSTKGADLPFLIVYKKFGRTSIQNRMGLHRVTSLSVLPINQISYPTLLRRLI
+BEK_7_359       ------------------------------------------------------------
+BEM_7_4034      ------------------------------------------------------------
+AVP_5_1952      ------------------------------------------------------------
+                                                                            
+
+AVN_5_294       ------------------------------------------------------------
+AVN_5_454       ------------------------------------------------------------
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       ------------------------------------------------------------
+BMQ_5_691       ------------------------------------------------------------
+CBR_2_247       ------------------------------------------------------------
+BME_1_5944      KVSAPSYSLILFLSQNIVGNSITFLPLQLFQHYILHQFIVRKPGRQLFLKREIYCSHTSW
+BEK_7_359       ------------------------------------------------------------
+BEM_7_4034      ------------------------------------------------------------
+AVP_5_1952      ------------------------------------------------------------
+                                                                            
+
+AVN_5_294       -----------------------------------------NMVRVSMMRRSITSTKGAD
+AVN_5_454       -----------------------------------------NMVRVSMMRRSITSTKGAD
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       -----------------------------------------NMVRVSMMRRNITSTKGAD
+BMQ_5_691       -----------------------------------------NMVRVSMMRRNITSTKGAD
+CBR_2_247       -----------------------------------------NMVRVSMMRRNITSTKGAD
+BME_1_5944      IPRKISITETSSLYIALPAYRFSAFIYLIPLLIPEIRIILSNMVRVSMMRRNITSTKGAD
+BEK_7_359       -----------------------------------------RM--------------GAK
+BEM_7_4034      -----------------------------------------RM--------------GAK
+AVP_5_1952      -----------------------------------------SLSEASLLQRSFAT--SRN
+                                                                            
+
+AVN_5_294       LLIFYKRSYISRRHIMISLK-IGRLNVYQIHWKTSPILRNNTNYHLLNQNQERKSFRIPI
+AVN_5_454       LLIFYKRSYISRRHIMISLK-IGRLNVYQIHWKTSPILRNNTNYHLLNQNQERKSFRIPI
+BME_1_701       ------------------------------------------------------------
+BMQ_5_689       LLISYKRSYISRKHIMISLK-IGRLNVYQIHWKTSPILRNNTNYHLLNQNQERKSFRIPI
+BMQ_5_691       LLISYKRSYISRKHIMISLK-IGRLNVYQIHWKTSPILRNNTNYHLLNQNQERKSFRIPI
+CBR_2_247       LLISYKRSYISRRHIMISLK-IGRLNVYQIHWKTSPILRNNTNYHLLNQNQERKSFRIPI
+BME_1_5944      LLISYKRSYISRKHIMISLK-IGRLNVYQIHWKTSPILRNNTNYHLLNQNQERKSFRIPI
+BEK_7_359       ILISKRR----------------KMNMSQ------------------------------T
+BEM_7_4034      ILISKRR----------------KMNMSQ------------------------------T
+AVP_5_1952      IIWIHQR-ICALKNIMNGRKSLYRLNV---GW---------------------------L
+                                                                            
+
+AVN_5_294       RIINHKKNPGMTKPMKEKHPLRX--------------------
+AVN_5_454       RIINHKKNPGMTKPMKEKHPLRX--------------------
+BME_1_701       -------------------------------------------
+BMQ_5_689       RIINHKKNPGMTKPMKEKHPLRKTDFQNFNYIRQRKKLPRFLX
+BMQ_5_691       RIINHKKNPGMTKPMKEKHPLRKTDFQNFNYIRQRKKLPRFLX
+CBR_2_247       RIINHKKNPGMTKPMKEKHPLRKTDFQNSNYIRQRKKLPRFLX
+BME_1_5944      RIINHKKNPGMTKPMKEKHPLRKTDFQNSNYIRQRKKLPRFLX
+BEK_7_359       RI-----------------------------------------
+BEM_7_4034      RIXXXXXXXXXXXXXXXXXQL----------------------
+AVP_5_1952      RL----------QPFS---------------------------
+                                                           

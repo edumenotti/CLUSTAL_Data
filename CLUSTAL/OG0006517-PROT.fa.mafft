@@ -1,0 +1,20 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADD_2_1         MLLEEDGVGTGATELSVVELDTGAEELSVVELDGVGTGTEELX-----------------
+AEB_8_4518      MLLEEDGVGTGATELSVVELDTGAEELSVVELDGVGTGTEELSVLELNGVEDGAEEVMLL
+BFM_3_96        MLLEEDGVGTGATELSVVELDTGAEELSVVELDGVGTGAEEL------------------
+BML_5_91        MLLEEDGVGTGATELSVVELDTGAEELSVVELDGVGTGAEEL------------------
+BTD_1_32        MLLEEDGVGTGATELSVVELDTGAEELSVVELDGVGTGAEEL------------------
+CRG_2_5341      MLLEEDGVGTGATELSVVELDTGAEELSVVELDGVGTGTEELSVLELNGVEDGA------
+YAY_0_5466      MLLEEDGVGTGATELSVVELDTGAEELSVVELDGVGTGTEELX-----------------
+                **************************************:***                  
+
+ADD_2_1         -------------------------
+AEB_8_4518      EEDGVXXXXXXXXXXXXXXXXXFRL
+BFM_3_96        -------------------------
+BML_5_91        -------------------------
+BTD_1_32        -------------------------
+CRG_2_5341      -------------------------
+YAY_0_5466      -------------------------
+                                         

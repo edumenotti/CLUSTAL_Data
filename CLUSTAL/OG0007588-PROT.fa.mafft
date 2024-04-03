@@ -1,0 +1,22 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMQ_5_1303      ------------------------------------------------------------
+ANL_2_3018      MVSSNSSIKLNRRENILIGPPELRFSNEIKEHNSITTIFKLVFIQTNRRVVEKIDLANMK
+CFM_4_6446      ------------------------------------------------------------
+                                                                            
+
+AMQ_5_1303      ---------------------------------------------------------MED
+ANL_2_3018      WGTIHGGSKYMKPLPVPKDLVASVAKNESETRNLATLCGNGLDFEIPVPDFNIFGKCMED
+CFM_4_6446      ------------------------------------------------------------
+                                                                            
+
+AMQ_5_1303      EQDVPKIGNQNVEDLKVTGGREVTIWRQIQDMKLRTRIQKICVLIETFNATVREYFEFSN
+ANL_2_3018      EQDVAKIGNQNVEDLKVTGGREVTIWKQIQDMKLRTRIQKICVLIETFNATVREYFEFSN
+CFM_4_6446      -------------------------------MKLRTRIQKICVLIETFNATVREYFEFSN
+                                               *****************************
+
+AMQ_5_1303      RLEHDGIFIDFEVRKPSSNNSINIKV
+ANL_2_3018      RLEHDGIFIDFEVRKPSSNNSINIKV
+CFM_4_6446      RLEHDGIFIDFEVRKPX---------
+                ****************          

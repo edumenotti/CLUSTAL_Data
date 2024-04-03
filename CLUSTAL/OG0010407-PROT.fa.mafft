@@ -1,0 +1,30 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CPA_4_4793      MPMDQSISSPLFPMEKDIDIPLDATPLAQSSSLQLFIHLAEPVVFLQGFDPQKTEYPSVV
+CRE_2_5505      MPMDQSISSPLFPMEKDIDIPLDATPLAQSSSLQLFIHLAEPVVFLQGFDPQKTEYPSVV
+                ************************************************************
+
+CPA_4_4793      LRGCLVVRILKPTKLKSISLSFKGYSRTEWPEGIPPKRQEFVEIKDIVDNTWALYPPTEQ
+CRE_2_5505      LRGCLVVRILKPTKLKSISLSFKGYSRTEWPEGIPPKRQEFVEIKDIVDHTWALYPPTEQ
+                *************************************************:**********
+
+CPA_4_4793      KSKKKMGASAPNGSNNAANNFLTKESGASLYRTLSDNETITSRKNSISGLSSLNLSPLGT
+CRE_2_5505      KSKKKMGASAPNESNNAANNFLTKESGASLYRTLSDNETITSRKNSISX-----------
+                ************ ***********************************            
+
+CPA_4_4793      PGNSSVNVKDRESRQRSRSSSVTSSNGPSRNLSPINLLKRATSPSVSHHNYKPTTTSIFS
+CRE_2_5505      ------------------------------------------------------------
+                                                                            
+
+CPA_4_4793      DLLNNTFTHNDAASHHGHHIPTSSNHLAMTSNNFTSGSGGEFFVFQPGDYIYAFEELIPQ
+CRE_2_5505      ------------------------------------------------------------
+                                                                            
+
+CPA_4_4793      AYPESIKADFAFVEYFLFASIERPGAFKSNISARQVVNIVRTQAHNSVEESEPIIISRDW
+CRE_2_5505      ------------------------------------------------------------
+                                                                            
+
+CPA_4_4793      ENQLYYDIVIASKDIILDAFLPIT
+CRE_2_5505      ------------------------
+                                        

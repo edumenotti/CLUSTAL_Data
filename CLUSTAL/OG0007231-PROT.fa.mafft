@@ -1,0 +1,20 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AQH_2_10        EHLRWIWQINQSLQGFRTIIWSNSSSIQGQIYCQNFRYQKKRKNCCSRYX----------
+CMN_8_16        -----------------------SSSIQGQIHCQNFRYQKKRKNCCSRYRQRSKGRNFGK
+CPI_4_3776      ------------------------------------------------------------
+CPM_4_3031      ------------------------------------------------------------
+                                                                            
+
+AQH_2_10        ------------------------------------------------------------
+CMN_8_16        RFEGQGIPIERQKLLCYRLRFRYRTHLGYQVPIHRYFRYGFLCRHEQTRCSHKKEMGY--
+CPI_4_3776      -------------------------HLGYQVPIHRYFRYGFLCRHEQTRCSHKKEMGYRW
+CPM_4_3031      -------------------------HLGYQVPIHRYFRYGFLCRHEQTRCSHKKEMGYRW
+                                                                            
+
+AQH_2_10        -----------------------
+CMN_8_16        -----------------------
+CPI_4_3776      LPQDNGRHRLLVQAKVRCCFGQX
+CPM_4_3031      LPQDNGRHRLLVQAKVRCCFGQX
+                                       

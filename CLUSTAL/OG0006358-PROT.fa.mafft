@@ -1,0 +1,57 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVV_8_7         ------------------------------------------------------------
+BAA_6_2         ------------------------------------------------------------
+BAB_8_6         ------------------------------------------------------------
+BAC_8_3         ------------------------------------------------------------
+BAD_8_3         ------------------------------------------------------------
+BAE_6_1         ------------------------------------------------------------
+CNN_1_1090      MKLSTVLLSAGLASTTLAQFSNSTSASSTDVTSSSSISTSSGSVTITSSEAPESDNGTST
+CNS_4_592       MKLSTVLLSAGLASTTLAQFSNSTSASSTDVTSSSSISTSSGSVTITSSEAPESDNGTST
+CNS_4_773       MKLSTVLLSAGLASTTLAQFSNSTSASSTDVTSSSSISTSSGSVTITSSEAPESDNGTST
+                                                                            
+
+AVV_8_7         ------------------------------------------------------------
+BAA_6_2         ------------------------------------------------------------
+BAB_8_6         ------------------------------------------------------------
+BAC_8_3         ------------------------------------------------------------
+BAD_8_3         ------------------------------------------------------------
+BAE_6_1         ------------------------------------------------------------
+CNN_1_1090      AA----------------------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CNS_4_592       AA----------------------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CNS_4_773       AAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                                                            
+
+AVV_8_7         -----TEAPTDTTTEAPTTALPTNGTSTEAPTDTTTEAPNTALPTNGTSTE-------AP
+BAA_6_2         -----TEAPTDTTTEAPTTALPTNGTSTEAPTDTTTEAPNTALPTNGTSTE-------AP
+BAB_8_6         -----TEAPTDTTTEAPTTALPTNGTSTEAPTDTTTEAPNTALPTNGTSTE-------AP
+BAC_8_3         -----TEAPTDTTTEAPTTALPTNGTSTEAPTDTTTEAPNTALPTNGTSTE-------AP
+BAD_8_3         -----TEAPTDTTTEAPTTALPTNGTSTEAPTDTTTEAPNTALPTNGTSTE-------AP
+BAE_6_1         -----TEAPTDTTTEAPTTALPTNGTSTEAPTDTTTEAPNTALPTNGTSTE-------AP
+CNN_1_1090      XXXXSTEAPTDTTTEAPTTALPTNGTSTEAPTDTTTEAPTTGLPTNGTTSAFPPTTSLPP
+CNS_4_592       XXXXSTEAPTDTTTEAPTTALPTNGTSTEAPTDTTTEAPTTGLPTNGTTSAFPPTTSLPP
+CNS_4_773       XXXXSTEAPTDTTTEAPTTALPTNGTSTEAPTDTTTEAPTTGLPTNGTTSAFPPTTSLPP
+                     **********************************.*.******::        .*
+
+AVV_8_7         TDTTTEAP----------------------------------------------------
+BAA_6_2         TDTTTEAP----------------------------------------------------
+BAB_8_6         TDTTTEAP----------------------------------------------------
+BAC_8_3         TDTTTEAP----------------------------------------------------
+BAD_8_3         TDTTTEAP----------------------------------------------------
+BAE_6_1         TDTTTEAP----------------------------------------------------
+CNN_1_1090      SNTTTTPPYNPSTDYTTDYTVVTEYTTYCPEPTTFTTNGKTYTVTGPTTLTITDCPCTIE
+CNS_4_592       SNTTTTPPYNPSTDYTTDYTVVTEYTTYCPEPTTFTTNGKTYTVTGPTTLTITDCPCTIE
+CNS_4_773       SNTTTTPPYNPSTDYTTDYTVVTEYTTYCPEPTTFTTNGKTYTVTE--------------
+                ::*** .*                                                    
+
+AVV_8_7         ------------------------
+BAA_6_2         ------------------------
+BAB_8_6         ------------------------
+BAC_8_3         ------------------------
+BAD_8_3         ------------------------
+BAE_6_1         ------------------------
+CNN_1_1090      KPTTTSTTEYTVVTEYTTYCPEPT
+CNS_4_592       KPTTTSTTEYTVVTEYTTYCPEPT
+CNS_4_773       ------------------------
+                                        

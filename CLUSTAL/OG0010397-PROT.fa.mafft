@@ -1,0 +1,22 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CMG_6_2406      NEPSKSRTLHHTPVALWIKSPEEEIIQNSQNAFLTSRSNHLPSEVEMTRINKTLSPKCTC
+YBR_0_1109      --------------------------------------------VEMTRINKTLSPKCTC
+                                                            ****************
+
+CMG_6_2406      LYLGRMMPVVLCTAEDIYTPLLSGLMILYKNKVYLKHSTHSYKDYINISISHQISIKSLM
+YBR_0_1109      LYLGRMMPVVLCTAEDIYTPLLSGLMILYKNKVYLKHSTHSYKDYINISISHQISIKSLM
+                ************************************************************
+
+CMG_6_2406      QSRNFPKLNLVLNVSTNDSERFGTECHQTSPKKLPHILGYQRKPIILSECTNQRHKTPWK
+YBR_0_1109      QSRNXPKLNLVLSVSTNDSERFGTECHQTSPKKLPHILGYQRKPIILSECTNQRHKTPWK
+                **** *******.***********************************************
+
+CMG_6_2406      RLTRQLHLKDSSQDSNLMLMETLSSVPQPTYKKNTTLTMIQKIIPRIDTSIPGQEDLTIN
+YBR_0_1109      RLTRQPHLKDSSQDSNLMLMETLSSVPQPTYKKNTTLTMIQKIX----------------
+                ***** *************************************                 
+
+CMG_6_2406      QCQIIETGEITTHPEKNVKIGYASIVRKRDIATNVEHVRRVLTDL
+YBR_0_1109      ---------------------------------------------
+                                                             

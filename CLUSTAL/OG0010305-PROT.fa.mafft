@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+CFH_0_5600      MNEKVNNKKSKRNSSSSREFDEKDVRSSISSISASRQSHDRSRKIDKNVEAELQEKIQTL
+CRE_2_3067      MNEKVNNKKSKRNSSSSREFDEKDVRSSISSISASRQSHDRARKIDKNVEAELQEKIQTL
+                *****************************************:******************
+
+CFH_0_5600      VDLISIATHNASVYLSIDDLTNFKIWILIRDSLLWDLKWMTSSQISSDNASNMDANESSD
+CRE_2_3067      VDLISIATHNASVYLSIDDLTNFKIWILIRDSLLWDLKWMTSSQISSDNASNMDANESSD
+                ************************************************************
+
+CFH_0_5600      FEAGENLKTGKEFPEEDGAGTSGAESLVEERPQAFRANSDEPSDAEKKPVSKLKEQLKNT
+CRE_2_3067      XXXXXXXXXXXXXXXXXXXXXXXXXXXRKE--TCF-------------------------
+                                            :*   .*                         
+
+CFH_0_5600      EIIPYAXXXXXXXXXXXXXXXXXD
+CRE_2_3067      ------------------------
+                                        

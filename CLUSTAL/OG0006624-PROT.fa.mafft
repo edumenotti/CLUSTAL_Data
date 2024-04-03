@@ -1,0 +1,20 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AVR_6_261       SEEQRPGTPLFTVKAYLPVNESFGFTGELRQATGGQAFPQMVFDHWSTLGSDPLDPTSKA
+BMF_1_26        ---------------YLPVNESFGFTGELRQATGGQAFPQMVFDHWSTLGSDPLDPTSKA
+CPC_4_24        ----------------------------------------MVFDHWSTLGSDPLDPTSKA
+BMF_1_6944      -------------------------------------------------GSDPLDPTSKA
+BPN_2_6434      ---------------------------------GGQAFPQMVFDHWSTLGSDPLDPTSKA
+CBL_2_7857      -------------------------------------------------GSDPLDPTSKA
+CRE_2_6991      -------------------------------------------------GSDPLDPTSKA
+                                                                 ***********
+
+AVR_6_261       GEIVLAARKRHGMKEEVPGWQEYYDKL
+BMF_1_26        GEIVLAARKR-----------------
+CPC_4_24        GEIVLAARKR-----------------
+BMF_1_6944      GEIVLAARKRHGMKEEVPGWQEYYDKL
+BPN_2_6434      GEIVLAARKRHGMKEEVPGWQEYYDKL
+CBL_2_7857      GEIVLAARKRHGMKEEVPGWQEYYDKL
+CRE_2_6991      GEIVLAARKRHGMKEEVPGWQEYYDKL
+                **********                 

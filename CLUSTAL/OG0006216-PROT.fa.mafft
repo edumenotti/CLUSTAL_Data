@@ -1,0 +1,110 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEL_3_4584      MEQTFPISKKVKTTRCSRDLQSSLEGQEEKDDVLNKVDEVANEFTSKDGDIRMQPEDDPF
+ARB_2_1357      MEQTFPISKKVKTTRCSRDLQSSLEGQEEKDDVLNKVDEVANEFTSKDGDIRMQPEDDPF
+BTV_5_154       MEQTFPISKKVKTTRCSRDLQSSLEGQEEKDDVLNKVDEVANEFTSKDGDIRMQPEDDPF
+CPA_4_5226      MEQTFPISKKVKTTRCSRDLQSSLEGQEEKDDVLNKVDEVANEFTSKDGDIRMQPEDDPF
+YAX_0_3984      MEQTFPISKKVKTTRCSRDLQSSLEGQEEKDDVLNKVDEVANEFTSKDGDIRMQPEDDPF
+YCG_0_1728      MEQTFPISKKVKTTRCSRDLQSSLEGQEEKDDVLNKVDEVANEFTSKDGDIRMQPEDDPF
+ZVR_0_5432      MEQTFPISKKVKTTRCSRDLQSSLEGQEEKDDVLNKVDEVANEFTSKDGDIRMQPEDDPF
+AHG_3_3457      MNSKNDFER--DGTGCSVEFQN----LQEKDGKSNMIKEVSNDCNTREDESIVRPEDDPF
+BDM_5_35        MNSKNDFER--DGTGCSVEFQN----LQEKDGKSNMIKEVSNDCNTREDESIVRPEDDPF
+BLT_2_1963      MNSKNDFER--DGTGCSVEFQN----LQEKDGKSNMIKEVSNDCNTREDESIVRPEDDPF
+                *:..  :.:  . * ** ::*.     :***.  * :.**:*: .:::.:  ::******
+
+AEL_3_4584      YHRFSPARKHFLVFLVGLSCFLSPSSNIAFLPAVPIIASRFETTSTVINISNAAYTLLMA
+ARB_2_1357      YHRFSPARKHFLVFLVGLSCFLSPSSNIAFLPAVPIIASRFETTSTVINISNAAYTLLMA
+BTV_5_154       YHRFSPARKHFLVFLVGLSCFLSPSSNIAFLPAVPIIASRFETTSTVINISNTAYTLLMA
+CPA_4_5226      YHRFSPARKHFLVFLVGLSCFLSPSSNIAFLPAVPIIASRFETTSTVINISNTAYTLLMA
+YAX_0_3984      YHRFSPARKHFLVFLVGLSCFLSPSSNIAFLPAVPIIASRFETTSTVINISNTAYTLLMA
+YCG_0_1728      YHRFSPARKHFLVFLVGLSCFLSPSSNIAFLPAVPIIASRFETTSTVINISNTAYTLLMA
+ZVR_0_5432      YHRFSPARKHFLVFLVGLSCFLSPSSNIAFLPAVPIIASRFETTSTVINISNTAYTLLMA
+AHG_3_3457      YDRHSPAKKRLLIFLVGLSCFLSPSSNMAFLPAVPIIATRFHTTSTIINVSNAVYTIVMA
+BDM_5_35        YDRHSPAKKRLLIFLVGLSCFLSPSSNMAFLPAVPIIATRFHTTSTIINVSNAVYTIVMA
+BLT_2_1963      YDRHSPAKKRLLIFLVGLSCFLSPSSNMAFLPAVPIIATRFHTTSTIINVSNAVYTIVMA
+                *.*.***:*::*:**************:**********:**.****:**:**:.**::**
+
+AEL_3_4584      LSPCVMSQLSDIYGRRSAFLACSLGFTICTVLVAVSQDLAMFFVFRCFTASFGTAFSSVG
+ARB_2_1357      LSPCVMSQLSDIYGRRSAFLACSLGFTICTVLVAVSQDLAMFFVFRCFTASFGTAFSSVG
+BTV_5_154       LSPCVMSQLSDIYGRRSAFLACSLGFTICTVLVAVSQDLAMFFVFRCFTASFGTAFSSVG
+CPA_4_5226      LSPCVMSQLSDIYGRRSAFLACSLGFTICTVLVAVSQDLAMFFVFRCFTASFGTAFSSVG
+YAX_0_3984      LSPCVMSQLSDIYGRRSAFLACSLGFTICTVLVAVSQDLAMFFVFRCFTASFGTAFSSVG
+YCG_0_1728      LSPCVMSQLSDIYGRRSAFLACSLGFTICTVLVAVSQDLAMFFVFRCFTASFGTAFSSVG
+ZVR_0_5432      LSPCVMSQLSDIYGRRSAFLACSLGFTICTVLVAVSQDLAMFFVFRCFTASFGTAFSSVG
+AHG_3_3457      ISPCLMSPFGDAYGRRTTFLLCSLGFTICTVLVAVSQNLAMFFVFRSITALFGTAFFSVG
+BDM_5_35        ISPCLMSPFGDAYGRRTTFLLCSLGFTICTVLVAVSQNLAMFFVFRSITALFGTAFFSVG
+BLT_2_1963      ISPCLMSPFGDAYGRRTTFLLCSLGFTICTVLVAVSQNLAMFFVFRSITALFGTAFFSVG
+                :***:** :.* ****::** ****************:********.:** ***** ***
+
+AEL_3_4584      GEVS--------------------------------------------------------
+ARB_2_1357      GEVS--------------------------------------------------------
+BTV_5_154       GEVS--------------------------------------------------------
+CPA_4_5226      GEVS--------------------------------------------------------
+YAX_0_3984      GEVS--------------------------------------------------------
+YCG_0_1728      GEVS--------------------------------------------------------
+ZVR_0_5432      GEVS--------------------------------------------------------
+AHG_3_3457      GSIVGDIYIPQERGNAMGWVLSGSQIGPAVAPCIGGLIVTYTSWRVIFWVLAGLGGLNFA
+BDM_5_35        GSIVGDIYIPQERGNAMGWVLSGSQIGPAVAPCIGGLIVTYTSWRVIFWVLAGLGGLNFA
+BLT_2_1963      GSIVGDIYIPQERGNAMGWVLSGSQIGPAVAPCIGGLIVTYTSWRVIFWVLAGLGGLNFA
+                *.:                                                         
+
+AEL_3_4584      ------------------------------------------------------------
+ARB_2_1357      ------------------------------------------------------------
+BTV_5_154       ------------------------------------------------------------
+CPA_4_5226      ------------------------------------------------------------
+YAX_0_3984      ------------------------------------------------------------
+YCG_0_1728      ------------------------------------------------------------
+ZVR_0_5432      ------------------------------------------------------------
+AHG_3_3457      ISFFFLPETARKTIALEIKEKYPEKKLVWVPYNPFKVILSLRYGNLILAGLVSSSLLYNM
+BDM_5_35        ISFFFLPETARKTIALEIKEKYPEKKLVWVPYNPFKVILSLRYGNLILAGLVSSSLLYNM
+BLT_2_1963      ISFFFLPETARKTIALEIKEKYPEKKLVWVPYNPFKVILSLRYGNLILAGLVSSSLLYNM
+                                                                            
+
+AEL_3_4584      ------------------------------------------------------------
+ARB_2_1357      ------------------------------------------------------------
+BTV_5_154       ------------------------------------------------------------
+CPA_4_5226      ------------------------------------------------------------
+YAX_0_3984      ------------------------------------------------------------
+YCG_0_1728      ------------------------------------------------------------
+ZVR_0_5432      ------------------------------------------------------------
+AHG_3_3457      YTLLTPIRHIVDPRFNLTTPIYGALFYLPPGFGYLCGSFIGGKWADYYVKKYMKKRGTRI
+BDM_5_35        YTLLTPIRHIVDPRFNLTTPIYGALFYLPPGFGYLCGSFIGGKWADYYVKKYMKKRGTRI
+BLT_2_1963      YTLLTPIRHIVDPRFNLTTPIYGALFYLPPGFGYLCGSFIGGKWADYYVKKYMKKRGTRI
+                                                                            
+
+AEL_3_4584      ------------------------------------------------------------
+ARB_2_1357      ------------------------------------------------------------
+BTV_5_154       ------------------------------------------------------------
+CPA_4_5226      ------------------------------------------------------------
+YAX_0_3984      ------------------------------------------------------------
+YCG_0_1728      ------------------------------------------------------------
+ZVR_0_5432      ------------------------------------------------------------
+AHG_3_3457      PEDRLRSTLITHGVVLPASILIYGWSLEKEKGGMALPIVAMFIGGIAQTICFPSVNAYCV
+BDM_5_35        PEDRLRSTLITHGVVLPASILIYGWSLEKEKGGMALPIVAMFIGGIAQTICFPSVNAYCV
+BLT_2_1963      PEDRLRSTLITHGVVLPASILIYGWSLEKEKGGMALPIVAMFIGGIAQTICFPSVNAYCV
+                                                                            
+
+AEL_3_4584      ------------------------------------------------------------
+ARB_2_1357      ------------------------------------------------------------
+BTV_5_154       ------------------------------------------------------------
+CPA_4_5226      ------------------------------------------------------------
+YAX_0_3984      ------------------------------------------------------------
+YCG_0_1728      ------------------------------------------------------------
+ZVR_0_5432      ------------------------------------------------------------
+AHG_3_3457      DSMPELGGDAIASNYFIRYIAGAVGTATCLIQIDNIGIGWTCTISAFILFGGFLSSLALV
+BDM_5_35        DSMPELGGDAIASNYFIRYIAGAVGTATCLIQIDNIGIGWTCTISAFILFGGFLSSLALV
+BLT_2_1963      DSMPELGGDAIASNYFIRYIAGAVGTATCLIQIDNIGIGWTCTISAFILFGGFLSSLALV
+                                                                            
+
+AEL_3_4584      ----------
+ARB_2_1357      ----------
+BTV_5_154       ----------
+CPA_4_5226      ----------
+YAX_0_3984      ----------
+YCG_0_1728      ----------
+ZVR_0_5432      ----------
+AHG_3_3457      TWGAKMRESG
+BDM_5_35        TWGAKMRESG
+BLT_2_1963      TWGAKMRESG
+                          

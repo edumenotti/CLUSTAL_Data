@@ -1,0 +1,34 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATV_5_5334      PILNVARFKKKLIRIKSAFGESLYSHPCPLDRYFRVKAQQRYCVWVRRITRGTRIFRRRK
+BFM_3_283       ------------------------------------------------------------
+                                                                            
+
+ATV_5_5334      RGPFQENEETATATKEKGQPQTSQRQCQGKESSAAQGQQFTTGTAVGHEQCSDATWVQIK
+BFM_3_283       --------------------------------------QFTTGTAVGHEQCSDATWVQIK
+                                                      **********************
+
+ATV_5_5334      KRTKYQAIQCYLSEWLLPSANHTAPPTTVFCKXXXXXXXXXXXXXXXXXPILNVARFKKK
+BFM_3_283       KRTKYQAIQCYLSEWLLPSANHTAPPTTVF------------------------------
+                ******************************                              
+
+ATV_5_5334      LIRIKSAFGESLYSHPCPLDRYFRVKAQQRYCVWVRRITRGTRIFRRRKRGPFQENEETA
+BFM_3_283       ------------------------------------------------------------
+                                                                            
+
+ATV_5_5334      TATKEKGQPQTSQRQCQGKESSAAQGQQFTTGTAIGHEQCADATWVQIKKCTKYQAIQCY
+BFM_3_283       ------------------------------------------------------------
+                                                                            
+
+ATV_5_5334      LPEWLLPSANHTAPPTTVLCKLSLPSTTKRYALSTILTFRSADLPVSTSTIWAGDTSPIL
+BFM_3_283       -------------------CKLSLPSTTKRYALSTILTFPSADLPVSTSTIWAGDTGPIL
+                                   ******************** ****************.***
+
+ATV_5_5334      QHCSIWLTSRIQQYVATNTAVVHVNGPKSTATPIWRTSHESNAKPNVHPTTTSSTSSGKW
+BFM_3_283       QHCSIWLTSRIQQYVAANTAVVHANGPKSTATSIWRTSHESNAKPNVHPTATSSTSSGKW
+                ****************:******.********.*****************:*********
+
+ATV_5_5334      FPTSNGITSNTFAATATATPVSASASARSKNX
+BFM_3_283       FPTSNGITSNTFAATATATPVSASASARSKNX
+                ******************************* 

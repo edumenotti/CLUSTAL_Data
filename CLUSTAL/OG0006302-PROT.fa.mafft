@@ -1,0 +1,57 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEN_3_3425      ------------------------------------------------------------
+AFL_5_4478      ------------------------------------------------------------
+BMQ_5_4060      ----------CS------------------------------------------------
+BML_5_3417      ------------------------------------------------------------
+BTE_3_6117      ------------------------------------------------------------
+CBF_5_5392      ------------------------------------------------------------
+CKS_5_3539      ------------------------------------------------------------
+CLA_5_3325      ------------------------------------------------------------
+ARN_6_5599      MLIGYGLTETCASTTILDPANFELGVAGDLTGCVTVKLVDVEELGYFAKNNQGEVWITGA
+                                                                            
+
+AEN_3_3425      ------------------------------------------------------------
+AFL_5_4478      ------------------------------------------------------------
+BMQ_5_4060      ----EYYKNPIETAVSFTYDGWFRTGDIVEWTPKGQLKIIDRRKNLVKTLNGEYIALEKL
+BML_5_3417      ------------------------------------------------------------
+BTE_3_6117      ------------------------------------------------------------
+CBF_5_5392      ------------------------------------------------------------
+CKS_5_3539      ------------------------------------------------------------
+CLA_5_3325      ------------------------------------------------------------
+ARN_6_5599      NVTPEYYKNEEETSQALTSDGWFKTGDIGEWEANGHLKIIDRKKNLVKTMNGEYIALEKL
+                                                                            
+
+AEN_3_3425      --------------------------------------------MKKGE---DIENYIHE
+AFL_5_4478      --------------------------------------------MKKGE---DIENYIHE
+BMQ_5_4060      ESVYRSNSYVKNICVYADESRVKPLGIVVPNPGPLSKFAVKLRIMKKGE---DIENYIHE
+BML_5_3417      --------------------------------------------MVPGE---DVESYIHE
+BTE_3_6117      --------------------------------------------MVPGE---DVESYIHE
+CBF_5_5392      --------------------------------------------MVPGE---DVESYIHE
+CKS_5_3539      --------------------------------------------MVPGE---DVESYIHE
+CLA_5_3325      --------------------------------------------MVPGE---DVESYIHE
+ARN_6_5599      ESVYRSNEYVANICVYADQSKTKPVGIIVPNHAPLTKLAKKLGIMEQKDSSINIENYLED
+                                                            *   :   ::*.*:.:
+
+AEN_3_3425      KALRNAVFKEMIATAKSQGLVGIELLCGIVFFDEEWTPENGLVTSAQKLKRREILAAVKS
+AFL_5_4478      KALRNAVFKEMIATAKSQGLVGIELLCGIVFFDEEWTPENGLVTSAQKLKRREILAAVKS
+BMQ_5_4060      KALRNAVFKEMIATAKSQGLVGIELLCGIVFFDEEWTPENGFVTSAQKLKRREILAAVKS
+BML_5_3417      KKLQDAVCKDMLSTAKSQGLNGIELLCGIVFFEEEWTPENGLVTSAQKLKRRDILAAVKP
+BTE_3_6117      KKLQDAVCKDMLSTAKSQGLNGIELLCGIVFFEEEWTPENGLVTSAQKLKRRDILAAVKP
+CBF_5_5392      KKLQDAVCKDMLSTAKSQGLNGIELLCGIVFFEEEWTPENGLVTSAQKLKRRDILAAVKP
+CKS_5_3539      KKLQDAVCKDMLSTAKSQGLNGIELLCGIVFFEEEWTPENGLVTSAQKLKRRDILAAVKP
+CLA_5_3325      KKLQDAVCKDMLSTAKSQGLNGIELLCGIVFFEEEWTPENGLVTSAQKLKRRDILAAVKP
+ARN_6_5599      AKLIKAVYSDLLKTGKDQGLVGIELLAGIVFFHGEWTPQNGFVTSAQKLKRKDILNAVKD
+                  * .** .::: *.*.*** *****.*****. ****:**:*********::** *** 
+
+AEN_3_3425      EVERVYKENS
+AFL_5_4478      EVERVYKENS
+BMQ_5_4060      EVERVYKENS
+BML_5_3417      DVERVYKENT
+BTE_3_6117      DVERVYKENT
+CBF_5_5392      DVERVYKENT
+CKS_5_3539      DVERVYKENT
+CLA_5_3325      DVERVYKENT
+ARN_6_5599      KVDAVYSSS-
+                .*: **... 

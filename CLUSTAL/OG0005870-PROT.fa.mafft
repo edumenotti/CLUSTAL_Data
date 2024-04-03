@@ -1,0 +1,128 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AAG_6_4747      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+ABC_5_4343      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+AHA_2_4523      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+CAT_0_5553      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKSPAKYHIIDHEYDCVVVGAGGAGLR
+CIC_4_5102      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+YAK_0_3429      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+YAL_0_4063      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+YAW_0_5450      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+YBM_0_5278      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+YDL_0_3389      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+YDN_0_5074      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+CFH_0_7306      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKPPAKYHIIDHEYDCVVVGAGGAGLR
+BME_1_5515      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKSPAKYHIIDHEYDCVVVGAGGAGLR
+BTD_1_652       ------------------------------------------------------------
+AFK_5_211       MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKSPAKYHIIDHEYDCVVVGAGGAGLR
+CCV_1_1966      MLSLKKGITKSYILQRTFTSSSVVRQIGEVKSESKSPAKYHIIDHEYDCVVVGAGGAGLR
+                                                                            
+
+AAG_6_4747      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+ABC_5_4343      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+AHA_2_4523      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+CAT_0_5553      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGS-----
+CIC_4_5102      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+YAK_0_3429      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+YAL_0_4063      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+YAW_0_5450      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+YBM_0_5278      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+YDL_0_3389      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+YDN_0_5074      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+CFH_0_7306      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+BME_1_5515      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+BTD_1_652       -----------------------------------------------MYDTVKGSDWLGD
+AFK_5_211       AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+CCV_1_1966      AAFGLAEAGYKTACLSKLFPTRSHTVAAQGGINAALGNMHPDDWKSHMYDTVKGSDWLGD
+                                                               ********     
+
+AAG_6_4747      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+ABC_5_4343      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+AHA_2_4523      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+CAT_0_5553      ------------------------------------------------------------
+CIC_4_5102      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+YAK_0_3429      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+YAL_0_4063      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+YAW_0_5450      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+YBM_0_5278      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+YDL_0_3389      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+YDN_0_5074      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAF----------------------
+CFH_0_7306      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAFGGQSKDFGKGGQAYRTCAVADR
+BME_1_5515      QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAFGGQSKDFGKGGQAYRTCAVADR
+BTD_1_652       QDAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAFGGQSKDFGKGGQAYRTCAVADR
+AFK_5_211       QHAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAFGGQSKDFGKGGQAYRTCAVADR
+CCV_1_1966      QHAIHYMTREAPKSVIELEHYGMPFSRTEDGRIYQRAFGGQSKDFGKGGQAYRTCAVADR
+                                                                            
+
+AAG_6_4747      ----------------------------------------------GTIQRFW-------
+ABC_5_4343      ----------------------------------------------GTIQRFW-------
+AHA_2_4523      ----------------------------------------------GTIQRFW-------
+CAT_0_5553      ------------------------------------------------------------
+CIC_4_5102      ----------------------------------------------GTIQRFW-------
+YAK_0_3429      ----------------------------------------------GTIQRFW-------
+YAL_0_4063      ----------------------------------------------GTIQRFW-------
+YAW_0_5450      ----------------------------------------------GTIQRFW-------
+YBM_0_5278      ----------------------------------------------GTIQRFW-------
+YDL_0_3389      ----------------------------------------------GTIQRFW-------
+YDN_0_5074      ----------------------------------------------GTIQRFW-------
+CFH_0_7306      TGHAMLHTLYGQALKNNTHFFIEYFAMDLLTHNGEVVGVIAYNQEDGTIHRFRAQKTVIA
+BME_1_5515      TGHAMLHTLYGQALKNNTHFFIEYFAMDLLTHNGEVVGVIAYNQEDGTIHRFRAHKTVIA
+BTD_1_652       TGHAMLHTLYGQALKNNTHFFIEYFAMDLLTHNGEVVGVIAYNQEDGTIHRFRAHKTVIA
+AFK_5_211       TGHAMLHTLYGQALKNNTHFFIEYFAMDLLTHNGEVVGVIAYNQEDGTIHRFRAHKTVIA
+CCV_1_1966      TGHAMLHTLYGQALKNNTHFFIEYFAMDLLTHNGEVVGVIAYNQEDGTIHRFRAHKTVIA
+                                                                            
+
+AAG_6_4747      ------------------------------------------------------------
+ABC_5_4343      ------------------------------------------------------------
+AHA_2_4523      ------------------------------------------------------------
+CAT_0_5553      ------------------------------------------------------------
+CIC_4_5102      ------------------------------------------------------------
+YAK_0_3429      ------------------------------------------------------------
+YAL_0_4063      ------------------------------------------------------------
+YAW_0_5450      ------------------------------------------------------------
+YBM_0_5278      ------------------------------------------------------------
+YDL_0_3389      ------------------------------------------------------------
+YDN_0_5074      ------------------------------------------------------------
+CFH_0_7306      TGGYGRAYFSCTSAHTCTGDGNAMVSRAGFPLEDLEFVQFHPSGIYGSGCLITEGARGEG
+BME_1_5515      TGGYGRAYFSCTSAHTCTGDGNAMVSRAGFPLEDLEFVQFHPSGIYGSGCLITEGARGEG
+BTD_1_652       TGGYGRAYFSCTSAHTCTGDGNAMVSRAGFPLEDLEFVQFHP------------------
+AFK_5_211       TGG---------------------------------------------------------
+CCV_1_1966      TGG---------------------------------------------------------
+                                                                            
+
+AAG_6_4747      ------------------------------------------------------------
+ABC_5_4343      ------------------------------------------------------------
+AHA_2_4523      ------------------------------------------------------------
+CAT_0_5553      ------------------------------------------------------------
+CIC_4_5102      ------------------------------------------------------------
+YAK_0_3429      ------------------------------------------------------------
+YAL_0_4063      ------------------------------------------------------------
+YAW_0_5450      ------------------------------------------------------------
+YBM_0_5278      ------------------------------------------------------------
+YDL_0_3389      ------------------------------------------------------------
+YDN_0_5074      ------------------------------------------------------------
+CFH_0_7306      GFLLNSEGERFMERYAPTAKDLASRDVVSRAITMEIRAGRGVGKNKDHXXXXXXXXXXXX
+BME_1_5515      GFLLNSEGERFMERYAPTAKDLASRDVVSRAITMEIRAGRGVGKX---------------
+BTD_1_652       ------------------------------------------------------------
+AFK_5_211       ------------------------------------------------------------
+CCV_1_1966      ------------------------------------------------------------
+                                                                            
+
+AAG_6_4747      ---------------
+ABC_5_4343      ---------------
+AHA_2_4523      ---------------
+CAT_0_5553      ---------------
+CIC_4_5102      ---------------
+YAK_0_3429      ---------------
+YAL_0_4063      ---------------
+YAW_0_5450      ---------------
+YBM_0_5278      ---------------
+YDL_0_3389      ---------------
+YDN_0_5074      ---------------
+CFH_0_7306      XXXXXXXSCLANCPL
+BME_1_5515      ---------------
+BTD_1_652       ---------------
+AFK_5_211       ---------------
+CCV_1_1966      ---------------
+                               

@@ -1,0 +1,12 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BCM_8_5628      SCRYFRYYLLLCCSLLSCHYCQRPRQNHSIFRWFHYKIDWRCEPSCYE------------
+BEB_6_5737      SCRYFRYYLLLCCSLLSCHYCQRPRQNHSIFRWFHYKIDWRCEPSCYE------------
+BDN_5_53        ------------C---SCHYCQRPRQNHSIFCCFHHKIDWCCESSCYESFEYRFRRAFDR
+                            *   ***************  **:**** **.****            
+
+BCM_8_5628      ----PSHCX--
+BEB_6_5737      ----PSHCX--
+BDN_5_53        KLQRPRSAGYX
+                    *  .   

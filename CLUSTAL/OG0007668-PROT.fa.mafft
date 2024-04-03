@@ -1,0 +1,17 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ATV_5_4110      -------------------------------------------------------TMKKL
+BBT_3_164       LTSLSSRLSNLLTQNSPDGSTTSLPRPMNSTLSQLPLLPLPKKKKMTMTSIYSVPTMKKL
+BCR_8_140       --------------NSPDGSTTSLPRPMNSTLSQLPLLPLPKKKKMTMTSIYSVPTMKKL
+                                                                       *****
+
+ATV_5_4110      TLKLKSRLKELPHTTLRRLLSQLSQLLSPLSLMSSHGMMKPIWKKWLLTSRPSKWKVPGV
+BBT_3_164       TLKLKSRLKELPHTTLRRLLSQLSQLLSPLSLMSSHGMMKPIWKKWLLTSRPSKWKVPGV
+BCR_8_140       TLKLKSRLKELPHTTLRRX-----------------------------------------
+                ******************                                          
+
+ATV_5_4110      LTNLSQLVSVSRSCKLTVLSKMTRFPWTTCNKALKKTKTTSNLPILLLCKNX
+BBT_3_164       LTNLSQLVSVSRSCKLTVLSKMTRFPWTTCNKALKKTKTTSNLPILLLCKNX
+BCR_8_140       ----------------------------------------------------
+                                                                    

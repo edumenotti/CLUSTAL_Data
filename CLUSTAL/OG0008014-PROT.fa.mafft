@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEC_8_53        MMEEFSYDHDFNTHFVTDLDYLQHDQQ-------QQQQQHDQQHNQQQQPQPQPIQTQNL
+CLA_5_6600      MMEEFSYDHDFNTHFATDLDYLQHDQQXXXXXXXXXXXXXXXXXXQQQQPQPQPIQTQNL
+                ***************.***********                  ***************
+
+AEC_8_53        EH----------------------------------------------------------
+CLA_5_6600      EHDHDQHTNDMSASSNASDSGPQRPKRTRAKGEALDVLKRKFEINPTPSLVERKKISDLI
+                **                                                          
+
+AEC_8_53        ---------------------------------------------------------
+CLA_5_6600      GMPEKNVRIWFQNRRAKLXXXXXXXXXXXXXXXXXVGVQTTIWSLQQVLHPYFTMKT
+                                                                         

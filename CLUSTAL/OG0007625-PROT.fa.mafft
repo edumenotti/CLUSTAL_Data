@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AQM_4_5924      RIKRKQKFRAGCSRKGKGTTAAGERRRRGGRRRRRRRRRRRRGGGDPIAPNCFYFKLVVL
+CGC_4_6399      ---------------GKGTTAAGERRRRGG-----RRRRRRGGGGDPIAPNCFYFKLVVL
+YCY_0_11        ---------------------------------------RRGGGGDPIAPNCFYFKLVVL
+                                                       ** ******************
+
+AQM_4_5924      LWI---------CX----------------------------------------------
+CGC_4_6399      LWIRKGIEYLENCRTSIPDQKPTX------------------------------------
+YCY_0_11        LWICKGIEYLENCRTSFPDQKPTCPRTAFDFKDKHEHDYNSQKLTENRCWRDRGAANSSS
+                ***         *                                               
+
+AQM_4_5924      ------------------------------------------------------------
+CGC_4_6399      ------------------------------------------------------------
+YCY_0_11        PFGLSLITIQYKQVSSSKLTSGRNQNICRMGPSQWNYTCGKKAFSCRRVRQLKKITVSIR
+                                                                            
+
+AQM_4_5924      ------------------------------------------------------------
+CGC_4_6399      ------------------------------------------------------------
+YCY_0_11        RQGNRRETGICKPGKCSQTLQYCTGISETTERGCHSRREFYQQQNQFIHIHLTNCHSAKT
+                                                                            
+
+AQM_4_5924      ------------------------------------------------------------
+CGC_4_6399      ------------------------------------------------------------
+YCY_0_11        KRCRRLSSNRLQYARQFQFHPCIERHNRYYHHNKITRIPCQMGQLARRIRGENRINSKGE
+                                                                            
+
+AQM_4_5924      ------------------------------------------------
+CGC_4_6399      ------------------------------------------------
+YCY_0_11        EVIRSKETKRKRRRRRRDHSMGKGMDRRWIKLVIWGHGTELCHPYGSX
+                                                                

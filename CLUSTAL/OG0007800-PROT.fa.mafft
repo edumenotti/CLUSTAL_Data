@@ -1,0 +1,17 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BIE_1_5502      ILLIYQNFCLRTYHTYHRRRLEIRELLSIRATFPMMRRKFTNYKLDSDQSTPYACPVRPR
+CMT_8_197       ------------------------------------------------------------
+CNI_4_58        ------------------------------------------------------------
+                                                                            
+
+BIE_1_5502      RENRLAFQVILKACLNQVPMQVLSLFPKECQRFSKTTYCTAWKSFSNPKISIMIYWPQKI
+CMT_8_197       -------QVILKACLNQVPMQVLSLFPKECQRFSKTTYCTAWKSFSNPKISIMIYWPQKI
+CNI_4_58        -------QVILKACLNQVPMQVLSLFPKECQRFSKTTYCTAWKSFSNPKISIMIYWPQKI
+                       *****************************************************
+
+BIE_1_5502      GMHPMELRQDKLLVLRKSIQCSANFVGX
+CMT_8_197       GMHPMELRQDKLLVLRKSIQCSANFVEX
+CNI_4_58        GMHPMELRQDKLLVLRKSIQCSANFVEX
+                **************************  

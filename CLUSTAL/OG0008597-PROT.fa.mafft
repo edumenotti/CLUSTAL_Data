@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BME_1_5417      MFKGYSPLKILLWDVLNLPVLSLYQRKQIHDLVRVMYTLINSFVVRLEAPRERRLVAKMN
+CFC_2_6402      ----------------------------------------------------------MN
+                                                                          **
+
+BME_1_5417      SNEEGKLDIVIKRESILKVHIKKEVTSTVEAPKKANKIKISLKGDKPVRKVEKQIVKPKV
+CFC_2_6402      SNEEGKLDIVIKRESILKVHIKKEVTSTVEAPKKANKIKISLKGDKPVRKVEKQIVKPKV
+                ************************************************************
+
+BME_1_5417      TSKQRKVKSHVNRMGSLPLRFVKIQQQPRVMVHLSSVPYSQFVQITKVTSRSFMVKIRTK
+CFC_2_6402      TSKQRKVKSHVNRMGSLPLRFVKIQQQPRVMVHLSSVPYSQFVQITKVTSRSFMVKIRTK
+                ************************************************************
+
+BME_1_5417      KDAKN
+CFC_2_6402      KDAKN
+                *****

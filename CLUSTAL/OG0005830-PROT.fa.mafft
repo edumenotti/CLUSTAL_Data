@@ -1,0 +1,62 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANM_2_6         ---------NGSQKTFEIDDEHRIRVFFDKRIGQEVDGEAVGDEFKGYVFKISGGNDKQG
+ANR_2_593       MKLNISYPVNGSQKTFEIDDEHRIRVFFDKRIGQEVX-----------------------
+ANT_2_855       MKLNISYPVNGSQKTFEIDDEHRIRVFFDKRIGQEVX-----------------------
+ANV_5_1028      MKLNISYPVNGSQKTFEIDDEHRIRVFFDKRIGQEVX-----------------------
+CFA_4_3810      MKLNISYPVNGSQKTFEIDDEHRIRVFFDKRIGQEVDGEAVGDEFKGYVFKISGGNDKQG
+ZSA_0_3779      MKLNISYPVNGSQKTFEIDDEHRIRVFFDKRIGQEVDGEX--------------------
+CFA_4_4555      MKLNISYPVNGSQKTFEIDDEHRIRVFFDKRIGQEVDGEAVGDEFKGYVFKISGGNDKQG
+CQB_6_3804      MKLNISYPVNGSQKTFEIDDEHRIRVFFDKRIGQEVDGEAVGDEFKGYVFKISGGNDKQG
+CDC_3_4665      MKLNISYPVNGSQKTFEIDDEHRIRVFFDKX-------------XXXXXXXXXXXXXXXX
+CDG_2_2186      MKLNISYPVNGSQKTFEIDDEHRIRVFFDK----------------XXXXXXXXXXXXXX
+CQS_4_5051      MKLNISYPVNGSQKTFEIDDEHRIRVFFDKXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BMR_2_509       MKLNISYPVNGSQKTFEIDDEHRIRA----------------------------------
+BMR_2_1638      -----------------------MKA----------------------------------
+BNB_4_2617      -----------------------MKA----------------------------------
+BNC_4_2506      MKLNISYPVNGSQKTFEIDDEHRIRA----------------------------------
+BNC_4_4478      -----------------------MKA----------------------------------
+BND_3_4928      MKLNISYPVNGSQKTFEIDDEHRIRA----------------------------------
+CDI_1_4847      ------------MKSTGLKRPSKLMM--------------------NTVFVFSSTXXXXX
+                                       :                                    
+
+ANM_2_6         FPMKQGV-----------------------------------------------------
+ANR_2_593       ------------------------------------------------------------
+ANT_2_855       ------------------------------------------------------------
+ANV_5_1028      ------------------------------------------------------------
+CFA_4_3810      FPMKQGVLXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ZSA_0_3779      ------------------------------------------------------------
+CFA_4_4555      FPMKQG------------------------------------------------------
+CQB_6_3804      FPMKQG------------------------------------------------------
+CDC_3_4665      XXXXXX------------------------------------------------XXXXXX
+CDG_2_2186      XXXXXX------------------------------------------------XXXXXX
+CQS_4_5051      XXXXXX------------------------------------------------XXXXXX
+BMR_2_509       --------------------------------------------------PKIQRLVTPQ
+BMR_2_1638      --------------------------------------------------PKIQRLVTPQ
+BNB_4_2617      --------------------------------------------------PKIQRLVTPQ
+BNC_4_2506      --------------------------------------------------PKIQRLVTPQ
+BNC_4_4478      --------------------------------------------------PKIQRLVTPQ
+BND_3_4928      --------------------------------------------------PKIQRLVTPQ
+CDI_1_4847      XXXXXXX--------------------------------------XXXXXXXXXXXXXXX
+                                                                            
+
+ANM_2_6         ----------------------------LLPTRIK-------------------
+ANR_2_593       ------------------------------------------------------
+ANT_2_855       ------------------------------------------------------
+ANV_5_1028      ------------------------------------------------------
+CFA_4_3810      XXXRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+ZSA_0_3779      ------------------------------------------------------
+CFA_4_4555      -----RHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+CQB_6_3804      --------------------------------------AEKAEIRKRRASSLKA
+CDC_3_4665      XXXRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+CDG_2_2186      XXXRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+CQS_4_5051      XXXXXXXXRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+BMR_2_509       RLQRKRHQKALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+BMR_2_1638      RLQRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+BNB_4_2617      RLQRKRHQKALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+BNC_4_2506      RLQRKRHQKALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+BNC_4_4478      RLQRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+BND_3_4928      RLQRKRHQKALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+CDI_1_4847      XXXRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA
+                                                                      

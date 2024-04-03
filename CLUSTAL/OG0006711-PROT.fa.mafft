@@ -1,0 +1,50 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AGB_1_62        SHDLIWYQARFESARFEDYQFRRVQCLSFEQKIPRFSNYSKKCLFKYGRVQRTMVVSDKQ
+BMM_3_1876      ------------------------------------------------------------
+BTE_3_1472      ------------------------------------------------------------
+CFD_4_478       ------------------------------------------------------------
+CFD_4_3810      ------------------------------------------------------------
+CFM_4_511       ------------------------------------------------------------
+                                                                            
+
+AGB_1_62        LQLSSNSATNKRTSFKLVEFSCNCHVKPTSNNQISETEKRHCMRLYERAKPFHFRESYSL
+BMM_3_1876      ------------------------------------------------------------
+BTE_3_1472      ------------------------------------------------------------
+CFD_4_478       ------------------------------------------------------------
+CFD_4_3810      ------------------------------------------------------------
+CFM_4_511       ------------------------------------------------------------
+                                                                            
+
+AGB_1_62        GKIETVGATKAWEKYLSCCQGCCLMDCGFPVIFSRYNRVWKRKACISGVRKGTMFHASSF
+BMM_3_1876      ------------------------------------------------------------
+BTE_3_1472      ------------------------------------------------------------
+CFD_4_478       ----------------------CLMDCGFPVIFSRYNRVWERKACISGVRKGIMFHASSF
+CFD_4_3810      ------------------------------------------------------------
+CFM_4_511       ----------------------CLMDCGFPVIFSRYNRVWERKACISGVRKGIMFHASSF
+                                                                            
+
+AGB_1_62        YYGEARLRKIRKDAGKVLGSALPRSRCGTWWWLNKNSRSKITRLYFRRYPQNRCITVWPF
+BMM_3_1876      --------------------ALPRSRCGTWWWLNKNSRSKITRLYFRRYPQNRCITIWPF
+BTE_3_1472      --------------------ALPRSRCGTWWWLNKNSRSKITRLYFRRYPQNRCITIWPF
+CFD_4_478       YYGEARLRKTRKDAGKVLGSALPRSRCGTWWWLNKNSRSKITRLYFRRYPQNRCITIWPF
+CFD_4_3810      --------------------ALPRSRCGTWWWLNKNSRSKITRLYFRRYPQNRCITIWPF
+CFM_4_511       YYGEARLRKTRKDAGKVLGSALPRSRCGTWWWLNKNSRSKITRLYFRRYPQNRCITXXXX
+                                    ************************************    
+
+AGB_1_62        TECFRYGNTATRWICYWFSYVRYDLNEYKGRNRLPKKYYRGFGCQESKCDTKHSGTLQYQ
+BMM_3_1876      TECF-YGNTATRWICYWFSYVRYDLNEYKGRNRLPKKYYRGFGCQESKCDTKHSGTLQYQ
+BTE_3_1472      TECF-YGNTATRWICYWFSYVRYDLNEYKGRNRLPKKYYRGFGCQESKCDTKHSGTLQYQ
+CFD_4_478       TECF-YGNTATRWICYWFSYVRYDLNEYKGRNRLPKKYYRGFGCQESKCDTKHSGTLQYQ
+CFD_4_3810      TECF-YGNTATRWICYWFSYVRYDLNEYKGRNRLPKKYYRGFGCQESKCDTKHSGTLQYQ
+CFM_4_511       XXXXXXXXXXXXXXXXXXSYVRYDLNEYKGRNRLPKKYYRGFGCQESKCDTKHSGTLQYQ
+                                  ******************************************
+
+AGB_1_62        VFKKNEQKX
+BMM_3_1876      VFKKX----
+BTE_3_1472      VFKKX----
+CFD_4_478       VFKKX----
+CFD_4_3810      VFKKX----
+CFM_4_511       VFKKX----
+                ****     

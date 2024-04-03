@@ -1,0 +1,47 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BFE_4_1704      ITVCNPITAYQLQWRHKYCRFCNYRPIPYSSGGKCQQYQCICFSWLSRAFTCAIEIRSKF
+BFM_3_1655      ITVCNPITAYQLQWRHKYCRFCNYRPIPYSSGGKCQQYQCICFSWLSRAFTCAIEIRSKF
+BMF_1_5136      ITVCNPITAYQLQWRHKYCRFCNYRPIPYSSGGKCQQYQCICFSWLSRAFTCAIEIRSKF
+BPA_4_3736      ------------------------------------------------------------
+CNQ_1_21        ------------------------------------------------------------
+CFT_5_302       ITVCNPITAYQLQWRHKYCRFCNYRPIPYSSGGKCQQYRCICFSWLSRAFTCAIEIRSKF
+CFT_5_301       ITVCNPITAYQLQWRHKYCRFCNYRPIPYSSGGKCQQYRCICFSWLSRAFTCAIEIRSKF
+                                                                            
+
+BFE_4_1704      QSSQAVIPSTLSLSSDNTKKHTFASLSHAFSRATATAAIISATDPVCFVWWRQFSKWEYC
+BFM_3_1655      QSSQAVIPSTLSLSSDNTKKHTFASLSHAFSRATATAAIISATDPVCFVWWRQFSKWEYC
+BMF_1_5136      QSSQAVIPSTLSLSSDNTKKHTFASLSHAFSRATATAAIISATDPVCFVWWRQFSKWEYC
+BPA_4_3736      ------------------------------------------------------------
+CNQ_1_21        ------------------------------------------------------------
+CFT_5_302       QSSQAVIPSTLSLSSDNTKKHTFASLSHAFSRATATAAIISATDPVCFVWWRQFSKWEYC
+CFT_5_301       QSSQAVIPSTLSLSSDNTKKHTFASLSHAFSRATATAAIISATDPVCFVWWRQFSKWEYC
+                                                                            
+
+BFE_4_1704      LIVLHFHXXXXXXXXXXXXXXXXXX-----------------------------------
+BFM_3_1655      LIVLHFHXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------
+BMF_1_5136      LIVLHFHQQRSEPHNNSNKFSSAFTTNCLLRSWLHENHGNWFKTTVTWLDGPNCVRVWNH
+BPA_4_3736      ------------------------------------------------------------
+CNQ_1_21        ------------------------------------------------------------
+CFT_5_302       LIVLHFHQQRSEPHNNSNKFSSAFTTNCLLRSW---------------------------
+CFT_5_301       LIVLHFHQQRSEPHNNSNKFSSAFTTNCLLRS----------------------------
+                                                                            
+
+BFE_4_1704      ------------------------------------------------------------
+BFM_3_1655      ------------------------------------------------------------
+BMF_1_5136      YRDVYHYNGCILSIRRYPTKPKKRWEYCLIVLHFHQQRSEPHNNSNKFSSAFTTNCLLRS
+BPA_4_3736      ------------------------------------------------------------
+CNQ_1_21        ------------------------------------------------------------
+CFT_5_302       ------------------------------------------------------------
+CFT_5_301       ------------------------------------------------------------
+                                                                            
+
+BFE_4_1704      ----------------------------------------------------
+BFM_3_1655      LHENHGNWFKTTVTWLDGPNCVRVWNHYRDVYHYNGCILSIRRYPTKPKKRX
+BMF_1_5136      LHENHGNWFKTTVTWLDGPNCVRVWNHYRDVYHYNGCILSIRRYPTKPKKRX
+BPA_4_3736      LHENHGNWFKTTVTWLDGPNCVRVWNHYRDVYHYNGCILSIRRYPTKPKKRX
+CNQ_1_21        LHENHGNWFKTTVTWLDGPNCVRVWNHYRDVYHYNGCILSIRRYPTKPKKRX
+CFT_5_302       LHENHGNWFKTTVTWLDGPNCVRVWNHYRDVYHYNGCILSIRRYPTKPKKRX
+CFT_5_301       LHENHGNWFKTTVTWLDGPNCVRVWNHYRDVYHYNGCILSIRRYPTKPKKRX
+                                                                    

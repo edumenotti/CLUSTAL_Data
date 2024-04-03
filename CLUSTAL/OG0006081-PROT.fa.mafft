@@ -1,0 +1,142 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ANL_2_194       ------------------------------------------------------------
+AVR_6_221       ----------------------------------------------SKLERV-----GRE
+BML_5_1549      TKTNDQKCISQHGFFKNVEFNELQNLRRSKRNNSYNYSGKPRFNYLSKLERV-----GRE
+BMM_3_1514      TKTNDQKCISQHGFFKNVEFNELQNLRRSKRNNSYNYSGKPRFNYLSKLERV-----GRE
+CBF_5_1459      TKTNDQKCISQHGFFKNVEFNELQNLRRSKRNNSYNYSGKPRFNYLSKLERV-----GRE
+CLA_5_1569      TKTNDQKCISQHGFFKNVEFNELQNLRRSKRNNSYNYSGKPRFNYLSKLERV-----GRE
+BEK_7_424       ------------------------------------------------------------
+BEM_7_493       ------------------------------------------------------------
+AVT_6_224       ------------------------------------------------------------
+ATV_5_3737      ------------------------------------------------------------
+CFG_4_505       -----------------------------------------------KYNRICGITKGGQ
+CFH_0_1107      -----------------------------------------------KYNRICGITKGGQ
+                                                                            
+
+ANL_2_194       ------------------------------------------------------------
+AVR_6_221       SFRRCRYRRVSKTFFIIPIVYLIRLFYEAIFSCSSEIYNCRPAFDIRGSFRFLANAKRLA
+BML_5_1549      SFRRCRYRRVFETFFIIPIVYLIRLFYEAIFSCSSEIYNCRPAFDIRGSFRFLANAKRLA
+BMM_3_1514      SFRRCRYRRVFETFFIIPIVYLIRLFYEAIFSCSSEIYNCRPAFDIRGSFRFLANAKRLA
+CBF_5_1459      SFRRCRYRRVFETFFIIPIVYLIRLFYEAIFSCSSEIYNCRPAFDIRGSFRFLANAKRLA
+CLA_5_1569      SFRRCRYRRVFETFFIIPIVYLIRLFYEAIFSCSSEIYNCRPAFDIRGSFRFLANAKRLA
+BEK_7_424       ------------------------------------------------------------
+BEM_7_493       ------------------------------------------------------------
+AVT_6_224       ------------------------------------------------------------
+ATV_5_3737      -----------------------------------------------------------G
+CFG_4_505       S----------------------EVTWYARSDCTNE--NVR-STDLPGAL--------LG
+CFH_0_1107      S----------------------EVTWYARSDCTNE--NVR-STDLPGAL--------LG
+                                                                            
+
+ANL_2_194       -----------------------KYYPRGGRIARPGSYSLSQPYQSRFRFQSKV------
+AVR_6_221       YRLLRTNETFILEFRCQGEEWEPKYYPRGGRIARPGSYSLPQPYQSRF-FQSKV------
+BML_5_1549      YRLLRTNETFILEFRCQGEEWEPKYYPRGGRIARPGSYSLPQPYQSRF-FQSKV------
+BMM_3_1514      YRLLRTNETFILEFRCQGEEWEPKYYPRGGRIARPGSYSLPQPYQSRF-FQSKV------
+CBF_5_1459      YRLLRTNETFILEFRCQGEEWEPKYYPRGGRIARPGSYSLPQPYQSRF-FQSKV------
+CLA_5_1569      YRLLRTNETFILEFRCQGEEWEPKYYPRGGRIARPGSYSLPQPYQSRF-FQSKV------
+BEK_7_424       ------------------------------------SYSLPQPYQSRFRFQSKV------
+BEM_7_493       ------------------------------------SYSLPQPYQSRFRFQSKV------
+AVT_6_224       ------------------------------------------------------------
+ATV_5_3737      H--------FILYHGI-------HFGRRSSFICHPINDTRANLLDNHFLFTKNLEEQVYK
+CFG_4_505       H--------FILYHGI-------HFGRRSSFICHPINDTRANLLDXHFLFTKNLEEQVYK
+CFH_0_1107      H--------FILYHGI-------HFGRRSSFICHPINDTRANLLDXHFLFTKNLEEQVYK
+                                                                            
+
+ANL_2_194       -------FSR-------PRFKILLFCATSHIRKSINS----RKGEFVKLC---CNDEKQY
+AVR_6_221       -------FSR-------PRFKILLFCATXHVRXSINX----RKXEFVKLC---CNDEKQY
+BML_5_1549      -------FSR-------PRFKILLFCATIHVRESINS----RKREFVKLC---CNDEKQY
+BMM_3_1514      -------FSR-------PRFKILLFCATIHVRESINS----RKREFVKLC---CNDEKQY
+CBF_5_1459      -------FSR-------PRFKILLFCATIHVRESINS----RKREFVKLC---CNDEKQY
+CLA_5_1569      -------FSR-------PRFKILLFCATIHVRESINS----RKREFVKLC---CNDEKQY
+BEK_7_424       -------FSR-------PRFKILLFCATSHVRKSINS----RKGEFVKLC---CNDEKQY
+BEM_7_493       -------FSR-------PRFKILLFCATSHVRKSINS----RKGEFVKLC---CNDEKQY
+AVT_6_224       ---------------------------------SINS----RKGEFVKLC---CNDEKQY
+ATV_5_3737      IVWGFTGFERVYQFCQTDKFHILLYCKGGKARQATLSFYFYRRILEIQLFFHDCN----Y
+CFG_4_505       IVWGFTGFERVYQFCQTDKFHILLYCKGGKARQATLSFYFYRRILEIQLFFHDCN----Y
+CFH_0_1107      IVWGFTGFERVYQFCQTDKFHILLYCKGGKARQATLSFYFYRRILEIQLFFHDCN----Y
+                                                 :       *:   ::*    **    *
+
+ANL_2_194       YGIAI---------------ARGRRIWVLRQ---------NCRKKHQCCLYRFRYERQRM
+AVR_6_221       HGIAI---------------ARGRRLWVLRR---------NCRKKHECCLCRFRY-RQRM
+BML_5_1549      HGIAI---------------ARGRRLWVLRR---------NCRKKHECCLCRFRY-RQRM
+BMM_3_1514      HGIAI---------------ARGRRLWVLRR---------NCRKKHECCLCRFRY-RQRM
+CBF_5_1459      HGIAI---------------ARGRRLWVLRR---------NCRKKHECCLCRFRY-RQRM
+CLA_5_1569      HGIAI---------------ARGRRLWVLRR---------NCRKKHECCLCRFRY-RQRM
+BEK_7_424       HGIAI---------------ARGRRLWVLRR---------NCRKKHECCLCRFRY-RQRM
+BEM_7_493       HGIAI---------------ARGRRLWVLRR---------NCRKKHECCLCRFRY-RQRM
+AVT_6_224       YGIAI---------------ARGRRIWVLRQ---------NCRKKHQCCLYRFRYERQRM
+ATV_5_3737      FSIIFFTNLSFRENLAGSYSSNERSIAVTEQVDGSQEKFHKLQKRAEVFTRSLRTVFRRL
+CFG_4_505       FSIIFFTNLSFRENLAGSYSSNERSIAVTGQVDGS-EKFHKLQKRAEIFTRSLRTVFRRL
+CFH_0_1107      FSIIFFTNLSFRENLAGSYSSNERSIAVTGQVDGS-EKFHKLQKRAEIFTRSLRTVFRRL
+                ..* :               :. * : *  :         : :*: :     :*   :*:
+
+ANL_2_194       ARPSQVTEVFAARVTDLGFQDRWF-------------------TR-----TDLLLDRX--
+AVR_6_221       AQPSQVTEVFAARVTDLGLQDRWF-------------------TR-----TDLLLDRKEG
+BML_5_1549      AQPSQVTEVFAARVTDLGLQDRWF-------------------TR-----TDLLLDRKEG
+BMM_3_1514      AQPSQVTEVFAARVTDLGLQDRWF-------------------TR-----TDLLLDRKEG
+CBF_5_1459      AQPSQVTEVFAARVTDLGLQDRWF-------------------TR-----TDLLLDRKEG
+CLA_5_1569      AQPSQVTEVFAARVTDLGLQDRWF-------------------TR-----TDLLLDRKEG
+BEK_7_424       AQPSQVTEVFAARVTDLGLQDRWF-------------------TR-----TDLLLDRKEG
+BEM_7_493       AQPSQVTEVFAARVTDLGLQDRWF-------------------TR-----TDLLLDRKEG
+AVT_6_224       ARPSQVTEVFAARVTDLGLQDRWF-------------------TR-----TDLLLDRKEG
+ATV_5_3737      F----ISNLY-FRKSGLSCLGTWFKGCPEEIYKLQQKEQTCYLTRDHIFQENTLFHRSDG
+CFG_4_505       F----ISNLYRFRKSGLSCLGTWFKGCPEEIYKLQQKEQTCYLTRDHIFQEDTLFHRSDG
+CFH_0_1107      F----ISNLYRFRKSGLSCLGTWFKGCPEEIYKLQQKEQTCYLTRDHIFQEDTLFHRSDG
+                     :::::  * :.*.  . **                   **      : *:.*   
+
+ANL_2_194       ------------------------------------------------------------
+AVR_6_221       LIFQYYFFNH----------------------FQ-------------KHLYYNGVFKLLD
+BML_5_1549      LIFQYYFFNH----------------------FQ-------------KHLYYNGVFKLLD
+BMM_3_1514      LIFQYYFFNH----------------------FQ-------------KHLYYNGVFKLLD
+CBF_5_1459      LIFQYYFFNH----------------------FQ-------------KHLYYNGVFKLLD
+CLA_5_1569      LIFQYYFFNH----------------------FQ-------------KHLYYNGVFKLLD
+BEK_7_424       LIFQYYFFNH----------------------FQ-------------KHLYYNGVFKLLD
+BEM_7_493       LIFQYYFFNH----------------------FQ-------------KHLYYNGVFKLLD
+AVT_6_224       LIFQYYFFNH----------------------FQ-------------KHLYYNGVFKLLD
+ATV_5_3737      NMYIKFIGKHPPYETIPIIINYTKTKKESRSEFQFEITRKIQGPNRRKNIHERQISKISI
+CFG_4_505       NMYIKFIGKHPPYETIPTIINYTKTKKESRSEFQFEITRKIQGPNRRKNIHERQIFKIPI
+CFH_0_1107      NMYIKFIGKHPPYETIPTIINYTKTKKESRSEFQFEITRKIQGPNRRKNIHERQIFKIPI
+                                                                            
+
+ANL_2_194       ------------------------------------------------------------
+AVR_6_221       LAIFGSTRGFVLRIMGDEKTYTSMGGDYDNLX----------------------------
+BML_5_1549      LAIFGSTRGFVLRIMGDEKAYTGMGGDYDNLFQAILVPGLARSCDPKSGLFCASSNQGKY
+BMM_3_1514      LAIFGSTRGFVLRIMGDEKAYTGMGGDYDNLFQAILVPGLARSCDPKSGLFCASSNQGKY
+CBF_5_1459      LAIFGSTRGFVLRIMGDEKAYTGMGGDYDNLFQAILVPGLARSCDPKSGLFCASSNQGKY
+CLA_5_1569      LAIFGSTRGFVLRIMGDEKAYTGMGGDYDNLFQAILVPGLARSCDPKSGLFCASSNQGKY
+BEK_7_424       LAIFGSTRGFVLRIMGDEKAYTGMGGDYDNLFQAILVPGLARSCDPKSGLFCASCNQGKY
+BEM_7_493       LAIFGSTRGFVLRIMGDEKAYTGMGGDYDNLFQAILVPGLARSCDPKSGLFCASCNQGKY
+AVT_6_224       LAIFGSTRGFVLRI----------------------------------------------
+ATV_5_3737      TDKEKSSQGFX-------------------------------------------------
+CFG_4_505       TDKEKSSQGFX-------------------------------------------------
+CFH_0_1107      TDKEKSSQGFX-------------------------------------------------
+                                                                            
+
+ANL_2_194       ------------------------------------------------------------
+AVR_6_221       ------------------------------------------------------------
+BML_5_1549      NRICGITKGGQSEVTWYARSDCTNENVRSTDLPGALLGHFILYHGIHFGRRSSFICHPIN
+BMM_3_1514      NRICGITKGGQSEVTWYARSDCTNENVRSTDLPGALLGHFILYHGIHFGRRSSFICHPIN
+CBF_5_1459      NRICGITKGGQSEVTWYARSDCTNENVRSTDLPGALLGHFILYHGIHFGRRSSFICHPIN
+CLA_5_1569      NRICGITKGGQSEVTWYARSDCTNENVRSTDLPGALLGHFILYHGIHFGRRSSFICHPIN
+BEK_7_424       NRIYGITKGGQSEVTWYARSDCTNENVRSTDLPGALLGHFILYHGIHFGRRSSFICHPIN
+BEM_7_493       NRIYGITKGGQSEVTWYARSDCTNENVRSTDLPGALLGHFILYHGIHFGRRSSFICHPIN
+AVT_6_224       ------------------------------------------------------------
+ATV_5_3737      ------------------------------------------------------------
+CFG_4_505       ------------------------------------------------------------
+CFH_0_1107      ------------------------------------------------------------
+                                                                            
+
+ANL_2_194       ---------------------------
+AVR_6_221       ---------------------------
+BML_5_1549      DTRANLLD-------------------
+BMM_3_1514      DTRANLLD-------------------
+CBF_5_1459      DTRANLLD-------------------
+CLA_5_1569      DTRANLLD-------------------
+BEK_7_424       DTRANLLDNHFLFTKNLEEQVYKIVWG
+BEM_7_493       DTRANLLDNHFLFTKNLEEQVYKIVWG
+AVT_6_224       ---------------------------
+ATV_5_3737      ---------------------------
+CFG_4_505       ---------------------------
+CFH_0_1107      ---------------------------
+                                           

@@ -1,0 +1,92 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AHL_3_1360      ------------------------------------------------------------
+BSG_4_1494      ------------------------------------------------------------
+CDT_2_2559      ------------------------------------------------------------
+CGD_5_5460      ------------------------------------------------------------
+YBH_0_1993      CVQWKAFIGRVLEALQHQQGDRCNLIESSFRCIFGIASQCTIHNRTNRIDSCQSRWTFSA
+AIE_1_1572      ------------------------------------------------------------
+AIE_1_3813      ------------------------------------------------------------
+AQA_4_2964      ------------------------------------------------------------
+AQD_4_2692      ------------------------------------------------------------
+BSG_4_81        ------------------------------------------------------------
+CDT_2_2830      ------------------------------------------------------------
+CGD_5_1194      ------------------------------------------------------------
+CGE_5_405       ------------------------------------------------------------
+                                                                            
+
+AHL_3_1360      ------------------------------------------------------------
+BSG_4_1494      ----CVQWKAFIGRVLEALQHQGDSCYTLGSFPCVIRRSSTWVTHHMAITGVSESEGLIS
+CDT_2_2559      ------------------------------------------------------------
+CGD_5_5460      ------------------------------------------------------------
+YBH_0_1993      HSGWCCKWKAFIGRVLEALQHQGDSCYTLGSFPCVIRRSSTWVTHHMAITGVSESEGLIS
+AIE_1_1572      ------------------------------------------------------------
+AIE_1_3813      ------------------------------------------------------------
+AQA_4_2964      ------------------------------------------------------------
+AQD_4_2692      ------------------------------------------------------------
+BSG_4_81        ------------------------------------------------------------
+CDT_2_2830      ------------------------------------------------------------
+CGD_5_1194      ------------------------------------------------------------
+CGE_5_405       ------------------------------------------------------------
+                                                                            
+
+AHL_3_1360      ------------------------------------------------------------
+BSG_4_1494      QAHSGWCCKVCKVGNIYRPTNSQGSGHSNGRNYEGSERRYERCVYWCLHYEGHIRRNAVH
+CDT_2_2559      ------------------------------------------------------------
+CGD_5_5460      ------------------------------------------------------------
+YBH_0_1993      QAHSGWCCKVCKVGNIYRPTNSQGSGHSNGRNYEGSERRYERCVYWCLHYEGHIRRNAVH
+AIE_1_1572      ------------------------------------------------------------
+AIE_1_3813      ------------------------------------------------------------
+AQA_4_2964      ------------------------------------------------------------
+AQD_4_2692      ------------------------------------------------------------
+BSG_4_81        ------------------------------------------------------------
+CDT_2_2830      ------------------------------------------------------------
+CGD_5_1194      ------------------------------------------------------------
+CGE_5_405       ------------------------------------------------------------
+                                                                            
+
+AHL_3_1360      ------------------------------------------------NKAMGWGEDGKI
+BSG_4_1494      CRKAQLVQICQLAVVLQLVVQRGRKRSHSVCQETYCLDSLVSQCKRFTNKAMGWGEDGKI
+CDT_2_2559      ---------------LQLVVQRGRKRSHSVCQETYCLDSLVSQCKRFTNKAMGWGEDGKI
+CGD_5_5460      -------------------------------QETYRLDSLVSQCKRFTNKAMGWGEDGKI
+YBH_0_1993      CRKAQLVQICQLAVVLQLVVQRGRKRSHSVCQETYRLDSLVSQCKRFTNKA---------
+AIE_1_1572      -------------------------------QETYRLDSLVSQCKRFTNKASG------D
+AIE_1_3813      -------------------------------QETYRLDSLVSQCKRFTNKASG------D
+AQA_4_2964      --------------------------------ETYRLDSLVSQCKRFTNKASG------D
+AQD_4_2692      -------------------------------QETYRLDSLVSQCKRFTNKASG------D
+BSG_4_81        ---------------LQLVVQRGRKRSHSVCQETYRLDSLVSQCKRFTNKASG------D
+CDT_2_2830      ---------------LQLVVQRGRKRSHSVCQETYRLDSLVSQCKRFTNKASG------D
+CGD_5_1194      -------------------------------QETYRLDSLVSQCKRFTNKASG------D
+CGE_5_405       -------------------------------QETYRLDSLVSQCKRFTNKASG------D
+                                                                ***         
+
+AHL_3_1360      YC----RQTSTGYPGR-DHQTCREGGKRERSEYGSSVVCMGLKQGLLSYCGFKFYRACQR
+BSG_4_1494      YC----RQTSTGYPGR-DHQTCREGGKRERSEYGSSVVCMGLKQGLLSYCGFKFYRACQR
+CDT_2_2559      YC----RQTSTGYPGR-DHQTCREGGKRERSEYGSSVVCMGLKQGLLSYCGFKFYRACQR
+CGD_5_5460      YC----RQTSTGYPGR-DHQTCREGGKRERSEYGSSVVCMGLKQGLLSYCGFKFYRACQR
+YBH_0_1993      ------------------------------------------------------------
+AIE_1_1572      YCALSGRPTFT-YSGQGNYQACSESGRRKGCEYGSSVIRMGYEQGLLSYCWFEF------
+AIE_1_3813      YCALSGRPTFT-YSGQGNYQACSESGRRKGCEYGSSVIRMGYEQGLLSYCWFEF------
+AQA_4_2964      YCALSGRPTFT-YSGQGNYQACSESGRRKGCEYGSSVIRMGYEQGLLSYCWFEF------
+AQD_4_2692      YCALSGRPTFT-YSGQGNYQACSESGRRKGCEYGSSVIRMGYEQGLLSYCWFEF------
+BSG_4_81        YCALSGRPTFT-YSGQGNYQACSESGRRKGCEYGSSVIRMGYEQGLLSYCWFEF------
+CDT_2_2830      YCALSGRPTFT-YSGQGNYQACSESGRRKGCEYGSSVIRMGYEQGLLSYCWFEF------
+CGD_5_1194      YCALSGRPTFT-YSGQGNYQACSESGRRKGCEYGSSVIRMGYEQGLLSYCWFEF------
+CGE_5_405       YCALSGRPTFT-YSGQGNYQACSESGRRKGCEYGSSVIRMGYEQGLLSYCWFEF------
+                                                                            
+
+AHL_3_1360      SYCSSCKADR--ERYCLSRGVSKRAAX--
+BSG_4_1494      SYCSSCKADR--ERYCLSRGVSKRAAX--
+CDT_2_2559      SYCSSCKADR--ERYCLSRGVSKRAAX--
+CGD_5_5460      SYCSSCKADR--ERYCLSRGVSKRAAX--
+YBH_0_1993      -----------------------------
+AIE_1_1572      --CTCNHSDRAHRRSHLSGGTIQTKTTTX
+AIE_1_3813      --CTCNHSDRAHRRSHLSGGTIQTKTTTX
+AQA_4_2964      --CTCNHSDRAHRRSHLSGGTIQTKTTTX
+AQD_4_2692      --CTCNHSDRAHRRSHLSGGTIQTKTTTX
+BSG_4_81        --CTCNHSDRAHRRSHLSGGTIQTKTTTX
+CDT_2_2830      --CTCNHSDRAHRRSHLSGGTIQTKTTTX
+CGD_5_1194      --CTCNHSDRAHRRSHLSGGTIQTKTTTX
+CGE_5_405       --CTCNHSDRAHRRSHLSGGTIQTKTTTX
+                                             

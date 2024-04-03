@@ -1,0 +1,41 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AEL_3_3529      ------------------------------------------------------------
+AVS_5_430       ------------------------------------------------------------
+AVT_6_575       ------------------------------------------------------------
+BCR_8_117       ------------------------------------------------------------
+BIE_1_732       ------------------------------------------------------------
+BRV_4_75        ------------------------------------------------------------
+CFN_4_930       ------------------------------------------------------------
+CFP_4_885       ------------------------------------------------------------
+CGC_4_6380      SSTVSSSVSSTVSSSSSVSSSSSTSPSSSTATSSKTLASSSVTTSSSISSFEKQSSSSSK
+CHK_4_746       -------------------------------------------TPATVSS----------
+CID_4_5519      ------------------------------------------------------------
+                                                                            
+
+AEL_3_3529      ----------------------SSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+AVS_5_430       -----------------TPATVSSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+AVT_6_575       -----------------TPATVSSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+BCR_8_117       ----------------------SSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+BIE_1_732       ----------------------SSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+BRV_4_75        ----------------------SSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+CFN_4_930       -----------------TPATVSSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+CFP_4_885       ----------------------SSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+CGC_4_6380      KTVASSSTSESIISSTKAPATVSSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+CHK_4_746       -----------------TPATVSSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+CID_4_5519      -----------------TPATVSSTTRSTVAPTTQQSSVSSDSPVQDKGGVATSSNDVTS
+                                      **************************************
+
+AEL_3_3529      STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+AVS_5_430       STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+AVT_6_575       STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+BCR_8_117       STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+BIE_1_732       STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+BRV_4_75        STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+CFN_4_930       STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+CFP_4_885       STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+CGC_4_6380      STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+CHK_4_746       STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+CID_4_5519      STTQISSKYTSTIQSSSSEASSTNSVQISNGADLAQSLPREGKLFSVLVALLALL
+                *******************************************************

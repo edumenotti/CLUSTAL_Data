@@ -1,0 +1,56 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ADG_4_17        SSSAPVPTPSSSTTESSSAPVTSSTTESSSAPVPTPSSSTTESSSTP-------------
+AKS_5_16        SSSAPVPTPSSSTTESSSAPVTSSTTESSSAPVPTPSSSTTESSSTP-------------
+AMB_5_11        SSSAPVPTPSSSTTESSSAPVTSSTTESSSAPVPTPSSSTTESSSTP-------------
+AMC_5_13        SSSAPVPTPSSSTTESSSAPVTSSTTESSSAPVPTPSSSTTESSSTP-------------
+AEA_8_1155      SSSAPVPTPSSSTTESSSAPVTSSTTESSVAPVPTPSSSSNITSSAPSSSKYPGSQTETS
+APP_4_6342      SSSAPVPTPSSSTTESSSAPVTSSTTESSSAPAPTPSSSTTESSSAP-------------
+CLG_4_6862      SSSAPVPTPSSSTTESSSAPVTSSTTESSSAPAPTPSSSTTESSSAP-------------
+                ***************************** **.******:. :**:*             
+
+ADG_4_17        ------------------------------------------------------------
+AKS_5_16        ------------------------------------------------------------
+AMB_5_11        ------------------------------------------------------------
+AMC_5_13        ------------------------------------------------------------
+AEA_8_1155      VSSTTETTIVPTTTTTSVTTPSTTTITTTVCSTGTNSAGETTSGCSPKTVTTTVPTTTTT
+APP_4_6342      ------------------------------------------------------------
+CLG_4_6862      ------------------------------------------------------------
+                                                                            
+
+ADG_4_17        -VTSS----------------------------------------------TTESSSAPV
+AKS_5_16        -VTSS----------------------------------------------TTESSSAPV
+AMB_5_11        -VTSS----------------------------------------------TTESSSAPV
+AMC_5_13        -VTSS----------------------------------------------TTESSSAPV
+AEA_8_1155      SVTTSSTTTITTTVCSTGTNSAGETTSGCSPKTITTTVPCSTSPSETASESTTTSPTTPV
+APP_4_6342      -VTSS-------------------------------------------------------
+CLG_4_6862      -VTSS-------------------------------------------------------
+                 **:*                                                       
+
+ADG_4_17        PT---------------------------------------PSSS---------------
+AKS_5_16        PT---------------------------------------PSSS---------------
+AMB_5_11        PT---------------------------------------PSSS---------------
+AMC_5_13        PT---------------------------------------PSSS---------------
+AEA_8_1155      TTVVSTTVVTTEYSTSTKQGGEITTTFVTKNIPTTYLTTIAPTSSVTTVTNFTPTTITTT
+APP_4_6342      ------------------------------------------------------------
+CLG_4_6862      ------------------------------------------------------------
+                                                                            
+
+ADG_4_17        ---------------------------------------------------TTESSSA--
+AKS_5_16        ---------------------------------------------------TTESSSA--
+AMB_5_11        ---------------------------------------------------TTESSSA--
+AMC_5_13        ---------------------------------------------------TTESSSA--
+AEA_8_1155      VCSTGTNSAGETTSGCSPKTVTTTVPCSTGTGEYTTEATAPVTTAVTTTVVTTESSTGTN
+APP_4_6342      ---------------------------------------------------TTESSSA--
+CLG_4_6862      ---------------------------------------------------TTESSSA--
+                                                                   *****:.  
+
+ADG_4_17        -------
+AKS_5_16        -------
+AMB_5_11        -------
+AMC_5_13        -------
+AEA_8_1155      SAGKTTT
+APP_4_6342      -------
+CLG_4_6862      -------
+                       

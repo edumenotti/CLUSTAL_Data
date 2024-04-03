@@ -1,0 +1,14 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AFB_4_1449      MSEQYVTPYLPKSLQPIAKISAEEQRRIQSEQEEAELKQSLEGEAIRNATVNAIKEKIKS
+CKR_1_3513      MSEQYVTPYLPKSLQPIAKISAEEQRRIQSEQEEAELKQSLEGEAIRNATMNAIKEKIKS
+                **************************************************:*********
+
+AFB_4_1449      YGGNETTLGFMVPSYINHRGSPPKACFVSLITERDSMTQILQSIDEVQVKFNKNFAYPWV
+CKR_1_3513      YGGNETTLGFMVPSYINHRGSPPKACFVSLITERDSMTQILQSIDEVQVKFNKNFAYPWV
+                ************************************************************
+
+AFB_4_1449      FISQGSLTE---------------------------------------------
+CKR_1_3513      FISQGELDGMKQEMIRQAITDSMNGDPELINIKFAEIPADEWVYPEWIDENKAA
+                *****.*                                               

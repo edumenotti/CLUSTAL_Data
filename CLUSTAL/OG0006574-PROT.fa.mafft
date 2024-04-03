@@ -1,0 +1,74 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AMN_5_306       --------YSQLIEPPPSSVRSSAEHWGDSILWPQLQKTGMLYENKLTTNFIPFAFKYTT
+CFN_4_351       --------YSQLIEPPPSSVRSSAEHWGDSILWPQLQKTGMLYENKLTTNFIPFAFKYTT
+AVT_6_2762      VKISYRNVYSQLIEPPPSSVRSSAEHWGDSILWPQLQKTGMLYENKLTTNFIPFAFKYTT
+AVP_5_2492      VKISYRNVYSQLIEPPPSSVRSSAEHWGDSILWPQLQKTGMLYENKLTTNFIPFAFKYTT
+AVQ_5_2470      VKISYRNVYSQLIEPPPSSVRSSAEHWGDSILWPQLQKTGMLYENKLTTNFIPFAFKYTT
+AVS_5_2679      VKISYRNVYSQLIEPPPSSVRSSAEHWGDSILWPQLQKTGMLYENKLTTNFIPFAFKYTT
+ATV_5_3400      --------------------------W-----WLQ-----------------------NT
+                                          *     * *                       .*
+
+AMN_5_306       RRFKGSIPSTASLSKHECCTHCDLHPNFHERNISISYLLYGKSATNTTPASSFDLLCSLD
+CFN_4_351       RRFKGSIPSTASLSKHECCTHCDLHPNFHERNISISYLLYGKSATNTTPASSFDLLCSLD
+AVT_6_2762      RRFKGSIPSTASLSKHECCTHCDLHPNFHERNISISYLLYGKSATNTTPASSFDLLCSLD
+AVP_5_2492      RRFKGSIPSTASLSKHECCTHCDLHPNFHERNISISYLLYGKSATNTTPASSFDLLCSLD
+AVQ_5_2470      RRFKGSIPSTASLSKHECCTHCDLHPNFHERNISISYLLYGKSATNTTPASSFDLLCSLD
+AVS_5_2679      RRFKGSIPSTASLSKHECCTHCDLHPNFHERNISISYLLYGKSATNTTPASSFDLLCSLD
+ATV_5_3400      RR----------------------------------------------------------
+                **                                                          
+
+AMN_5_306       DASHGPNSITIDTIRQRTNNNCLRTLHCNINGESPKRCLRAMPRAKISPTWVWRTSNHAG
+CFN_4_351       DASHGPNSITIDTIRQRTNNNCLRTLHCNINGESPKRCLRAMPRAKISPTWVWRTSNHAG
+AVT_6_2762      DASHGPNSITIDTIRQRTNNNCLRTLHCNINGES------------XXXXXXXXXXXXXX
+AVP_5_2492      DASHGPNSITIDTIRQRTNNNCLRTLHCNINGESX--------XXXXXXXXXXXXXXXXX
+AVQ_5_2470      DASHGPNSITIDTIRQRTNNNCLRTLHCNINGES-----------XXXXXXXXXXXXXXX
+AVS_5_2679      DASHGPNSITIDTIRQRTNNNCLRTLHCNINGES--------------------------
+ATV_5_3400      ----------INTVISRC------------------------------------------
+                          *:*: .*                                           
+
+AMN_5_306       SQRQNKKRTWCRVERFSNIFLENHPNIIHKAEKAVPS-MWKNLFEALNAEDTLLNSYGRY
+CFN_4_351       SQRQNKKRTWCRVERFSNIFLENRPNIIHKAEKAVPS-MWKNLFEALNAEDTLLNSYGRY
+AVT_6_2762      XXXXXXXXTWCRVERFSNIFLENRPNIIHKAEKAVPS-MWKNLFEALNAEDTLLNSYGRY
+AVP_5_2492      XXXXXXXXTWCRVERFSNIFLENRPNIIHKAEKAVPSLPGGNQRFIQRKWFELHKNFSLC
+AVQ_5_2470      XXXXXXXXTWCRVERFSNIFLENRPNIIHKAEKAVPSLPGGNQRFIQRKWFELHKNFSLC
+AVS_5_2679      --------------------------------------XXXXXXXXXXXXXXXXXXXXXX
+ATV_5_3400      ---------WC-------------------------------------------------
+                                                                            
+
+AMN_5_306       SFQMYLGGLHKILQCEKQYAE-------TFE-------------------KPKEKKQSLK
+CFN_4_351       SFQMYLGGLHKILQCEKQYAE-------TFE-------------------KPKEKKQSLK
+AVT_6_2762      SFQMYLGGLHKILQCEKQYAE-------TFE-------------------KPKERKQSLK
+AVP_5_2492      SPVCSIRSLEKVIPCKWQWTRTTNEHPKTIQWCIVWWLCGGYLPVGLDQNKTIDSDSKFE
+AVQ_5_2470      SPVCSIRSLEKVIPCKWQWTRTTNEHPKTIQWCIVWWLCGGYLPVGLDQNKTIDSDSKFE
+AVS_5_2679      XXXXXXXXXXXLVPC-------------TVQ----------------------------Q
+ATV_5_3400      ----------------------------SFM-----------------------------
+                                            :.                              
+
+AMN_5_306       HYX---------------------------------------------------------
+CFN_4_351       HYX---------------------------------------------------------
+AVT_6_2762      HYX---------------------------------------------------------
+AVP_5_2492      QFKPLKGKKYIKASGDLAITKRNLQTRRRSQGIIGCMANESWCCSICSTKLCSLRTIERI
+AVQ_5_2470      QFKPLKGKKYIKASGDLAITKRNLQTRRRSQGIIGCMANESWCCSICSTKLCSLRTIERI
+AVS_5_2679      HFX---------------------------------------------------------
+ATV_5_3400      ------------------------------------------------------------
+                                                                            
+
+AMN_5_306       ------------------------------------------------------------
+CFN_4_351       ------------------------------------------------------------
+AVT_6_2762      ------------------------------------------------------------
+AVP_5_2492      RCQFLRCSAFLEKPLINNWRHKWRGCANNHLSLSAKKKISSSRDGRKTGIIHECLGCAQK
+AVQ_5_2470      RCQFLRCSAFLEKPLINNWRHKWRGCANNHLSLSAKKKISSSRDGRKTGIIHECLGCAQK
+AVS_5_2679      ------------------------------------------------------------
+ATV_5_3400      ------------------------------------------------------------
+                                                                            
+
+AMN_5_306       -------------------------------------------------------
+CFN_4_351       -------------------------------------------------------
+AVT_6_2762      -------------------------------------------------------
+AVP_5_2492      NIWWLQNTRRINTVISRCWCSFMLWDILHIEIKN-RDFEIDRPRIIFRSPCQRGX
+AVQ_5_2470      NIWWLQNTRRINTVISRCWCSFMLWDILHIEIKN-RDFEIDRPRIIFRSPCQRGX
+AVS_5_2679      -------------------------------------------------------
+ATV_5_3400      -----------------------LWDILHIEIKNRRDFEIDRPRIIFRSPCQRGX
+                                                                       

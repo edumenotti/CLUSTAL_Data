@@ -1,0 +1,32 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BAA_6_6095      ------------------------------------------------------------
+CID_4_3246      HYSKILEIKIINLIHVTILRKKLRPQMTITQMAIVYCKNTYEPASIRKQFLNKKIKTLSQ
+MAL_0_3258      ------------------------------------------------------------
+                                                                            
+
+BAA_6_6095      ------------------------------------------------------------
+CID_4_3246      IRLLVIHLNSSTCICKEWRLTSNYKIVPFLQTLIVRQLTTLCHYNQEIWGLLSLKIQVGR
+MAL_0_3258      ------------------------------------------------------------
+                                                                            
+
+BAA_6_6095      -------------------------------------------------------IIIII
+CID_4_3246      LIHPDKTLSICSPYIKMFLLQCMRSLRNNNFIYHNIIKPILQYHKMILPPSFLCLTITIT
+MAL_0_3258      ------------------------------------------------------------
+                                                                            
+
+BAA_6_6095      IIIIIIIIII-----------------IIIIIIVIIHPQYHNHHQNVLLAPAQLLILQQF
+CID_4_3246      ITTTTTIIIIXXXXXXXXXXXXXXXXXIIIIIIVIIHPQYHNHHQNVLLAPAQLLILQPF
+MAL_0_3258      -----------------------------------IHPQYHNHHQNVLLAPAQLLILQQF
+                                                   *********************** *
+
+BAA_6_6095      NPSGNREWVKQRPRNQEKLLQLRKLNLRNWNKMVIQLLQTSSMSLQRTVAVRVPKFKTVT
+CID_4_3246      NPSGNREWVKQRPRNQEKLLPLRKLNLRNWNKMVIQLLQTSSMSLQRTVAVRVPKFKTVT
+MAL_0_3258      SPSGNREWVKQRPRNQEKLLPLRKLNLRNWNKMVIQLLQTSSMSLQRTVAVRVPKFKTVT
+                .******************* ***************************************
+
+BAA_6_6095      RSNNMALFLWIQKHSTYLTLVTFLLIWIA
+CID_4_3246      RSNNMALFLWIQKHSTYLTLVTFLLIWIA
+MAL_0_3258      RSNNMALFLWIQKHSTYLTLVTFLLIWIA
+                *****************************

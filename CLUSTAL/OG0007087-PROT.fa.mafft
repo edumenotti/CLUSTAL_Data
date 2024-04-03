@@ -1,0 +1,44 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+BRP_4_533       MGNRSLTEADHALLSKPLVPTSAEHTQTQEYPRPFVDGSNSQSGSELQASPQGQFGEKAL
+YAF_0_5246      MGNRSLTEADHALLSKPLVPTSAEHTQTQEYPRPFVDGSNSQSGSELQASPQGQFGEKAL
+BRQ_4_824       MRNRSLTEADHALLSKPLVPTSAEHTQTQEYPRPFVDGSNSQSGSELQASPQGQFGEKAL
+BSI_3_646       MRNRSLTEADHALLSKPLVPTSAEHTQTQEYPRPFVDGSNSQSGSELQASPQGQFGEKAL
+CGC_4_449       MRNRSLTEADHALLSKPLVPTSAEHTQTQEYPRPFVDGSNSQSGSELQASPQGQFGEKAL
+                * **********************************************************
+
+BRP_4_533       TSTNRFIPLANDDPGMQHEMGLDPSMRRRREEWAERGAAKIVKDVVDPATGELTKHVVKM
+YAF_0_5246      TSTNRFIPLANDDPGMQHEMGLDPSMRRRREEWAERGAAKIVKDVVDPATGELTKHVVKM
+BRQ_4_824       TSTNRFIPLANDDPGMQHEMGLDPSMRRRREEWAERGAAKIVKDVVDPATGELTKHVVKM
+BSI_3_646       TSTNRFIPLANDDPGMQHEMGLDPSMRRRREEWAERGAAKIVKDVVDPATGELTKHVVKM
+CGC_4_449       TSTNRFIPLANDDPGMQHEMGLDPSMRRRREEWAERGAAKIVKDVVDPATGELTKHVVKM
+                ************************************************************
+
+BRP_4_533       GIKDFKFGEQLGDGSYSSVVLATARDSGKKYAVKVLSKEYLIRQKKVKYVTVEKLALQKL
+YAF_0_5246      GIKDFKFGEQLGDGSYSSVVLATARDSGKKYAVKVLSKEYLIRQKKVKYVTVEKLALQKL
+BRQ_4_824       GIKDFKFGEQLGDGSYSSVVLATARDSGKKYAVKVLSKEYLIRQKKVKYVTVEKLALQKL
+BSI_3_646       GIKDFKFGEQLGDGSYSSVVLATARDSGKKYAVKVLSKEYLIRQKKVKYVTVEKLALQKL
+CGC_4_449       GIKDFKFGEQLGDGSYSSVVLATARDSGKKYAVKVLSKEYLIRQKKVKYVTVEKLALQKL
+                ************************************************************
+
+BRP_4_533       NGTKGX------------------------------------------------------
+YAF_0_5246      NGTKGIIKLFFTFQDEASLYFLLEYAPHGDFLGLIKKYGSLNETCARYYASQIIDAVDSL
+BRQ_4_824       NGTKGX------------------------------------------------------
+BSI_3_646       NGTKGX------------------------------------------------------
+CGC_4_449       NGTKGX------------------------------------------------------
+                *****                                                       
+
+BRP_4_533       ------------------------------------------------------------
+YAF_0_5246      HNIGIIHRDIKPENILLDKNMKVKLTDFGTAKILPEEPSNTADGKPYFDLYAKSKSFVGT
+BRQ_4_824       ------------------------------------------------------------
+BSI_3_646       ------------------------------------------------------------
+CGC_4_449       ------------------------------------------------------------
+                                                                            
+
+BRP_4_533       --------------------
+YAF_0_5246      AEYVSPELLNDNYTDSRCDI
+BRQ_4_824       --------------------
+BSI_3_646       --------------------
+CGC_4_449       --------------------
+                                    

@@ -1,0 +1,26 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARA_4_10        MSWEGFKKAINRAGHSVIIKNVDKTIDKX-------------------------------
+BFG_4_192       MSWEGFKKAINRAGHSVIIKNVDKTIDKX-------------------------------
+BFM_3_108       MSWEGFKKAINRAGHSVIIKNVDKTIDKX-------------------------------
+CFI_4_101       MSWEGFKKAINRAGHSVIIKNVDKTIDKX-------------------------------
+CFI_4_193       MSWEGFKKAINRAGHSVIIKNVDKTIDKX-------------------------------
+CFN_4_99        MSWEGFKKAINRAGHSVIIKNVDKTIDKX-------------------------------
+CFN_4_200       MSWEGFKKAINRAGHSVIIKNVDKTIDKX-------------------------------
+CMG_6_114       MSWEGFKKAINRAGHSVIIKNVDKTIDKX-------------------------------
+CRE_2_1875      MSWEGFKKAINRAGHSVIIKNVDKTIDKEYDMEERRYKVLQRAGEALQKEAKGFLDSLRA
+CRE_2_1881      MSWEGFKKAINRAGHSVIIKNVDKTIDKEYDMEERRYKVLQRAGEALQKEAKGFLDSLRA
+                ****************************                                
+
+ARA_4_10        -----
+BFG_4_192       -----
+BFM_3_108       -----
+CFI_4_101       -----
+CFI_4_193       -----
+CFN_4_99        -----
+CFN_4_200       -----
+CMG_6_114       -----
+CRE_2_1875      VTASX
+CRE_2_1881      VTASX
+                     

@@ -1,0 +1,27 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ARA_4_3932      MKFADHLTESAIPEWRDKYIDYKVGKKKLRRYKEKLDAEEEQSSSYRSWMPSVSVYQTAF
+BCR_8_687       MKFADHLTESAIPEWRDKYIDYKVGKKKLRRYKEKLDAEEEQSSSYRSWMPSVSVYQTAF
+BCR_8_560       -------------------------------------------------MPSVSVYQTAF
+                                                                 ***********
+
+ARA_4_3932      QQREPGKSRSDGDYRSGPAFKKDYSALQREFVADFIEDWLISFQLSKCNEFYLW------
+BCR_8_687       QQREPGKSRSDGDYRSGPAFKKDYSALQREFVADFIEDWLISFQLSKCNEFYLWLLKECD
+BCR_8_560       QQREPGKSRSDGDYRSGPAFKKDYSALQREFVADFIEDWLISFQLSKCNEFYLWLLKECD
+                ******************************************************      
+
+ARA_4_3932      ------------------------------------------------------------
+BCR_8_687       KKFEVLQLQLHYYSLQKNYERDNLNRSSSNVDMSTSLYAAGLAGRSDSRVNSIDSDSRSV
+BCR_8_560       KKFEVLQLQLHYYSLQKNYERDNLNRSSSNVDMSTSLYAAGLAGRSDSRVNSIDSDSRSV
+                                                                            
+
+ARA_4_3932      ------------------------------------------------------------
+BCR_8_687       MYGSMPCTKETKKPRLSLLAYCQKVLKDNRLLPSWPKRGFSLLQDLRQDASSRGRETFAF
+BCR_8_560       MYGSMPCTKETKKPRLSLLAYCQKVLKDNRLLPSWPKRGFSLLQDLRQDASSRGRETFAF
+                                                                            
+
+ARA_4_3932      ---------------------------------------------------------
+BCR_8_687       GASFLETMTTTQARNLLSNAIIEYYLYLQLVKSFRDINVTGFRKMVKKFDKTCHTRX
+BCR_8_560       GASFLETMTTTQARNLLSNAIIEYYLYLQLVKSFRDINVTGFRKMVKKFDKTCHTRX
+                                                                         

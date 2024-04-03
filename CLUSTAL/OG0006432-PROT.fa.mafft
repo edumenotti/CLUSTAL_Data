@@ -1,0 +1,62 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+AML_4_5117      RYGSQQQFIGCRRILGFKTWFLGHSRSQIFQTTRTEHKYKSAPMDAFEMRATIRRRCSTT
+BEM_7_298       ------------------------------------------------------------
+ASN_8_2647      ------------------------------------------------------------
+BFV_8_2641      ------------------------------------------------------------
+BGA_7_2086      ------------------------------------------------------------
+BGB_7_2643      ------------------------------------------------------------
+BGG_8_2537      ------------------------------------------------------------
+BGL_1_2703      ------------------------------------------------------------
+                                                                            
+
+AML_4_5117      MNGGGRVAVRGKCTNRACYHLRRTRSIPLVRTFQDWWSLSHQLPFHGLRGRILFCNCILP
+BEM_7_298       ------------------------------------------------------------
+ASN_8_2647      ------------------------------------------------------------
+BFV_8_2641      ------------------------------------------------------------
+BGA_7_2086      ------------------------------------------------------------
+BGB_7_2643      ------------------------------------------------------------
+BGG_8_2537      ------------------------------------------------------------
+BGL_1_2703      ------------------------------------------------------------
+                                                                            
+
+AML_4_5117      SCHESQIPTNYDTERQSRVADYPSIRVLMFEKVRQCKRVENVHRSFRLFSYNRISRNFLS
+BEM_7_298       ------------------------------------------------------------
+ASN_8_2647      ------------------------------------------------------------
+BFV_8_2641      ------------------------------------------------------------
+BGA_7_2086      ------------------------------------------------------------
+BGB_7_2643      ------------------------------------------------------------
+BGG_8_2537      ------------------------------------------------------------
+BGL_1_2703      ------------------------------------------------------------
+                                                                            
+
+AML_4_5117      AWRTFPHDRNHRSGERVEQNTGSASRSYVPSMVRPRRRMGNQSQRCRLHFWTRCQAIQSH
+BEM_7_298       ------------------------------------------SQRCRLHFWTRCQAIQSH
+ASN_8_2647      ------------------------------------RRMGNQSERCRLHFWSRHQAIQSH
+BFV_8_2641      ------------------------------------RRMGNQSERCRLHFWSRHQAIQSH
+BGA_7_2086      ------------------------------------RRMGNQSERCRLHFWSRHQAIQSH
+BGB_7_2643      ------------------------------------RRMGNQSERCRLHFWSRHQAIQSH
+BGG_8_2537      ------------------------------------RRMGNQSERCRLHFWSRHQAIQSH
+BGL_1_2703      ------------------------------------RRMGNQSERCRLHFWSRHQAIQSH
+                                                          *:*******:* ******
+
+AML_4_5117      SITNSKSSPIGNGRLCLVSPAKCCHHFQCSLLLQMWSSSYHGGGRESTILTVRPIRKTRT
+BEM_7_298       SITNSKSSPIGNGRLCLVSPAKCCHHFQCSLLLQMWSSSYHGSGRESTILTVRPIRKTRT
+ASN_8_2647      PITNSKSSPIGNGRIFLVSPAKCCHHFQCSKLLLMWPGRYYGGGKPA-IPTIRSICETRT
+BFV_8_2641      PITNSKSSPIGNGRIFLVSPAKCCHHFQCSKLLLMWPGRYYGGGKPA-IPTIRSICETRT
+BGA_7_2086      PITNSKSSPIGNGRIFLVSPAKCCHHFQCSKLLLMWPGRYYGGGKPA-IPTIRSICETRT
+BGB_7_2643      PITNSKSSPIGNGRIFLVSPAKCCHHFQCSKLLLMWPGRYYGGGKPA-IPTIRSICETRT
+BGG_8_2537      PITNSKSSPIGNGRIFLVSPAKCCHHFQCSKLLLMWPGRYYGGGKPA-IPTIRSICETRT
+BGL_1_2703      PITNSKSSPIGNGRIFLVSPAKCCHHFQCSKLLLMWPGRYYGGGKPA-IPTIRSICETRT
+                .*************: ************** ** **.. *:*.*: : * *:*.* :***
+
+AML_4_5117      -RQQKDARLLFX
+BEM_7_298       -RQQKDARLLFX
+ASN_8_2647      NRHQEDTGLFLX
+BFV_8_2641      NRHQEDTGLFLX
+BGA_7_2086      NRHQEDTGLFLX
+BGB_7_2643      NRHQEDTGLFLX
+BGG_8_2537      NRHQEDTGLFLX
+BGL_1_2703      NRHQEDTGLFLX
+                 *:*:*: *:: 

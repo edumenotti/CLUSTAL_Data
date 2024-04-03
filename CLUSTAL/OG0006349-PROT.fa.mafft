@@ -1,0 +1,101 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.271)
+
+
+ASM_8_4649      MVTDQGSRHSIQSKQPAYVNKQPQKRQQRSSVACLSCRKRHIKCPGGNPCQKCVTSNAIC
+CEQ_4_3896      MVTDQGSRHSIQSKQPAYVNKQPQKRQQRSSVACLSCRKRHIKCPGGNPCQKCVTSNAIC
+CFC_2_5639      MVTDQGSRHSIQSKQPAYVNKQPQKRQQRSSVACLSCRKRHIKCPGGNPCQKCVTSNAIC
+AVN_5_795       MVTDQGSRHSIQSKQPAYVNKQPQKRQQRSSVACLSCRKRHIKCPGGNPCQKCVTSNAIC
+AVP_5_2106      MVTDQGSRHSIQSKQPAYVNKQPQKRQQRSSVACLSCRKRHIKCPGGNPCQKCVTSNAIC
+AVQ_5_2526      MVTDQGSRHSIQSKQPAYVNKQPQKRQQRSSVACLSCRKRHIKCPGGNPCQKCVTSNAIC
+AVR_6_2329      MVTDQGSRHSIQSKQPAYVNKQPQKRQQRSSVACLSCRKRHIKCPGGNPCQKCVTSNAIC
+AVS_5_2402      MVTDQGSRHSIQSKQPAYVNKQPQKRQQRSSVACLSCRKRHIKCPGGNPCQKCVTSNAIC
+AVT_6_2775      MVTDQGSRHSIQSKQPAYVNKQPQKRQQRSSVACLSCRKRHIKCPGGNPCQKCVTSNAIC
+                ************************************************************
+
+ASM_8_4649      EYLEPSKKIVVSTKYLQQLQKDLNDKTEENNRLKALLLERPVSVRGKDNSDDDERHINNA
+CEQ_4_3896      EYLEPSKKIVVSTKYLQQLQKDLNDKTEENNRLKALLLERPVSVRGKDNSDDDERHINNA
+CFC_2_5639      EYLEPSKKIVVSTKYLQQLQKDLNDKTEENNRLKALLLERPVSVRGKDNSDDDERHINNA
+AVN_5_795       EYLEPSKKIVVSTKYLQQLQKDLNDKTEENNRLKALLLERPVSVRGKDNSDDDERHINNA
+AVP_5_2106      EYLEPSKKIVVSTKYLQQLQKDLNDKTEENNRLKALLLERPVSVRGKDNSDDDERHINNA
+AVQ_5_2526      EYLEPSKKIVVSTKYLQQLQKDLNDKTEENNRLKALLLERPVSVRGKDNSDDDERHINNA
+AVR_6_2329      EYLEPSKKIVVSTKYLQQLQKDLNDKTEENNRLKALLLERPVSVRGKDNSDDDERHINNA
+AVS_5_2402      EYLEPSKKIVVSTKYLQQLQKDLNDKTEENNRLKALLLERPVSVRGKDNSDDDERHINNA
+AVT_6_2775      EYLEPSKKIVVSTKYLQQLQKDLNDKTEENNRLKALLLERPVSVRGKDNSDDDERHINNA
+                ************************************************************
+
+ASM_8_4649      PSSDTLEVSSA-------TAAPIFDLMSNSNTASDNDNDDDNSNRITNNRSYDHGLEKYY
+CEQ_4_3896      PSSDTLEVSSA-------PAAPIFDLMSNSNTASDNDNDDDNSNRITNNRSYDHSLEKYY
+CFC_2_5639      PSSDTLEVSSAXXXXXXXXXXXXXXXXXNSNTASDNDNDDDNSNRITNNRSYDHSLEKYY
+AVN_5_795       PSSDTLEVSSA-------PAAPIFDLMSNSNTASDNDNDDDNSNRITNNRSYDHSLEKYY
+AVP_5_2106      PSSDTLEVSSA-------PAAPIFDLMSNSNTASDNDNDDDNSNRITNNRSYDHSLEKYY
+AVQ_5_2526      PSSDTLEVSSA-------PAAPIFDLMSNSNTASDNDNDDDNSNRITNNRSYDHSLEKYY
+AVR_6_2329      PSSDTLEVSSA-------PAAPIFDLMSNSNTASDNDNDDDNSNRITNNRSYDHSLEKYY
+AVS_5_2402      PSSDTLEVSSA-------PAAPIFDLMSNSNTASDNDNDDDNSNRITNNRSYDHSLEKYY
+AVT_6_2775      PSSDTLEVSSA-------PAAPIFDLMSNSNTASDNDNDDDNSNRITNNRSYDHSLEKYY
+                ***********                 **************************.*****
+
+ASM_8_4649      KKAISIFKQPANANGENGNGANGHEDDDEDDEEISTNFAQRSGRLIESHNGFHYFVGSSS
+CEQ_4_3896      KKAISIFKQPANANGENGNGANGHEDDDEDDEEISTNFAQRSGRLIESHNGFHYFVGSSS
+CFC_2_5639      KKAISIFKQPANANGENGNGANGHEDDDEDDEEISTNFAQRSGRLIESHNGFHYFVGSSS
+AVN_5_795       KKAISIFKQPANANGENGNG------XXXXXXXXXXXXXXXXXRM---------------
+AVP_5_2106      KKAISIFKQPANANGENGNG------XXXXXXXXXXXXXXXXXRM---------------
+AVQ_5_2526      KKAISIFKQPANANGENGNG------XXXXXXXXXXXXXXXXXRM---------------
+AVR_6_2329      KKAISIFKQPANANGENGNG------XXXXXXXXXXXXXXXXXRM---------------
+AVS_5_2402      KKAISIFKQPANANGENGNG------XXXXXXXXXXXXXXXXXRM---------------
+AVT_6_2775      KKAISIFKQPANANGENGNG------XXXXXXXXXXXXXXXXXRM---------------
+                ********************                       *:               
+
+ASM_8_4649      MTLFGLEIQSLVTKYISVKNFRPLPINTKNEILNSNLNPAISSFINSNNYLFSSYNLLNP
+CEQ_4_3896      MTLFGLEIQSLVTKYISVKNFRPLPINTKN------------------------------
+CFC_2_5639      MTLFGLEIQSLVTKYISVKNFRPLPINTKNKILNSNLNPAISSFINSNNYLFSSYNFLNP
+AVN_5_795       -------MMKMMKKYQ--------------------------------------------
+AVP_5_2106      -------MMKMMKKYQ--------------------------------------------
+AVQ_5_2526      -------MMKMMKKYQ--------------------------------------------
+AVR_6_2329      -------MMKMMKKYQ--------------------------------------------
+AVS_5_2402      -------MMKMMKKYQ--------------------------------------------
+AVT_6_2775      -------MMKMMKKYQ--------------------------------------------
+                       : .::.**                                             
+
+ASM_8_4649      ISTIVNLNSINDNLSPLMFKIILKSDTDGSSGQEEVI-----------------------
+CEQ_4_3896      ------------------------------------------------------------
+CFC_2_5639      ISTIVNLNSINDNLSPLMFKIILKSDTDGSSGQEEVIQFQLPSYNYTKLLIDCFINYNDG
+AVN_5_795       -------------------QILLK----------EVV-----------------------
+AVP_5_2106      -------------------QILLK----------EVV-----------------------
+AVQ_5_2526      -------------------QILLK----------EVV-----------------------
+AVR_6_2329      -------------------QILLK----------EVV-----------------------
+AVS_5_2402      -------------------QILLK----------EVV-----------------------
+AVT_6_2775      -------------------QILLK----------EVV-----------------------
+                                                                            
+
+ASM_8_4649      ------------------------------------------------------------
+CEQ_4_3896      ------------------------------------------------------------
+CFC_2_5639      CFYFFNEGLVKCGINKLYLENKWLYYDNTKKALDNENDPILQAVWFCKILLILAVGEMYL
+AVN_5_795       ------------------------------------------------------------
+AVP_5_2106      ------------------------------------------------------------
+AVQ_5_2526      ------------------------------------------------------------
+AVR_6_2329      ------------------------------------------------------------
+AVS_5_2402      ------------------------------------------------------------
+AVT_6_2775      ------------------------------------------------------------
+                                                                            
+
+ASM_8_4649      ------------------------------------------------------------
+CEQ_4_3896      ------------------------------------------------------------
+CFC_2_5639      GSINNEMLKNYSNQPKLPGSKFFQMGSKIFNCLFSSERLENVTKKGGIEVLXXXXXXXXX
+AVN_5_795       -------------------------GS---------------------------------
+AVP_5_2106      -------------------------GS---------------------------------
+AVQ_5_2526      -------------------------GS---------------------------------
+AVR_6_2329      -------------------------GS---------------------------------
+AVS_5_2402      -------------------------GS---------------------------------
+AVT_6_2775      -------------------------GS---------------------------------
+                                                                            
+
+ASM_8_4649      ----------
+CEQ_4_3896      ----------
+CFC_2_5639      XXXXXXXXKP
+AVN_5_795       ----------
+AVP_5_2106      ----------
+AVQ_5_2526      ----------
+AVR_6_2329      ----------
+AVS_5_2402      ----------
+AVT_6_2775      ----------
+                          
